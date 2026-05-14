@@ -17,7 +17,7 @@
 
   <p align="center">
     <a href="#"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg"></a>
-    <a href="#"><img alt="Project page" src="https://img.shields.io/badge/Project-Website-orange"></a>
+    <a href="https://catherine-r-he.github.io/EntityBench/"><img alt="Project page" src="https://img.shields.io/badge/Project-Website-orange"></a>
     <a href="#"><img alt="Code / Data" src="https://img.shields.io/badge/GitHub-Code%20%2F%20Data-black?logo=github"></a>
   </p>
 </p>
