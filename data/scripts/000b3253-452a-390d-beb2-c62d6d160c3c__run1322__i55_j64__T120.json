@@ -1,0 +1,432 @@
+{
+  "story_name": "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120",
+  "story_overview": "A group of operatives navigates a clandestine mission across a city at night. Chloe and Arthur share a moment of vulnerability on a bus before they are all drawn into a wider conspiracy at a grand train station involving Alex, Julian, Walter, Simon, Amelie, and Nina. As the plot unfolds, Isabelle and Simon track their targets with an electronic device, while a police investigation complicates matters at a gothic hotel.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Chloe: Woman with short brown hair\nArthur: Middle-aged man wearing glasses and a dark jacket\nThe Night Bus: Bus interior with rows of dark, high-backed passenger seats\nthe dark bus seats: Bus interior with dark, high-backed seats\n\nMedium close-up inside The Night Bus. An emotional Chloe slowly lowers her head to rest on Arthur's shoulder for comfort as they sit together in the dark bus seats."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up inside The Night Bus. An emotional Chloe slowly lowers her head to rest on Arthur's shoulder for comfort as they sit together in the dark bus seats."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Isabelle: Woman wearing a black heeled shoe.\nThe Hotel Corridor: Dark-toned indoor setting with striped carpet flooring.\nthe black stiletto heel: Shiny black patent leather pump with a pointed toe and a tall, thin stiletto heel.\nthe brown leather dress shoe: Men's polished brown leather dress shoe with thin waxed laces, a stitched cap-toe, and a low block heel.\n\nExtreme close-up, low-angle shot in The Hotel Corridor. The foot of Isabelle, wearing the black stiletto heel, playfully rubs against a man's foot wearing the brown leather dress shoe over the striped carpet."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up, low-angle shot in The Hotel Corridor. The foot of Isabelle, wearing the black stiletto heel, playfully rubs against a man's foot wearing the brown leather dress shoe over the striped carpet."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Alex: A person.\nThe Grand Gothic Hotel: The ornate, red-brick gothic revival exterior of a grand hotel, featuring an attached staircase with light fixtures.\n\nLow angle shot at night. Alex ascends the grand staircase of The Grand Gothic Hotel. Bright lights along the stairs cast a brilliant glow, partially obscuring their figure against the dark sky.",
+        "Low-angle shot of The Grand Gothic Hotel at night. The grand, red-brick hotel is illuminated from below against the dark sky. Chloe stands at the base of the staircase, her gaze traveling up the facade of the hotel."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Low angle shot at night. Alex ascends the grand staircase of The Grand Gothic Hotel. Bright lights along the stairs cast a brilliant glow, partially obscuring their figure against the dark sky.",
+        "Low-angle shot of The Grand Gothic Hotel at night. The grand, red-brick hotel is illuminated from below against the dark sky. Chloe stands at the base of the staircase, her gaze traveling up the facade of the hotel."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Julian: Man wearing a dark grey overcoat and a scarf\nThe Central Station Concourse: The vast main concourse of a historic train station with Victorian Gothic architecture, featuring high red brick walls, large structural arches, and a massive, vaulted glass and steel roof structure spanning over the train platforms\nthe dark overcoat: Knee-length black wool overcoat\n\nFrom a rear viewpoint, Alex, wearing the beige trench coat, and Julian, wearing the dark overcoat, walk side-by-side through the bustling main concourse of The Central Station Concourse. Other travelers hurry past them, pulling luggage and moving through the crowded station.",
+        "the electronic tracker: Small black electronic device\n\nLow-angle shot. Inside The Central Station Concourse, Isabelle and Arthur slowly scan the grand space, their heads turning as they take in the architecture with serious, observant expressions. Isabelle glances down at the electronic tracker in her hand.",
+        "Walter: Older man with white hair and a white beard, wearing a dark jacket and green pants\nSimon: Man wearing a beige trench coat and a patterned scarf\nMedium shot in The Central Station Concourse at night. Isabelle, Simon, and Alex run through the train station concourse. Simon, wearing the beige trench coat, stops abruptly and turns, holding the electronic tracker with an alert expression as Walter walks past."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "From a rear viewpoint, Alex, wearing the beige trench coat, and Julian, wearing the dark overcoat, walk side-by-side through the bustling main concourse of The Central Station Concourse. Other travelers hurry past them, pulling luggage and moving through the crowded station.",
+        "Low-angle shot. Inside The Central Station Concourse, Isabelle and Arthur slowly scan the grand space, their heads turning as they take in the architecture with serious, observant expressions. Isabelle glances down at the electronic tracker in her hand.",
+        "Medium shot in The Central Station Concourse at night. Isabelle, Simon, and Alex run through the train station concourse. Simon, wearing the beige trench coat, stops abruptly and turns, holding the electronic tracker with an alert expression as Walter walks past."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The City Rail Yard: Urban cityscape with a system of metal train tracks, modern multi-story apartment buildings, and vertical poles.\nthe express passenger train: Modern multi-car passenger train with a dark, elongated body and a repeating series of brightly lit, rectangular windows.\nLong shot of The City Rail Yard at night. the express passenger train travels along the tracks, its illuminated windows gliding past modern apartment buildings, and Chloe is visible through one of them. Vertical poles stand in the foreground, partially obstructing the view."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Long shot of The City Rail Yard at night. the express passenger train travels along the tracks, its illuminated windows gliding past modern apartment buildings, and Chloe is visible through one of them. Vertical poles stand in the foreground, partially obstructing the view."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Amelie: Woman wearing a green coat and a grey beret\nNina: Woman with long dark hair, wearing a dark coat and a striped scarf\nWide shot of Alex, Amelie, Walter, Simon, Julian, and Nina walking as a group through the bustling concourse of The Central Station Concourse at night. Simon is in the center of the group, pulling the rolling suitcase behind him. They move past other travelers as glowing digital signs illuminate the grand architecture around them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wide shot of Alex, Amelie, Walter, Simon, Julian, and Nina walking as a group through the bustling concourse of The Central Station Concourse at night. Simon is in the center of the group, pulling the rolling suitcase behind him. They move past other travelers as glowing digital signs illuminate the grand architecture around them."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "the security walkie-talkie: Black professional-grade walkie-talkie with a hard plastic casing, a perforated speaker grille, a large side push-to-talk button, and a short, flexible black antenna\n\nAt night, Arthur stands in front of The Grand Gothic Hotel, speaking into the security walkie-talkie with a serious expression. In the background, police officers move around the scene as the blue lights of emergency vehicles flash against the building's facade."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At night, Arthur stands in front of The Grand Gothic Hotel, speaking into the security walkie-talkie with a serious expression. In the background, police officers move around the scene as the blue lights of emergency vehicles flash against the building's facade."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "the grey felt beret: Classic soft, grey felt beret with a round, flat-crowned shape and a small stem at the center of the crown\n\nInside The Central Station Concourse at night, Arthur's head tilts back as he looks up with an amazed expression. His companion, Amelie, wearing the grey felt beret, turns her head to watch him, her brow furrowing with concern.",
+        "the rolled blueprints: A cylindrical document tube or a roll of papers\n\nMedium shot inside The Central Station Concourse at night. Chloe and Arthur exchange an anxious glance and scan the area. Arthur adjusts his grip on the rolled blueprints. Nearby, Amelie watches them, raising the security walkie-talkie slightly as if preparing to speak."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Central Station Concourse at night, Arthur's head tilts back as he looks up with an amazed expression. His companion, Amelie, wearing the grey felt beret, turns her head to watch him, her brow furrowing with concern.",
+        "Medium shot inside The Central Station Concourse at night. Chloe and Arthur exchange an anxious glance and scan the area. Arthur adjusts his grip on the rolled blueprints. Nearby, Amelie watches them, raising the security walkie-talkie slightly as if preparing to speak."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Chloe",
+        "Arthur"
+      ],
+      "places": [
+        "The Night Bus"
+      ],
+      "objects": [
+        "the dark bus seats"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Isabelle"
+      ],
+      "places": [
+        "The Hotel Corridor"
+      ],
+      "objects": [
+        "the black stiletto heel",
+        "the brown leather dress shoe"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The Grand Gothic Hotel"
+      ],
+      "objects": []
+    },
+    "3:2": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Grand Gothic Hotel"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Alex",
+        "Julian"
+      ],
+      "places": [
+        "The Central Station Concourse"
+      ],
+      "objects": [
+        "the beige trench coat",
+        "the dark overcoat"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Isabelle",
+        "Arthur"
+      ],
+      "places": [
+        "The Central Station Concourse"
+      ],
+      "objects": [
+        "the electronic tracker"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Alex",
+        "Isabelle",
+        "Walter",
+        "Simon"
+      ],
+      "places": [
+        "The Central Station Concourse"
+      ],
+      "objects": [
+        "the beige trench coat",
+        "the electronic tracker"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The City Rail Yard"
+      ],
+      "objects": [
+        "the express passenger train"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Alex",
+        "Amelie",
+        "Walter",
+        "Simon",
+        "Julian",
+        "Nina"
+      ],
+      "places": [
+        "The Central Station Concourse"
+      ],
+      "objects": [
+        "the rolling suitcase"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Grand Gothic Hotel"
+      ],
+      "objects": [
+        "the security walkie-talkie"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Amelie",
+        "Arthur"
+      ],
+      "places": [
+        "The Central Station Concourse"
+      ],
+      "objects": [
+        "the grey felt beret"
+      ]
+    },
+    "8:2": {
+      "characters": [
+        "Amelie",
+        "Chloe",
+        "Arthur"
+      ],
+      "places": [
+        "The Central Station Concourse"
+      ],
+      "objects": [
+        "the rolled blueprints",
+        "the security walkie-talkie"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Chloe",
+      "label": "Character 1",
+      "description": "Woman with short brown hair"
+    },
+    "Character 2": {
+      "name": "Arthur",
+      "label": "Character 2",
+      "description": "Middle-aged man wearing glasses and a dark jacket"
+    },
+    "Character 3": {
+      "name": "Isabelle",
+      "label": "Character 3",
+      "description": "Woman wearing a black heeled shoe."
+    },
+    "Character 4": {
+      "name": "Alex",
+      "label": "Character 4",
+      "description": "A person."
+    },
+    "Character 5": {
+      "name": "Julian",
+      "label": "Character 5",
+      "description": "Man wearing a dark grey overcoat and a scarf"
+    },
+    "Character 6": {
+      "name": "Walter",
+      "label": "Character 6",
+      "description": "Older man with white hair and a white beard, wearing a dark jacket and green pants"
+    },
+    "Character 7": {
+      "name": "Simon",
+      "label": "Character 7",
+      "description": "Man wearing a beige trench coat and a patterned scarf"
+    },
+    "Character 8": {
+      "name": "Amelie",
+      "label": "Character 8",
+      "description": "Woman wearing a green coat and a grey beret"
+    },
+    "Character 9": {
+      "name": "Nina",
+      "label": "Character 9",
+      "description": "Woman with long dark hair, wearing a dark coat and a striped scarf"
+    },
+    "Location 1": {
+      "name": "The Night Bus",
+      "label": "Location 1",
+      "description": "Bus interior with rows of dark, high-backed passenger seats"
+    },
+    "Location 2": {
+      "name": "The Hotel Corridor",
+      "label": "Location 2",
+      "description": "Dark-toned indoor setting with striped carpet flooring."
+    },
+    "Location 3": {
+      "name": "The Grand Gothic Hotel",
+      "label": "Location 3",
+      "description": "The ornate, red-brick gothic revival exterior of a grand hotel, featuring an attached staircase with light fixtures."
+    },
+    "Location 4": {
+      "name": "The Central Station Concourse",
+      "label": "Location 4",
+      "description": "The vast main concourse of a historic train station with Victorian Gothic architecture, featuring high red brick walls, large structural arches, and a massive, vaulted glass and steel roof structure spanning over the train platforms"
+    },
+    "Location 5": {
+      "name": "The City Rail Yard",
+      "label": "Location 5",
+      "description": "Urban cityscape with a system of metal train tracks, modern multi-story apartment buildings, and vertical poles."
+    },
+    "Object 1": {
+      "name": "the dark bus seats",
+      "label": "Object 1",
+      "description": "Bus interior with dark, high-backed seats"
+    },
+    "Object 2": {
+      "name": "the black stiletto heel",
+      "label": "Object 2",
+      "description": "Shiny black patent leather pump with a pointed toe and a tall, thin stiletto heel."
+    },
+    "Object 3": {
+      "name": "the brown leather dress shoe",
+      "label": "Object 3",
+      "description": "Men's polished brown leather dress shoe with thin waxed laces, a stitched cap-toe, and a low block heel."
+    },
+    "Object 4": {
+      "name": "the dark overcoat",
+      "label": "Object 4",
+      "description": "Knee-length black wool overcoat"
+    },
+    "Object 5": {
+      "name": "the beige trench coat",
+      "label": "Object 5",
+      "description": "Knee-length beige trench coat with a double-breasted front, wide lapels, shoulder epaulets, and a matching fabric belt"
+    },
+    "Object 6": {
+      "name": "the electronic tracker",
+      "label": "Object 6",
+      "description": "Small black electronic device"
+    },
+    "Object 7": {
+      "name": "the express passenger train",
+      "label": "Object 7",
+      "description": "Modern multi-car passenger train with a dark, elongated body and a repeating series of brightly lit, rectangular windows."
+    },
+    "Object 8": {
+      "name": "the rolling suitcase",
+      "label": "Object 8",
+      "description": "Rectangular piece of luggage with wheels and a telescoping handle"
+    },
+    "Object 9": {
+      "name": "the security walkie-talkie",
+      "label": "Object 9",
+      "description": "Black professional-grade walkie-talkie with a hard plastic casing, a perforated speaker grille, a large side push-to-talk button, and a short, flexible black antenna"
+    },
+    "Object 10": {
+      "name": "the grey felt beret",
+      "label": "Object 10",
+      "description": "Classic soft, grey felt beret with a round, flat-crowned shape and a small stem at the center of the crown"
+    },
+    "Object 11": {
+      "name": "the rolled blueprints",
+      "label": "Object 11",
+      "description": "A cylindrical document tube or a roll of papers"
+    }
+  },
+  "_window_shot_ids": [
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0001",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0002",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0004",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0006",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0008",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0009",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0010",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0011",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0012",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0013",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0014",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i55_j64__T120__shot0015"
+  ],
+  "_num_scenes": 8,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Chloe",
+    "Character 2": "Arthur",
+    "Character 3": "Isabelle",
+    "Character 4": "Alex",
+    "Character 5": "Julian",
+    "Character 6": "Walter",
+    "Character 7": "Simon",
+    "Character 8": "Amelie",
+    "Character 9": "Nina",
+    "Location 1": "The Night Bus",
+    "Location 2": "The Hotel Corridor",
+    "Location 3": "The Grand Gothic Hotel",
+    "Location 4": "The Central Station Concourse",
+    "Location 5": "The City Rail Yard",
+    "Object 1": "the dark bus seats",
+    "Object 10": "the grey felt beret",
+    "Object 11": "the rolled blueprints",
+    "Object 2": "the black stiletto heel",
+    "Object 3": "the brown leather dress shoe",
+    "Object 4": "the dark overcoat",
+    "Object 5": "the beige trench coat",
+    "Object 6": "the electronic tracker",
+    "Object 7": "the express passenger train",
+    "Object 8": "the rolling suitcase",
+    "Object 9": "the security walkie-talkie"
+  }
+}

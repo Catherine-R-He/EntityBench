@@ -1,0 +1,412 @@
+{
+  "story_name": "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180",
+  "story_overview": "A team of storm chasers, including Owen, Jenna, and Nate, tracks a massive supercell cloud in their specially-equipped SUV. While they monitor the storm's progress on an open road, Owen also investigates a mysterious operation involving Caleb and large yellow barrels inside a red semi-trailer.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "The Storm Front: A sky filled with a massive, dense formation of dark, ominous clouds.\nPaige: Woman with blonde hair styled in a high ponytail wearing a yellow ribbed top\n\nFrom a low angle, Paige looks up at the sky with a worried expression. Above her in The Storm Front, the massive dark clouds of the supercell cloud churn and boil ominously."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "From a low angle, Paige looks up at the sky with a worried expression. Above her in The Storm Front, the massive dark clouds of the supercell cloud churn and boil ominously."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Jenna: Woman.\nNate: Man wearing glasses and a striped shirt.\nSimon: Man with dark hair and glasses.\nThe SUV Interior: Interior of a silver sport utility vehicle (SUV) featuring front bucket seats, a rear bench seat, a dashboard, a steering wheel, a center console, and glass windows.\nthe silver SUV: Silver Toyota SUV with a roof rack and an interior with front and rear passenger seats.\n\nClose-up from inside The SUV Interior as the silver SUV moves at night. Jenna sits in the passenger seat, looking forward before turning towards the driver and smiling. In the driver's seat, Nate is partially visible and blurry. Simon sits in the back seat, out of focus.",
+        "Alex: Non-binary person in their 20s with short, dyed-blue hair, wearing a grey hoodie\nOwen: Man in his 30s with short brown hair and a friendly face with laugh lines around his eyes, wearing a navy blue polo shirt and a simple silver watch\nInside The SUV Interior, Owen drives the silver SUV, grimacing as he talks. In the passenger seat, Alex laughs heartily.",
+        "The SUV Interior. Close-up shot from the back seat of the silver SUV. Jenna sits in the front passenger seat and talks animatedly in profile. Next to her in the driver's seat, Simon looks down as he listens.",
+        "Ethan: Man wearing a white baseball t-shirt with green three-quarter length raglan sleeves.\nthe weather laptop: Small black laptop with its screen displaying a colorful Doppler weather radar map with several intense storm cells.\nthe doppler radar map: Digital Doppler weather radar map with several intense storm cells appearing as multi-colored blotches of green, yellow, and red.\n\nOver-the-shoulder close-up shot from behind Nate, who is sitting in The SUV Interior. Nate and Ethan sit side-by-side, and Ethan leans in closer to look at the weather laptop. The laptop's screen displays the doppler radar map.",
+        "Inside The SUV Interior, Jenna sits in a seat next to Simon in the moving silver vehicle. Jenna suddenly screams in panic, lurching forward. Beside her, Simon turns to look at her with a startled, wide-eyed expression.",
+        "Sophie: Young woman with shoulder-length blonde hair, wearing black-rimmed glasses and a gray crewneck sweatshirt.\n\nA shaky, close-up shot from inside The SUV Interior. Sophie is in the passenger seat, laughing and turning her head slightly, with Simon sitting out of focus in the back seat of the silver SUV.",
+        "The Open Road: A road in a rural, open landscape.\n\nFrom inside The SUV Interior, Alex looks out the passenger-side window as the silver SUV drives along The Open Road at dusk. The rural landscape blurs with motion. A massive, dark storm system hangs ominously in the sky, with a thin sliver of light glowing on the horizon.",
+        "the blue smartphone: Rectangular smartphone with a solid blue casing and a large, black glass screen.\n\nSophie sits in the passenger seat of The SUV Interior. She smiles as she looks down at the blue smartphone in her hands. Her hair blows gently from an open window as the silver SUV moves forward during the day.",
+        "Close-up shot from inside the moving The SUV Interior. Jenna sits in the passenger seat, her expression growing more distressed as she stares at the blue smartphone. From the driver's seat, Simon glances over at Jenna with concern.",
+        "Inside the moving SUV Interior, Owen and Alex exchange glances, their expressions shifting to show deep concern as they listen. The day is overcast.",
+        "Jenna drives the vehicle and smiles. In the front passenger seat, Nate looks toward Jenna. In the back seat, Alex and Paige look out their windows, watching the scenery pass by.",
+        "Alex is in the driver's seat, and Paige is in the passenger seat of the moving silver SUV. Alex glances over at Paige, and they both smile at each other. The window of the silver SUV is wet with water droplets, blurring the green landscape of The Open Road outside.",
+        "the roof-mounted weather station: A roof-mounted weather monitoring apparatus consisting of a gray metal housing, a rotating three-cup anemometer, a directional weather vane, and several protruding sensor probes connected by black insulated wires.\n\nOn The Open Road, Owen leans out of the passenger window of the parked silver SUV. He smiles as he reaches up to adjust the roof-mounted weather station on the vehicle's roof rack. Ethan sits in the driver's seat, smiling as he watches him."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up from inside The SUV Interior as the silver SUV moves at night. Jenna sits in the passenger seat, looking forward before turning towards the driver and smiling. In the driver's seat, Nate is partially visible and blurry. Simon sits in the back seat, out of focus.",
+        "Inside The SUV Interior, Owen drives the silver SUV, grimacing as he talks. In the passenger seat, Alex laughs heartily.",
+        "The SUV Interior. Close-up shot from the back seat of the silver SUV. Jenna sits in the front passenger seat and talks animatedly in profile. Next to her in the driver's seat, Simon looks down as he listens.",
+        "Over-the-shoulder close-up shot from behind Nate, who is sitting in The SUV Interior. Nate and Ethan sit side-by-side, and Ethan leans in closer to look at the weather laptop. The laptop's screen displays the doppler radar map.",
+        "Inside The SUV Interior, Jenna sits in a seat next to Simon in the moving silver vehicle. Jenna suddenly screams in panic, lurching forward. Beside her, Simon turns to look at her with a startled, wide-eyed expression.",
+        "A shaky, close-up shot from inside The SUV Interior. Sophie is in the passenger seat, laughing and turning her head slightly, with Simon sitting out of focus in the back seat of the silver SUV.",
+        "From inside The SUV Interior, Alex looks out the passenger-side window as the silver SUV drives along The Open Road at dusk. The rural landscape blurs with motion. A massive, dark storm system hangs ominously in the sky, with a thin sliver of light glowing on the horizon.",
+        "Sophie sits in the passenger seat of The SUV Interior. She smiles as she looks down at the blue smartphone in her hands. Her hair blows gently from an open window as the silver SUV moves forward during the day.",
+        "Close-up shot from inside the moving The SUV Interior. Jenna sits in the passenger seat, her expression growing more distressed as she stares at the blue smartphone. From the driver's seat, Simon glances over at Jenna with concern.",
+        "Inside the moving SUV Interior, Owen and Alex exchange glances, their expressions shifting to show deep concern as they listen. The day is overcast.",
+        "Jenna drives the vehicle and smiles. In the front passenger seat, Nate looks toward Jenna. In the back seat, Alex and Paige look out their windows, watching the scenery pass by.",
+        "Alex is in the driver's seat, and Paige is in the passenger seat of the moving silver SUV. Alex glances over at Paige, and they both smile at each other. The window of the silver SUV is wet with water droplets, blurring the green landscape of The Open Road outside.",
+        "On The Open Road, Owen leans out of the passenger window of the parked silver SUV. He smiles as he reaches up to adjust the roof-mounted weather station on the vehicle's roof rack. Ethan sits in the driver's seat, smiling as he watches him."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Caleb: Man in his 40s with a rugged look and short graying hair, wearing a green and brown plaid shirt.\nThe Red Trailer: Interior of a large, red semi-trailer with metal walls and a wooden floor.\nthe yellow barrels: Large, cylindrical yellow industrial barrels with silver-colored metal rims and lids.\n\nTop-down view inside The Red Trailer, with the yellow barrels visible. Caleb stands over an open yellow barrel, stirring the contents with a tool. Owen watches him from the opening of the red semi-trailer."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Top-down view inside The Red Trailer, with the yellow barrels visible. Caleb stands over an open yellow barrel, stirring the contents with a tool. Owen watches him from the opening of the red semi-trailer."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Paige"
+      ],
+      "places": [
+        "The Storm Front"
+      ],
+      "objects": [
+        "the supercell cloud"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Jenna",
+        "Nate",
+        "Simon"
+      ],
+      "places": [
+        "The SUV Interior"
+      ],
+      "objects": [
+        "the silver SUV"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Owen",
+        "Alex"
+      ],
+      "places": [
+        "The SUV Interior"
+      ],
+      "objects": [
+        "the silver SUV"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Jenna",
+        "Simon"
+      ],
+      "places": [
+        "The SUV Interior"
+      ],
+      "objects": [
+        "the silver SUV"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Ethan",
+        "Nate"
+      ],
+      "places": [
+        "The SUV Interior"
+      ],
+      "objects": [
+        "the weather laptop",
+        "the doppler radar map"
+      ]
+    },
+    "2:5": {
+      "characters": [
+        "Jenna",
+        "Simon"
+      ],
+      "places": [
+        "The SUV Interior"
+      ],
+      "objects": []
+    },
+    "2:6": {
+      "characters": [
+        "Simon",
+        "Sophie"
+      ],
+      "places": [
+        "The SUV Interior"
+      ],
+      "objects": [
+        "the silver SUV"
+      ]
+    },
+    "2:7": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The SUV Interior",
+        "The Open Road"
+      ],
+      "objects": [
+        "the silver SUV"
+      ]
+    },
+    "2:8": {
+      "characters": [
+        "Sophie"
+      ],
+      "places": [
+        "The SUV Interior"
+      ],
+      "objects": [
+        "the silver SUV",
+        "the blue smartphone"
+      ]
+    },
+    "2:9": {
+      "characters": [
+        "Jenna",
+        "Simon"
+      ],
+      "places": [
+        "The SUV Interior"
+      ],
+      "objects": [
+        "the blue smartphone"
+      ]
+    },
+    "2:10": {
+      "characters": [
+        "Owen",
+        "Alex"
+      ],
+      "places": [
+        "The SUV Interior"
+      ],
+      "objects": []
+    },
+    "2:11": {
+      "characters": [
+        "Jenna",
+        "Nate",
+        "Alex",
+        "Paige"
+      ],
+      "places": [
+        "The SUV Interior"
+      ],
+      "objects": [
+        "the silver SUV"
+      ]
+    },
+    "2:12": {
+      "characters": [
+        "Alex",
+        "Paige"
+      ],
+      "places": [
+        "The SUV Interior",
+        "The Open Road"
+      ],
+      "objects": [
+        "the silver SUV"
+      ]
+    },
+    "2:13": {
+      "characters": [
+        "Owen",
+        "Ethan"
+      ],
+      "places": [
+        "The Open Road"
+      ],
+      "objects": [
+        "the silver SUV",
+        "the roof-mounted weather station"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Owen",
+        "Caleb"
+      ],
+      "places": [
+        "The Red Trailer"
+      ],
+      "objects": [
+        "the red semi-trailer",
+        "the yellow barrels"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Owen",
+      "label": "Character 1",
+      "description": "Man in his 30s with short brown hair and a friendly face with laugh lines around his eyes, wearing a navy blue polo shirt and a simple silver watch"
+    },
+    "Character 2": {
+      "name": "Jenna",
+      "label": "Character 2",
+      "description": "Woman."
+    },
+    "Character 3": {
+      "name": "Simon",
+      "label": "Character 3",
+      "description": "Man with dark hair and glasses."
+    },
+    "Character 4": {
+      "name": "Alex",
+      "label": "Character 4",
+      "description": "Non-binary person in their 20s with short, dyed-blue hair, wearing a grey hoodie"
+    },
+    "Character 5": {
+      "name": "Caleb",
+      "label": "Character 5",
+      "description": "Man in his 40s with a rugged look and short graying hair, wearing a green and brown plaid shirt."
+    },
+    "Character 6": {
+      "name": "Sophie",
+      "label": "Character 6",
+      "description": "Young woman with shoulder-length blonde hair, wearing black-rimmed glasses and a gray crewneck sweatshirt."
+    },
+    "Character 8": {
+      "name": "Ethan",
+      "label": "Character 8",
+      "description": "Man wearing a white baseball t-shirt with green three-quarter length raglan sleeves."
+    },
+    "Character 9": {
+      "name": "Nate",
+      "label": "Character 9",
+      "description": "Man wearing glasses and a striped shirt."
+    },
+    "Character 10": {
+      "name": "Paige",
+      "label": "Character 10",
+      "description": "Woman with blonde hair styled in a high ponytail wearing a yellow ribbed top"
+    },
+    "Location 1": {
+      "name": "The SUV Interior",
+      "label": "Location 1",
+      "description": "Interior of a silver sport utility vehicle (SUV) featuring front bucket seats, a rear bench seat, a dashboard, a steering wheel, a center console, and glass windows."
+    },
+    "Location 2": {
+      "name": "The Open Road",
+      "label": "Location 2",
+      "description": "A road in a rural, open landscape."
+    },
+    "Location 3": {
+      "name": "The Storm Front",
+      "label": "Location 3",
+      "description": "A sky filled with a massive, dense formation of dark, ominous clouds."
+    },
+    "Location 4": {
+      "name": "The Red Trailer",
+      "label": "Location 4",
+      "description": "Interior of a large, red semi-trailer with metal walls and a wooden floor."
+    },
+    "Object 1": {
+      "name": "the silver SUV",
+      "label": "Object 1",
+      "description": "Silver Toyota SUV with a roof rack and an interior with front and rear passenger seats."
+    },
+    "Object 2": {
+      "name": "the supercell cloud",
+      "label": "Object 2",
+      "description": "Massive and ominous system of dark, dense, turbulent, roiling clouds"
+    },
+    "Object 3": {
+      "name": "the weather laptop",
+      "label": "Object 3",
+      "description": "Small black laptop with its screen displaying a colorful Doppler weather radar map with several intense storm cells."
+    },
+    "Object 4": {
+      "name": "the doppler radar map",
+      "label": "Object 4",
+      "description": "Digital Doppler weather radar map with several intense storm cells appearing as multi-colored blotches of green, yellow, and red."
+    },
+    "Object 5": {
+      "name": "the blue smartphone",
+      "label": "Object 5",
+      "description": "Rectangular smartphone with a solid blue casing and a large, black glass screen."
+    },
+    "Object 6": {
+      "name": "the roof-mounted weather station",
+      "label": "Object 6",
+      "description": "A roof-mounted weather monitoring apparatus consisting of a gray metal housing, a rotating three-cup anemometer, a directional weather vane, and several protruding sensor probes connected by black insulated wires."
+    },
+    "Object 7": {
+      "name": "the yellow barrels",
+      "label": "Object 7",
+      "description": "Large, cylindrical yellow industrial barrels with silver-colored metal rims and lids."
+    },
+    "Object 8": {
+      "name": "the red semi-trailer",
+      "label": "Object 8",
+      "description": "Large red semi-trailer with a rectangular, box-like cargo container"
+    }
+  },
+  "_window_shot_ids": [
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0011",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0012",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0013",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0014",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0015",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0016",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0017",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0018",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0019",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0022",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0023",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0024",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0025",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0027",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run447__i20_j34__T180__shot0028"
+  ],
+  "_num_scenes": 3,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Owen",
+    "Character 10": "Paige",
+    "Character 2": "Jenna",
+    "Character 3": "Simon",
+    "Character 4": "Alex",
+    "Character 5": "Caleb",
+    "Character 6": "Sophie",
+    "Character 7": "Riley",
+    "Character 8": "Ethan",
+    "Character 9": "Nate",
+    "Location 1": "The SUV Interior",
+    "Location 2": "The Open Road",
+    "Location 3": "The Storm Front",
+    "Location 4": "The Red Trailer",
+    "Object 1": "the silver SUV",
+    "Object 2": "the supercell cloud",
+    "Object 3": "the weather laptop",
+    "Object 4": "the doppler radar map",
+    "Object 5": "the blue smartphone",
+    "Object 6": "the roof-mounted weather station",
+    "Object 7": "the yellow barrels",
+    "Object 8": "the red semi-trailer"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "story_name": "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300",
+  "story_overview": "Following a tense consultation where Arthur speaks with an anguished nurse named Eleanor, various individuals move about a grand infirmary. Julian and Simon have serious conversations with Arthur and Lena, watched by nurses Eleanor and Gwen. The story involves mysterious arrivals and departures by car, suggesting a clandestine operation is underway.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Arthur: Tall, older man with graying dark hair, wearing a dark overcoat over a black suit, a white shirt, and a dark tie.\nThe Consultation Room: Clinical office or interview room with a professional office desk that has a small white box on its surface.\nthe white dress shirt: White, long-sleeved, button-front dress shirt with a collar.\nthe charcoal silk tie: Dark charcoal grey silk necktie with a standard width and a subtle woven texture.\n\nArthur speaks with a serious expression.",
+        "Eleanor: Woman with her hair in a ponytail, wearing a blue nurse's uniform.\nthe white nurse's cap (owned by Gwen): A traditional starched white fabric nurse's cap with a distinctive folded design\nthe ergonomic office chair: Ergonomic office chair with a high back and seat upholstered in a textured, charcoal-gray woven fabric, with black plastic fixed armrests and a five-star swivel base with casters.\nClose-up of Eleanor inside The Consultation Room. She wears the blue nurse uniform and the white nurse's cap and is seated in the ergonomic office chair. Her face is contorted with extreme anguish and distress as she speaks with a pleading expression.",
+        "Gwen: Nurse with blonde braided hair, wearing a nurse uniform.\n\nClose-up of Gwen, wearing the white nurse's cap, and Eleanor, wearing the blue nurse uniform, in The Consultation Room. Gwen's expression shifts to show worry and confusion as she looks off to the side.",
+        "Lena: Woman with dark hair tied back, wearing a dark top with a red scarf or collar\n\nClose-up of Arthur, wearing the white dress shirt, the dark overcoat, and the charcoal silk tie, in The Consultation Room. He speaks to Lena and Eleanor, his expression softening into a slight smile."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Arthur speaks with a serious expression.",
+        "Close-up of Eleanor inside The Consultation Room. She wears the blue nurse uniform and the white nurse's cap and is seated in the ergonomic office chair. Her face is contorted with extreme anguish and distress as she speaks with a pleading expression.",
+        "Close-up of Gwen, wearing the white nurse's cap, and Eleanor, wearing the blue nurse uniform, in The Consultation Room. Gwen's expression shifts to show worry and confusion as she looks off to the side.",
+        "Close-up of Arthur, wearing the white dress shirt, the dark overcoat, and the charcoal silk tie, in The Consultation Room. He speaks to Lena and Eleanor, his expression softening into a slight smile."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Julian: Man with brown, wavy hair wearing a dark overcoat over a striped collared shirt with suit cuffs and a dark tie.\nThe Infirmary Hall: Interior of an infirmary common area featuring a grand, wood-paneled staircase with a landing and an adjacent hallway.\n\nIn The Infirmary Hall, Julian descends the grand, wood-paneled staircase as Eleanor watches him from the landing. At the bottom of the stairs, Lena meets Julian. They speak briefly before turning and walking away together down an adjacent hallway.",
+        "Simon: Man with brown hair, wearing a light-colored beige trench coat over a suit.\nInside the dimly lit hallway of The Infirmary Hall, Simon, wearing the beige trench coat, walks forward. He is followed closely by Arthur, who carries the glossy bag.",
+        "the charcoal wool overcoat: Traditional-cut, single-breasted, knee-length overcoat in a dark charcoal gray heavy wool fabric with notch lapels.\nthe glass-paned door: Rectangular interior door with a large, clear glass pane, a brushed silver-colored metal border, and a long, vertical metal pull handle.\n\nJulian and Arthur walk together through the infirmary common area in The Infirmary Hall, engaged in a serious conversation. They pause at the glass-paned door, which Arthur holds open for Julian. In the background, Eleanor walks down an adjacent hallway.",
+        "In the grand, wood-paneled hallway of The Infirmary Hall, Arthur, wearing the black overcoat, and Eleanor converse in a doorway. Lena walks between them and proceeds down the hall, while Gwen, wearing the beige trench coat, stands watching nearby, shifting slightly. Arthur turns and walks away, leaving Eleanor standing alone in the doorway, her shoulders slumping slightly."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Infirmary Hall, Julian descends the grand, wood-paneled staircase as Eleanor watches him from the landing. At the bottom of the stairs, Lena meets Julian. They speak briefly before turning and walking away together down an adjacent hallway.",
+        "Inside the dimly lit hallway of The Infirmary Hall, Simon, wearing the beige trench coat, walks forward. He is followed closely by Arthur, who carries the glossy bag.",
+        "Julian and Arthur walk together through the infirmary common area in The Infirmary Hall, engaged in a serious conversation. They pause at the glass-paned door, which Arthur holds open for Julian. In the background, Eleanor walks down an adjacent hallway.",
+        "In the grand, wood-paneled hallway of The Infirmary Hall, Arthur, wearing the black overcoat, and Eleanor converse in a doorway. Lena walks between them and proceeds down the hall, while Gwen, wearing the beige trench coat, stands watching nearby, shifting slightly. Arthur turns and walks away, leaving Eleanor standing alone in the doorway, her shoulders slumping slightly."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Infirmary Entrance: Brick infirmary building exterior with an entrance, an adjacent parking area, and a paved road marked with the word 'AMBULANCES'.\nthe white ambulance van: Large white ambulance van with a boxy rear compartment, red and yellow reflective side stripes, and a rooftop emergency light bar.\n\nThe dark grey car drives up to the entrance of The Infirmary Entrance, where the white ambulance van is already parked. Lena stands near the building's entrance, watching as the dark grey car pulls to a stop."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "The dark grey car drives up to the entrance of The Infirmary Entrance, where the white ambulance van is already parked. Lena stands near the building's entrance, watching as the dark grey car pulls to a stop."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Rainy Car Interior: Interior of a vehicle with dark upholstery and dashboard, its windows streaked with raindrops.\n\nRaindrops streak down the windows. Simon, wearing the beige trench coat, turns to speak to Julian. Julian listens, nodding slightly, while Lena observes their conversation, her gaze shifting between them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Raindrops streak down the windows. Simon, wearing the beige trench coat, turns to speak to Julian. Julian listens, nodding slightly, while Lena observes their conversation, her gaze shifting between them."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Low-angle medium shot from over the hood of the dark grey car. Arthur gets out of the dark grey car, which is parked in front of the entrance to The Infirmary Entrance."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle medium shot from over the hood of the dark grey car. Arthur gets out of the dark grey car, which is parked in front of the entrance to The Infirmary Entrance."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Consultation Room"
+      ],
+      "objects": [
+        "the dark overcoat",
+        "the white dress shirt",
+        "the charcoal silk tie"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Eleanor"
+      ],
+      "places": [
+        "The Consultation Room"
+      ],
+      "objects": [
+        "the blue nurse uniform",
+        "the white nurse's cap",
+        "the ergonomic office chair"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Eleanor",
+        "Gwen"
+      ],
+      "places": [
+        "The Consultation Room"
+      ],
+      "objects": [
+        "the blue nurse uniform",
+        "the white nurse's cap"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Lena",
+        "Eleanor",
+        "Arthur"
+      ],
+      "places": [
+        "The Consultation Room"
+      ],
+      "objects": [
+        "the dark overcoat",
+        "the white dress shirt",
+        "the charcoal silk tie"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Lena",
+        "Eleanor",
+        "Julian"
+      ],
+      "places": [
+        "The Infirmary Hall"
+      ],
+      "objects": []
+    },
+    "2:2": {
+      "characters": [
+        "Arthur",
+        "Simon"
+      ],
+      "places": [
+        "The Infirmary Hall"
+      ],
+      "objects": [
+        "the beige trench coat",
+        "the glossy bag"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Eleanor",
+        "Julian",
+        "Arthur"
+      ],
+      "places": [
+        "The Infirmary Hall"
+      ],
+      "objects": [
+        "the glass-paned door"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Lena",
+        "Eleanor",
+        "Arthur",
+        "Gwen"
+      ],
+      "places": [
+        "The Infirmary Hall"
+      ],
+      "objects": [
+        "the black overcoat",
+        "the beige trench coat"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Lena"
+      ],
+      "places": [
+        "The Infirmary Entrance"
+      ],
+      "objects": [
+        "the dark grey car",
+        "the white ambulance van"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Lena",
+        "Julian",
+        "Simon"
+      ],
+      "places": [
+        "The Rainy Car Interior"
+      ],
+      "objects": [
+        "the beige trench coat"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Infirmary Entrance"
+      ],
+      "objects": [
+        "the dark grey car"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 2": {
+      "name": "Julian",
+      "label": "Character 2",
+      "description": "Man with brown, wavy hair wearing a dark overcoat over a striped collared shirt with suit cuffs and a dark tie."
+    },
+    "Character 4": {
+      "name": "Eleanor",
+      "label": "Character 4",
+      "description": "Woman with her hair in a ponytail, wearing a blue nurse's uniform."
+    },
+    "Character 5": {
+      "name": "Lena",
+      "label": "Character 5",
+      "description": "Woman with dark hair tied back, wearing a dark top with a red scarf or collar"
+    },
+    "Character 6": {
+      "name": "Gwen",
+      "label": "Character 6",
+      "description": "Nurse with blonde braided hair, wearing a nurse uniform."
+    },
+    "Character 7": {
+      "name": "Arthur",
+      "label": "Character 7",
+      "description": "Tall, older man with graying dark hair, wearing a dark overcoat over a black suit, a white shirt, and a dark tie."
+    },
+    "Character 8": {
+      "name": "Simon",
+      "label": "Character 8",
+      "description": "Man with brown hair, wearing a light-colored beige trench coat over a suit."
+    },
+    "Location 1": {
+      "name": "The Consultation Room",
+      "label": "Location 1",
+      "description": "Clinical office or interview room with a professional office desk that has a small white box on its surface."
+    },
+    "Location 2": {
+      "name": "The Infirmary Hall",
+      "label": "Location 2",
+      "description": "Interior of an infirmary common area featuring a grand, wood-paneled staircase with a landing and an adjacent hallway."
+    },
+    "Location 3": {
+      "name": "The Infirmary Entrance",
+      "label": "Location 3",
+      "description": "Brick infirmary building exterior with an entrance, an adjacent parking area, and a paved road marked with the word 'AMBULANCES'."
+    },
+    "Location 4": {
+      "name": "The Rainy Car Interior",
+      "label": "Location 4",
+      "description": "Interior of a vehicle with dark upholstery and dashboard, its windows streaked with raindrops."
+    },
+    "Object 1": {
+      "name": "the dark overcoat",
+      "label": "Object 1",
+      "description": "A dark overcoat worn over a dark suit jacket and trousers"
+    },
+    "Object 2": {
+      "name": "the charcoal silk tie",
+      "label": "Object 2",
+      "description": "Dark charcoal grey silk necktie with a standard width and a subtle woven texture."
+    },
+    "Object 3": {
+      "name": "the white dress shirt",
+      "label": "Object 3",
+      "description": "White, long-sleeved, button-front dress shirt with a collar."
+    },
+    "Object 4": {
+      "name": "the beige trench coat",
+      "label": "Object 4",
+      "description": "Light-colored beige trench coat"
+    },
+    "Object 5": {
+      "name": "the white nurse's cap",
+      "label": "Object 5",
+      "description": "A traditional starched white fabric nurse's cap with a distinctive folded design"
+    },
+    "Object 6": {
+      "name": "the blue nurse uniform",
+      "label": "Object 6",
+      "description": "Blue, short-sleeved nurse's uniform dress with a white collar, paired with a white cap"
+    },
+    "Object 7": {
+      "name": "the ergonomic office chair",
+      "label": "Object 7",
+      "description": "Ergonomic office chair with a high back and seat upholstered in a textured, charcoal-gray woven fabric, with black plastic fixed armrests and a five-star swivel base with casters."
+    },
+    "Object 8": {
+      "name": "the glossy bag",
+      "label": "Object 8",
+      "description": "Bag with a glossy, reflective surface"
+    },
+    "Object 9": {
+      "name": "the glass-paned door",
+      "label": "Object 9",
+      "description": "Rectangular interior door with a large, clear glass pane, a brushed silver-colored metal border, and a long, vertical metal pull handle."
+    },
+    "Object 10": {
+      "name": "the charcoal wool overcoat",
+      "label": "Object 10",
+      "description": "Traditional-cut, single-breasted, knee-length overcoat in a dark charcoal gray heavy wool fabric with notch lapels"
+    },
+    "Object 11": {
+      "name": "the black overcoat",
+      "label": "Object 11",
+      "description": "Dark black overcoat"
+    },
+    "Object 12": {
+      "name": "the dark grey car",
+      "label": "Object 12",
+      "description": "A dark grey passenger vehicle"
+    },
+    "Object 13": {
+      "name": "the white ambulance van",
+      "label": "Object 13",
+      "description": "Large white ambulance van with a boxy rear compartment, red and yellow reflective side stripes, and a rooftop emergency light bar."
+    }
+  },
+  "_window_shot_ids": [
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0028",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0029",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0031",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0032",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0033",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0034",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0035",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0036",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0037",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0038",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1537__i25_j48__T300__shot0039"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Clara",
+    "Character 2": "Julian",
+    "Character 3": "Sofia",
+    "Character 4": "Eleanor",
+    "Character 5": "Lena",
+    "Character 6": "Gwen",
+    "Character 7": "Arthur",
+    "Character 8": "Simon",
+    "Location 1": "The Consultation Room",
+    "Location 2": "The Infirmary Hall",
+    "Location 3": "The Infirmary Entrance",
+    "Location 4": "The Rainy Car Interior",
+    "Object 1": "the dark overcoat",
+    "Object 10": "the charcoal wool overcoat",
+    "Object 11": "the black overcoat",
+    "Object 12": "the dark grey car",
+    "Object 13": "the white ambulance van",
+    "Object 2": "the charcoal silk tie",
+    "Object 3": "the white dress shirt",
+    "Object 4": "the beige trench coat",
+    "Object 5": "the white nurse's cap",
+    "Object 6": "the blue nurse uniform",
+    "Object 7": "the ergonomic office chair",
+    "Object 8": "the glossy bag",
+    "Object 9": "the glass-paned door"
+  }
+}

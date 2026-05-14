@@ -1,0 +1,379 @@
+{
+  "story_name": "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420",
+  "story_overview": "In the high-stakes world of MotoGP, racer Valentino experiences a dramatic crash, while his fellow competitors celebrate victories and share emotional moments in the paddock. Team personnel Carlos and Günther support the racers, including Alex and Shoya, through the intense highs and lows of race weekend.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Valentino: Man with a vibrant yellow, black, and white racing suit, wearing a personal cap with a Monster Energy logo and holding a helmet with a star on it.\nCarlos: Man in a dark jacket with 'REPS' on it and an orange-and-white striped collar, wearing a dark blue baseball cap with a prominent Monster Energy logo.\nThe Pit Lane Garage: A busy and cluttered racetrack pit garage area featuring prominent branding from Repsol Honda, Fiat Yamaha, Tech3 Yamaha, Petronas Yamaha, and Monster Energy, filled with monitors, racks of racing tires, and a mannequin wearing a Monster Energy racing suit.\nthe pit garage display: A collection of pit garage props, including a racing suit with Monster Energy branding on a mannequin, a helmet display, a yellow couch, and a rack of slick black racing tires.\nthe stack of racing tires: Stack of wide, low-profile black rubber racing tires.\n\nClose-up shot in The Pit Lane Garage. Carlos speaks intently during an interview. Valentino stands beside him, listening and occasionally nodding, near the pit garage display and the stack of racing tires."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot in The Pit Lane Garage. Carlos speaks intently during an interview. Valentino stands beside him, listening and occasionally nodding, near the pit garage display and the stack of racing tires."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Autodromo Circuit: A spacious outdoor professional MotoGP racetrack with a wide, dark paved asphalt course, adjacent gravel trap runoff areas, and large, colorful sponsor advertising banners, including one for 'CINZANO'.\n\nValentino crashes the motogp race bike in a turn, sliding across the gravel trap. The motogp race bike tumbles violently and shatters into pieces near the cinzano banner along the track wall, as distant spectators watch from the stands."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Valentino crashes the motogp race bike in a turn, sliding across the gravel trap. The motogp race bike tumbles violently and shatters into pieces near the cinzano banner along the track wall, as distant spectators watch from the stands."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Marco: Man in a metallic silver racing suit, wearing a matching red cap.\nPaddock & Hospitality: A variety of indoor and trackside motorsports settings, such as press rooms with sponsor backdrops, team garages, hospitality areas, and celebration podiums.\n\nClose-up shot in Paddock & Hospitality. Marco, wearing the silver racing suit, slowly lowers his gaze, his expression turning pensive. Carlos stands just behind him, slightly out of focus."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot in Paddock & Hospitality. Marco, wearing the silver racing suit, slowly lowers his gaze, his expression turning pensive. Carlos stands just behind him, slightly out of focus."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Shoya: Male motorcycle racer in a white, blue, and red racing suit and matching helmet, both prominently featuring the name 'SHOYO TOMIZAWA' and the number '48'.\nthe green and white flag: A rectangular marshal's flag with a pattern of bold green and white diagonal stripes, attached to a simple, thin pole.\n\nShoya rides along the brightly lit Autodromo Circuit at night, pumping his fist in celebration. A track marshal waves the green and white flag in the background.",
+        "Günther: Man with a balding head, a short beard, and glasses, wearing a grey collared shirt and an orange and black lanyard.\nAndrea: Motorcycle racer in a primarily black racing suit with red and white accents, wearing a bright yellow cap.\nAlex: Motorcycle racer in a white and red full-body racing suit with a matching full-face helmet that completely obscures their head and face.\n\nAt night in Autodromo Circuit, Alex sits on the motogp race bike as Carlos leans over and gives Alex an emotional hug. A crowd of photographers and team members, including Günther, Valentino, Andrea, and Marco, gathers around them while camera flashes pop and illuminate the scene.",
+        "At night in Autodromo Circuit, Valentino sits on the motogp race bike, wearing a personal cap, surrounded by a large celebratory crowd under bright floodlights. Marco stands next to the motorcycle and claps Valentino on the shoulder. Valentino grins and gives him a thumbs-up. Günther and Alex stand in the throng of people, applauding."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Shoya rides along the brightly lit Autodromo Circuit at night, pumping his fist in celebration. A track marshal waves the green and white flag in the background.",
+        "At night in Autodromo Circuit, Alex sits on the motogp race bike as Carlos leans over and gives Alex an emotional hug. A crowd of photographers and team members, including Günther, Valentino, Andrea, and Marco, gathers around them while camera flashes pop and illuminate the scene.",
+        "At night in Autodromo Circuit, Valentino sits on the motogp race bike, wearing a personal cap, surrounded by a large celebratory crowd under bright floodlights. Marco stands next to the motorcycle and claps Valentino on the shoulder. Valentino grins and gives him a thumbs-up. Günther and Alex stand in the throng of people, applauding."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Andrea smiles and gives a thumbs-up while facing Valentino. Valentino, wearing his cap, stands with his back to the camera, nodding as he listens."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Andrea smiles and gives a thumbs-up while facing Valentino. Valentino, wearing his cap, stands with his back to the camera, nodding as he listens."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Andrea and Marco share a tight, emotional hug. Carlos stands beside them and places a comforting hand on Marco's shoulder."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Andrea and Marco share a tight, emotional hug. Carlos stands beside them and places a comforting hand on Marco's shoulder."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Extreme close-up of Carlos in Paddock & Hospitality, speaking with a focused expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up of Carlos in Paddock & Hospitality, speaking with a focused expression."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Medium shot in Autodromo Circuit as Alex, riding the motogp race bike, leans hard into a corner at high speed, speeding past the cinzano banner. Standing at the edge of the track, Günther watches the race intently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in Autodromo Circuit as Alex, riding the motogp race bike, leans hard into a corner at high speed, speeding past the cinzano banner. Standing at the edge of the track, Günther watches the race intently."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "In The Pit Lane Garage, Alex sits on a yellow couch, part of the pit garage display. Günther stands over him and hands him the screaming face helmet. Alex takes the screaming face helmet and examines it. Valentino, in his racing suit and personal cap, with his helmet under his arm, stands nearby and watches."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Pit Lane Garage, Alex sits on a yellow couch, part of the pit garage display. Günther stands over him and hands him the screaming face helmet. Alex takes the screaming face helmet and examines it. Valentino, in his racing suit and personal cap, with his helmet under his arm, stands nearby and watches."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Valentino",
+        "Carlos"
+      ],
+      "places": [
+        "The Pit Lane Garage"
+      ],
+      "objects": [
+        "the pit garage display",
+        "the stack of racing tires"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Valentino"
+      ],
+      "places": [
+        "Autodromo Circuit"
+      ],
+      "objects": [
+        "the motogp race bike",
+        "the cinzano banner"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Marco",
+        "Carlos"
+      ],
+      "places": [
+        "Paddock & Hospitality"
+      ],
+      "objects": [
+        "the silver racing suit"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Shoya"
+      ],
+      "places": [
+        "Autodromo Circuit"
+      ],
+      "objects": [
+        "the green and white flag"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Günther",
+        "Valentino",
+        "Andrea",
+        "Marco",
+        "Carlos",
+        "Alex"
+      ],
+      "places": [
+        "Autodromo Circuit"
+      ],
+      "objects": [
+        "the motogp race bike"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Günther",
+        "Valentino",
+        "Marco",
+        "Alex"
+      ],
+      "places": [
+        "Autodromo Circuit"
+      ],
+      "objects": [
+        "the motogp race bike"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Andrea",
+        "Valentino"
+      ],
+      "places": [
+        "Paddock & Hospitality"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Andrea",
+        "Marco",
+        "Carlos"
+      ],
+      "places": [
+        "Autodromo Circuit"
+      ],
+      "objects": []
+    },
+    "7:1": {
+      "characters": [
+        "Carlos"
+      ],
+      "places": [
+        "Paddock & Hospitality"
+      ],
+      "objects": []
+    },
+    "8:1": {
+      "characters": [
+        "Günther",
+        "Alex"
+      ],
+      "places": [
+        "Autodromo Circuit"
+      ],
+      "objects": [
+        "the motogp race bike",
+        "the cinzano banner"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Günther",
+        "Valentino",
+        "Alex"
+      ],
+      "places": [
+        "The Pit Lane Garage"
+      ],
+      "objects": [
+        "the pit garage display",
+        "the screaming face helmet"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Valentino",
+      "label": "Character 1",
+      "description": "Man with a vibrant yellow, black, and white racing suit, wearing a personal cap with a Monster Energy logo and holding a helmet with a star on it."
+    },
+    "Character 2": {
+      "name": "Carlos",
+      "label": "Character 2",
+      "description": "Man in a dark jacket with 'REPS' on it and an orange-and-white striped collar, wearing a dark blue baseball cap with a prominent Monster Energy logo."
+    },
+    "Character 3": {
+      "name": "Marco",
+      "label": "Character 3",
+      "description": "Man in a metallic silver racing suit, wearing a matching red cap."
+    },
+    "Character 4": {
+      "name": "Shoya",
+      "label": "Character 4",
+      "description": "Male motorcycle racer in a white, blue, and red racing suit and matching helmet, both prominently featuring the name 'SHOYO TOMIZAWA' and the number '48'."
+    },
+    "Character 5": {
+      "name": "Günther",
+      "label": "Character 5",
+      "description": "Man with a balding head, a short beard, and glasses, wearing a grey collared shirt and an orange and black lanyard."
+    },
+    "Character 6": {
+      "name": "Andrea",
+      "label": "Character 6",
+      "description": "Motorcycle racer in a primarily black racing suit with red and white accents, wearing a bright yellow cap."
+    },
+    "Character 7": {
+      "name": "Alex",
+      "label": "Character 7",
+      "description": "Motorcycle racer in a white and red full-body racing suit with a matching full-face helmet that completely obscures their head and face."
+    },
+    "Location 1": {
+      "name": "Autodromo Circuit",
+      "label": "Location 1",
+      "description": "A spacious outdoor professional MotoGP racetrack with a wide, dark paved asphalt course, adjacent gravel trap runoff areas, and large, colorful sponsor advertising banners, including one for 'CINZANO'."
+    },
+    "Location 2": {
+      "name": "The Pit Lane Garage",
+      "label": "Location 2",
+      "description": "A busy and cluttered racetrack pit garage area featuring prominent branding from Repsol Honda, Fiat Yamaha, Tech3 Yamaha, Petronas Yamaha, and Monster Energy, filled with monitors, racks of racing tires, and a mannequin wearing a Monster Energy racing suit."
+    },
+    "Location 3": {
+      "name": "Paddock & Hospitality",
+      "label": "Location 3",
+      "description": "A variety of indoor and trackside motorsports settings, such as press rooms with sponsor backdrops, team garages, hospitality areas, and celebration podiums."
+    },
+    "Object 1": {
+      "name": "the motogp race bike",
+      "label": "Object 1",
+      "description": "Professional MotoGP-style racing motorcycle with full aerodynamic fairings, featuring a variety of different multi-colored team liveries with prominent sponsor logos and racing numbers"
+    },
+    "Object 2": {
+      "name": "the cinzano banner",
+      "label": "Object 2",
+      "description": "Large, rectangular, white vinyl trackside advertising banner with the word 'CINZANO' printed in large, bold, red capital letters with a blue outline"
+    },
+    "Object 3": {
+      "name": "the pit garage display",
+      "label": "Object 3",
+      "description": "A collection of pit garage props, including a racing suit with Monster Energy branding on a mannequin, a helmet display, a yellow couch, and a rack of slick black racing tires."
+    },
+    "Object 4": {
+      "name": "the stack of racing tires",
+      "label": "Object 4",
+      "description": "Stack of wide, low-profile black rubber racing tires."
+    },
+    "Object 5": {
+      "name": "the silver racing suit",
+      "label": "Object 5",
+      "description": "One-piece racing suit made of a metallic silver fabric with orange, black, and yellow sections"
+    },
+    "Object 6": {
+      "name": "the green and white flag",
+      "label": "Object 6",
+      "description": "A rectangular marshal's flag with a pattern of bold green and white diagonal stripes, attached to a simple, thin pole."
+    },
+    "Object 7": {
+      "name": "the screaming face helmet",
+      "label": "Object 7",
+      "description": "Full-face motorcycle racing helmet with a glossy, colorful design featuring a screaming face graphic and the number '46'"
+    }
+  },
+  "_window_shot_ids": [
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0002",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0003",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0005",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0006",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0007",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0008",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0009",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0010",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0011",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0013",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i50_j85__T420__shot0014"
+  ],
+  "_num_scenes": 9,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Valentino",
+    "Character 2": "Carlos",
+    "Character 3": "Marco",
+    "Character 4": "Shoya",
+    "Character 5": "Günther",
+    "Character 6": "Andrea",
+    "Character 7": "Alex",
+    "Character 8": "Casey",
+    "Location 1": "Autodromo Circuit",
+    "Location 2": "The Pit Lane Garage",
+    "Location 3": "Paddock & Hospitality",
+    "Object 1": "the motogp race bike",
+    "Object 2": "the cinzano banner",
+    "Object 3": "the pit garage display",
+    "Object 4": "the stack of racing tires",
+    "Object 5": "the silver racing suit",
+    "Object 6": "the green and white flag",
+    "Object 7": "the screaming face helmet"
+  }
+}

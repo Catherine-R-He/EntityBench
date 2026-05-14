@@ -1,0 +1,371 @@
+{
+  "story_name": "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420",
+  "story_overview": "In a tense and mysterious narrative, Leo tends to Elena's serious wound in a makeshift hideout. The group confronts supernatural phenomena, including flaming effigies and a glowing insect swarm, while also surveilling a hostile quarry encampment from afar. The story hints at a wider conflict as characters like Kai and Sofia share cryptic warnings in candlelit rooms.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Kai: Young woman with short brown hair and a determined expression.\nSofia: Woman with her brown hair pulled back, wearing a simple white blouse.\nThe Candlelit Chambers: A collection of various indoor rooms defined by a sparse arrangement of lit candles.\n\nClose-up over the shoulder of Kai, who stands in the foreground inside The Candlelit Chambers. Sofia faces her, her eyes shut and her face showing discomfort as she speaks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up over the shoulder of Kai, who stands in the foreground inside The Candlelit Chambers. Sofia faces her, her eyes shut and her face showing discomfort as she speaks."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Leo: Bald man with a beard, wearing black-rimmed glasses, an open plaid shirt over a grey t-shirt, and a brown strap over his shoulder.\nElena: Woman with long, wavy dark hair, wearing a beige tank top.\nThe Red Couch Hideout: Indoor hideout rooms featuring a red couch, a white pillow, and a patterned blanket.\n\nLow-angle close-up in The Red Couch Hideout, filmed from the perspective of a person lying down. The back of Elena's head is in the foreground. Leo, wearing the black-rimmed glasses, leans over her, his brow furrowing with concern as he looks down.",
+        "the white pillow: Plain white rectangular pillow.\nIn the dimly lit The Red Couch Hideout, Elena lies on her back on the white pillow, looking up attentively. Leo, wearing the blue plaid shirt, and Kai lean closely over her, and they engage in a serious, intimate conversation.",
+        "the medical scalpel: Stainless steel medical scalpel with a long, flat handle and a small, extremely sharp, curved and pointed blade.\n\nExtreme close-up on a deep, bloody gash on a forearm. Leo slowly lowers the medical scalpel, the blade coming to a halt just over the wound."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Low-angle close-up in The Red Couch Hideout, filmed from the perspective of a person lying down. The back of Elena's head is in the foreground. Leo, wearing the black-rimmed glasses, leans over her, his brow furrowing with concern as he looks down.",
+        "In the dimly lit The Red Couch Hideout, Elena lies on her back on the white pillow, looking up attentively. Leo, wearing the blue plaid shirt, and Kai lean closely over her, and they engage in a serious, intimate conversation.",
+        "Extreme close-up on a deep, bloody gash on a forearm. Leo slowly lowers the medical scalpel, the blade coming to a halt just over the wound."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Effigy Field: An open field of dark grass with two large, figure-shaped bonfires.\nthe flaming effigies: Two large, blazing fires sculpted into the shape of human figures, with bright orange and yellow flames.\nthe tactical assault rifle: Black tactical assault rifle with a collapsible stock, pistol grip, long barrel, detachable box magazine, and a scope mounted on a top rail.\n\nAt night in The Effigy Field, Elena lies on the ground between the flaming effigies, breathing slowly. Kai kneels beside her, leaning in to speak softly. The firelight flickers across the dark field. In the foreground, the tactical assault rifle rests on the grass."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At night in The Effigy Field, Elena lies on the ground between the flaming effigies, breathing slowly. Kai kneels beside her, leaning in to speak softly. The firelight flickers across the dark field. In the foreground, the tactical assault rifle rests on the grass."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Close-up of Kai lying on her back in the dimly lit The Red Couch Hideout. Her eyes dart nervously up and off-screen, her expression worried. Leo slowly leans into the frame above her, his own face filled with concern.",
+        "Claire: Woman with long, wavy blonde hair wearing a burgundy top and a pendant necklace\n\nTight close-up on the face of Leo, wearing the black-rimmed glasses. His expression becomes serious and focused as he stares intently at Claire just out of frame, his eyes narrowing slightly."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Kai lying on her back in the dimly lit The Red Couch Hideout. Her eyes dart nervously up and off-screen, her expression worried. Leo slowly leans into the frame above her, his own face filled with concern.",
+        "Tight close-up on the face of Leo, wearing the black-rimmed glasses. His expression becomes serious and focused as he stares intently at Claire just out of frame, his eyes narrowing slightly."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Arthur: Older man with grey hair, a full beard, and a bruised left eye, wearing a grey sweater.\nthe glowing insect swarm: A large, dense, amorphous swarm of tiny insects, each appearing as a small speck of glowing yellow-green bioluminescent light.\n\nAt night in The Effigy Field, Leo and Arthur stand together in the dark. Leo looks up as the glowing insect swarm drifts overhead, its bioluminescence lighting up their faces. Arthur follows his gaze, watching the swarm.",
+        "Extreme close-up on the face of Leo, wearing the black-rimmed glasses. He looks down with an expression of intense concentration."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "At night in The Effigy Field, Leo and Arthur stand together in the dark. Leo looks up as the glowing insect swarm drifts overhead, its bioluminescence lighting up their faces. Arthur follows his gaze, watching the swarm.",
+        "Extreme close-up on the face of Leo, wearing the black-rimmed glasses. He looks down with an expression of intense concentration."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Marcus: Man seen from a distance, wearing practical outdoor clothing and dark boots.\nCactus Rise: An arid, outdoor landscape of a grassy hill field dotted with various types of cacti and patches of tall, dry brush.\nThe Quarry Encampment: A sprawling quarry settlement and military encampment in an arid, rocky desert valley, characterized by utilitarian stone buildings, fortified structures, and clusters of canvas tents.\nthe pack horses: Horses with saddles piled high with bulky canvas packs, rolled bedrolls, and an assortment of leather bags, all secured by straps and ropes.\n\nFrom a rear wide shot, a group including Kai and Marcus pauses on Cactus Rise with their heavily laden pack horses, gesturing and speaking quietly to one another while observing The Quarry Encampment in the valley below. The scene is bathed in the warm, golden light of sunrise or sunset."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "From a rear wide shot, a group including Kai and Marcus pauses on Cactus Rise with their heavily laden pack horses, gesturing and speaking quietly to one another while observing The Quarry Encampment in the valley below. The scene is bathed in the warm, golden light of sunrise or sunset."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Julian: Man with gray hair, wearing a black suit jacket over a striped shirt and a dark tie.\n\nClose-up of Julian speaking intently in The Candlelit Chambers. The background is soft and blurry, filled with the warm, glowing light of out-of-focus candles."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Julian speaking intently in The Candlelit Chambers. The background is soft and blurry, filled with the warm, glowing light of out-of-focus candles."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Kai",
+        "Sofia"
+      ],
+      "places": [
+        "The Candlelit Chambers"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Leo",
+        "Elena"
+      ],
+      "places": [
+        "The Red Couch Hideout"
+      ],
+      "objects": [
+        "the black-rimmed glasses"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Kai",
+        "Elena",
+        "Leo"
+      ],
+      "places": [
+        "The Red Couch Hideout"
+      ],
+      "objects": [
+        "the white pillow",
+        "the blue plaid shirt"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [],
+      "objects": [
+        "the medical scalpel"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Kai",
+        "Elena"
+      ],
+      "places": [
+        "The Effigy Field"
+      ],
+      "objects": [
+        "the flaming effigies",
+        "the tactical assault rifle"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Kai",
+        "Leo"
+      ],
+      "places": [
+        "The Red Couch Hideout"
+      ],
+      "objects": []
+    },
+    "4:2": {
+      "characters": [
+        "Leo",
+        "Claire"
+      ],
+      "places": [],
+      "objects": [
+        "the black-rimmed glasses"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Leo",
+        "Arthur"
+      ],
+      "places": [
+        "The Effigy Field"
+      ],
+      "objects": [
+        "the glowing insect swarm"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [],
+      "objects": [
+        "the black-rimmed glasses"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Kai",
+        "Marcus"
+      ],
+      "places": [
+        "Cactus Rise",
+        "The Quarry Encampment"
+      ],
+      "objects": [
+        "the pack horses"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Candlelit Chambers"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Kai",
+      "label": "Character 1",
+      "description": "Young woman with short brown hair and a determined expression."
+    },
+    "Character 2": {
+      "name": "Arthur",
+      "label": "Character 2",
+      "description": "Older man with grey hair, a full beard, and a bruised left eye, wearing a grey sweater."
+    },
+    "Character 3": {
+      "name": "Elena",
+      "label": "Character 3",
+      "description": "Woman with long, wavy dark hair, wearing a beige tank top."
+    },
+    "Character 4": {
+      "name": "Marcus",
+      "label": "Character 4",
+      "description": "Man seen from a distance, wearing practical outdoor clothing and dark boots."
+    },
+    "Character 5": {
+      "name": "Sofia",
+      "label": "Character 5",
+      "description": "Woman with her brown hair pulled back, wearing a simple white blouse."
+    },
+    "Character 6": {
+      "name": "Leo",
+      "label": "Character 6",
+      "description": "Bald man with a beard, wearing black-rimmed glasses, an open plaid shirt over a grey t-shirt, and a brown strap over his shoulder."
+    },
+    "Character 8": {
+      "name": "Claire",
+      "label": "Character 8",
+      "description": "Woman with long, wavy blonde hair wearing a burgundy top and a pendant necklace"
+    },
+    "Character 9": {
+      "name": "Julian",
+      "label": "Character 9",
+      "description": "Man with gray hair, wearing a black suit jacket over a striped shirt and a dark tie."
+    },
+    "Location 1": {
+      "name": "The Red Couch Hideout",
+      "label": "Location 1",
+      "description": "Indoor hideout rooms featuring a red couch, a white pillow, and a patterned blanket."
+    },
+    "Location 2": {
+      "name": "The Candlelit Chambers",
+      "label": "Location 2",
+      "description": "A collection of various indoor rooms defined by a sparse arrangement of lit candles."
+    },
+    "Location 3": {
+      "name": "The Effigy Field",
+      "label": "Location 3",
+      "description": "An open field of dark grass with two large, figure-shaped bonfires."
+    },
+    "Location 4": {
+      "name": "The Quarry Encampment",
+      "label": "Location 4",
+      "description": "A sprawling quarry settlement and military encampment in an arid, rocky desert valley, characterized by utilitarian stone buildings, fortified structures, and clusters of canvas tents."
+    },
+    "Location 5": {
+      "name": "Cactus Rise",
+      "label": "Location 5",
+      "description": "An arid, outdoor landscape of a grassy hill field dotted with various types of cacti and patches of tall, dry brush."
+    },
+    "Object 1": {
+      "name": "the black-rimmed glasses",
+      "label": "Object 1",
+      "description": "Black-rimmed eyeglasses"
+    },
+    "Object 2": {
+      "name": "the blue plaid shirt",
+      "label": "Object 2",
+      "description": "Men's plaid shirt with a blue and grey pattern"
+    },
+    "Object 3": {
+      "name": "the white pillow",
+      "label": "Object 3",
+      "description": "Plain white rectangular pillow."
+    },
+    "Object 4": {
+      "name": "the medical scalpel",
+      "label": "Object 4",
+      "description": "Stainless steel medical scalpel with a long, flat handle and a small, extremely sharp, curved and pointed blade."
+    },
+    "Object 5": {
+      "name": "the flaming effigies",
+      "label": "Object 5",
+      "description": "Two large, blazing fires sculpted into the shape of human figures, with bright orange and yellow flames."
+    },
+    "Object 6": {
+      "name": "the tactical assault rifle",
+      "label": "Object 6",
+      "description": "Black tactical assault rifle with a collapsible stock, pistol grip, long barrel, detachable box magazine, and a scope mounted on a top rail."
+    },
+    "Object 7": {
+      "name": "the glowing insect swarm",
+      "label": "Object 7",
+      "description": "A large, dense, amorphous swarm of tiny insects, each appearing as a small speck of glowing yellow-green bioluminescent light."
+    },
+    "Object 8": {
+      "name": "the pack horses",
+      "label": "Object 8",
+      "description": "Horses with saddles piled high with bulky canvas packs, rolled bedrolls, and an assortment of leather bags, all secured by straps and ropes."
+    }
+  },
+  "_window_shot_ids": [
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0010",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0011",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0012",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0013",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0014",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0015",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0016",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0017",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0018",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0019",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run900__i0_j32__T420__shot0020"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Kai",
+    "Character 2": "Arthur",
+    "Character 3": "Elena",
+    "Character 4": "Marcus",
+    "Character 5": "Sofia",
+    "Character 6": "Leo",
+    "Character 7": "Aisha",
+    "Character 8": "Claire",
+    "Character 9": "Julian",
+    "Location 1": "The Red Couch Hideout",
+    "Location 2": "The Candlelit Chambers",
+    "Location 3": "The Effigy Field",
+    "Location 4": "The Quarry Encampment",
+    "Location 5": "Cactus Rise",
+    "Object 1": "the black-rimmed glasses",
+    "Object 2": "the blue plaid shirt",
+    "Object 3": "the white pillow",
+    "Object 4": "the medical scalpel",
+    "Object 5": "the flaming effigies",
+    "Object 6": "the tactical assault rifle",
+    "Object 7": "the glowing insect swarm",
+    "Object 8": "the pack horses"
+  }
+}

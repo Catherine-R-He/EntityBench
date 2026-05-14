@@ -1,0 +1,352 @@
+{
+  "story_name": "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240",
+  "story_overview": "After Martin is found unconscious in a car wreck, Gerard and Leo survey the chaotic crash site. The mystery unfolds as Gerard discusses a strange book with Sofia, and later has a tense confrontation with Walter in a pub under Nina's watchful eye.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Martin: Older man with short brown hair wearing a dark sweater.\nThe Meadow Crash Site: A grassy roadside field containing a crashed white car with a shattered windshield.\nthe crashed white car: White car with a heavily dented body and a shattered, soot-blackened front headlight.\n\nA medium shot at The Meadow Crash Site shows the crashed white car in a roadside field. One of the headlights of the crashed white car is on, its windshield is shattered, and smoke rises from its engine. Inside the crashed white car, Martin is slumped unconscious over the steering wheel.",
+        "Clara: Woman.\nA close-up view from inside the crashed white car at The Meadow Crash Site at night. The camera pans right across the dashboard, which is covered in shattered glass, revealing a grim reflection of Clara in a cracked mirror.",
+        "Gerard: Older man with graying hair, wearing a dark sweater layered over a collared shirt and a tie.\nLeo: Man wearing a dark jacket.\n\nAt night, Gerard and Leo stand on the roadside in The Meadow Crash Site, reacting to the scene. In the background, smoke billows from the wreckage of the crashed white car, its one remaining headlight shattered and dark. Gerard slowly shakes his head as they look on.",
+        "the hard-shell suitcase: Dark-colored, rectangular, hard-shell suitcase with a matte finish, scuffs and scratches on its surface, a top handle, and metal latches.\n\nLeo lies face down and nearly motionless in the grass, his fingers twitching slightly. The hard-shell suitcase rests on the ground near him."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "A medium shot at The Meadow Crash Site shows the crashed white car in a roadside field. One of the headlights of the crashed white car is on, its windshield is shattered, and smoke rises from its engine. Inside the crashed white car, Martin is slumped unconscious over the steering wheel.",
+        "A close-up view from inside the crashed white car at The Meadow Crash Site at night. The camera pans right across the dashboard, which is covered in shattered glass, revealing a grim reflection of Clara in a cracked mirror.",
+        "At night, Gerard and Leo stand on the roadside in The Meadow Crash Site, reacting to the scene. In the background, smoke billows from the wreckage of the crashed white car, its one remaining headlight shattered and dark. Gerard slowly shakes his head as they look on.",
+        "Leo lies face down and nearly motionless in the grass, his fingers twitching slightly. The hard-shell suitcase rests on the ground near him."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Sofia: Woman with long, wet, dark hair wearing a light blue bathrobe.\nThe Oakwood Study: Formal indoor living room and study with dark wood-paneled walls, floor-to-ceiling built-in bookshelves filled with leather-bound books, a large fireplace with a carved stone mantel, furnished with a plush couch and several leather armchairs on an oriental rug over a polished hardwood floor.\nthe dark necktie: Solid, dark-colored men's necktie.\nthe green cloth-bound book: A thick, well-worn, dark green cloth-bound hardcover book with faded gold-leaf lettering on its spine, open to reveal aged, yellowed pages with dense black text.\n\nClose-up on Gerard, wearing the dark necktie, in The Oakwood Study. He holds the green cloth-bound book, his gaze fixed forward as his expression grows more serious and concerned. Beside him, Sofia leans in slightly, her eyes wide with anxiety.",
+        "Nina: Woman with short dark hair wearing a light purple t-shirt and a gold chain necklace.\nthe ornate storybook: Large, ornate hardcover book with a decorative cover, open to a two-page spread with colorful illustrations and blocks of text.\n\nClose-up of Nina sitting in the dimly lit The Oakwood Study. She holds the ornate storybook open on her lap as she speaks.",
+        "Close-up of Gerard, wearing the dark v-neck sweater and the dark necktie, in the dimly lit The Oakwood Study. He holds the open green cloth-bound book and speaks with a serious expression. Sofia stands in the background, listening intently."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on Gerard, wearing the dark necktie, in The Oakwood Study. He holds the green cloth-bound book, his gaze fixed forward as his expression grows more serious and concerned. Beside him, Sofia leans in slightly, her eyes wide with anxiety.",
+        "Close-up of Nina sitting in the dimly lit The Oakwood Study. She holds the ornate storybook open on her lap as she speaks.",
+        "Close-up of Gerard, wearing the dark v-neck sweater and the dark necktie, in the dimly lit The Oakwood Study. He holds the open green cloth-bound book and speaks with a serious expression. Sofia stands in the background, listening intently."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Walter: Older man with greyish hair, wearing a dark suit jacket over a white shirt and a dark tie.\nThe Salty Dog Pub: Interior of a traditional pub featuring dark wood-paneled walls, a prominent dartboard with a surrounding cork backboard, a large chalkboard with white chalk scores, a long wooden bar, and several small tables with chairs.\nthe worn dartboard: Standard circular sisal fiber dartboard with alternating black and beige wedge-shaped segments, thin red and green double and triple score rings, a central red bullseye, and a thin wire spider separating the sections, its surface pocked with numerous small holes from use.\nthe pub scoreboard: Dark wooden-framed black chalkboard with columns of names and scores handwritten in smudged white chalk.\nthe single red dart: Small dart with a sharp steel tip, a gold-colored brass barrel with a knurled grip, a black plastic shaft, and a simple red flight.\n\nClose-up in The Salty Dog Pub, where the worn dartboard hangs on the wall. Gerard and Walter are locked in an intense conversation, with Gerard gesturing with the single red dart in his hand. Nearby, Nina leans against the pub scoreboard, watching the two men."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up in The Salty Dog Pub, where the worn dartboard hangs on the wall. Gerard and Walter are locked in an intense conversation, with Gerard gesturing with the single red dart in his hand. Nearby, Nina leans against the pub scoreboard, watching the two men."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Grand Hotel Exterior: The exterior of a large, ivy-covered hotel featuring a driveway leading to its entrance.\nthe black sedan: Black four-door sedan with a glossy finish and tinted windows.\n\nWide establishing shot of The Grand Hotel Exterior at night. the black sedan pulls up and parks in the driveway. Clara gets out of the black sedan and walks towards the brightly lit entrance of The Grand Hotel Exterior.",
+        "Alex: Person with dark hair.\nthe red sports car: Sleek, glossy red sports car.\n\nAt night, the red sports car and the black sedan are parked in the driveway of The Grand Hotel Exterior. Martin stands beside the red sports car. Alex walks out from behind the black sedan, crossing in front of both cars."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Wide establishing shot of The Grand Hotel Exterior at night. the black sedan pulls up and parks in the driveway. Clara gets out of the black sedan and walks towards the brightly lit entrance of The Grand Hotel Exterior.",
+        "At night, the red sports car and the black sedan are parked in the driveway of The Grand Hotel Exterior. Martin stands beside the red sports car. Alex walks out from behind the black sedan, crossing in front of both cars."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Martin"
+      ],
+      "places": [
+        "The Meadow Crash Site"
+      ],
+      "objects": [
+        "the crashed white car"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Meadow Crash Site"
+      ],
+      "objects": [
+        "the crashed white car"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Gerard",
+        "Leo"
+      ],
+      "places": [
+        "The Meadow Crash Site"
+      ],
+      "objects": [
+        "the crashed white car"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Meadow Crash Site"
+      ],
+      "objects": [
+        "the hard-shell suitcase"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Gerard",
+        "Sofia"
+      ],
+      "places": [
+        "The Oakwood Study"
+      ],
+      "objects": [
+        "the dark necktie",
+        "the green cloth-bound book"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Nina"
+      ],
+      "places": [
+        "The Oakwood Study"
+      ],
+      "objects": [
+        "the ornate storybook"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Gerard",
+        "Sofia"
+      ],
+      "places": [
+        "The Oakwood Study"
+      ],
+      "objects": [
+        "the dark v-neck sweater",
+        "the dark necktie",
+        "the green cloth-bound book"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Gerard",
+        "Nina",
+        "Walter"
+      ],
+      "places": [
+        "The Salty Dog Pub"
+      ],
+      "objects": [
+        "the worn dartboard",
+        "the pub scoreboard",
+        "the single red dart"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Grand Hotel Exterior"
+      ],
+      "objects": [
+        "the black sedan"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Alex",
+        "Martin"
+      ],
+      "places": [
+        "The Grand Hotel Exterior"
+      ],
+      "objects": [
+        "the red sports car",
+        "the black sedan"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Walter",
+      "label": "Character 1",
+      "description": "Older man with greyish hair, wearing a dark suit jacket over a white shirt and a dark tie."
+    },
+    "Character 2": {
+      "name": "Sofia",
+      "label": "Character 2",
+      "description": "Woman with long, wet, dark hair wearing a light blue bathrobe."
+    },
+    "Character 3": {
+      "name": "Gerard",
+      "label": "Character 3",
+      "description": "Older man with graying hair, wearing a dark sweater layered over a collared shirt and a tie."
+    },
+    "Character 4": {
+      "name": "Alex",
+      "label": "Character 4",
+      "description": "Person with dark hair."
+    },
+    "Character 5": {
+      "name": "Martin",
+      "label": "Character 5",
+      "description": "Older man with short brown hair wearing a dark sweater."
+    },
+    "Character 6": {
+      "name": "Clara",
+      "label": "Character 6",
+      "description": "Woman."
+    },
+    "Character 7": {
+      "name": "Leo",
+      "label": "Character 7",
+      "description": "Man wearing a dark jacket."
+    },
+    "Character 8": {
+      "name": "Nina",
+      "label": "Character 8",
+      "description": "Woman with short dark hair wearing a light purple t-shirt and a gold chain necklace."
+    },
+    "Location 1": {
+      "name": "The Oakwood Study",
+      "label": "Location 1",
+      "description": "Formal indoor living room and study with dark wood-paneled walls, floor-to-ceiling built-in bookshelves filled with leather-bound books, a large fireplace with a carved stone mantel, furnished with a plush couch and several leather armchairs on an oriental rug over a polished hardwood floor."
+    },
+    "Location 2": {
+      "name": "The Meadow Crash Site",
+      "label": "Location 2",
+      "description": "A grassy roadside field containing a crashed white car with a shattered windshield."
+    },
+    "Location 3": {
+      "name": "The Salty Dog Pub",
+      "label": "Location 3",
+      "description": "Interior of a traditional pub featuring dark wood-paneled walls, a prominent dartboard with a surrounding cork backboard, a large chalkboard with white chalk scores, a long wooden bar, and several small tables with chairs."
+    },
+    "Location 4": {
+      "name": "The Grand Hotel Exterior",
+      "label": "Location 4",
+      "description": "The exterior of a large, ivy-covered hotel featuring a driveway leading to its entrance."
+    },
+    "Object 1": {
+      "name": "the ornate storybook",
+      "label": "Object 1",
+      "description": "Large, ornate hardcover book with a decorative cover, open to a two-page spread with colorful illustrations and blocks of text."
+    },
+    "Object 2": {
+      "name": "the dark v-neck sweater",
+      "label": "Object 2",
+      "description": "Man's dark v-neck sweater"
+    },
+    "Object 3": {
+      "name": "the green cloth-bound book",
+      "label": "Object 3",
+      "description": "A thick, well-worn, dark green cloth-bound hardcover book with faded gold-leaf lettering on its spine, open to reveal aged, yellowed pages with dense black text."
+    },
+    "Object 4": {
+      "name": "the crashed white car",
+      "label": "Object 4",
+      "description": "White car with a heavily dented body and a shattered, soot-blackened front headlight."
+    },
+    "Object 5": {
+      "name": "the hard-shell suitcase",
+      "label": "Object 5",
+      "description": "Dark-colored, rectangular, hard-shell suitcase with a matte finish, scuffs and scratches on its surface, a top handle, and metal latches."
+    },
+    "Object 6": {
+      "name": "the dark necktie",
+      "label": "Object 6",
+      "description": "Solid, dark-colored men's necktie."
+    },
+    "Object 7": {
+      "name": "the pub scoreboard",
+      "label": "Object 7",
+      "description": "Dark wooden-framed black chalkboard with columns of names and scores handwritten in smudged white chalk."
+    },
+    "Object 8": {
+      "name": "the single red dart",
+      "label": "Object 8",
+      "description": "Small dart with a sharp steel tip, a gold-colored brass barrel with a knurled grip, a black plastic shaft, and a simple red flight."
+    },
+    "Object 9": {
+      "name": "the worn dartboard",
+      "label": "Object 9",
+      "description": "Standard circular sisal fiber dartboard with alternating black and beige wedge-shaped segments, thin red and green double and triple score rings, a central red bullseye, and a thin wire spider separating the sections, its surface pocked with numerous small holes from use."
+    },
+    "Object 10": {
+      "name": "the black sedan",
+      "label": "Object 10",
+      "description": "Black four-door sedan with a glossy finish and tinted windows."
+    },
+    "Object 11": {
+      "name": "the red sports car",
+      "label": "Object 11",
+      "description": "Sleek, glossy red sports car."
+    }
+  },
+  "_window_shot_ids": [
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240__shot0017",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240__shot0018",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240__shot0019",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240__shot0020",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240__shot0021",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240__shot0022",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240__shot0023",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240__shot0024",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240__shot0025",
+    "000cfe04-0e13-3d9b-a375-13a2ffa989fd__run1535__i40_j60__T240__shot0026"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Walter",
+    "Character 2": "Sofia",
+    "Character 3": "Gerard",
+    "Character 4": "Alex",
+    "Character 5": "Martin",
+    "Character 6": "Clara",
+    "Character 7": "Leo",
+    "Character 8": "Nina",
+    "Location 1": "The Oakwood Study",
+    "Location 2": "The Meadow Crash Site",
+    "Location 3": "The Salty Dog Pub",
+    "Location 4": "The Grand Hotel Exterior",
+    "Object 1": "the ornate storybook",
+    "Object 10": "the black sedan",
+    "Object 11": "the red sports car",
+    "Object 2": "the dark v-neck sweater",
+    "Object 3": "the green cloth-bound book",
+    "Object 4": "the crashed white car",
+    "Object 5": "the hard-shell suitcase",
+    "Object 6": "the dark necktie",
+    "Object 7": "the pub scoreboard",
+    "Object 8": "the single red dart",
+    "Object 9": "the worn dartboard"
+  }
+}

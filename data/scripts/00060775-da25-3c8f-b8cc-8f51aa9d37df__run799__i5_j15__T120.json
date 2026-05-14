@@ -1,0 +1,346 @@
+{
+  "story_name": "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120",
+  "story_overview": "A mysterious series of events unfolds as Ethan meets with various associates like Oscar and Jordan at an outdoor cafe. The tension builds, leading to a serious confrontation in an executive office where Arthur lays down the law, with Maya's pensive mood hinting at the personal stakes involved.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Maya: Woman with long dark hair.\nThe Interior Space: Unspecified indoor location.\nthe brown leather-trimmed jacket: Brown jacket with a brown leather collar and cuffs.\nRiley: Person wearing a long-sleeved striped shirt\n\nMaya and Riley are close together. Maya slowly looks downwards, her expression growing pensive and somber."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Maya and Riley are close together. Maya slowly looks downwards, her expression growing pensive and somber."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Ethan: Young man with a beard and glasses, wearing a white shirt.\nThe Courtyard Cafe: Outdoor cafe featuring a wrought iron table set with white coffee cups.\n\nA close-up of Ethan at The Courtyard Cafe. He is wearing the brown leather-trimmed jacket. Ethan winces, his face showing sudden pain as he touches his right temple with his hand.",
+        "Oscar: Man wearing a brown jacket and a white shirt.\nthe thin-framed glasses: A pair of eyeglasses with clear lenses and thin frames.\nthe round wooden cafe table: Small, round outdoor cafe table with a weathered wooden slatted top and a single black wrought iron pedestal base.\nMedium close-up in The Courtyard Cafe. Ethan and Oscar sit opposite each other at the round wooden cafe table. Ethan, wearing the thin-framed glasses, listens intently with a concerned expression on his face. Oscar leans forward across the table, speaking to him.",
+        "Jordan: Person of unspecified appearance.\n\nClose-up of Ethan at a table in The Courtyard Cafe, wincing as he squeezes his eyes shut with a pained expression. Jordan sits across from him, leaning forward slightly with a concerned look. The brown leather-trimmed jacket is draped over the back of a nearby chair.",
+        "View from over the shoulder of Oscar, focused on Jordan sitting at the round wooden cafe table in The Courtyard Cafe. Jordan picks up a ringing cellphone, her expression turning serious and concerned as she looks at the screen.",
+        "Close-up shot of Ethan sitting at a table in The Courtyard Cafe, wearing the thin-framed glasses. He talks with a serious expression as Jordan listens from across the table.",
+        "Arthur: Older man with glasses, wearing a black blazer over a white shirt.\nthe large potted plant: Large decorative plant with broad green leaves.\n\nAt The Courtyard Cafe, Jordan sits at the sunlit round wooden cafe table, the brown leather-trimmed jacket draped over the back of her chair, and speaks animatedly, gesturing with her hands. Across the table, Arthur, wearing the thin-framed glasses, leans forward and listens intently. To the right of their table stands the large potted plant."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "A close-up of Ethan at The Courtyard Cafe. He is wearing the brown leather-trimmed jacket. Ethan winces, his face showing sudden pain as he touches his right temple with his hand.",
+        "Medium close-up in The Courtyard Cafe. Ethan and Oscar sit opposite each other at the round wooden cafe table. Ethan, wearing the thin-framed glasses, listens intently with a concerned expression on his face. Oscar leans forward across the table, speaking to him.",
+        "Close-up of Ethan at a table in The Courtyard Cafe, wincing as he squeezes his eyes shut with a pained expression. Jordan sits across from him, leaning forward slightly with a concerned look. The brown leather-trimmed jacket is draped over the back of a nearby chair.",
+        "View from over the shoulder of Oscar, focused on Jordan sitting at the round wooden cafe table in The Courtyard Cafe. Jordan picks up a ringing cellphone, her expression turning serious and concerned as she looks at the screen.",
+        "Close-up shot of Ethan sitting at a table in The Courtyard Cafe, wearing the thin-framed glasses. He talks with a serious expression as Jordan listens from across the table.",
+        "At The Courtyard Cafe, Jordan sits at the sunlit round wooden cafe table, the brown leather-trimmed jacket draped over the back of her chair, and speaks animatedly, gesturing with her hands. Across the table, Arthur, wearing the thin-framed glasses, leans forward and listens intently. To the right of their table stands the large potted plant."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Maya slowly looks down, her expression turning sad and pensive. Ethan, standing beside her, watches her with growing concern."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Maya slowly looks down, her expression turning sad and pensive. Ethan, standing beside her, watches her with growing concern."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Medium shot in The Courtyard Cafe. Jordan is seated at the round wooden cafe table. Ethan approaches, leans forward with a concerned expression, and shakes hands with Jordan across the table."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Courtyard Cafe. Jordan is seated at the round wooden cafe table. Ethan approaches, leans forward with a concerned expression, and shakes hands with Jordan across the table."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Robinson Lifestyle Center: Exterior of a modern shopping mall building, the Robinson Lifestyle Center, with a large, prominent entrance and a contemporary architectural facade.\n\nExterior, daytime. From behind, Riley, Ethan, and Maya walk purposefully towards the large entrance of Robinson Lifestyle Center, the camera following them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Exterior, daytime. From behind, Riley, Ethan, and Maya walk purposefully towards the large entrance of Robinson Lifestyle Center, the camera following them."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Executive Office: An office interior with dark wood-paneled walls, a large desk, and various office chairs and furniture.\nthe large wooden executive desk: Large executive desk made of a dark, polished wood, with a wide rectangular top showing minor surface scratches and a worn-in patina, featuring two pedestals of drawers with small, antiqued brass pulls.\n\nIn a medium shot inside the tense and dimly lit The Executive Office, Arthur sits at the large wooden executive desk and speaks, gesturing emphatically. Oscar and Jordan listen intently, occasionally nodding. Ethan stands guard in the background, his eyes slowly scanning the room."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a medium shot inside the tense and dimly lit The Executive Office, Arthur sits at the large wooden executive desk and speaks, gesturing emphatically. Oscar and Jordan listen intently, occasionally nodding. Ethan stands guard in the background, his eyes slowly scanning the room."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Maya",
+        "Riley"
+      ],
+      "places": [
+        "The Interior Space"
+      ],
+      "objects": [
+        "the brown leather-trimmed jacket"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Ethan"
+      ],
+      "places": [
+        "The Courtyard Cafe"
+      ],
+      "objects": [
+        "the brown leather-trimmed jacket"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Oscar",
+        "Ethan"
+      ],
+      "places": [
+        "The Courtyard Cafe"
+      ],
+      "objects": [
+        "the thin-framed glasses",
+        "the round wooden cafe table"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Ethan",
+        "Jordan"
+      ],
+      "places": [
+        "The Courtyard Cafe"
+      ],
+      "objects": [
+        "the brown leather-trimmed jacket"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Jordan",
+        "Oscar"
+      ],
+      "places": [
+        "The Courtyard Cafe"
+      ],
+      "objects": [
+        "the round wooden cafe table",
+        "cellphone"
+      ]
+    },
+    "2:5": {
+      "characters": [
+        "Jordan",
+        "Ethan"
+      ],
+      "places": [
+        "The Courtyard Cafe"
+      ],
+      "objects": [
+        "the thin-framed glasses"
+      ]
+    },
+    "2:6": {
+      "characters": [
+        "Jordan",
+        "Arthur"
+      ],
+      "places": [
+        "The Courtyard Cafe"
+      ],
+      "objects": [
+        "the round wooden cafe table",
+        "the brown leather-trimmed jacket",
+        "the thin-framed glasses",
+        "the large potted plant"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Maya",
+        "Ethan"
+      ],
+      "places": [
+        "The Interior Space"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Ethan",
+        "Jordan"
+      ],
+      "places": [
+        "The Courtyard Cafe"
+      ],
+      "objects": [
+        "the round wooden cafe table"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Ethan",
+        "Maya",
+        "Riley"
+      ],
+      "places": [
+        "Robinson Lifestyle Center"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Ethan",
+        "Oscar",
+        "Jordan",
+        "Arthur"
+      ],
+      "places": [
+        "The Executive Office"
+      ],
+      "objects": [
+        "the large wooden executive desk"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 2": {
+      "name": "Riley",
+      "label": "Character 2",
+      "description": "Person wearing a long-sleeved striped shirt"
+    },
+    "Character 3": {
+      "name": "Maya",
+      "label": "Character 3",
+      "description": "Woman with long dark hair."
+    },
+    "Character 4": {
+      "name": "Ethan",
+      "label": "Character 4",
+      "description": "Young man with a beard and glasses, wearing a white shirt."
+    },
+    "Character 5": {
+      "name": "Oscar",
+      "label": "Character 5",
+      "description": "Man wearing a brown jacket and a white shirt."
+    },
+    "Character 6": {
+      "name": "Arthur",
+      "label": "Character 6",
+      "description": "Older man with glasses, wearing a black blazer over a white shirt."
+    },
+    "Character 7": {
+      "name": "Jordan",
+      "label": "Character 7",
+      "description": "Person of unspecified appearance."
+    },
+    "Location 1": {
+      "name": "The Courtyard Cafe",
+      "label": "Location 1",
+      "description": "Outdoor cafe featuring a wrought iron table set with white coffee cups."
+    },
+    "Location 2": {
+      "name": "The Interior Space",
+      "label": "Location 2",
+      "description": "Unspecified indoor location."
+    },
+    "Location 3": {
+      "name": "Robinson Lifestyle Center",
+      "label": "Location 3",
+      "description": "Exterior of a modern shopping mall building, the Robinson Lifestyle Center, with a large, prominent entrance and a contemporary architectural facade."
+    },
+    "Location 4": {
+      "name": "The Executive Office",
+      "label": "Location 4",
+      "description": "An office interior with dark wood-paneled walls, a large desk, and various office chairs and furniture."
+    },
+    "Object 1": {
+      "name": "the brown leather-trimmed jacket",
+      "label": "Object 1",
+      "description": "Brown jacket with a brown leather collar and cuffs."
+    },
+    "Object 2": {
+      "name": "the round wooden cafe table",
+      "label": "Object 2",
+      "description": "Small, round outdoor cafe table with a weathered wooden slatted top and a single black wrought iron pedestal base."
+    },
+    "Object 3": {
+      "name": "the thin-framed glasses",
+      "label": "Object 3",
+      "description": "A pair of eyeglasses with clear lenses and thin frames."
+    },
+    "Object 4": {
+      "name": "the large potted plant",
+      "label": "Object 4",
+      "description": "Large decorative plant with broad green leaves."
+    },
+    "Object 5": {
+      "name": "the dark green collared shirt",
+      "label": "Object 5",
+      "description": "Dark green collared shirt"
+    },
+    "Object 6": {
+      "name": "the large wooden executive desk",
+      "label": "Object 6",
+      "description": "Large executive desk made of a dark, polished wood, with a wide rectangular top showing minor surface scratches and a worn-in patina, featuring two pedestals of drawers with small, antiqued brass pulls."
+    }
+  },
+  "_window_shot_ids": [
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0019",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0020",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0021",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0022",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0023",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0024",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0025",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0026",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0027",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0028",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run799__i5_j15__T120__shot0029"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Riley",
+    "Character 3": "Maya",
+    "Character 4": "Ethan",
+    "Character 5": "Oscar",
+    "Character 6": "Arthur",
+    "Character 7": "Jordan",
+    "Location 1": "The Courtyard Cafe",
+    "Location 2": "The Interior Space",
+    "Location 3": "Robinson Lifestyle Center",
+    "Location 4": "The Executive Office",
+    "Object 1": "the brown leather-trimmed jacket",
+    "Object 2": "the round wooden cafe table",
+    "Object 3": "the thin-framed glasses",
+    "Object 4": "the large potted plant",
+    "Object 5": "the dark green collared shirt",
+    "Object 6": "the large wooden executive desk"
+  }
+}

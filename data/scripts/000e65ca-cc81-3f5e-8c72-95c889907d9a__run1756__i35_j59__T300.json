@@ -1,0 +1,357 @@
+{
+  "story_name": "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300",
+  "story_overview": "Riley tends to a beehive while friends Mia, Chloe, and Sadie play in a nearby field. The mood shifts as Chloe, Mia, and Leo navigate a series of intense conversations, leading to a passionate moment between Chloe and Mia. Later, the group, including Leo, Riley, and Sam, comes together for a musical performance on stage.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Riley: Person of unspecified gender wearing a full-body white beekeeper suit complete with a wide-brimmed hat and an attached mesh veil obscuring the face.\nHoneybee Meadow: A rural farm area with a field of tall grass and a wooden beehive.\nthe bee-covered honeycomb frame: Rectangular wooden beekeeping structure with an internal waxy honeycomb, its surface densely covered by a mass of black and yellow honeybees.\n\nIn Honeybee Meadow, Riley, wearing the white beekeeper suit, lifts the top section of the stacked beehive and places it on the grass. This action reveals several vertical bee-covered honeycomb frames inside the lower section of the stacked beehive.",
+        "Mia: Woman wearing a hot pink long-sleeved shirt with rolled-up sleeves and a delicate black beaded necklace.\nChloe: Woman with shoulder-length blonde hair, wearing a pink dress under a denim jacket, and a large tan hat.\nSadie: Woman with long, wavy brown hair wearing a pink lace top under a medium-wash denim jacket and a large tan fedora.\n\nIn Honeybee Meadow, Mia playfully shadowboxes with Chloe while Sadie watches, standing near the white beekeeper suit. Mia then turns, runs away from the others, and leaps into a patch of tall grass, disappearing from view."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In Honeybee Meadow, Riley, wearing the white beekeeper suit, lifts the top section of the stacked beehive and places it on the grass. This action reveals several vertical bee-covered honeycomb frames inside the lower section of the stacked beehive.",
+        "In Honeybee Meadow, Mia playfully shadowboxes with Chloe while Sadie watches, standing near the white beekeeper suit. Mia then turns, runs away from the others, and leaps into a patch of tall grass, disappearing from view."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Leo: Young man with dark hair, wearing a pale pink t-shirt and a black leather cord necklace.\nThe Jam Room: Indoor music room containing a patterned rug, two acoustic guitars, string lights, and banners spelling 'M I G' set against a large, empty, rectangular gold border.\nthe gilded photo frame: Large, empty, ornate gold rectangular border decorated with string lights and small banners that spell 'M I G'.\nthe bohemian area rug: Large, worn, rectangular bohemian-style area rug with an intricate, faded pattern of geometric medallions and floral motifs in deep red, cream, and navy blue, with frayed white tassels along the shorter edges.\nthe M-I-G banner lights: A decorative arrangement of string lights and banners forming the letters 'M I G'.\n\nIn the dimly lit The Jam Room, Leo and Sadie sit side-by-side on the bohemian area rug. They are posing for a photo inside the gilded photo frame, which is decorated with the M-I-G banner lights. Leo, on the left, wears a pale pink t-shirt and a black leather cord necklace. Sadie, on the right, wears a pink lace top under a medium-wash denim jacket. They share a quick look, then turn to the camera and offer small smiles."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Jam Room, Leo and Sadie sit side-by-side on the bohemian area rug. They are posing for a photo inside the gilded photo frame, which is decorated with the M-I-G banner lights. Leo, on the left, wears a pale pink t-shirt and a black leather cord necklace. Sadie, on the right, wears a pink lace top under a medium-wash denim jacket. They share a quick look, then turn to the camera and offer small smiles."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Timber Room: Indoor room with textured wooden walls.\n\nMia, wearing the hot pink long-sleeved shirt, speaks with a concerned expression while standing in front of a textured wooden wall. Chloe stands opposite her, nodding slightly as she listens attentively.",
+        "Leo talks seriously to Mia, who listens intently, her expression shifting subtly.",
+        "Close-up in the dimly lit Timber Room. Chloe and Mia sit next to each other. Chloe turns her head into profile to look away, her expression serious. Mia watches her with concern, shifting slightly. In the background, Sadie shifts her weight as she observes the scene.",
+        "Mia speaks to Leo, who listens with a surprised and attentive expression, his eyes widening slightly. They stand very close to each other, leaning in to their intimate conversation.",
+        "Leo, Mia, and Chloe sit close together. Leo, in profile, leans slightly toward Mia, speaking intently. Mia listens to him, her expression growing more serious.",
+        "In a close-up view inside the dimly lit The Timber Room, Chloe and Mia share a passionate kiss. They slowly pull apart, their faces remaining close as they look into each other's eyes and smile softly.",
+        "A close-up shot of Mia, wearing her hot pink long-sleeved shirt and a delicate black beaded necklace, and Chloe, wearing a pink dress under a denim jacket, sitting side-by-side in The Timber Room. Mia is talking and then breaks into a happy smile. Chloe looks at Mia and listens with a warm, fond smile on her face."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Mia, wearing the hot pink long-sleeved shirt, speaks with a concerned expression while standing in front of a textured wooden wall. Chloe stands opposite her, nodding slightly as she listens attentively.",
+        "Leo talks seriously to Mia, who listens intently, her expression shifting subtly.",
+        "Close-up in the dimly lit Timber Room. Chloe and Mia sit next to each other. Chloe turns her head into profile to look away, her expression serious. Mia watches her with concern, shifting slightly. In the background, Sadie shifts her weight as she observes the scene.",
+        "Mia speaks to Leo, who listens with a surprised and attentive expression, his eyes widening slightly. They stand very close to each other, leaning in to their intimate conversation.",
+        "Leo, Mia, and Chloe sit close together. Leo, in profile, leans slightly toward Mia, speaking intently. Mia listens to him, her expression growing more serious.",
+        "In a close-up view inside the dimly lit The Timber Room, Chloe and Mia share a passionate kiss. They slowly pull apart, their faces remaining close as they look into each other's eyes and smile softly.",
+        "A close-up shot of Mia, wearing her hot pink long-sleeved shirt and a delicate black beaded necklace, and Chloe, wearing a pink dress under a denim jacket, sitting side-by-side in The Timber Room. Mia is talking and then breaks into a happy smile. Chloe looks at Mia and listens with a warm, fond smile on her face."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Sam: Person with dark brown hair.\nThe Heritage Hall Lobby: Indoor lobby of the Heritage Hall / Theater Complex, with framed promotional material for Gwen Taylor displayed on the walls.\nthe bright yellow electric guitar: Electric guitar with a glossy, bright yellow body, a white pickguard, a light-colored maple neck, and chrome hardware.\nthe Ivy Coast stage screen: A large, backlit stage screen featuring the words 'IVY COAST'.\n\nWide shot of a brightly lit stage inside The Heritage Hall Lobby. Mia and Leo stand center stage; Mia glances at Leo and smiles as he adjusts the bright yellow electric guitar he is holding. The large, backlit Ivy Coast stage screen glows behind them. At the side of the stage, Sam crouches down, working on some equipment as Sadie walks past.",
+        "In the Heritage Hall Lobby, Chloe, Mia, and Riley stand together in front of a wall displaying framed promotional material for Gwen Taylor, turning to watch as Sadie approaches. Sam stands with them, holding the bright yellow electric guitar and also looking towards Sadie. In the foreground, Sadie walks towards the group."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Wide shot of a brightly lit stage inside The Heritage Hall Lobby. Mia and Leo stand center stage; Mia glances at Leo and smiles as he adjusts the bright yellow electric guitar he is holding. The large, backlit Ivy Coast stage screen glows behind them. At the side of the stage, Sam crouches down, working on some equipment as Sadie walks past.",
+        "In the Heritage Hall Lobby, Chloe, Mia, and Riley stand together in front of a wall displaying framed promotional material for Gwen Taylor, turning to watch as Sadie approaches. Sam stands with them, holding the bright yellow electric guitar and also looking towards Sadie. In the foreground, Sadie walks towards the group."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Riley"
+      ],
+      "places": [
+        "Honeybee Meadow"
+      ],
+      "objects": [
+        "the white beekeeper suit",
+        "the stacked beehive",
+        "the bee-covered honeycomb frame"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Mia",
+        "Chloe",
+        "Sadie"
+      ],
+      "places": [
+        "Honeybee Meadow"
+      ],
+      "objects": [
+        "the white beekeeper suit"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Sadie",
+        "Leo"
+      ],
+      "places": [
+        "The Jam Room"
+      ],
+      "objects": [
+        "the gilded photo frame",
+        "the bohemian area rug",
+        "the M-I-G banner lights"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Chloe",
+        "Mia"
+      ],
+      "places": [
+        "The Timber Room"
+      ],
+      "objects": []
+    },
+    "3:2": {
+      "characters": [
+        "Mia",
+        "Leo"
+      ],
+      "places": [
+        "The Timber Room"
+      ],
+      "objects": []
+    },
+    "3:3": {
+      "characters": [
+        "Chloe",
+        "Mia",
+        "Sadie"
+      ],
+      "places": [
+        "The Timber Room"
+      ],
+      "objects": []
+    },
+    "3:4": {
+      "characters": [
+        "Mia",
+        "Leo"
+      ],
+      "places": [
+        "The Timber Room"
+      ],
+      "objects": []
+    },
+    "3:5": {
+      "characters": [
+        "Chloe",
+        "Mia",
+        "Leo"
+      ],
+      "places": [
+        "The Timber Room"
+      ],
+      "objects": []
+    },
+    "3:6": {
+      "characters": [
+        "Chloe",
+        "Mia"
+      ],
+      "places": [
+        "The Timber Room"
+      ],
+      "objects": []
+    },
+    "3:7": {
+      "characters": [
+        "Chloe",
+        "Mia"
+      ],
+      "places": [
+        "The Timber Room"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Mia",
+        "Leo",
+        "Sadie",
+        "Sam"
+      ],
+      "places": [
+        "The Heritage Hall Lobby"
+      ],
+      "objects": [
+        "the bright yellow electric guitar",
+        "the Ivy Coast stage screen"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Chloe",
+        "Mia",
+        "Sadie",
+        "Riley",
+        "Sam"
+      ],
+      "places": [
+        "The Heritage Hall Lobby"
+      ],
+      "objects": [
+        "the bright yellow electric guitar"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Chloe",
+      "label": "Character 1",
+      "description": "Woman with shoulder-length blonde hair, wearing a pink dress under a denim jacket, and a large tan hat."
+    },
+    "Character 2": {
+      "name": "Mia",
+      "label": "Character 2",
+      "description": "Woman wearing a hot pink long-sleeved shirt with rolled-up sleeves and a delicate black beaded necklace."
+    },
+    "Character 3": {
+      "name": "Sadie",
+      "label": "Character 3",
+      "description": "Woman with long, wavy brown hair wearing a pink lace top under a medium-wash denim jacket and a large tan fedora."
+    },
+    "Character 4": {
+      "name": "Leo",
+      "label": "Character 4",
+      "description": "Young man with dark hair, wearing a pale pink t-shirt and a black leather cord necklace."
+    },
+    "Character 5": {
+      "name": "Riley",
+      "label": "Character 5",
+      "description": "Person of unspecified gender wearing a full-body white beekeeper suit complete with a wide-brimmed hat and an attached mesh veil obscuring the face."
+    },
+    "Character 7": {
+      "name": "Sam",
+      "label": "Character 7",
+      "description": "Person with dark brown hair."
+    },
+    "Location 1": {
+      "name": "The Heritage Hall Lobby",
+      "label": "Location 1",
+      "description": "Indoor lobby of the Heritage Hall / Theater Complex, with framed promotional material for Gwen Taylor displayed on the walls."
+    },
+    "Location 2": {
+      "name": "The Timber Room",
+      "label": "Location 2",
+      "description": "Indoor room with textured wooden walls."
+    },
+    "Location 3": {
+      "name": "Honeybee Meadow",
+      "label": "Location 3",
+      "description": "A rural farm area with a field of tall grass and a wooden beehive."
+    },
+    "Location 4": {
+      "name": "The Jam Room",
+      "label": "Location 4",
+      "description": "Indoor music room containing a patterned rug, two acoustic guitars, string lights, and banners spelling 'M I G' set against a large, empty, rectangular gold border."
+    },
+    "Object 1": {
+      "name": "the blue floral shirt",
+      "label": "Object 1",
+      "description": "Men's short-sleeved, button-up shirt with a light blue base color and a light-colored all-over floral pattern"
+    },
+    "Object 2": {
+      "name": "the white beekeeper suit",
+      "label": "Object 2",
+      "description": "White, full protective beekeeper's suit, consisting of a jacket and a hooded veil with a mesh face screen"
+    },
+    "Object 3": {
+      "name": "the stacked beehive",
+      "label": "Object 3",
+      "description": "A beehive constructed from several stacked, rectangular wooden boxes"
+    },
+    "Object 4": {
+      "name": "the bee-covered honeycomb frame",
+      "label": "Object 4",
+      "description": "Rectangular wooden beekeeping structure with an internal waxy honeycomb, its surface densely covered by a mass of black and yellow honeybees."
+    },
+    "Object 5": {
+      "name": "the M-I-G banner lights",
+      "label": "Object 5",
+      "description": "A decorative arrangement of string lights and banners forming the letters 'M I G'."
+    },
+    "Object 6": {
+      "name": "the gilded photo frame",
+      "label": "Object 6",
+      "description": "Large, empty, ornate gold rectangular border decorated with string lights and small banners that spell 'M I G'."
+    },
+    "Object 7": {
+      "name": "the bohemian area rug",
+      "label": "Object 7",
+      "description": "Large, worn, rectangular bohemian-style area rug with an intricate, faded pattern of geometric medallions and floral motifs in deep red, cream, and navy blue, with frayed white tassels along the shorter edges."
+    },
+    "Object 8": {
+      "name": "the Ivy Coast stage screen",
+      "label": "Object 8",
+      "description": "A large, backlit stage screen featuring the words 'IVY COAST'."
+    },
+    "Object 9": {
+      "name": "the bright yellow electric guitar",
+      "label": "Object 9",
+      "description": "Electric guitar with a glossy, bright yellow body, a white pickguard, a light-colored maple neck, and chrome hardware."
+    }
+  },
+  "_window_shot_ids": [
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0052",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0053",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0054",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0055",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0056",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0057",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0059",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0060",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0061",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0062",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0063",
+    "000e65ca-cc81-3f5e-8c72-95c889907d9a__run1756__i35_j59__T300__shot0064"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Chloe",
+    "Character 2": "Mia",
+    "Character 3": "Sadie",
+    "Character 4": "Leo",
+    "Character 5": "Riley",
+    "Character 6": "Paige",
+    "Character 7": "Sam",
+    "Location 1": "The Heritage Hall Lobby",
+    "Location 2": "The Timber Room",
+    "Location 3": "Honeybee Meadow",
+    "Location 4": "The Jam Room",
+    "Object 1": "the blue floral shirt",
+    "Object 2": "the white beekeeper suit",
+    "Object 3": "the stacked beehive",
+    "Object 4": "the bee-covered honeycomb frame",
+    "Object 5": "the M-I-G banner lights",
+    "Object 6": "the gilded photo frame",
+    "Object 7": "the bohemian area rug",
+    "Object 8": "the Ivy Coast stage screen",
+    "Object 9": "the bright yellow electric guitar"
+  }
+}

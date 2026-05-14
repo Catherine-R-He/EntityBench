@@ -1,0 +1,1516 @@
+{
+  "story_name": "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240",
+  "story_overview": "An intricate investigation unfolds, centering on an injured Min-jun in a hospital. Detectives Ji-hoon and Tae-hyung conduct interrogations while associates like Seo-joon and Hyun-woo react to shocking developments. The case expands from the hospital to a police precinct and a renovation site, involving multiple characters including the wheelchair-bound Do-yun and the mysterious Joon-ho.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Min-jun: Man wearing a blood-stained white shirt layered under a black vest, with a bow tie.\nThe Hospital Room: A patient room within an indoor hospital complex, with a metal intravenous pole.\n\nClose-up of Min-jun, sitting in The Hospital Room with his eyes closed. He takes a slow breath, his expression remaining calm, as the intravenous pole stands next to him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Min-jun, sitting in The Hospital Room with his eyes closed. He takes a slow breath, his expression remaining calm, as the intravenous pole stands next to him."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Ji-hoon: Man in a dark suit, wearing glasses and a watch.\nThe Interrogation Room: Sterile interrogation room with stark white-tiled walls and a sign with Korean writing mounted on the wall.\n\nMedium shot in The Interrogation Room. Ji-hoon, wearing the dark suit and the black-rimmed glasses, gestures with one hand as he speaks intently to Min-jun, who stands opposite him and listens silently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Interrogation Room. Ji-hoon, wearing the dark suit and the black-rimmed glasses, gestures with one hand as he speaks intently to Min-jun, who stands opposite him and listens silently."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Seo-joon: Man wearing a black zip-up jacket over a white t-shirt with a blue lanyard around his neck.\nThe Executive Office: Interior of an office.\nthe simple blue lanyard: A simple blue lanyard made from a flat woven fabric strap with a metal clip at the end.\n\nA close-up of Seo-joon standing inside The Executive Office. Seo-joon wears the black zip-up jacket over the white crew neck t-shirt and has the simple blue lanyard around his neck. His expression becomes concerned and thoughtful as he slowly turns his head to look off-screen to the left."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A close-up of Seo-joon standing inside The Executive Office. Seo-joon wears the black zip-up jacket over the white crew neck t-shirt and has the simple blue lanyard around his neck. His expression becomes concerned and thoughtful as he slowly turns his head to look off-screen to the left."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Hyun-woo: Man wearing a blue-grey henley shirt.\nDo-yun: Man with glasses in a manual wheelchair, wearing a black vest over a white shirt.\nJoon-ho: Man who uses a manual wheelchair.\nthe long black conference table: Long rectangular conference table with a smooth, matte black surface and simple blocky legs.\nthe open black laptop: An open laptop with a dark grey or black matte casing, an illuminated screen, a black keyboard, and a central trackpad.\n\nAt the head of the long black conference table, Joon-ho sits in his manual wheelchair, listening intently and occasionally nodding. Do-yun sits at the table and types on the open black laptop, his eyes flicking between the screen and the others. Ji-hoon, wearing the dark suit, stands near a window and impatiently checks his watch. Min-jun, holding the intravenous pole, and Hyun-woo stand near the table; Min-jun adjusts the pole slightly while Hyun-woo shifts his weight, observing.",
+        "Over-the-shoulder close-up in The Hospital Room, from Min-jun's perspective. Hyun-woo, wearing the blue-grey henley shirt, stares forward, his eyes widening and mouth falling slightly open in pure shock and fear."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "At the head of the long black conference table, Joon-ho sits in his manual wheelchair, listening intently and occasionally nodding. Do-yun sits at the table and types on the open black laptop, his eyes flicking between the screen and the others. Ji-hoon, wearing the dark suit, stands near a window and impatiently checks his watch. Min-jun, holding the intravenous pole, and Hyun-woo stand near the table; Min-jun adjusts the pole slightly while Hyun-woo shifts his weight, observing.",
+        "Over-the-shoulder close-up in The Hospital Room, from Min-jun's perspective. Hyun-woo, wearing the blue-grey henley shirt, stares forward, his eyes widening and mouth falling slightly open in pure shock and fear."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the cctv warning sign: White rectangular sign with a bold red header that says \"WARNING\" and black text below reading \"CCTV IN OPERATION\", featuring a black graphic icon of a surveillance camera.\nMedium close-up in The Interrogation Room. Ji-hoon, wearing the dark suit and the black-rimmed glasses, briefly looks down at the silver dress watch on his wrist, then looks up at Seo-joon with a serious expression, about to speak. the cctv warning sign is mounted on the stark, white-tiled wall behind him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up in The Interrogation Room. Ji-hoon, wearing the dark suit and the black-rimmed glasses, briefly looks down at the silver dress watch on his wrist, then looks up at Seo-joon with a serious expression, about to speak. the cctv warning sign is mounted on the stark, white-tiled wall behind him."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Tae-hyung: Man wearing a grey jacket over a light blue collared police uniform shirt and a dark tie.\nThe Production Studio: A studio containing a camera on a tripod.\nthe professional studio camera: Large, boxy, professional-grade black studio camera with a large lens and a rectangular matte box, mounted on a heavy-duty three-legged black metal tripod.\n\nClose-up of Tae-hyung, wearing his grey jacket over the light blue collared shirt, speaking with a serious expression inside the dimly lit The Production Studio. Behind him, the professional studio camera stands out of focus."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Tae-hyung, wearing his grey jacket over the light blue collared shirt, speaking with a serious expression inside the dimly lit The Production Studio. Behind him, the professional studio camera stands out of focus."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Ji-hoon, wearing the dark suit and the black-rimmed glasses, speaks with a serious expression while facing Tae-hyung, who stands opposite him, listening intently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Ji-hoon, wearing the dark suit and the black-rimmed glasses, speaks with a serious expression while facing Tae-hyung, who stands opposite him, listening intently."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Close-up of Seo-joon, wearing the white crew neck t-shirt, the black zip-up jacket, and the simple blue lanyard, speaking with an amused expression in the dimly lit The Executive Office. Ji-hoon stands nearby, listening to him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Seo-joon, wearing the white crew neck t-shirt, the black zip-up jacket, and the simple blue lanyard, speaking with an amused expression in the dimly lit The Executive Office. Ji-hoon stands nearby, listening to him."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Close-up of Ji-hoon, wearing the dark suit and the black-rimmed glasses, inside The Interrogation Room. Ji-hoon is talking with a concerned and anxious expression to someone off-screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Ji-hoon, wearing the dark suit and the black-rimmed glasses, inside The Interrogation Room. Ji-hoon is talking with a concerned and anxious expression to someone off-screen."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Close-up of Tae-hyung sitting in a chair in the dimly lit The Production Studio, his worried expression deepening. Hyun-woo shifts his weight slightly as he stands just behind him. In the background, the professional studio camera is pointed towards them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Tae-hyung sitting in a chair in the dimly lit The Production Studio, his worried expression deepening. Hyun-woo shifts his weight slightly as he stands just behind him. In the background, the professional studio camera is pointed towards them."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "the grey medical monitor: Standard medical-grade computer monitor with a utilitarian, light-grey plastic casing and thick bezels around the screen.\n\nMedium shot in The Hospital Room. Min-jun, wearing the blood-stained black vest and the blood-stained white shirt, sits wearily on the edge of a bed next to the intravenous pole, slowly lifting his gaze from the floor. In the foreground, the back of Ji-hoon is partially visible as he shifts his weight slightly, his gaze fixed on Min-jun, while the grey medical monitor sits on a nearby desk.",
+        "Medium close-up shot in The Hospital Room. Min-jun, wearing the blood-stained black vest and the blood-stained white shirt, with visible injuries on his face and a weary expression, sits on a hospital bed next to the intravenous pole. He looks downward as he speaks, while Hyun-woo stands beside him, listening intently."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Hospital Room. Min-jun, wearing the blood-stained black vest and the blood-stained white shirt, sits wearily on the edge of a bed next to the intravenous pole, slowly lifting his gaze from the floor. In the foreground, the back of Ji-hoon is partially visible as he shifts his weight slightly, his gaze fixed on Min-jun, while the grey medical monitor sits on a nearby desk.",
+        "Medium close-up shot in The Hospital Room. Min-jun, wearing the blood-stained black vest and the blood-stained white shirt, with visible injuries on his face and a weary expression, sits on a hospital bed next to the intravenous pole. He looks downward as he speaks, while Hyun-woo stands beside him, listening intently."
+      ]
+    },
+    {
+      "scene_num": 12,
+      "video_prompts": [
+        "In a close-up, Seo-joon speaks inside the dimly lit Executive Office.",
+        "Seo-joon, wearing the white crew neck t-shirt and the black zip-up jacket, gasps slightly, his expression turning to one of concern and shock as he looks off-screen. Ji-hoon, standing beside him, turns his head to follow Seo-joon's gaze.",
+        "the dark wood executive desk: Large executive desk made of dark, polished wood with a smooth, rectangular surface.\nIn the dimly lit The Executive Office, Ji-hoon sits behind the dark wood executive desk, with the business laptop open in front of him. Tae-hyung stands on the other side of the desk, watching him. Ji-hoon's expression shifts from concern to explosive anger as he shouts."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In a close-up, Seo-joon speaks inside the dimly lit Executive Office.",
+        "Seo-joon, wearing the white crew neck t-shirt and the black zip-up jacket, gasps slightly, his expression turning to one of concern and shock as he looks off-screen. Ji-hoon, standing beside him, turns his head to follow Seo-joon's gaze.",
+        "In the dimly lit The Executive Office, Ji-hoon sits behind the dark wood executive desk, with the business laptop open in front of him. Tae-hyung stands on the other side of the desk, watching him. Ji-hoon's expression shifts from concern to explosive anger as he shouts."
+      ]
+    },
+    {
+      "scene_num": 13,
+      "video_prompts": [
+        "the digital video camera: Black digital video camera with a boxy body and a large cylindrical lens, mounted on a standard black metal tripod with three adjustable legs.\n\nHigh-angle view inside The Interrogation Room. Hyun-woo lunges angrily toward Min-jun, who sits in the manual wheelchair with the intravenous pole beside it. Seated at a table, Ji-hoon watches the confrontation. Nearby, Tae-hyung stands observing the scene. In the corner, the digital video camera is recording the event."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle view inside The Interrogation Room. Hyun-woo lunges angrily toward Min-jun, who sits in the manual wheelchair with the intravenous pole beside it. Seated at a table, Ji-hoon watches the confrontation. Nearby, Tae-hyung stands observing the scene. In the corner, the digital video camera is recording the event."
+      ]
+    },
+    {
+      "scene_num": 14,
+      "video_prompts": [
+        "In a dimly lit The Hospital Room, Ji-hoon aggressively grabs the collar of Min-jun, who, wearing the blood-stained white shirt and a bow tie, is seated on a bed near the intravenous pole and winces in distress. Hyun-woo stands nearby, watching the confrontation unfold, his expression growing tense."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a dimly lit The Hospital Room, Ji-hoon aggressively grabs the collar of Min-jun, who, wearing the blood-stained white shirt and a bow tie, is seated on a bed near the intravenous pole and winces in distress. Hyun-woo stands nearby, watching the confrontation unfold, his expression growing tense."
+      ]
+    },
+    {
+      "scene_num": 15,
+      "video_prompts": [
+        "The Featureless Room: A non-descript indoor setting with no clearly defined architectural features, materials, or furnishings.\n\nClose-up in the dimly lit The Featureless Room. Ji-hoon holds the black smartphone, reading from the screen and speaking with a concerned expression. Seo-joon stands in the foreground with his back to the camera, shifting his weight slightly.",
+        "Inside The Featureless Room, Min-jun and Tae-hyung look off-screen, their expressions shifting to shock and deep concern. Tae-hyung, who wears the police department lanyard, subtly shakes his head."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up in the dimly lit The Featureless Room. Ji-hoon holds the black smartphone, reading from the screen and speaking with a concerned expression. Seo-joon stands in the foreground with his back to the camera, shifting his weight slightly.",
+        "Inside The Featureless Room, Min-jun and Tae-hyung look off-screen, their expressions shifting to shock and deep concern. Tae-hyung, who wears the police department lanyard, subtly shakes his head."
+      ]
+    },
+    {
+      "scene_num": 16,
+      "video_prompts": [
+        "Wearing the blood-stained white shirt, a bruised Min-jun sits on a hospital bed next to the intravenous pole as Ji-hoon stands beside him. With a pained expression, Min-jun slowly lifts his head."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wearing the blood-stained white shirt, a bruised Min-jun sits on a hospital bed next to the intravenous pole as Ji-hoon stands beside him. With a pained expression, Min-jun slowly lifts his head."
+      ]
+    },
+    {
+      "scene_num": 17,
+      "video_prompts": [
+        "Close-up on Tae-hyung in The Interrogation Room. He stares off-screen with a deeply concerned and worried expression, his eyes shifting slightly. In the background, Ji-hoon, wearing the police department lanyard, watches him intently.",
+        "Close-up of Seo-joon in The Interrogation Room, with Min-jun's back as a blurry foreground element. Seo-joon slowly looks down, his expression becoming worried."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on Tae-hyung in The Interrogation Room. He stares off-screen with a deeply concerned and worried expression, his eyes shifting slightly. In the background, Ji-hoon, wearing the police department lanyard, watches him intently.",
+        "Close-up of Seo-joon in The Interrogation Room, with Min-jun's back as a blurry foreground element. Seo-joon slowly looks down, his expression becoming worried."
+      ]
+    },
+    {
+      "scene_num": 18,
+      "video_prompts": [
+        "Close-up of Min-jun, wearing the blood-stained white shirt, sitting in a hospital bed in The Hospital Room. A faint smirk plays on his lips as he slowly glances off-camera. The intravenous pole is visible beside the bed.",
+        "the bright green bench: Modern, minimalist bench with a solid bright green back and seat, likely of molded plastic or powder-coated metal, with slim metal legs.\nIn The Hospital Room, Min-jun sits dejectedly on the bright green bench, staring down at the floor. Ji-hoon, wearing a dark suit, stands nearby, watching him. Suddenly, Min-jun snaps his head up, alerted by a sound.",
+        "Sung-ho: Person in dark blue scrubs and a light blue surgical cap.\n\nWide shot of a hallway within the hospital complex of The Hospital Room. A person wearing the emergency services uniform rises from the bright green bench. Sung-ho walks away from a doorway, looking exhausted and somber. The person in the emergency services uniform moves to intercept Sung-ho, while Seo-joon, Ji-hoon, and Min-jun look on from nearby with concerned expressions.",
+        "In a well-lit corridor of The Hospital Room, Sung-ho, Seo-joon, and Min-jun are walking together. Ji-hoon intercepts them, and they all stop, turning to face him as they begin to speak with serious expressions."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Min-jun, wearing the blood-stained white shirt, sitting in a hospital bed in The Hospital Room. A faint smirk plays on his lips as he slowly glances off-camera. The intravenous pole is visible beside the bed.",
+        "In The Hospital Room, Min-jun sits dejectedly on the bright green bench, staring down at the floor. Ji-hoon, wearing a dark suit, stands nearby, watching him. Suddenly, Min-jun snaps his head up, alerted by a sound.",
+        "Wide shot of a hallway within the hospital complex of The Hospital Room. A person wearing the emergency services uniform rises from the bright green bench. Sung-ho walks away from a doorway, looking exhausted and somber. The person in the emergency services uniform moves to intercept Sung-ho, while Seo-joon, Ji-hoon, and Min-jun look on from nearby with concerned expressions.",
+        "In a well-lit corridor of The Hospital Room, Sung-ho, Seo-joon, and Min-jun are walking together. Ji-hoon intercepts them, and they all stop, turning to face him as they begin to speak with serious expressions."
+      ]
+    },
+    {
+      "scene_num": 19,
+      "video_prompts": [
+        "The Starry Hallway: Hallway interior featuring a railing decorated with colorful paper stars.\nthe colorful paper stars: Small, puffy, three-dimensional stars constructed from folded strips of paper in a variety of bright colors.\n\nIn The Starry Hallway, decorated with the colorful paper stars, Tae-hyung speaks seriously to a person in the emergency services uniform opposite him. The shot is framed by the blurry foreground shoulders of Joon-ho, who shifts slightly in his wheelchair, and a man in a dark suit standing beside him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Starry Hallway, decorated with the colorful paper stars, Tae-hyung speaks seriously to a person in the emergency services uniform opposite him. The shot is framed by the blurry foreground shoulders of Joon-ho, who shifts slightly in his wheelchair, and a man in a dark suit standing beside him."
+      ]
+    },
+    {
+      "scene_num": 20,
+      "video_prompts": [
+        "Close-up, over-the-shoulder shot from behind Hyun-woo. In The Hospital Room, Min-jun, wearing the blue medical scrubs and the blue surgical cap, listens intently and nods slowly, his expression serious.",
+        "the green illuminated sign: Internally illuminated rectangular sign with a white plastic housing and green block letters.\n\nIn The Hospital Room, Sung-ho speaks with Ji-hoon, who is wearing the dark suit. Sung-ho has the pleated surgical mask hanging around his neck. Min-jun stands nearby observing the conversation, while the green illuminated sign glows on the wall in the background.",
+        "Over-the-shoulder shot from behind Ji-hoon, wearing the dark suit, inside The Hospital Room. Sung-ho, wearing the blue medical scrubs, stands opposite Ji-hoon, speaking with a serious expression.",
+        "Joon-ho glares at Min-jun, his expression serious. Hyun-woo stands nearby, shifting his gaze between the two.",
+        "In The Hospital Room, Min-jun stands next to Hyun-woo. Close-up on Hyun-woo's face as his eyes widen with shock and concern, and he stares intently at something just off-camera. The high-collar black jacket is draped over a chair in the background.",
+        "In The Hospital Room, Min-jun, wearing a blood-stained white shirt, a black vest, and a bow tie, speaks seriously to Ji-hoon. The shot is over the shoulder of Ji-hoon, who is wearing the dark suit.",
+        "Over-the-shoulder medium close-up in The Hospital Room, looking past Hyun-woo at Min-jun. Min-jun sits in a hospital bed, his face etched with a serious and concerned expression as he listens intently, shifting his weight slightly. Hyun-woo stands with his back to the camera. the dark suit is draped over a chair in the background.",
+        "Inside The Hospital Room, Min-jun shifts his weight anxiously, his hands clasped behind his back. A man wearing the dark suit stands near the door, observing him. Nearby, Sung-ho waits with their arms crossed, tapping a finger on their arm.",
+        "Close-up on Ji-hoon, wearing the dark suit, in The Hospital Room. His expression becomes serious and concerned as he looks toward Min-jun.",
+        "the porthole double doors: Pair of light gray metallic double doors, each with a small circular glass porthole window and a large rectangular stainless steel push plate.\n\nIn The Hospital Room, Sung-ho stands facing the closed porthole double doors, while Joon-ho waits patiently in his wheelchair. Sung-ho then turns, pushes the doors open, and exits into the hallway.",
+        "the dark security uniform: Dark-colored, service-style security uniform consisting of a structured top and matching trousers.\nthe korean icu sign: Sleek, dark blue rectangular sign with crisp white Korean characters for \"Intensive Care Unit.\nthe glass panel double doors: Set of double doors with large, clear glass panels and simple, sterile metal frames.\n\nMedium shot in The Hospital Room. Tae-hyung walks quickly across the room, followed by a man wearing the dark suit, and Seo-joon. They approach Do-yun, who sits in his wheelchair watching them. In the background, a person wearing the dark security uniform stands guard by the glass panel double doors, with the korean icu sign mounted on the wall above.",
+        "Close-up on Sung-ho within The Hospital Room. With a worried and concerned expression, he stares intently off-camera, his brow furrowing slightly. The background shows an out-of-focus hospital room."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up, over-the-shoulder shot from behind Hyun-woo. In The Hospital Room, Min-jun, wearing the blue medical scrubs and the blue surgical cap, listens intently and nods slowly, his expression serious.",
+        "In The Hospital Room, Sung-ho speaks with Ji-hoon, who is wearing the dark suit. Sung-ho has the pleated surgical mask hanging around his neck. Min-jun stands nearby observing the conversation, while the green illuminated sign glows on the wall in the background.",
+        "Over-the-shoulder shot from behind Ji-hoon, wearing the dark suit, inside The Hospital Room. Sung-ho, wearing the blue medical scrubs, stands opposite Ji-hoon, speaking with a serious expression.",
+        "Joon-ho glares at Min-jun, his expression serious. Hyun-woo stands nearby, shifting his gaze between the two.",
+        "In The Hospital Room, Min-jun stands next to Hyun-woo. Close-up on Hyun-woo's face as his eyes widen with shock and concern, and he stares intently at something just off-camera. The high-collar black jacket is draped over a chair in the background.",
+        "In The Hospital Room, Min-jun, wearing a blood-stained white shirt, a black vest, and a bow tie, speaks seriously to Ji-hoon. The shot is over the shoulder of Ji-hoon, who is wearing the dark suit.",
+        "Over-the-shoulder medium close-up in The Hospital Room, looking past Hyun-woo at Min-jun. Min-jun sits in a hospital bed, his face etched with a serious and concerned expression as he listens intently, shifting his weight slightly. Hyun-woo stands with his back to the camera. the dark suit is draped over a chair in the background.",
+        "Inside The Hospital Room, Min-jun shifts his weight anxiously, his hands clasped behind his back. A man wearing the dark suit stands near the door, observing him. Nearby, Sung-ho waits with their arms crossed, tapping a finger on their arm.",
+        "Close-up on Ji-hoon, wearing the dark suit, in The Hospital Room. His expression becomes serious and concerned as he looks toward Min-jun.",
+        "In The Hospital Room, Sung-ho stands facing the closed porthole double doors, while Joon-ho waits patiently in his wheelchair. Sung-ho then turns, pushes the doors open, and exits into the hallway.",
+        "Medium shot in The Hospital Room. Tae-hyung walks quickly across the room, followed by a man wearing the dark suit, and Seo-joon. They approach Do-yun, who sits in his wheelchair watching them. In the background, a person wearing the dark security uniform stands guard by the glass panel double doors, with the korean icu sign mounted on the wall above.",
+        "Close-up on Sung-ho within The Hospital Room. With a worried and concerned expression, he stares intently off-camera, his brow furrowing slightly. The background shows an out-of-focus hospital room."
+      ]
+    },
+    {
+      "scene_num": 21,
+      "video_prompts": [
+        "The Police Precinct: Cluttered police station interior with a large, wall-mounted evidence board displaying a map and photos.\nthe police evidence board: Large board covered with a central map, numerous colorful photographs, and notes interconnected by a web of strings.\n\nInside The Police Precinct, Tae-hyung stands up from a desk and turns to confront Min-jun, who shifts his weight slightly. In the background, the police evidence board hangs on the wall.",
+        "the faux leather couch: Modern institutional-style couch upholstered in black faux leather, with a low back, rectangular cushions, and simple metal legs.\n\nInside The Police Precinct, Do-yun sits dejectedly in his manual wheelchair and slowly lowers his head into his hand. Ji-hoon stands by the faux leather couch, shifting his weight, while Min-jun watches them with his arms crossed.",
+        "Medium close-up of Min-jun in The Police Precinct. His eyes widen in shock as he stares at something out of frame. Behind him, the police evidence board hangs on the wall.",
+        "the assorted office binders: Assortment of standard three-ring office binders in various muted colors like black and blue, with worn spines featuring white paper labels with typed or handwritten text.\nthe cluttered office bookshelves: Standard wooden office bookshelves, cluttered and densely stacked with numerous ring binders in various colors.\nthe framed official documents: A collection of official paper documents in simple, rectangular black frames, protected by glass.\n\nStanding inside the cluttered Police Precinct, Tae-hyung, wearing the light blue collared shirt, puts on his grey jacket near the assorted office binders, the cluttered office bookshelves, and the framed official documents."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Police Precinct, Tae-hyung stands up from a desk and turns to confront Min-jun, who shifts his weight slightly. In the background, the police evidence board hangs on the wall.",
+        "Inside The Police Precinct, Do-yun sits dejectedly in his manual wheelchair and slowly lowers his head into his hand. Ji-hoon stands by the faux leather couch, shifting his weight, while Min-jun watches them with his arms crossed.",
+        "Medium close-up of Min-jun in The Police Precinct. His eyes widen in shock as he stares at something out of frame. Behind him, the police evidence board hangs on the wall.",
+        "Standing inside the cluttered Police Precinct, Tae-hyung, wearing the light blue collared shirt, puts on his grey jacket near the assorted office binders, the cluttered office bookshelves, and the framed official documents."
+      ]
+    },
+    {
+      "scene_num": 22,
+      "video_prompts": [
+        "In the dimly lit office of The Executive Office, Seo-joon, wearing the black zip-up jacket, sits on the simple black office couch with his head in his hand. He slowly lifts his gaze to look up at Ji-hoon, who stands nearby with his back partially to the camera, shifting his weight slightly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit office of The Executive Office, Seo-joon, wearing the black zip-up jacket, sits on the simple black office couch with his head in his hand. He slowly lifts his gaze to look up at Ji-hoon, who stands nearby with his back partially to the camera, shifting his weight slightly."
+      ]
+    },
+    {
+      "scene_num": 23,
+      "video_prompts": [
+        "Tae-hyung, wearing the light blue collared shirt, looks down at Min-jun with a serious and concerned expression. Min-jun, sitting in a chair in the foreground with his head lowered, slowly looks up to meet his gaze."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Tae-hyung, wearing the light blue collared shirt, looks down at Min-jun with a serious and concerned expression. Min-jun, sitting in a chair in the foreground with his head lowered, slowly looks up to meet his gaze."
+      ]
+    },
+    {
+      "scene_num": 24,
+      "video_prompts": [
+        "Seo-joon sits on the simple black office couch, rubbing the side of his head with his right hand as he looks away with a concerned expression. Across the room, Min-jun stares down at the floor with a weary expression, then slowly lifts his head."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Seo-joon sits on the simple black office couch, rubbing the side of his head with his right hand as he looks away with a concerned expression. Across the room, Min-jun stares down at the floor with a weary expression, then slowly lifts his head."
+      ]
+    },
+    {
+      "scene_num": 25,
+      "video_prompts": [
+        "The Renovation Site: Bare, unfurnished room under renovation with a large sheet of cardboard on the floor.\nthe blue disposable shoe covers: Blue, disposable, plastic-like shoe covers with a crinkled texture and an elasticated opening at the ankle.\nthe green canvas overcoat: A long, utilitarian overcoat in a solid shade of drab green, possibly made of canvas or heavy twill, with a simple collar, a single-breasted button front, and two large patch pockets on the front.\nthe corrugated cardboard sheet: Large, flat rectangular sheet of brown corrugated cardboard.\nthe brown paper bag: Standard rectangular brown paper bag with a flat bottom and visible creases and wrinkles.\n\nInside the bare The Renovation Site, Ji-hoon unrolls the corrugated cardboard sheet onto the floor. Min-jun, wearing the green canvas overcoat, kneels on the floor and searches through the contents of the brown paper bag. Both characters are wearing the blue disposable shoe covers on their feet.",
+        "the clear safety glasses: Clear plastic safety glasses with a wraparound design and integrated side shields.\nthe steel pry bar: Small, worn steel pry bar with a silver finish, a curved nail-puller claw on one end, a flat chisel tip on the other, and a black and yellow rubber grip handle.\nthe damaged wood floorboards: Damaged, dark-colored wooden floorboards.\n\nIn The Renovation Site, Seo-joon and Min-jun are crouched on the floor, each wearing blue disposable shoe covers, protective gloves, and a pair of clear safety glasses. Seo-joon uses the steel pry bar to lift the damaged wood floorboards while Min-jun assists. Ji-hoon stands in the background with his arms crossed, observing them work."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside the bare The Renovation Site, Ji-hoon unrolls the corrugated cardboard sheet onto the floor. Min-jun, wearing the green canvas overcoat, kneels on the floor and searches through the contents of the brown paper bag. Both characters are wearing the blue disposable shoe covers on their feet.",
+        "In The Renovation Site, Seo-joon and Min-jun are crouched on the floor, each wearing blue disposable shoe covers, protective gloves, and a pair of clear safety glasses. Seo-joon uses the steel pry bar to lift the damaged wood floorboards while Min-jun assists. Ji-hoon stands in the background with his arms crossed, observing them work."
+      ]
+    },
+    {
+      "scene_num": 26,
+      "video_prompts": [
+        "City Street Corner: Outdoor city area.\n\nMedium shot in City Street Corner of Min-jun, who clutches his neck with an expression of intense pain. The white gauze bandages are wrapped around the wrist of his clutching hand, while the red rope band pulls his other arm back taut. Nearby, Do-yun watches from his wheelchair, his expression growing more concerned."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in City Street Corner of Min-jun, who clutches his neck with an expression of intense pain. The white gauze bandages are wrapped around the wrist of his clutching hand, while the red rope band pulls his other arm back taut. Nearby, Do-yun watches from his wheelchair, his expression growing more concerned."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Min-jun"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the intravenous pole",
+        "the blood-stained white shirt",
+        "the blood-stained black vest"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the dark suit",
+        "the black-rimmed glasses"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Seo-joon"
+      ],
+      "places": [
+        "The Executive Office"
+      ],
+      "objects": [
+        "the black zip-up jacket",
+        "the white crew neck t-shirt",
+        "the simple blue lanyard"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun",
+        "Hyun-woo",
+        "Do-yun",
+        "Joon-ho"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the intravenous pole",
+        "the long black conference table",
+        "the open black laptop",
+        "the dark suit"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Min-jun",
+        "Hyun-woo"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the blue-grey henley shirt"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Seo-joon",
+        "Ji-hoon"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the dark suit",
+        "the black-rimmed glasses",
+        "the cctv warning sign",
+        "the silver dress watch"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Tae-hyung"
+      ],
+      "places": [
+        "The Production Studio"
+      ],
+      "objects": [
+        "the professional studio camera"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Ji-hoon",
+        "Tae-hyung"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the dark suit",
+        "the black-rimmed glasses"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Seo-joon",
+        "Ji-hoon"
+      ],
+      "places": [
+        "The Executive Office"
+      ],
+      "objects": [
+        "the black zip-up jacket",
+        "the white crew neck t-shirt",
+        "the simple blue lanyard"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Ji-hoon"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the dark suit",
+        "the black-rimmed glasses"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Tae-hyung",
+        "Hyun-woo"
+      ],
+      "places": [
+        "The Production Studio"
+      ],
+      "objects": [
+        "the professional studio camera"
+      ]
+    },
+    "11:1": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the intravenous pole",
+        "the blood-stained white shirt",
+        "the blood-stained black vest",
+        "the grey medical monitor"
+      ]
+    },
+    "11:2": {
+      "characters": [
+        "Min-jun",
+        "Hyun-woo"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the intravenous pole",
+        "the blood-stained white shirt",
+        "the blood-stained black vest"
+      ]
+    },
+    "12:1": {
+      "characters": [
+        "Seo-joon"
+      ],
+      "places": [
+        "The Executive Office"
+      ],
+      "objects": [
+        "the black zip-up jacket",
+        "the white crew neck t-shirt",
+        "the simple blue lanyard"
+      ]
+    },
+    "12:2": {
+      "characters": [
+        "Seo-joon",
+        "Ji-hoon"
+      ],
+      "places": [
+        "The Executive Office"
+      ],
+      "objects": [
+        "the black zip-up jacket",
+        "the white crew neck t-shirt"
+      ]
+    },
+    "12:3": {
+      "characters": [
+        "Ji-hoon",
+        "Tae-hyung"
+      ],
+      "places": [
+        "The Executive Office"
+      ],
+      "objects": [
+        "the dark wood executive desk",
+        "the business laptop"
+      ]
+    },
+    "13:1": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun",
+        "Tae-hyung",
+        "Hyun-woo"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the manual wheelchair",
+        "the intravenous pole",
+        "the digital video camera"
+      ]
+    },
+    "14:1": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun",
+        "Hyun-woo"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the blood-stained white shirt",
+        "the intravenous pole"
+      ]
+    },
+    "15:1": {
+      "characters": [
+        "Seo-joon",
+        "Ji-hoon"
+      ],
+      "places": [
+        "The Featureless Room"
+      ],
+      "objects": [
+        "the black smartphone"
+      ]
+    },
+    "15:2": {
+      "characters": [
+        "Min-jun",
+        "Tae-hyung"
+      ],
+      "places": [
+        "The Featureless Room"
+      ],
+      "objects": [
+        "the police department lanyard"
+      ]
+    },
+    "16:1": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the blood-stained white shirt",
+        "the intravenous pole"
+      ]
+    },
+    "17:1": {
+      "characters": [
+        "Ji-hoon",
+        "Tae-hyung"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the police department lanyard"
+      ]
+    },
+    "17:2": {
+      "characters": [
+        "Seo-joon",
+        "Min-jun"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": []
+    },
+    "18:1": {
+      "characters": [
+        "Min-jun"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the blood-stained white shirt",
+        "the intravenous pole"
+      ]
+    },
+    "18:2": {
+      "characters": [
+        "Min-jun",
+        "Ji-hoon"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the bright green bench"
+      ]
+    },
+    "18:3": {
+      "characters": [
+        "Seo-joon",
+        "Ji-hoon",
+        "Min-jun",
+        "Sung-ho"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the emergency services uniform",
+        "the bright green bench"
+      ]
+    },
+    "18:4": {
+      "characters": [
+        "Seo-joon",
+        "Ji-hoon",
+        "Min-jun",
+        "Sung-ho"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": []
+    },
+    "19:1": {
+      "characters": [
+        "Tae-hyung",
+        "Joon-ho"
+      ],
+      "places": [
+        "The Starry Hallway"
+      ],
+      "objects": [
+        "the emergency services uniform",
+        "the colorful paper stars"
+      ]
+    },
+    "20:1": {
+      "characters": [
+        "Min-jun",
+        "Hyun-woo"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the blue medical scrubs",
+        "the blue surgical cap"
+      ]
+    },
+    "20:2": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun",
+        "Sung-ho"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the pleated surgical mask",
+        "the dark suit",
+        "the green illuminated sign"
+      ]
+    },
+    "20:3": {
+      "characters": [
+        "Ji-hoon",
+        "Sung-ho"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the blue medical scrubs",
+        "the dark suit"
+      ]
+    },
+    "20:4": {
+      "characters": [
+        "Min-jun",
+        "Hyun-woo",
+        "Joon-ho"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": []
+    },
+    "20:5": {
+      "characters": [
+        "Min-jun",
+        "Hyun-woo"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the high-collar black jacket"
+      ]
+    },
+    "20:6": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the dark suit"
+      ]
+    },
+    "20:7": {
+      "characters": [
+        "Min-jun",
+        "Hyun-woo"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the dark suit"
+      ]
+    },
+    "20:8": {
+      "characters": [
+        "Min-jun",
+        "Sung-ho"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the dark suit"
+      ]
+    },
+    "20:9": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the dark suit"
+      ]
+    },
+    "20:10": {
+      "characters": [
+        "Sung-ho",
+        "Joon-ho"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the porthole double doors"
+      ]
+    },
+    "20:11": {
+      "characters": [
+        "Seo-joon",
+        "Tae-hyung",
+        "Do-yun"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": [
+        "the dark suit",
+        "the dark security uniform",
+        "the korean icu sign",
+        "the glass panel double doors"
+      ]
+    },
+    "20:12": {
+      "characters": [
+        "Sung-ho"
+      ],
+      "places": [
+        "The Hospital Room"
+      ],
+      "objects": []
+    },
+    "21:1": {
+      "characters": [
+        "Tae-hyung",
+        "Min-jun"
+      ],
+      "places": [
+        "The Police Precinct"
+      ],
+      "objects": [
+        "the police evidence board"
+      ]
+    },
+    "21:2": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun",
+        "Do-yun"
+      ],
+      "places": [
+        "The Police Precinct"
+      ],
+      "objects": [
+        "the faux leather couch"
+      ]
+    },
+    "21:3": {
+      "characters": [
+        "Min-jun"
+      ],
+      "places": [
+        "The Police Precinct"
+      ],
+      "objects": [
+        "the police evidence board"
+      ]
+    },
+    "21:4": {
+      "characters": [
+        "Tae-hyung"
+      ],
+      "places": [
+        "The Police Precinct"
+      ],
+      "objects": [
+        "the light blue collared shirt",
+        "the assorted office binders",
+        "the cluttered office bookshelves",
+        "the framed official documents"
+      ]
+    },
+    "22:1": {
+      "characters": [
+        "Seo-joon",
+        "Ji-hoon"
+      ],
+      "places": [
+        "The Executive Office"
+      ],
+      "objects": [
+        "the simple black office couch",
+        "the black zip-up jacket"
+      ]
+    },
+    "23:1": {
+      "characters": [
+        "Tae-hyung",
+        "Min-jun"
+      ],
+      "places": [
+        "The Police Precinct"
+      ],
+      "objects": [
+        "the light blue collared shirt",
+        "the police evidence board",
+        "the police department lanyard"
+      ]
+    },
+    "24:1": {
+      "characters": [
+        "Seo-joon",
+        "Min-jun"
+      ],
+      "places": [
+        "The Executive Office"
+      ],
+      "objects": [
+        "the black zip-up jacket",
+        "the white crew neck t-shirt",
+        "the simple black office couch"
+      ]
+    },
+    "25:1": {
+      "characters": [
+        "Ji-hoon",
+        "Min-jun"
+      ],
+      "places": [
+        "The Renovation Site"
+      ],
+      "objects": [
+        "the blue disposable shoe covers",
+        "the green canvas overcoat",
+        "the corrugated cardboard sheet",
+        "the brown paper bag"
+      ]
+    },
+    "25:2": {
+      "characters": [
+        "Seo-joon",
+        "Min-jun",
+        "Ji-hoon"
+      ],
+      "places": [
+        "The Renovation Site"
+      ],
+      "objects": [
+        "the blue disposable shoe covers",
+        "the protective gloves",
+        "the clear safety glasses",
+        "the steel pry bar",
+        "the damaged wood floorboards"
+      ]
+    },
+    "26:1": {
+      "characters": [
+        "Min-jun",
+        "Do-yun"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the white gauze bandages",
+        "the red rope band"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Min-jun",
+      "label": "Character 1",
+      "description": "Man wearing a blood-stained white shirt layered under a black vest, with a bow tie."
+    },
+    "Character 2": {
+      "name": "Ji-hoon",
+      "label": "Character 2",
+      "description": "Man in a dark suit, wearing glasses and a watch."
+    },
+    "Character 3": {
+      "name": "Seo-joon",
+      "label": "Character 3",
+      "description": "Man wearing a black zip-up jacket over a white t-shirt with a blue lanyard around his neck."
+    },
+    "Character 4": {
+      "name": "Hyun-woo",
+      "label": "Character 4",
+      "description": "Man wearing a blue-grey henley shirt."
+    },
+    "Character 5": {
+      "name": "Do-yun",
+      "label": "Character 5",
+      "description": "Man with glasses in a manual wheelchair, wearing a black vest over a white shirt."
+    },
+    "Character 6": {
+      "name": "Joon-ho",
+      "label": "Character 6",
+      "description": "Man who uses a manual wheelchair."
+    },
+    "Character 7": {
+      "name": "Tae-hyung",
+      "label": "Character 7",
+      "description": "Man wearing a grey jacket over a light blue collared police uniform shirt and a dark tie."
+    },
+    "Character 8": {
+      "name": "Sung-ho",
+      "label": "Character 8",
+      "description": "Person in dark blue scrubs and a light blue surgical cap."
+    },
+    "Location 1": {
+      "name": "The Hospital Room",
+      "label": "Location 1",
+      "description": "A patient room within an indoor hospital complex, with a metal intravenous pole."
+    },
+    "Location 2": {
+      "name": "The Interrogation Room",
+      "label": "Location 2",
+      "description": "Sterile interrogation room with stark white-tiled walls and a sign with Korean writing mounted on the wall."
+    },
+    "Location 3": {
+      "name": "The Executive Office",
+      "label": "Location 3",
+      "description": "Interior of an office."
+    },
+    "Location 4": {
+      "name": "The Production Studio",
+      "label": "Location 4",
+      "description": "A studio containing a camera on a tripod."
+    },
+    "Location 5": {
+      "name": "The Featureless Room",
+      "label": "Location 5",
+      "description": "A non-descript indoor setting with no clearly defined architectural features, materials, or furnishings."
+    },
+    "Location 6": {
+      "name": "The Starry Hallway",
+      "label": "Location 6",
+      "description": "Hallway interior featuring a railing decorated with colorful paper stars."
+    },
+    "Location 7": {
+      "name": "The Police Precinct",
+      "label": "Location 7",
+      "description": "Cluttered police station interior with a large, wall-mounted evidence board displaying a map and photos."
+    },
+    "Location 8": {
+      "name": "The Renovation Site",
+      "label": "Location 8",
+      "description": "Bare, unfurnished room under renovation with a large sheet of cardboard on the floor."
+    },
+    "Location 9": {
+      "name": "City Street Corner",
+      "label": "Location 9",
+      "description": "Outdoor city area."
+    },
+    "Object 1": {
+      "name": "the blood-stained white shirt",
+      "label": "Object 1",
+      "description": "A white shirt with prominent blood stains on the fabric"
+    },
+    "Object 2": {
+      "name": "the intravenous pole",
+      "label": "Object 2",
+      "description": "Tall metal pole with a multi-spoke wheeled base and hooks at the top"
+    },
+    "Object 3": {
+      "name": "the blood-stained black vest",
+      "label": "Object 3",
+      "description": "Black vest with dark stains and bloodstains"
+    },
+    "Object 4": {
+      "name": "the dark suit",
+      "label": "Object 4",
+      "description": "Dark black suit"
+    },
+    "Object 5": {
+      "name": "the black-rimmed glasses",
+      "label": "Object 5",
+      "description": "A pair of glasses"
+    },
+    "Object 6": {
+      "name": "the black zip-up jacket",
+      "label": "Object 6",
+      "description": "Black zip-up jacket"
+    },
+    "Object 7": {
+      "name": "the white crew neck t-shirt",
+      "label": "Object 7",
+      "description": "Plain white crew neck T-shirt"
+    },
+    "Object 8": {
+      "name": "the simple blue lanyard",
+      "label": "Object 8",
+      "description": "A simple blue lanyard made from a flat woven fabric strap with a metal clip at the end."
+    },
+    "Object 9": {
+      "name": "the manual wheelchair",
+      "label": "Object 9",
+      "description": "Standard manual wheelchair with a metallic chassis, black upholstered seat and back, padded armrests, footrests, large spoked rear wheels with push-rims, and small front caster wheels"
+    },
+    "Object 10": {
+      "name": "the open black laptop",
+      "label": "Object 10",
+      "description": "An open laptop with a dark grey or black matte casing, an illuminated screen, a black keyboard, and a central trackpad."
+    },
+    "Object 11": {
+      "name": "the long black conference table",
+      "label": "Object 11",
+      "description": "Long rectangular conference table with a smooth, matte black surface and simple blocky legs."
+    },
+    "Object 12": {
+      "name": "the blue-grey henley shirt",
+      "label": "Object 12",
+      "description": "Blue-grey Henley-style shirt with a buttoned placket at the round neckline"
+    },
+    "Object 13": {
+      "name": "the silver dress watch",
+      "label": "Object 13",
+      "description": "Classic analog dress watch with a round silver case, a minimalist white face with thin silver hands, and a black leather strap"
+    },
+    "Object 14": {
+      "name": "the cctv warning sign",
+      "label": "Object 14",
+      "description": "White rectangular sign with a bold red header that says \"WARNING\" and black text below reading \"CCTV IN OPERATION\", featuring a black graphic icon of a surveillance camera."
+    },
+    "Object 15": {
+      "name": "the light blue collared shirt",
+      "label": "Object 15",
+      "description": "Light blue collared shirt"
+    },
+    "Object 16": {
+      "name": "the professional studio camera",
+      "label": "Object 16",
+      "description": "Large, boxy, professional-grade black studio camera with a large lens and a rectangular matte box, mounted on a heavy-duty three-legged black metal tripod."
+    },
+    "Object 17": {
+      "name": "the police department lanyard",
+      "label": "Object 17",
+      "description": "Blue woven fabric lanyard with \"POLICE DEPARTMENT\" printed in white capital letters, attached to a clear plastic sleeve containing a detective's photo ID badge"
+    },
+    "Object 18": {
+      "name": "the grey medical monitor",
+      "label": "Object 18",
+      "description": "Standard medical-grade computer monitor with a utilitarian, light-grey plastic casing and thick bezels around the screen."
+    },
+    "Object 19": {
+      "name": "the dark wood executive desk",
+      "label": "Object 19",
+      "description": "Large executive desk made of dark, polished wood with a smooth, rectangular surface."
+    },
+    "Object 20": {
+      "name": "the business laptop",
+      "label": "Object 20",
+      "description": "A business-grade laptop computer"
+    },
+    "Object 21": {
+      "name": "the digital video camera",
+      "label": "Object 21",
+      "description": "Black digital video camera with a boxy body and a large cylindrical lens, mounted on a standard black metal tripod with three adjustable legs."
+    },
+    "Object 22": {
+      "name": "the black smartphone",
+      "label": "Object 22",
+      "description": "Rectangular smartphone with a glass screen"
+    },
+    "Object 23": {
+      "name": "the emergency services uniform",
+      "label": "Object 23",
+      "description": "Emergency services uniform with a two-tone color scheme of black and orange"
+    },
+    "Object 24": {
+      "name": "the bright green bench",
+      "label": "Object 24",
+      "description": "Modern, minimalist bench with a solid bright green back and seat, likely of molded plastic or powder-coated metal, with slim metal legs."
+    },
+    "Object 25": {
+      "name": "the colorful paper stars",
+      "label": "Object 25",
+      "description": "Small, puffy, three-dimensional stars constructed from folded strips of paper in a variety of bright colors."
+    },
+    "Object 26": {
+      "name": "the blue medical scrubs",
+      "label": "Object 26",
+      "description": "Blue medical scrubs, consisting of a top and pants, and a matching blue surgical cap"
+    },
+    "Object 27": {
+      "name": "the blue surgical cap",
+      "label": "Object 27",
+      "description": "Blue, disposable-style surgical cap made of a lightweight, non-woven fabric"
+    },
+    "Object 28": {
+      "name": "the pleated surgical mask",
+      "label": "Object 28",
+      "description": "Rectangular, pleated surgical mask made of a non-woven fabric with elastic ear loops"
+    },
+    "Object 29": {
+      "name": "the green illuminated sign",
+      "label": "Object 29",
+      "description": "Internally illuminated rectangular sign with a white plastic housing and green block letters."
+    },
+    "Object 30": {
+      "name": "the high-collar black jacket",
+      "label": "Object 30",
+      "description": "Black jacket with a high, vertical collar"
+    },
+    "Object 31": {
+      "name": "the porthole double doors",
+      "label": "Object 31",
+      "description": "Pair of light gray metallic double doors, each with a small circular glass porthole window and a large rectangular stainless steel push plate."
+    },
+    "Object 32": {
+      "name": "the dark security uniform",
+      "label": "Object 32",
+      "description": "Dark-colored, service-style security uniform consisting of a structured top and matching trousers."
+    },
+    "Object 33": {
+      "name": "the glass panel double doors",
+      "label": "Object 33",
+      "description": "Set of double doors with large, clear glass panels and simple, sterile metal frames."
+    },
+    "Object 34": {
+      "name": "the korean icu sign",
+      "label": "Object 34",
+      "description": "Sleek, dark blue rectangular sign with crisp white Korean characters for \"Intensive Care Unit."
+    },
+    "Object 35": {
+      "name": "the police evidence board",
+      "label": "Object 35",
+      "description": "Large board covered with a central map, numerous colorful photographs, and notes interconnected by a web of strings."
+    },
+    "Object 36": {
+      "name": "the simple black office couch",
+      "label": "Object 36",
+      "description": "A simple, unadorned black couch consistent with standard office furniture"
+    },
+    "Object 37": {
+      "name": "the blue polo shirt",
+      "label": "Object 37",
+      "description": "Blue polo shirt"
+    },
+    "Object 38": {
+      "name": "the faux leather couch",
+      "label": "Object 38",
+      "description": "Modern institutional-style couch upholstered in black faux leather, with a low back, rectangular cushions, and simple metal legs."
+    },
+    "Object 39": {
+      "name": "the cluttered office bookshelves",
+      "label": "Object 39",
+      "description": "Standard wooden office bookshelves, cluttered and densely stacked with numerous ring binders in various colors."
+    },
+    "Object 40": {
+      "name": "the assorted office binders",
+      "label": "Object 40",
+      "description": "Assortment of standard three-ring office binders in various muted colors like black and blue, with worn spines featuring white paper labels with typed or handwritten text."
+    },
+    "Object 41": {
+      "name": "the framed official documents",
+      "label": "Object 41",
+      "description": "A collection of official paper documents in simple, rectangular black frames, protected by glass."
+    },
+    "Object 42": {
+      "name": "the black leather couch",
+      "label": "Object 42",
+      "description": "A couch upholstered in black leather"
+    },
+    "Object 43": {
+      "name": "the blue disposable shoe covers",
+      "label": "Object 43",
+      "description": "Blue, disposable, plastic-like shoe covers with a crinkled texture and an elasticated opening at the ankle."
+    },
+    "Object 44": {
+      "name": "the green canvas overcoat",
+      "label": "Object 44",
+      "description": "A long, utilitarian overcoat in a solid shade of drab green, possibly made of canvas or heavy twill, with a simple collar, a single-breasted button front, and two large patch pockets on the front."
+    },
+    "Object 45": {
+      "name": "the corrugated cardboard sheet",
+      "label": "Object 45",
+      "description": "Large, flat rectangular sheet of brown corrugated cardboard."
+    },
+    "Object 46": {
+      "name": "the brown paper bag",
+      "label": "Object 46",
+      "description": "Standard rectangular brown paper bag with a flat bottom and visible creases and wrinkles."
+    },
+    "Object 47": {
+      "name": "the damaged wood floorboards",
+      "label": "Object 47",
+      "description": "Damaged, dark-colored wooden floorboards."
+    },
+    "Object 48": {
+      "name": "the protective gloves",
+      "label": "Object 48",
+      "description": "Protective gloves"
+    },
+    "Object 49": {
+      "name": "the clear safety glasses",
+      "label": "Object 49",
+      "description": "Clear plastic safety glasses with a wraparound design and integrated side shields."
+    },
+    "Object 50": {
+      "name": "the steel pry bar",
+      "label": "Object 50",
+      "description": "Small, worn steel pry bar with a silver finish, a curved nail-puller claw on one end, a flat chisel tip on the other, and a black and yellow rubber grip handle."
+    },
+    "Object 51": {
+      "name": "the white gauze bandages",
+      "label": "Object 51",
+      "description": "Wrapped white cloth gauze bandages"
+    },
+    "Object 52": {
+      "name": "the red rope band",
+      "label": "Object 52",
+      "description": "Red rope or band"
+    }
+  },
+  "_window_shot_ids": [
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0001",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0002",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0003",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0005",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0006",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0007",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0008",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0009",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0010",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0011",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0012",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0013",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0014",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0015",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0017",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0018",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0019",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0020",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0021",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0022",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0023",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0024",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0025",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0026",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0027",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0028",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0029",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0030",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0031",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0032",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0033",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0034",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0035",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0036",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0037",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0039",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0040",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0041",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0042",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0043",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0044",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0045",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0046",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0047",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0048",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0049",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0050",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0051",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0052",
+    "00000865-b77b-32f3-b606-c2451a77a12a__run4__i130_j148__T240__shot0053"
+  ],
+  "_num_scenes": 26,
+  "_num_shots": 50,
+  "_name_map": {
+    "Character 1": "Min-jun",
+    "Character 2": "Ji-hoon",
+    "Character 3": "Seo-joon",
+    "Character 4": "Hyun-woo",
+    "Character 5": "Do-yun",
+    "Character 6": "Joon-ho",
+    "Character 7": "Tae-hyung",
+    "Character 8": "Sung-ho",
+    "Location 1": "The Hospital Room",
+    "Location 2": "The Interrogation Room",
+    "Location 3": "The Executive Office",
+    "Location 4": "The Production Studio",
+    "Location 5": "The Featureless Room",
+    "Location 6": "The Starry Hallway",
+    "Location 7": "The Police Precinct",
+    "Location 8": "The Renovation Site",
+    "Location 9": "City Street Corner",
+    "Object 1": "the blood-stained white shirt",
+    "Object 10": "the open black laptop",
+    "Object 11": "the long black conference table",
+    "Object 12": "the blue-grey henley shirt",
+    "Object 13": "the silver dress watch",
+    "Object 14": "the cctv warning sign",
+    "Object 15": "the light blue collared shirt",
+    "Object 16": "the professional studio camera",
+    "Object 17": "the police department lanyard",
+    "Object 18": "the grey medical monitor",
+    "Object 19": "the dark wood executive desk",
+    "Object 2": "the intravenous pole",
+    "Object 20": "the business laptop",
+    "Object 21": "the digital video camera",
+    "Object 22": "the black smartphone",
+    "Object 23": "the emergency services uniform",
+    "Object 24": "the bright green bench",
+    "Object 25": "the colorful paper stars",
+    "Object 26": "the blue medical scrubs",
+    "Object 27": "the blue surgical cap",
+    "Object 28": "the pleated surgical mask",
+    "Object 29": "the green illuminated sign",
+    "Object 3": "the blood-stained black vest",
+    "Object 30": "the high-collar black jacket",
+    "Object 31": "the porthole double doors",
+    "Object 32": "the dark security uniform",
+    "Object 33": "the glass panel double doors",
+    "Object 34": "the korean icu sign",
+    "Object 35": "the police evidence board",
+    "Object 36": "the simple black office couch",
+    "Object 37": "the blue polo shirt",
+    "Object 38": "the faux leather couch",
+    "Object 39": "the cluttered office bookshelves",
+    "Object 4": "the dark suit",
+    "Object 40": "the assorted office binders",
+    "Object 41": "the framed official documents",
+    "Object 42": "the black leather couch",
+    "Object 43": "the blue disposable shoe covers",
+    "Object 44": "the green canvas overcoat",
+    "Object 45": "the corrugated cardboard sheet",
+    "Object 46": "the brown paper bag",
+    "Object 47": "the damaged wood floorboards",
+    "Object 48": "the protective gloves",
+    "Object 49": "the clear safety glasses",
+    "Object 5": "the black-rimmed glasses",
+    "Object 50": "the steel pry bar",
+    "Object 51": "the white gauze bandages",
+    "Object 52": "the red rope band",
+    "Object 6": "the black zip-up jacket",
+    "Object 7": "the white crew neck t-shirt",
+    "Object 8": "the simple blue lanyard",
+    "Object 9": "the manual wheelchair"
+  }
+}

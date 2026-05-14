@@ -1,0 +1,445 @@
+{
+  "story_name": "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180",
+  "story_overview": "In a tense legal drama, lawyers Marcus and Arthur navigate a high-stakes case. Judge Nora presides over the courtroom where Marcus delivers a passionate argument from the lectern, as fellow judge Julian listens from the bench. Outside the courtroom, Arthur, Nora, and Priya engage in urgent conversations, suggesting the drama extends far beyond the courtroom walls.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Nora: Woman with curly hair, wearing a black judicial robe over a pink collared shirt.\nPriya: Woman with dark hair pulled into a neat, professional bun, wearing a tailored dark business suit with a skirt, a white blouse, and low black heels.\nThe Courtroom: Formal indoor courtroom featuring wood-paneled walls and an elevated wooden judge's bench.\n\nIn The Courtroom, Nora sits at the judge's bench, leaning forward slightly as she listens with a serious and focused expression. Before her, Priya stands attentively, her posture shifting subtly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Courtroom, Nora sits at the judge's bench, leaning forward slightly as she listens with a serious and focused expression. Before her, Priya stands attentively, her posture shifting subtly."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Arthur: Older man with short gray hair and a neatly trimmed gray goatee, wearing a brown suit jacket over a collared shirt.\nThe Law Office: Office interior.\n\nIn a close-up over-the-shoulder shot inside The Law Office, Arthur speaks with a serious expression while wearing the dark brown suit, as another person is out of focus in the foreground facing him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a close-up over-the-shoulder shot inside The Law Office, Arthur speaks with a serious expression while wearing the dark brown suit, as another person is out of focus in the foreground facing him."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Julian: Man with curly brown hair wearing a black judge's robe over a pink collared shirt.\nThe Antechamber: A formal, ambiguous indoor space with indistinct forms and shapes.\n\nIn The Antechamber, an over-the-shoulder close-up shows Julian talking seriously. Another person is out of focus in the foreground, with the blurry, formal background of The Antechamber visible."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Antechamber, an over-the-shoulder close-up shows Julian talking seriously. Another person is out of focus in the foreground, with the blurry, formal background of The Antechamber visible."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Simon: Bald man with glasses wearing a blue collared shirt.\nIsabella: Woman with her hair pulled back, wearing a red top and gold jewelry.\n\nClose-up in The Courtroom on Isabella, wearing the gold jewelry set, who sits in the audience with a serious and attentive expression, her eyes shifting slightly to follow the proceedings. Priya, wearing the white blouse, and Simon are seated nearby in the background.",
+        "Marcus: Man in his late 40s with short dark hair graying at the temples, a lined forehead, and a strong jaw, wearing a tailored dark charcoal suit over a white collared dress shirt with a dark blue patterned silk tie.\n\nClose-up in The Courtroom. Nora, seen in profile, sits next to Simon, who shifts his position and rests his chin in his hand. Marcus, wearing the charcoal suit, sits beside them. All three characters listen intently, their expressions growing more serious."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up in The Courtroom on Isabella, wearing the gold jewelry set, who sits in the audience with a serious and attentive expression, her eyes shifting slightly to follow the proceedings. Priya, wearing the white blouse, and Simon are seated nearby in the background.",
+        "Close-up in The Courtroom. Nora, seen in profile, sits next to Simon, who shifts his position and rests his chin in his hand. Marcus, wearing the charcoal suit, sits beside them. All three characters listen intently, their expressions growing more serious."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Marble Hallway: Spacious and formal courthouse hallway defined by large, imposing polished marble pillars, high ceilings, and a reflective floor.\n\nMedium close-up of Julian, wearing his black judge's robe and the red and gold tie, standing in The Marble Hallway, speaking to someone just off-screen to his right."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up of Julian, wearing his black judge's robe and the red and gold tie, standing in The Marble Hallway, speaking to someone just off-screen to his right."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "the venetian blinds: Set of off-white or beige vinyl Venetian blinds with thin, horizontal slats connected by a lattice of thin strings and featuring a clear plastic tilt wand.\n\nA close-up on Arthur. He has a worried expression and looks slightly off-camera, his brow furrowing slightly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A close-up on Arthur. He has a worried expression and looks slightly off-camera, his brow furrowing slightly."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "the leather briefcase: Classic black leather briefcase with a rectangular shape, a single top handle, and silver metal latches.\nthe marble pillars: Tall, large-diameter, polished marble pillars with grey veining.\nIn The Marble Hallway, Arthur leads Nora and Priya as they walk down the hall past the marble pillars. Arthur and Priya wear business suits, Nora wears a black judicial robe, and they all have serious expressions. Priya carries the leather briefcase.",
+        "the wooden double doors: A pair of large, imposing double doors made of dark, polished wood, featuring raised rectangular panels and large, ornate brass handles.\n\nMedium shot of Nora, Priya, and Arthur walking together through The Marble Hallway. They are engaged in a serious conversation, with Arthur gesturing as he speaks and the others listening intently. The group slows to a stop in front of the wooden double doors."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The Marble Hallway, Arthur leads Nora and Priya as they walk down the hall past the marble pillars. Arthur and Priya wear business suits, Nora wears a black judicial robe, and they all have serious expressions. Priya carries the leather briefcase.",
+        "Medium shot of Nora, Priya, and Arthur walking together through The Marble Hallway. They are engaged in a serious conversation, with Arthur gesturing as he speaks and the others listening intently. The group slows to a stop in front of the wooden double doors."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "A close-up shot focuses on Julian in The Antechamber, turned slightly in profile. He speaks with an urgent and surprised expression. Blurred in the background behind him, Priya watches with a look of concern."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A close-up shot focuses on Julian in The Antechamber, turned slightly in profile. He speaks with an urgent and surprised expression. Blurred in the background behind him, Priya watches with a look of concern."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "the wooden lectern: A traditional lectern made of dark, polished wood with a slanted top surface and a solid base.\n\nClose-up shot in The Courtroom of Marcus, wearing the charcoal suit, speaking emphatically from behind the wooden lectern. In the background, Julian sits at the judge's bench and Simon stands beside him, both watching Marcus intently with serious expressions.",
+        "the judge's bench: Large, solid judge's bench constructed from dark, polished wood.\nthe carved inscription: The phrase 'IN GOD WE TRUST' in large, capitalized letters carved into a wood-paneled surface.\n\nOver the shoulder shot of Simon as he stands in The Courtroom, facing the bench and shifting his weight. Behind the judge's bench, Nora glances at Julian, who sits beside her with a stern expression. On the wall behind them, the carved inscription is visible on the wood paneling."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up shot in The Courtroom of Marcus, wearing the charcoal suit, speaking emphatically from behind the wooden lectern. In the background, Julian sits at the judge's bench and Simon stands beside him, both watching Marcus intently with serious expressions.",
+        "Over the shoulder shot of Simon as he stands in The Courtroom, facing the bench and shifting his weight. Behind the judge's bench, Nora glances at Julian, who sits beside her with a stern expression. On the wall behind them, the carved inscription is visible on the wood paneling."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Nora",
+        "Priya"
+      ],
+      "places": [
+        "The Courtroom"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Law Office"
+      ],
+      "objects": [
+        "the dark brown suit"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Antechamber"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Simon",
+        "Priya",
+        "Isabella"
+      ],
+      "places": [
+        "The Courtroom"
+      ],
+      "objects": [
+        "the gold jewelry set"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Nora",
+        "Simon",
+        "Marcus"
+      ],
+      "places": [
+        "The Courtroom"
+      ],
+      "objects": [
+        "the charcoal suit"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Marble Hallway"
+      ],
+      "objects": [
+        "the red and gold tie"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Law Office"
+      ],
+      "objects": [
+        "the dark brown suit",
+        "the venetian blinds"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Nora",
+        "Priya",
+        "Arthur"
+      ],
+      "places": [
+        "The Marble Hallway"
+      ],
+      "objects": [
+        "the leather briefcase",
+        "the marble pillars"
+      ]
+    },
+    "7:2": {
+      "characters": [
+        "Nora",
+        "Priya",
+        "Arthur"
+      ],
+      "places": [
+        "The Marble Hallway"
+      ],
+      "objects": [
+        "the wooden double doors"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Julian",
+        "Priya"
+      ],
+      "places": [
+        "The Antechamber"
+      ],
+      "objects": []
+    },
+    "9:1": {
+      "characters": [
+        "Julian",
+        "Simon",
+        "Marcus"
+      ],
+      "places": [
+        "The Courtroom"
+      ],
+      "objects": [
+        "the wooden lectern",
+        "the charcoal suit"
+      ]
+    },
+    "9:2": {
+      "characters": [
+        "Julian",
+        "Simon",
+        "Nora"
+      ],
+      "places": [
+        "The Courtroom"
+      ],
+      "objects": [
+        "the judge's bench",
+        "the carved inscription"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Julian",
+      "label": "Character 1",
+      "description": "Man with curly brown hair wearing a black judge's robe over a pink collared shirt."
+    },
+    "Character 2": {
+      "name": "Nora",
+      "label": "Character 2",
+      "description": "Woman with curly hair, wearing a black judicial robe over a pink collared shirt."
+    },
+    "Character 3": {
+      "name": "Arthur",
+      "label": "Character 3",
+      "description": "Older man with short gray hair and a neatly trimmed gray goatee, wearing a brown suit jacket over a collared shirt."
+    },
+    "Character 4": {
+      "name": "Simon",
+      "label": "Character 4",
+      "description": "Bald man with glasses wearing a blue collared shirt."
+    },
+    "Character 5": {
+      "name": "Isabella",
+      "label": "Character 5",
+      "description": "Woman with her hair pulled back, wearing a red top and gold jewelry."
+    },
+    "Character 6": {
+      "name": "Marcus",
+      "label": "Character 6",
+      "description": "Man in his late 40s with short dark hair graying at the temples, a lined forehead, and a strong jaw, wearing a tailored dark charcoal suit over a white collared dress shirt with a dark blue patterned silk tie."
+    },
+    "Character 7": {
+      "name": "Priya",
+      "label": "Character 7",
+      "description": "Woman with dark hair pulled into a neat, professional bun, wearing a tailored dark business suit with a skirt, a white blouse, and low black heels."
+    },
+    "Location 1": {
+      "name": "The Antechamber",
+      "label": "Location 1",
+      "description": "A formal, ambiguous indoor space with indistinct forms and shapes."
+    },
+    "Location 2": {
+      "name": "The Courtroom",
+      "label": "Location 2",
+      "description": "Formal indoor courtroom featuring wood-paneled walls and an elevated wooden judge's bench."
+    },
+    "Location 3": {
+      "name": "The Law Office",
+      "label": "Location 3",
+      "description": "Office interior."
+    },
+    "Location 4": {
+      "name": "The Marble Hallway",
+      "label": "Location 4",
+      "description": "Spacious and formal courthouse hallway defined by large, imposing polished marble pillars, high ceilings, and a reflective floor."
+    },
+    "Object 1": {
+      "name": "the black suit",
+      "label": "Object 1",
+      "description": "Dark black men's suit"
+    },
+    "Object 2": {
+      "name": "the red and gold tie",
+      "label": "Object 2",
+      "description": "Red and gold striped necktie"
+    },
+    "Object 3": {
+      "name": "the judge's robe",
+      "label": "Object 3",
+      "description": "A traditional long, black, loose-fitting judicial robe made of a heavy fabric with wide bell sleeves and a pleated yoke"
+    },
+    "Object 4": {
+      "name": "the pink collared shirt",
+      "label": "Object 4",
+      "description": "Pink collared button-up dress shirt"
+    },
+    "Object 5": {
+      "name": "the dark brown suit",
+      "label": "Object 5",
+      "description": "Man's traditional-cut suit in a dark brown, slightly textured fabric, composed of a single-breasted jacket with notch lapels and matching trousers"
+    },
+    "Object 6": {
+      "name": "the gold jewelry set",
+      "label": "Object 6",
+      "description": "A matching set of delicate gold jewelry, consisting of a fine-chain necklace and small earrings"
+    },
+    "Object 7": {
+      "name": "the red blouse",
+      "label": "Object 7",
+      "description": "Woman's red top"
+    },
+    "Object 8": {
+      "name": "the charcoal suit",
+      "label": "Object 8",
+      "description": "Dark-colored suit jacket and matching trousers"
+    },
+    "Object 9": {
+      "name": "the venetian blinds",
+      "label": "Object 9",
+      "description": "Set of off-white or beige vinyl Venetian blinds with thin, horizontal slats connected by a lattice of thin strings and featuring a clear plastic tilt wand."
+    },
+    "Object 10": {
+      "name": "the leather briefcase",
+      "label": "Object 10",
+      "description": "Classic black leather briefcase with a rectangular shape, a single top handle, and silver metal latches."
+    },
+    "Object 11": {
+      "name": "the marble pillars",
+      "label": "Object 11",
+      "description": "Tall, large-diameter, polished marble pillars with grey veining."
+    },
+    "Object 12": {
+      "name": "the wooden double doors",
+      "label": "Object 12",
+      "description": "A pair of large, imposing double doors made of dark, polished wood, featuring raised rectangular panels and large, ornate brass handles."
+    },
+    "Object 13": {
+      "name": "the wooden lectern",
+      "label": "Object 13",
+      "description": "A traditional lectern made of dark, polished wood with a slanted top surface and a solid base."
+    },
+    "Object 14": {
+      "name": "the carved inscription",
+      "label": "Object 14",
+      "description": "The phrase 'IN GOD WE TRUST' in large, capitalized letters carved into a wood-paneled surface."
+    },
+    "Object 15": {
+      "name": "the judge's bench",
+      "label": "Object 15",
+      "description": "Large, solid judge's bench constructed from dark, polished wood."
+    }
+  },
+  "_window_shot_ids": [
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0002",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0003",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0004",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0005",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0006",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0007",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0008",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0009",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0010",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0011",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0012",
+    "000c836c-f4f4-3205-9f9f-569c49c18a81__run1451__i15_j30__T180__shot0013"
+  ],
+  "_num_scenes": 9,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Julian",
+    "Character 2": "Nora",
+    "Character 3": "Arthur",
+    "Character 4": "Simon",
+    "Character 5": "Isabella",
+    "Character 6": "Marcus",
+    "Character 7": "Priya",
+    "Location 1": "The Antechamber",
+    "Location 2": "The Courtroom",
+    "Location 3": "The Law Office",
+    "Location 4": "The Marble Hallway",
+    "Object 1": "the black suit",
+    "Object 10": "the leather briefcase",
+    "Object 11": "the marble pillars",
+    "Object 12": "the wooden double doors",
+    "Object 13": "the wooden lectern",
+    "Object 14": "the carved inscription",
+    "Object 15": "the judge's bench",
+    "Object 2": "the red and gold tie",
+    "Object 3": "the judge's robe",
+    "Object 4": "the pink collared shirt",
+    "Object 5": "the dark brown suit",
+    "Object 6": "the gold jewelry set",
+    "Object 7": "the red blouse",
+    "Object 8": "the charcoal suit",
+    "Object 9": "the venetian blinds"
+  }
+}

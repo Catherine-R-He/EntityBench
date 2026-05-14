@@ -1,0 +1,1183 @@
+{
+  "story_name": "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600",
+  "story_overview": "In the crimson-lit interior of The Crimson Studio, frontman Caleb pours his soul into a vintage microphone, passionately recording a new track. Bandmates like Silas and Rhys, along with figures like Bonnie and the imposing producer Sterling, watch the intense session. The story then moves to a sunny horse paddock, where the band and their entourage interact under Sterling's watchful eye.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Caleb: Man with long, shoulder-length brown hair, a beard and mustache, wearing an unbuttoned patterned shirt and a necklace.\nSilas: Man with shoulder-length, shaggy dark hair and sideburns, wearing a paisley-patterned button-down shirt with the top buttons undone, a fringed suede vest, and faded blue bell-bottom jeans.\nRhys: Man with long hair wearing a plaid shirt.\nThe Crimson Studio: Interior of a 1960s-era recording studio with a prominent red color palette, walls decorated with framed gold records, and a vintage microphone.\nthe vintage studio microphone: Vintage condenser microphone with a large cylindrical body, a polished silver finish, and a wide, fine-mesh metal grille over the capsule.\n\nClose-up profile shot of Caleb singing into the vintage studio microphone inside The Crimson Studio. His face is bathed in the intense red glow. In the dimly lit background, Silas and Rhys sway subtly, watching him.",
+        "In an extreme close-up inside the dark The Crimson Studio, Caleb's expression tightens as he stares intensely forward. His face is partially obscured by a large, soft-focus the intense red glow in the foreground, which creates a significant red bokeh effect.",
+        "Close-up profile shot of Caleb singing into the vintage studio microphone inside The Crimson Studio. His face is dramatically illuminated by a strong red light, while in the dark, out-of-focus background, Silas stands and nods his head slightly.",
+        "Close-up of Caleb, seen as a dark silhouette in The Crimson Studio, slowly lifting his head. An intense, vertical red glow washes over the frame, almost completely obscuring him.",
+        "Levi: Man with long brown hair wearing a denim jacket.\n\nClose-up shot of Caleb singing passionately into the vintage studio microphone in the middle of The Crimson Studio. The studio is dimly lit and cast in a dramatic red glow. In the background, Silas and Levi watch him perform, nodding their heads to the rhythm.",
+        "the studio glass partition: Large, rectangular recording studio partition consisting of a single, clear pane of glass.\n\nMedium shot inside the red-lit recording booth of The Crimson Studio. Silas sings passionately into the vintage studio microphone while strumming the acoustic guitar. The reflection of Caleb appears on the glass of the studio glass partition as he watches intently from the control room, nodding his head slightly.",
+        "Close-up profile shot of Caleb leaning in towards the vintage studio microphone in the dimly lit The Crimson Studio. An intense red glow illuminates his pensive face as he takes a slow breath. In the deeply blurred background, Silas stands and watches him."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up profile shot of Caleb singing into the vintage studio microphone inside The Crimson Studio. His face is bathed in the intense red glow. In the dimly lit background, Silas and Rhys sway subtly, watching him.",
+        "In an extreme close-up inside the dark The Crimson Studio, Caleb's expression tightens as he stares intensely forward. His face is partially obscured by a large, soft-focus the intense red glow in the foreground, which creates a significant red bokeh effect.",
+        "Close-up profile shot of Caleb singing into the vintage studio microphone inside The Crimson Studio. His face is dramatically illuminated by a strong red light, while in the dark, out-of-focus background, Silas stands and nods his head slightly.",
+        "Close-up of Caleb, seen as a dark silhouette in The Crimson Studio, slowly lifting his head. An intense, vertical red glow washes over the frame, almost completely obscuring him.",
+        "Close-up shot of Caleb singing passionately into the vintage studio microphone in the middle of The Crimson Studio. The studio is dimly lit and cast in a dramatic red glow. In the background, Silas and Levi watch him perform, nodding their heads to the rhythm.",
+        "Medium shot inside the red-lit recording booth of The Crimson Studio. Silas sings passionately into the vintage studio microphone while strumming the acoustic guitar. The reflection of Caleb appears on the glass of the studio glass partition as he watches intently from the control room, nodding his head slightly.",
+        "Close-up profile shot of Caleb leaning in towards the vintage studio microphone in the dimly lit The Crimson Studio. An intense red glow illuminates his pensive face as he takes a slow breath. In the deeply blurred background, Silas stands and watches him."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Bonnie: Woman.\nthe unlit cigarette: Slender, unlit hand-rolled cigarette with thin white paper and visible shreds of brown tobacco at the tip.\n\nExtreme close-up of Bonnie in The Crimson Studio, illuminated by the intense red glow. Bonnie holds the unlit cigarette and looks upward with a pensive, ecstatic expression and slightly parted lips. The background is out of focus and appears as an abstract blur of red and black."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up of Bonnie in The Crimson Studio, illuminated by the intense red glow. Bonnie holds the unlit cigarette and looks upward with a pensive, ecstatic expression and slightly parted lips. The background is out of focus and appears as an abstract blur of red and black."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Close-up in The Crimson Studio of Caleb singing with passion into the vintage studio microphone. His face is intensely illuminated by the intense red glow, which casts deep shadows. Levi watches from the background, subtly nodding along.",
+        "Extreme close-up on the vintage studio microphone inside The Crimson Studio. Caleb, seen in profile, leans in and sings passionately into the microphone. His face is partially illuminated by the intense red glow."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up in The Crimson Studio of Caleb singing with passion into the vintage studio microphone. His face is intensely illuminated by the intense red glow, which casts deep shadows. Levi watches from the background, subtly nodding along.",
+        "Extreme close-up on the vintage studio microphone inside The Crimson Studio. Caleb, seen in profile, leans in and sings passionately into the microphone. His face is partially illuminated by the intense red glow."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Extreme close-up on the serene face of Bonnie inside The Crimson Studio, her eyes closed. The intense red glow washes over her, and a faint smile touches her lips."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up on the serene face of Bonnie inside The Crimson Studio, her eyes closed. The intense red glow washes over her, and a faint smile touches her lips."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the bronze ride cymbal: Large, round, golden-bronze cymbal with a hammered finish, concentric lathe grooves, and a raised central bell.\n\nClose-up of Caleb in The Crimson Studio, singing with his eyes closed into the vintage studio microphone. The scene is dramatically lit in red. In the dark, out-of-focus background, the bronze ride cymbal is faintly visible.",
+        "Sterling: Older man in a black suit, a white cowboy hat, and sunglasses.\n\nSterling stands, his form silhouetted against the intense red glow. The amorphous glow slowly shifts and pulses behind him, creating large, soft, out-of-focus circles of light that drift across the frame.",
+        "Inside The Crimson Studio, Caleb leans slightly toward the vintage studio microphone, his profile illuminated by the intense red glow. In the soft-focus background, Silas watches him, nodding slowly."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Caleb in The Crimson Studio, singing with his eyes closed into the vintage studio microphone. The scene is dramatically lit in red. In the dark, out-of-focus background, the bronze ride cymbal is faintly visible.",
+        "Sterling stands, his form silhouetted against the intense red glow. The amorphous glow slowly shifts and pulses behind him, creating large, soft, out-of-focus circles of light that drift across the frame.",
+        "Inside The Crimson Studio, Caleb leans slightly toward the vintage studio microphone, his profile illuminated by the intense red glow. In the soft-focus background, Silas watches him, nodding slowly."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Casey: Person with long hair\n\nMedium close-up shot in The Crimson Studio, saturated with color from the intense red glow. Caleb smiles with his eyes closed as he embraces Bonnie from behind, holding up the unlit cigarette. Bonnie and Casey look on with pensive expressions, their gaze shifting subtly forward.",
+        "Jesse: Man with longish, light-brown hair and a prominent mustache.\n\nExtreme close-up of Jesse's face from a low angle inside The Crimson Studio, completely bathed in the saturated red light from the intense red glow. His eyes slowly look upward, and the focus shifts from his eyes down to his lips and chin."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium close-up shot in The Crimson Studio, saturated with color from the intense red glow. Caleb smiles with his eyes closed as he embraces Bonnie from behind, holding up the unlit cigarette. Bonnie and Casey look on with pensive expressions, their gaze shifting subtly forward.",
+        "Extreme close-up of Jesse's face from a low angle inside The Crimson Studio, completely bathed in the saturated red light from the intense red glow. His eyes slowly look upward, and the focus shifts from his eyes down to his lips and chin."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Close-up shot of Caleb in profile, singing into the vintage studio microphone inside the dimly lit The Crimson Studio. The scene is bathed in a strong red light from the intense red glow, with Silas visible but out of focus in the background standing by the mixing board.",
+        "the studio headphones: Large, over-ear studio headphones with padded circular earcups and a connecting headband.\nthe framed gold record: Metallic gold-colored vinyl LP record with a dark backing, a square black border, and a glass cover.\n\nInside a recording booth in The Crimson Studio, filled with a saturated red light, Caleb wears the studio headphones and sings passionately into the vintage studio microphone. From the control room on the other side of the studio glass partition, Silas leans forward slightly, watching him intently. A framed gold record hangs on the studio wall.",
+        "Close-up on Caleb singing passionately into the vintage studio microphone inside the dimly red-lit The Crimson Studio. In the slightly blurred background, Silas watches, nodding his head subtly to the music."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up shot of Caleb in profile, singing into the vintage studio microphone inside the dimly lit The Crimson Studio. The scene is bathed in a strong red light from the intense red glow, with Silas visible but out of focus in the background standing by the mixing board.",
+        "Inside a recording booth in The Crimson Studio, filled with a saturated red light, Caleb wears the studio headphones and sings passionately into the vintage studio microphone. From the control room on the other side of the studio glass partition, Silas leans forward slightly, watching him intently. A framed gold record hangs on the studio wall.",
+        "Close-up on Caleb singing passionately into the vintage studio microphone inside the dimly red-lit The Crimson Studio. In the slightly blurred background, Silas watches, nodding his head subtly to the music."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Inside The Crimson Studio, a close-up shows Bonnie slowly lifting her face into the intense red glow. In the softly blurred background, Silas brings the unlit cigarette to his lips."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Crimson Studio, a close-up shows Bonnie slowly lifting her face into the intense red glow. In the softly blurred background, Silas brings the unlit cigarette to his lips."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Close-up of Caleb singing passionately into the vintage studio microphone in The Crimson Studio. His eyes are closed and he smiles slightly. An intense red glow bathes the entire scene."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Caleb singing passionately into the vintage studio microphone in The Crimson Studio. His eyes are closed and he smiles slightly. An intense red glow bathes the entire scene."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Close-up on the face of Bonnie in The Crimson Studio. Her eyes are closed in pleasure, a small smile forming on her lips as her face is bathed in the intense red glow."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on the face of Bonnie in The Crimson Studio. Her eyes are closed in pleasure, a small smile forming on her lips as her face is bathed in the intense red glow."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "Extreme close-up in The Crimson Studio of Caleb singing with his eyes closed, his face close to the vintage studio microphone. The side of his face is dramatically lit by the intense red glow.",
+        "Medium shot of Silas singing into the vintage studio microphone inside the recording booth of The Crimson Studio. On the other side of the studio glass partition, Caleb watches from the control room, holding the unlit cigarette between his fingers. Jesse stands beside him, nodding slightly as he listens.",
+        "A close-up shot of Caleb singing passionately into the vintage studio microphone inside The Crimson Studio. The face of Caleb is bathed in a strong red light from the intense red glow, and the camera's focus shifts between the face of Caleb and the vintage studio microphone with a shallow depth of field.",
+        "Under a heavy red light in The Crimson Studio, Caleb and Casey sit closely together. Caleb smiles while holding the unlit cigarette and puts an arm around Casey, who leans in slightly.",
+        "Caleb sings passionately into the vintage studio microphone inside a recording booth bathed in intense red light. Through the studio glass partition, Silas watches from the control room with an unlit cigarette held in his mouth. The framed gold record is mounted on the studio control room wall behind him.",
+        "Inside The Crimson Studio, Caleb sings into the vintage studio microphone inside a red-lit recording booth. From the control room, Silas watches through the studio glass partition, nodding his head slightly to the music.",
+        "Extreme close-up on the acoustic guitar being played by Caleb inside The Crimson Studio. The shot is tight on Caleb's fingers and the vibrating strings over the body of the acoustic guitar, all saturated in a moody, dramatic red light with a shallow depth of field.",
+        "In the foreground, Caleb leans toward the vintage studio microphone, bathed in dramatic red light. In the background, seen through the studio glass partition, Silas watches from the control room, bringing the unlit cigarette to his lips.",
+        "Close-up profile of Bonnie inside the dark, red-lit The Crimson Studio. She looks up, her expression growing pensive and emotional. In the background, Casey is a completely out-of-focus figure.",
+        "Close-up profile shot of Caleb in The Crimson Studio. He sings with his eyes closed into the vintage studio microphone, his face dramatically illuminated by a red light."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Extreme close-up in The Crimson Studio of Caleb singing with his eyes closed, his face close to the vintage studio microphone. The side of his face is dramatically lit by the intense red glow.",
+        "Medium shot of Silas singing into the vintage studio microphone inside the recording booth of The Crimson Studio. On the other side of the studio glass partition, Caleb watches from the control room, holding the unlit cigarette between his fingers. Jesse stands beside him, nodding slightly as he listens.",
+        "A close-up shot of Caleb singing passionately into the vintage studio microphone inside The Crimson Studio. The face of Caleb is bathed in a strong red light from the intense red glow, and the camera's focus shifts between the face of Caleb and the vintage studio microphone with a shallow depth of field.",
+        "Under a heavy red light in The Crimson Studio, Caleb and Casey sit closely together. Caleb smiles while holding the unlit cigarette and puts an arm around Casey, who leans in slightly.",
+        "Caleb sings passionately into the vintage studio microphone inside a recording booth bathed in intense red light. Through the studio glass partition, Silas watches from the control room with an unlit cigarette held in his mouth. The framed gold record is mounted on the studio control room wall behind him.",
+        "Inside The Crimson Studio, Caleb sings into the vintage studio microphone inside a red-lit recording booth. From the control room, Silas watches through the studio glass partition, nodding his head slightly to the music.",
+        "Extreme close-up on the acoustic guitar being played by Caleb inside The Crimson Studio. The shot is tight on Caleb's fingers and the vibrating strings over the body of the acoustic guitar, all saturated in a moody, dramatic red light with a shallow depth of field.",
+        "In the foreground, Caleb leans toward the vintage studio microphone, bathed in dramatic red light. In the background, seen through the studio glass partition, Silas watches from the control room, bringing the unlit cigarette to his lips.",
+        "Close-up profile of Bonnie inside the dark, red-lit The Crimson Studio. She looks up, her expression growing pensive and emotional. In the background, Casey is a completely out-of-focus figure.",
+        "Close-up profile shot of Caleb in The Crimson Studio. He sings with his eyes closed into the vintage studio microphone, his face dramatically illuminated by a red light."
+      ]
+    },
+    {
+      "scene_num": 12,
+      "video_prompts": [
+        "The Horse Paddock: An outdoor dirt paddock enclosed by a white wooden fence.\nthe white wooden fence: White-painted wooden post-and-rail fence with horizontal planks.\nthe two horses: One dappled grey horse and one solid brown horse.\n\nThe two horses stand calmly in the bright sun of The Horse Paddock, one occasionally swishing its tail. Bonnie stands by the white wooden fence, resting her arms on it and watching the horses with a slight smile.",
+        "Rowan: Woman with shoulder-length, vibrant red hair, wearing a black halter top, frayed denim shorts, and black combat boots.\nMedium shot in The Horse Paddock during the daytime. Sterling, wearing the white cowboy hat, walks down a dirt pathway toward the camera, using a cane. He is flanked by Rowan, wearing the black halter top and the frayed denim shorts, walking on one side and Rhys, wearing the patterned plaid shirt, and Caleb, wearing the unbuttoned patterned shirt, walking on the other.",
+        "In the sunny The Horse Paddock Sterling walks using a cane, with Rowan beside him. Caleb, Silas, and Bonnie walk alongside them as a group.",
+        "Clara: Woman with long dark hair.\n\nAt The Horse Paddock, a close-up shows Clara holding the arm of Sterling, who is wearing the white cowboy hat and the black two-piece suit, as they walk. In the background, Jesse, Rowan, and Caleb talk amongst themselves.",
+        "Medium shot of a group walking towards the camera along a dirt path at The Horse Paddock during the day. In the center, a smiling Sterling wears the white cowboy hat. Sterling is flanked by Rowan and Caleb, who is also smiling and wears the unbuttoned patterned shirt. Clara walks in the background.",
+        "Medium shot in The Horse Paddock of Jesse, wearing the white cowboy hat, walking beside Caleb along the white wooden fence. Caleb, wearing the unbuttoned patterned plaid shirt, listens to Jesse, smiling and looking down at the ground.",
+        "A medium shot follows a group walking at The Horse Paddock during the day. In the center, Sterling, wearing the white cowboy hat and a black suit, walks forward. To his side, Caleb, wearing the patterned plaid shirt, and Casey walk and smile. Clara is partially visible walking behind the group.",
+        "Caleb, Levi, and Casey walk together across the dirt paddock. Caleb, wearing the black two-piece suit, has a slight smile. Casey, wearing the white cowboy hat, and Levi, wearing the patterned plaid shirt, walk alongside him.",
+        "In The Horse Paddock, a close-up shows Caleb, wearing the white cowboy hat, the unbuttoned patterned shirt, and the aviator sunglasses, speaking to Jesse and Clara, who listen with a slight smile.",
+        "Sterling, wearing the white cowboy hat and sunglasses, speaks intently to Rhys, who nods along with a serious expression while wearing the patterned plaid shirt. Caleb, wearing an unbuttoned patterned shirt and a necklace, stands nearby, shifting his weight as he observes their conversation in the outdoor paddock.",
+        "Outdoors at The Horse Paddock, Jesse, wearing the white cowboy hat, talks to a smiling Silas and to Caleb in front of the white wooden fence, with one of the two horses in the background.",
+        "In The Horse Paddock, Caleb, wearing the white cowboy hat and the aviator sunglasses, stands in the center, speaking and gesturing. Jesse, wearing the black two-piece suit, Casey, and a partially visible Rowan stand on either side of him, listening and occasionally nodding. They are positioned in front of the white wooden fence, with the two horses in the background.",
+        "Jesse and Caleb, who is wearing the unbuttoned patterned shirt and a necklace, talk to each other. In the background between them, Clara, wearing the brown peasant top, is smiling and dancing.",
+        "A close-up shot outdoors at The Horse Paddock, panning from a smiling Clara as she turns to look at Jesse, who is wearing the white cowboy hat, to reveal her gently placing her hand on the shoulder of Caleb.",
+        "In The Horse Paddock, outdoors during the day, Caleb, wearing the aviator sunglasses, gestures as he speaks to Levi. Levi, wearing the white cowboy hat, smiles and nods in response.",
+        "At The Horse Paddock, Jesse, Caleb, and Casey stand together in front of the white wooden fence. In the center, Jesse, wearing the aviator sunglasses and the black two-piece suit, talks with Caleb, who wears the patterned plaid shirt and the white cowboy hat. Casey stands beside them, listening and smiling.",
+        "Caleb leans against a wooden post, part of the white wooden fence, and offers a warm smile. In the slightly blurred background, Clara smiles back."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "The two horses stand calmly in the bright sun of The Horse Paddock, one occasionally swishing its tail. Bonnie stands by the white wooden fence, resting her arms on it and watching the horses with a slight smile.",
+        "Medium shot in The Horse Paddock during the daytime. Sterling, wearing the white cowboy hat, walks down a dirt pathway toward the camera, using a cane. He is flanked by Rowan, wearing the black halter top and the frayed denim shorts, walking on one side and Rhys, wearing the patterned plaid shirt, and Caleb, wearing the unbuttoned patterned shirt, walking on the other.",
+        "In the sunny The Horse Paddock Sterling walks using a cane, with Rowan beside him. Caleb, Silas, and Bonnie walk alongside them as a group.",
+        "At The Horse Paddock, a close-up shows Clara holding the arm of Sterling, who is wearing the white cowboy hat and the black two-piece suit, as they walk. In the background, Jesse, Rowan, and Caleb talk amongst themselves.",
+        "Medium shot of a group walking towards the camera along a dirt path at The Horse Paddock during the day. In the center, a smiling Sterling wears the white cowboy hat. Sterling is flanked by Rowan and Caleb, who is also smiling and wears the unbuttoned patterned shirt. Clara walks in the background.",
+        "Medium shot in The Horse Paddock of Jesse, wearing the white cowboy hat, walking beside Caleb along the white wooden fence. Caleb, wearing the unbuttoned patterned plaid shirt, listens to Jesse, smiling and looking down at the ground.",
+        "A medium shot follows a group walking at The Horse Paddock during the day. In the center, Sterling, wearing the white cowboy hat and a black suit, walks forward. To his side, Caleb, wearing the patterned plaid shirt, and Casey walk and smile. Clara is partially visible walking behind the group.",
+        "Caleb, Levi, and Casey walk together across the dirt paddock. Caleb, wearing the black two-piece suit, has a slight smile. Casey, wearing the white cowboy hat, and Levi, wearing the patterned plaid shirt, walk alongside him.",
+        "In The Horse Paddock, a close-up shows Caleb, wearing the white cowboy hat, the unbuttoned patterned shirt, and the aviator sunglasses, speaking to Jesse and Clara, who listen with a slight smile.",
+        "Sterling, wearing the white cowboy hat and sunglasses, speaks intently to Rhys, who nods along with a serious expression while wearing the patterned plaid shirt. Caleb, wearing an unbuttoned patterned shirt and a necklace, stands nearby, shifting his weight as he observes their conversation in the outdoor paddock.",
+        "Outdoors at The Horse Paddock, Jesse, wearing the white cowboy hat, talks to a smiling Silas and to Caleb in front of the white wooden fence, with one of the two horses in the background.",
+        "In The Horse Paddock, Caleb, wearing the white cowboy hat and the aviator sunglasses, stands in the center, speaking and gesturing. Jesse, wearing the black two-piece suit, Casey, and a partially visible Rowan stand on either side of him, listening and occasionally nodding. They are positioned in front of the white wooden fence, with the two horses in the background.",
+        "Jesse and Caleb, who is wearing the unbuttoned patterned shirt and a necklace, talk to each other. In the background between them, Clara, wearing the brown peasant top, is smiling and dancing.",
+        "A close-up shot outdoors at The Horse Paddock, panning from a smiling Clara as she turns to look at Jesse, who is wearing the white cowboy hat, to reveal her gently placing her hand on the shoulder of Caleb.",
+        "In The Horse Paddock, outdoors during the day, Caleb, wearing the aviator sunglasses, gestures as he speaks to Levi. Levi, wearing the white cowboy hat, smiles and nods in response.",
+        "At The Horse Paddock, Jesse, Caleb, and Casey stand together in front of the white wooden fence. In the center, Jesse, wearing the aviator sunglasses and the black two-piece suit, talks with Caleb, who wears the patterned plaid shirt and the white cowboy hat. Casey stands beside them, listening and smiling.",
+        "Caleb leans against a wooden post, part of the white wooden fence, and offers a warm smile. In the slightly blurred background, Clara smiles back."
+      ]
+    },
+    {
+      "scene_num": 13,
+      "video_prompts": [
+        "The Band Trailer: Cramped trailer interior featuring a couch and an open doorway.\nthe weathered trailer door: Rectangular metal trailer door with a weathered surface, rounded corners, and a simple latch handle.\n\nView from outside at night, looking through the open the weathered trailer door into the dimly lit The Band Trailer. A silhouetted Caleb enters the trailer."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "View from outside at night, looking through the open the weathered trailer door into the dimly lit The Band Trailer. A silhouetted Caleb enters the trailer."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Caleb",
+        "Silas",
+        "Rhys"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the intense red glow"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the intense red glow"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Caleb",
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the intense red glow"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Caleb",
+        "Silas",
+        "Levi"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone"
+      ]
+    },
+    "1:6": {
+      "characters": [
+        "Caleb",
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the acoustic guitar",
+        "the vintage studio microphone",
+        "the studio glass partition"
+      ]
+    },
+    "1:7": {
+      "characters": [
+        "Caleb",
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the intense red glow",
+        "the vintage studio microphone"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Bonnie"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the unlit cigarette",
+        "the intense red glow"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Caleb",
+        "Levi"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the intense red glow"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the intense red glow"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Bonnie"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the intense red glow"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the bronze ride cymbal"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Sterling"
+      ],
+      "places": [],
+      "objects": [
+        "the intense red glow"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Caleb",
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the intense red glow",
+        "the vintage studio microphone"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Caleb",
+        "Bonnie",
+        "Casey"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the intense red glow",
+        "the unlit cigarette"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Jesse"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the intense red glow"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Caleb",
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the intense red glow"
+      ]
+    },
+    "7:2": {
+      "characters": [
+        "Caleb",
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the studio headphones",
+        "the studio glass partition",
+        "the framed gold record"
+      ]
+    },
+    "7:3": {
+      "characters": [
+        "Caleb",
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Silas",
+        "Bonnie"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the unlit cigarette",
+        "the intense red glow"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the intense red glow"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Bonnie"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the intense red glow"
+      ]
+    },
+    "11:1": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the intense red glow"
+      ]
+    },
+    "11:2": {
+      "characters": [
+        "Caleb",
+        "Silas",
+        "Jesse"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the studio glass partition",
+        "the unlit cigarette"
+      ]
+    },
+    "11:3": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the intense red glow"
+      ]
+    },
+    "11:4": {
+      "characters": [
+        "Caleb",
+        "Casey"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the unlit cigarette"
+      ]
+    },
+    "11:5": {
+      "characters": [
+        "Caleb",
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the studio glass partition",
+        "the unlit cigarette",
+        "the framed gold record",
+        "the studio control room wall"
+      ]
+    },
+    "11:6": {
+      "characters": [
+        "Caleb",
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the studio glass partition",
+        "the framed gold record",
+        "the studio control room wall"
+      ]
+    },
+    "11:7": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the acoustic guitar"
+      ]
+    },
+    "11:8": {
+      "characters": [
+        "Caleb",
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone",
+        "the studio glass partition",
+        "the unlit cigarette"
+      ]
+    },
+    "11:9": {
+      "characters": [
+        "Bonnie",
+        "Casey"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": []
+    },
+    "11:10": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Crimson Studio"
+      ],
+      "objects": [
+        "the vintage studio microphone"
+      ]
+    },
+    "12:1": {
+      "characters": [
+        "Bonnie"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the two horses",
+        "the white wooden fence"
+      ]
+    },
+    "12:2": {
+      "characters": [
+        "Caleb",
+        "Rhys",
+        "Rowan",
+        "Sterling"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat",
+        "the black halter top",
+        "the frayed denim shorts",
+        "the patterned plaid shirt"
+      ]
+    },
+    "12:3": {
+      "characters": [
+        "Caleb",
+        "Silas",
+        "Bonnie",
+        "Rowan",
+        "Sterling"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat"
+      ]
+    },
+    "12:4": {
+      "characters": [
+        "Caleb",
+        "Clara",
+        "Rowan",
+        "Sterling",
+        "Jesse"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat",
+        "the black two-piece suit"
+      ]
+    },
+    "12:5": {
+      "characters": [
+        "Caleb",
+        "Clara",
+        "Rowan",
+        "Sterling"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat"
+      ]
+    },
+    "12:6": {
+      "characters": [
+        "Caleb",
+        "Jesse"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat",
+        "the patterned plaid shirt",
+        "the white wooden fence"
+      ]
+    },
+    "12:7": {
+      "characters": [
+        "Caleb",
+        "Clara",
+        "Casey",
+        "Sterling"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat",
+        "the patterned plaid shirt"
+      ]
+    },
+    "12:8": {
+      "characters": [
+        "Caleb",
+        "Casey",
+        "Levi"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the black two-piece suit",
+        "the white cowboy hat",
+        "the patterned plaid shirt"
+      ]
+    },
+    "12:9": {
+      "characters": [
+        "Caleb",
+        "Clara",
+        "Jesse"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat",
+        "the aviator sunglasses"
+      ]
+    },
+    "12:10": {
+      "characters": [
+        "Caleb",
+        "Rhys",
+        "Sterling"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat",
+        "the patterned plaid shirt"
+      ]
+    },
+    "12:11": {
+      "characters": [
+        "Caleb",
+        "Silas",
+        "Jesse"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat",
+        "the white wooden fence",
+        "the two horses"
+      ]
+    },
+    "12:12": {
+      "characters": [
+        "Caleb",
+        "Casey",
+        "Jesse",
+        "Rowan"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white wooden fence",
+        "the white cowboy hat",
+        "the aviator sunglasses",
+        "the black two-piece suit",
+        "the two horses"
+      ]
+    },
+    "12:13": {
+      "characters": [
+        "Caleb",
+        "Clara",
+        "Jesse"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the brown peasant top"
+      ]
+    },
+    "12:14": {
+      "characters": [
+        "Caleb",
+        "Clara",
+        "Jesse"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat"
+      ]
+    },
+    "12:15": {
+      "characters": [
+        "Caleb",
+        "Levi"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat",
+        "the aviator sunglasses"
+      ]
+    },
+    "12:16": {
+      "characters": [
+        "Caleb",
+        "Casey",
+        "Jesse"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white cowboy hat",
+        "the aviator sunglasses",
+        "the black two-piece suit",
+        "the patterned plaid shirt",
+        "the white wooden fence"
+      ]
+    },
+    "12:17": {
+      "characters": [
+        "Caleb",
+        "Clara"
+      ],
+      "places": [
+        "The Horse Paddock"
+      ],
+      "objects": [
+        "the white wooden fence"
+      ]
+    },
+    "13:1": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Band Trailer"
+      ],
+      "objects": [
+        "the weathered trailer door"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Caleb",
+      "label": "Character 1",
+      "description": "Man with long, shoulder-length brown hair, a beard and mustache, wearing an unbuttoned patterned shirt and a necklace."
+    },
+    "Character 2": {
+      "name": "Rhys",
+      "label": "Character 2",
+      "description": "Man with long hair wearing a plaid shirt."
+    },
+    "Character 3": {
+      "name": "Silas",
+      "label": "Character 3",
+      "description": "Man with shoulder-length, shaggy dark hair and sideburns, wearing a paisley-patterned button-down shirt with the top buttons undone, a fringed suede vest, and faded blue bell-bottom jeans."
+    },
+    "Character 4": {
+      "name": "Bonnie",
+      "label": "Character 4",
+      "description": "Woman."
+    },
+    "Character 5": {
+      "name": "Jesse",
+      "label": "Character 5",
+      "description": "Man with longish, light-brown hair and a prominent mustache."
+    },
+    "Character 6": {
+      "name": "Levi",
+      "label": "Character 6",
+      "description": "Man with long brown hair wearing a denim jacket."
+    },
+    "Character 7": {
+      "name": "Rowan",
+      "label": "Character 7",
+      "description": "Woman with shoulder-length, vibrant red hair, wearing a black halter top, frayed denim shorts, and black combat boots."
+    },
+    "Character 8": {
+      "name": "Sterling",
+      "label": "Character 8",
+      "description": "Older man in a black suit, a white cowboy hat, and sunglasses."
+    },
+    "Character 10": {
+      "name": "Casey",
+      "label": "Character 10",
+      "description": "Person with long hair"
+    },
+    "Character 11": {
+      "name": "Clara",
+      "label": "Character 11",
+      "description": "Woman with long dark hair."
+    },
+    "Location 1": {
+      "name": "The Crimson Studio",
+      "label": "Location 1",
+      "description": "Interior of a 1960s-era recording studio with a prominent red color palette, walls decorated with framed gold records, and a vintage microphone."
+    },
+    "Location 2": {
+      "name": "The Horse Paddock",
+      "label": "Location 2",
+      "description": "An outdoor dirt paddock enclosed by a white wooden fence."
+    },
+    "Location 3": {
+      "name": "The Band Trailer",
+      "label": "Location 3",
+      "description": "Cramped trailer interior featuring a couch and an open doorway."
+    },
+    "Object 1": {
+      "name": "the vintage studio microphone",
+      "label": "Object 1",
+      "description": "Vintage condenser microphone with a large cylindrical body, a polished silver finish, and a wide, fine-mesh metal grille over the capsule."
+    },
+    "Object 2": {
+      "name": "the framed gold record",
+      "label": "Object 2",
+      "description": "Metallic gold-colored vinyl LP record with a dark backing, a square black border, and a glass cover."
+    },
+    "Object 3": {
+      "name": "the acoustic guitar",
+      "label": "Object 3",
+      "description": "Acoustic guitar"
+    },
+    "Object 4": {
+      "name": "the unlit cigarette",
+      "label": "Object 4",
+      "description": "Slender, unlit hand-rolled cigarette with thin white paper and visible shreds of brown tobacco at the tip."
+    },
+    "Object 5": {
+      "name": "the studio glass partition",
+      "label": "Object 5",
+      "description": "Large, rectangular recording studio partition consisting of a single, clear pane of glass."
+    },
+    "Object 6": {
+      "name": "the intense red glow",
+      "label": "Object 6",
+      "description": "Amorphous, intense red glow"
+    },
+    "Object 7": {
+      "name": "the bronze ride cymbal",
+      "label": "Object 7",
+      "description": "Large, round, golden-bronze cymbal with a hammered finish, concentric lathe grooves, and a raised central bell."
+    },
+    "Object 8": {
+      "name": "the studio headphones",
+      "label": "Object 8",
+      "description": "Large, over-ear studio headphones with padded circular earcups and a connecting headband."
+    },
+    "Object 9": {
+      "name": "the studio control room wall",
+      "label": "Object 9",
+      "description": "Interior recording studio wall incorporating a large glass partition and a mounted framed gold record"
+    },
+    "Object 10": {
+      "name": "the white wooden fence",
+      "label": "Object 10",
+      "description": "White-painted wooden post-and-rail fence with horizontal planks."
+    },
+    "Object 11": {
+      "name": "the two horses",
+      "label": "Object 11",
+      "description": "One dappled grey horse and one solid brown horse."
+    },
+    "Object 12": {
+      "name": "the patterned plaid shirt",
+      "label": "Object 12",
+      "description": "Plaid shirt with a checkered and striped pattern"
+    },
+    "Object 13": {
+      "name": "the black halter top",
+      "label": "Object 13",
+      "description": "Black halter top"
+    },
+    "Object 14": {
+      "name": "the black two-piece suit",
+      "label": "Object 14",
+      "description": "Dark black two-piece men's suit, consisting of a suit jacket and matching trousers"
+    },
+    "Object 15": {
+      "name": "the white cowboy hat",
+      "label": "Object 15",
+      "description": "White cowboy hat with a high crown and a wide brim"
+    },
+    "Object 16": {
+      "name": "the frayed denim shorts",
+      "label": "Object 16",
+      "description": "Faded blue denim cut-off shorts with a high-waisted fit and frayed hems"
+    },
+    "Object 17": {
+      "name": "the aviator sunglasses",
+      "label": "Object 17",
+      "description": "Aviator-style sunglasses with thin gold-tone metal frames, a double bridge, and large dark teardrop-shaped lenses"
+    },
+    "Object 18": {
+      "name": "the brown peasant top",
+      "label": "Object 18",
+      "description": "Brown peasant-style top"
+    },
+    "Object 19": {
+      "name": "the weathered trailer door",
+      "label": "Object 19",
+      "description": "Rectangular metal trailer door with a weathered surface, rounded corners, and a simple latch handle."
+    }
+  },
+  "_window_shot_ids": [
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0027",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0028",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0030",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0031",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0033",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0034",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0036",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0037",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0038",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0039",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0040",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0041",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0043",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0044",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0045",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0046",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0047",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0048",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0049",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0050",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0051",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0054",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0055",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0056",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0057",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0058",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0059",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0061",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0062",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0063",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0064",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0065",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0066",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0067",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0068",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0069",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0070",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0071",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0072",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0073",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0074",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0075",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0076",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0077",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0078",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0079",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0080",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0081",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0082",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run264__i50_j98__T600__shot0083"
+  ],
+  "_num_scenes": 13,
+  "_num_shots": 50,
+  "_name_map": {
+    "Character 1": "Caleb",
+    "Character 10": "Casey",
+    "Character 11": "Clara",
+    "Character 2": "Rhys",
+    "Character 3": "Silas",
+    "Character 4": "Bonnie",
+    "Character 5": "Jesse",
+    "Character 6": "Levi",
+    "Character 7": "Rowan",
+    "Character 8": "Sterling",
+    "Character 9": "Nico",
+    "Location 1": "The Crimson Studio",
+    "Location 2": "The Horse Paddock",
+    "Location 3": "The Band Trailer",
+    "Object 1": "the vintage studio microphone",
+    "Object 10": "the white wooden fence",
+    "Object 11": "the two horses",
+    "Object 12": "the patterned plaid shirt",
+    "Object 13": "the black halter top",
+    "Object 14": "the black two-piece suit",
+    "Object 15": "the white cowboy hat",
+    "Object 16": "the frayed denim shorts",
+    "Object 17": "the aviator sunglasses",
+    "Object 18": "the brown peasant top",
+    "Object 19": "the weathered trailer door",
+    "Object 2": "the framed gold record",
+    "Object 3": "the acoustic guitar",
+    "Object 4": "the unlit cigarette",
+    "Object 5": "the studio glass partition",
+    "Object 6": "the intense red glow",
+    "Object 7": "the bronze ride cymbal",
+    "Object 8": "the studio headphones",
+    "Object 9": "the studio control room wall"
+  }
+}

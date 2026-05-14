@@ -1,0 +1,1422 @@
+{
+  "story_name": "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600",
+  "story_overview": "Casey, a teenage girl, experiences a series of strange events, from confronting a mysterious chemical transport truck to gaining ghostly abilities. Along with her friends Leo and Jordan and the ethereal Ava, Casey navigates school life and a growing conflict with a man named Walter, uncovering secrets that involve large sums of money and corporate vehicles.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Ava: Female character with no discernible physical features or clothing.\n\nAva slowly materializes amidst a vortex of dark, murky, and distorted patterns. The fluid shapes swirl and twist, creating an abstract and shifting visual."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Ava slowly materializes amidst a vortex of dark, murky, and distorted patterns. The fluid shapes swirl and twist, creating an abstract and shifting visual."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Walter: Man wearing a purple sweater vest over a collared shirt and a tie.\nHillcrest Estates: A network of suburban residential streets nestled among rolling hills.\n\nHigh-angle wide shot of Hillcrest Estates. Walter walks along one of the winding residential streets below. Water droplets splash onto the view, creating ripples that distort the image.",
+        "Casey: Person wearing a backwards red-and-white baseball cap and a red and brown plaid shirt layered over a striped t-shirt.\n\nMedium close-up of Casey, wearing the red baseball cap and the red and brown plaid shirt. With a pensive expression, Casey briefly looks up before her gaze drops downward thoughtfully.",
+        "the chemical transport truck: Large white transport truck with a prominent front grille and black text on the side that reads 'CHEMICAL TRANSPORT'.\n\nClose-up shot from behind Casey, wearing the red and white trucker cap. Casey tilts her head up slightly to gaze at the massive grille of the chemical transport truck looming in front of her.",
+        "Medium shot of Casey repeatedly jumping up and down on the front bumper of the chemical transport truck. The transport truck is parked on a residential street in Hillcrest Estates during the day."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "High-angle wide shot of Hillcrest Estates. Walter walks along one of the winding residential streets below. Water droplets splash onto the view, creating ripples that distort the image.",
+        "Medium close-up of Casey, wearing the red baseball cap and the red and brown plaid shirt. With a pensive expression, Casey briefly looks up before her gaze drops downward thoughtfully.",
+        "Close-up shot from behind Casey, wearing the red and white trucker cap. Casey tilts her head up slightly to gaze at the massive grille of the chemical transport truck looming in front of her.",
+        "Medium shot of Casey repeatedly jumping up and down on the front bumper of the chemical transport truck. The transport truck is parked on a residential street in Hillcrest Estates during the day."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Dry Basin: A dusty, outdoor desert area with flat ground composed of packed earth, dirt, and small debris.\nthe industrial street brush: Large, cylindrical industrial brush attachment with a central metal axle and densely packed, stiff, dark-colored bristles coated in a layer of dirt and fine dust.\n\nLow-angle close-up of the industrial street brush spinning rapidly in The Dry Basin, sweeping dirt and debris from the ground. Casey watches from the background as the industrial brush kicks up a cloud of dust."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle close-up of the industrial street brush spinning rapidly in The Dry Basin, sweeping dirt and debris from the ground. Casey watches from the background as the industrial brush kicks up a cloud of dust."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Chemical Plant: A modern chemical plant with both interior and exterior areas, including a dry, grassy hill.\nthe red gas can: Red rectangular plastic gas can with a top handle, a flexible black spout with a yellow cap, and a slightly scuffed, dirty surface.\n\nMedium shot of Casey standing at The Chemical Plant in front of the chemical transport truck, holding the red gas can. A large volume of liquid suddenly pours down from off-screen, completely drenching Casey."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Casey standing at The Chemical Plant in front of the chemical transport truck, holding the red gas can. A large volume of liquid suddenly pours down from off-screen, completely drenching Casey."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the white armored truck: Large, white armored truck with a boxy, utilitarian design, heavy plating, small reinforced windows, and large, rugged wheels.\n\nIn the middle of The Dry Basin, Casey, wearing a backwards red-and-white baseball cap and covered in mud, shifts her weight and clenches her fists into a fighting pose, staring intensely forward. The large, white armored truck is parked in the dusty background behind her."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the middle of The Dry Basin, Casey, wearing a backwards red-and-white baseball cap and covered in mud, shifts her weight and clenches her fists into a fighting pose, staring intensely forward. The large, white armored truck is parked in the dusty background behind her."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Workshop: Indoor cluttered workshop.\n\nOver-the-shoulder close-up in The Workshop. Casey, wearing the red baseball cap and the red and blue plaid shirt, faces the camera, speaking to Ava with a concerned expression. The shot is framed from behind Ava, whose back is to the camera."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder close-up in The Workshop. Casey, wearing the red baseball cap and the red and blue plaid shirt, faces the camera, speaking to Ava with a concerned expression. The shot is framed from behind Ava, whose back is to the camera."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Unfinished Room: An unfinished interior room with exposed wooden wall studs and no drywall.\n\nA medium shot of Casey standing inside The Unfinished Room. Casey, wearing the red and blue plaid shirt and the red baseball cap, scowls with intense anger at a toy dinosaur set in front of her, then quickly raises her hand, poised to strike it down."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A medium shot of Casey standing inside The Unfinished Room. Casey, wearing the red and blue plaid shirt and the red baseball cap, scowls with intense anger at a toy dinosaur set in front of her, then quickly raises her hand, poised to strike it down."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "The Schoolyard: Outdoor schoolyard.\n\nFrom a low angle, Casey plays in The Schoolyard under a clear blue sky. She kicks the glowing yellow orb as it falls towards her foot."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "From a low angle, Casey plays in The Schoolyard under a clear blue sky. She kicks the glowing yellow orb as it falls towards her foot."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Claire: Woman with blonde hair styled in an updo, wearing a black sleeveless top and a pearl necklace.\n\nHigh-angle shot in The Workshop. Claire and Ava stand together, looking down as the red and blue plaid shirt rapidly melts into the iridescent goo on the floor in front of them.",
+        "At night, Casey runs quickly from left to right across the frame, passing a stationary white car. The bright headlights of the white car illuminate Casey as they rush by."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "High-angle shot in The Workshop. Claire and Ava stand together, looking down as the red and blue plaid shirt rapidly melts into the iridescent goo on the floor in front of them.",
+        "At night, Casey runs quickly from left to right across the frame, passing a stationary white car. The bright headlights of the white car illuminate Casey as they rush by."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Nia: Young woman with her hair styled in a ponytail.\nThe Racetrack: Outdoor race course with a yellow finish line tape.\nMedium close-up shot as Nia runs forward with a wide, celebratory smile, breaking through the yellow finish line tape at the finish line in The Racetrack. Casey stands on the sidelines and cheers."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up shot as Nia runs forward with a wide, celebratory smile, breaking through the yellow finish line tape at the finish line in The Racetrack. Casey stands on the sidelines and cheers."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "The Playroom: Suburban house interior with a white door and a large, blue, collapsible fabric play tunnel.\nthe blue play tunnel: Large, blue, collapsible fabric play tunnel with a circular fabric opening.\n\nClose-up of Casey inside the blue play tunnel in The Playroom. She holds the fabric opening of the play tunnel with both hands, leaning forward slightly as she peers out with a focused expression. A white door stands in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Casey inside the blue play tunnel in The Playroom. She holds the fabric opening of the play tunnel with both hands, leaning forward slightly as she peers out with a focused expression. A white door stands in the background."
+      ]
+    },
+    {
+      "scene_num": 12,
+      "video_prompts": [
+        "Jordan: Teenage person with long blonde hair, wearing a backwards green baseball cap, a red and purple striped shirt, and a backpack.\nMarcus: Young Black man with a short haircut, wearing a striped t-shirt and a backpack.\n\nIn the outdoor schoolyard of The Schoolyard, Jordan, Marcus, and Casey stand side-by-side and wave. Jordan smiles happily, while Marcus has a neutral expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the outdoor schoolyard of The Schoolyard, Jordan, Marcus, and Casey stand side-by-side and wave. Jordan smiles happily, while Marcus has a neutral expression."
+      ]
+    },
+    {
+      "scene_num": 13,
+      "video_prompts": [
+        "the dusty bicycle: Dust-covered bicycle with a simple metal-tube body, straight handlebars, and thick, knobby tires caked with dirt.\nIn The Dry Basin, Casey frantically pedals the dusty bicycle down a dirt road. Walter pursues her in the red Hummer, which follows closely and kicks up a cloud of dust. Close-up on the massive front grille of the red Hummer as it barrels forward."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Dry Basin, Casey frantically pedals the dusty bicycle down a dirt road. Walter pursues her in the red Hummer, which follows closely and kicks up a cloud of dust. Close-up on the massive front grille of the red Hummer as it barrels forward."
+      ]
+    },
+    {
+      "scene_num": 14,
+      "video_prompts": [
+        "The Overgrown Porch: A cluttered house porch heavily overgrown with vines, featuring a doorway and a ladder.\n\nA translucent, ghostly Casey stands by the doorway on The Overgrown Porch, then vanishes in a puff of white smoke."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A translucent, ghostly Casey stands by the doorway on The Overgrown Porch, then vanishes in a puff of white smoke."
+      ]
+    },
+    {
+      "scene_num": 15,
+      "video_prompts": [
+        "Leo: Young man with short dark hair, wearing a dark plaid shirt, a backpack, and a backward baseball cap.\n\nMedium shot inside The Playroom. Leo, wearing the muddy baseball cap backwards, talks to Marcus. Marcus listens, nodding his head."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot inside The Playroom. Leo, wearing the muddy baseball cap backwards, talks to Marcus. Marcus listens, nodding his head."
+      ]
+    },
+    {
+      "scene_num": 16,
+      "video_prompts": [
+        "The Scholar's Bedroom: Interior of a bedroom featuring a white bookshelf with numerous trophies, a telescope, and a wall poster.\nthe collection of trophies: A collection of award trophies of various sizes and designs, each with a base and a topper.\n\nInside The Scholar's Bedroom, Casey lifts a VHS tape, holding it up towards the camera. In the background, the collection of trophies is on a shelf."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Scholar's Bedroom, Casey lifts a VHS tape, holding it up towards the camera. In the background, the collection of trophies is on a shelf."
+      ]
+    },
+    {
+      "scene_num": 17,
+      "video_prompts": [
+        "The Celebration Hall: An event venue for a celebration.\nThe Car Interior: Interior of a passenger vehicle with a steering wheel, dashboard, front seats, and a center console.\nthe opening credit text: Text consisting of the words 'Larisa Oleynik As Alex'.\n\nCasey smiles and claps as Claire proudly holds up a large trophy. The opening credit text is on screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Casey smiles and claps as Claire proudly holds up a large trophy. The opening credit text is on screen."
+      ]
+    },
+    {
+      "scene_num": 18,
+      "video_prompts": [
+        "In The Schoolyard, Casey holds a baseball bat over their shoulder, shifting their weight slightly and looking towards the camera with a slight smile. The opening credit text is on screen.",
+        "Close-up on Casey, who turns toward the camera and gives a playful smirk, with the opening credit text on screen."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The Schoolyard, Casey holds a baseball bat over their shoulder, shifting their weight slightly and looking towards the camera with a slight smile. The opening credit text is on screen.",
+        "Close-up on Casey, who turns toward the camera and gives a playful smirk, with the opening credit text on screen."
+      ]
+    },
+    {
+      "scene_num": 19,
+      "video_prompts": [
+        "The Darkroom: The dark interior of a photographic darkroom.\n\nClaire looks toward the camera and smiles in the dim red light of The Darkroom. The camera then pans over to Casey, who turns her head to look directly at the camera with a confident expression as the opening credit text appears."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Claire looks toward the camera and smiles in the dim red light of The Darkroom. The camera then pans over to Casey, who turns her head to look directly at the camera with a confident expression as the opening credit text appears."
+      ]
+    },
+    {
+      "scene_num": 20,
+      "video_prompts": [
+        "Inside The Playroom, Walter smiles warmly while looking toward the camera as the opening credit text appears. Casey stands beside him, turning to look at him with a slight smile, with a large blue play tunnel visible in the background.",
+        "Claire turns her head slightly and smiles warmly. She is wearing the pearl necklace. The opening credit text is superimposed at the bottom of the screen."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Playroom, Walter smiles warmly while looking toward the camera as the opening credit text appears. Casey stands beside him, turning to look at him with a slight smile, with a large blue play tunnel visible in the background.",
+        "Claire turns her head slightly and smiles warmly. She is wearing the pearl necklace. The opening credit text is superimposed at the bottom of the screen."
+      ]
+    },
+    {
+      "scene_num": 21,
+      "video_prompts": [
+        "At The Chemical Plant, Walter and Casey run down a dry, grassy hill during the day, and the opening credit text appears on screen. The red Hummer is parked at the crest of the hill behind them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At The Chemical Plant, Walter and Casey run down a dry, grassy hill during the day, and the opening credit text appears on screen. The red Hummer is parked at the crest of the hill behind them."
+      ]
+    },
+    {
+      "scene_num": 22,
+      "video_prompts": [
+        "Maya: Young woman wearing a bright yellow jacket and a black helmet.\n\nMedium close-up in The Playroom. Casey stands watching Maya, her expression shifting to shock as Maya dematerializes in a stylized visual effect. The opening credit text is superimposed over the shot."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up in The Playroom. Casey stands watching Maya, her expression shifting to shock as Maya dematerializes in a stylized visual effect. The opening credit text is superimposed over the shot."
+      ]
+    },
+    {
+      "scene_num": 23,
+      "video_prompts": [
+        "The Classroom: School classroom interior with a whiteboard and trophies.\n\nCasey, Claire, and Maya lean in close together, smiling brightly for a picture as the opening credit text appears on screen. Walter stands in the background, watching them with a warm smile.",
+        "Casey stands against a pure black background, looking directly forward as a small smile forms on her face, with the opening credit text on screen."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Casey, Claire, and Maya lean in close together, smiling brightly for a picture as the opening credit text appears on screen. Walter stands in the background, watching them with a warm smile.",
+        "Casey stands against a pure black background, looking directly forward as a small smile forms on her face, with the opening credit text on screen."
+      ]
+    },
+    {
+      "scene_num": 24,
+      "video_prompts": [
+        "The Mack House: A two-story suburban house with a white mailbox that has the name 'MACK' written on its side.\nthe 'MACK' mailbox: White mailbox with the name 'MACK' written on its side.\n\nLow-angle shot of Nia standing on the front lawn of The Mack House, a two-story suburban home, on a clear day, adjusting her ponytail. In the foreground, the 'MACK' mailbox stands by the street as the opening credit text appears on screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle shot of Nia standing on the front lawn of The Mack House, a two-story suburban home, on a clear day, adjusting her ponytail. In the foreground, the 'MACK' mailbox stands by the street as the opening credit text appears on screen."
+      ]
+    },
+    {
+      "scene_num": 25,
+      "video_prompts": [
+        "the white bookshelf: Tall, rectangular white wooden bookshelf with multiple horizontal shelves and simple vertical side panels.\nthe brass telescope: Brass refractor telescope mounted on a dark wood tripod.\n\nMedium shot in The Scholar's Bedroom. Nia stands in front of the white bookshelf and pulls a book from a shelf. Casey stands next to her, leaning in slightly to see what she chose. In the background, the brass telescope is set up near a window."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Scholar's Bedroom. Nia stands in front of the white bookshelf and pulls a book from a shelf. Casey stands next to her, leaning in slightly to see what she chose. In the background, the brass telescope is set up near a window."
+      ]
+    },
+    {
+      "scene_num": 26,
+      "video_prompts": [
+        "A medium shot begins on a smiling Maya as she places a book on a shelf in The Scholar's Bedroom. The view pans left across the room, passing posters on the wall and a window, to settle on Ava lying awake in bed with a somber expression on her face."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A medium shot begins on a smiling Maya as she places a book on a shelf in The Scholar's Bedroom. The view pans left across the room, passing posters on the wall and a window, to settle on Ava lying awake in bed with a somber expression on her face."
+      ]
+    },
+    {
+      "scene_num": 27,
+      "video_prompts": [
+        "Casey and Claire stand together having a conversation. Casey speaks, gesturing occasionally, while Claire listens intently, nodding in understanding. In the background, the white bookshelf is filled with books and displays the collection of trophies."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Casey and Claire stand together having a conversation. Casey speaks, gesturing occasionally, while Claire listens intently, nodding in understanding. In the background, the white bookshelf is filled with books and displays the collection of trophies."
+      ]
+    },
+    {
+      "scene_num": 28,
+      "video_prompts": [
+        "Nia wakes up. Looking groggy, she sits up in bed, wearing an oversized t-shirt with a red heart graphic. The wall behind her is decorated with a wall poster."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Nia wakes up. Looking groggy, she sits up in bed, wearing an oversized t-shirt with a red heart graphic. The wall behind her is decorated with a wall poster."
+      ]
+    },
+    {
+      "scene_num": 29,
+      "video_prompts": [
+        "the trophy shelf: A school bookshelf containing school trophies and framed certificates.\nthe awards display: A collection of gold and silver-toned trophies of various sizes, some with columnar bodies and athletic or academic figurines on top, mounted on marble and dark wood bases, interspersed with framed paper certificates in simple black and wood-grain frames.\n\nMedium shot in The Classroom. Casey stands with her arms crossed, her expression serious as she listens to Walter. Walter faces her, talking and gesturing emphatically. Leo stands nearby, watching the exchange, shifting his weight slightly. In the background, the trophy shelf holds the awards display."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Classroom. Casey stands with her arms crossed, her expression serious as she listens to Walter. Walter faces her, talking and gesturing emphatically. Leo stands nearby, watching the exchange, shifting his weight slightly. In the background, the trophy shelf holds the awards display."
+      ]
+    },
+    {
+      "scene_num": 30,
+      "video_prompts": [
+        "Inside The Scholar's Bedroom, Ava sits up in a messy bed with a tired and sad expression. She rests her cheek on her hand and rubs her eye while Walter stands nearby, shifting on his feet as he watches her."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Scholar's Bedroom, Ava sits up in a messy bed with a tired and sad expression. She rests her cheek on her hand and rubs her eye while Walter stands nearby, shifting on his feet as he watches her."
+      ]
+    },
+    {
+      "scene_num": 31,
+      "video_prompts": [
+        "Medium shot in The Classroom. Walter holds an open binder and gestures at its pages as he speaks. Nia and Casey stand opposite him, looking down at the binder and listening."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Classroom. Walter holds an open binder and gestures at its pages as he speaks. Nia and Casey stand opposite him, looking down at the binder and listening."
+      ]
+    },
+    {
+      "scene_num": 32,
+      "video_prompts": [
+        "Nia sits up in her bed. With a sad and tired expression, she sighs softly while looking straight ahead, lost in thought."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Nia sits up in her bed. With a sad and tired expression, she sighs softly while looking straight ahead, lost in thought."
+      ]
+    },
+    {
+      "scene_num": 33,
+      "video_prompts": [
+        "Medium shot inside The Classroom of Walter speaking with a concerned expression to Casey. Casey holds a binder, listening intently and nodding slightly. In the background, the awards display, framed certificates, and a whiteboard are visible.",
+        "In the classroom, Walter shifts his weight, his expression growing concerned. Casey, holding a binder, looks up with wide-eyed surprise. Ava stands in the background, her gaze drifting towards the trophy shelf filled with the awards display."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot inside The Classroom of Walter speaking with a concerned expression to Casey. Casey holds a binder, listening intently and nodding slightly. In the background, the awards display, framed certificates, and a whiteboard are visible.",
+        "In the classroom, Walter shifts his weight, his expression growing concerned. Casey, holding a binder, looks up with wide-eyed surprise. Ava stands in the background, her gaze drifting towards the trophy shelf filled with the awards display."
+      ]
+    },
+    {
+      "scene_num": 34,
+      "video_prompts": [
+        "Close-up on Casey sitting in the middle of the cluttered The Scholar's Bedroom. With a worried expression, she shifts slightly, her eyes darting intently just past the camera."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Casey sitting in the middle of the cluttered The Scholar's Bedroom. With a worried expression, she shifts slightly, her eyes darting intently just past the camera."
+      ]
+    },
+    {
+      "scene_num": 35,
+      "video_prompts": [
+        "Inside The Classroom, Walter holds up the stack of cash and speaks seriously to Casey. Casey listens with a concerned expression as Nia stands nearby, her gaze shifting between them. In the background, the trophy shelf is filled with the awards display.",
+        "Medium shot inside The Classroom. Walter talks to Claire, then turns and walks out of the frame. Claire watches Walter leave, and a smile spreads across her face."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Classroom, Walter holds up the stack of cash and speaks seriously to Casey. Casey listens with a concerned expression as Nia stands nearby, her gaze shifting between them. In the background, the trophy shelf is filled with the awards display.",
+        "Medium shot inside The Classroom. Walter talks to Claire, then turns and walks out of the frame. Claire watches Walter leave, and a smile spreads across her face."
+      ]
+    },
+    {
+      "scene_num": 36,
+      "video_prompts": [
+        "In The Scholar's Bedroom, Leo watches as Casey sits up holding the stack of cash. She lifts the thick stack of cash to her nose and smells it, then lowers the money to examine the bills in her hands."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Scholar's Bedroom, Leo watches as Casey sits up holding the stack of cash. She lifts the thick stack of cash to her nose and smells it, then lowers the money to examine the bills in her hands."
+      ]
+    },
+    {
+      "scene_num": 37,
+      "video_prompts": [
+        "With a serious expression, Nia stands in The Classroom near the awards display, holding a binder. She then turns to her right and walks out of the frame."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "With a serious expression, Nia stands in The Classroom near the awards display, holding a binder. She then turns to her right and walks out of the frame."
+      ]
+    },
+    {
+      "scene_num": 38,
+      "video_prompts": [
+        "In The Scholar's Bedroom, a tired Casey takes off her baseball cap and sets it aside. She adjusts her pillow, lies down in her bed, and closes her eyes to go to sleep."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Scholar's Bedroom, a tired Casey takes off her baseball cap and sets it aside. She adjusts her pillow, lies down in her bed, and closes her eyes to go to sleep."
+      ]
+    },
+    {
+      "scene_num": 39,
+      "video_prompts": [
+        "In Hillcrest Estates, Leo, wearing the dark plaid shirt and carrying a backpack, and Jordan listen with somber expressions, exchanging a concerned look.",
+        "In the suburban streets of Hillcrest Estates, Leo, Casey, and Jordan walk together on a sidewalk. Leo is talking while Casey walks beside him, listening with a concerned expression. Jordan walks with them, occasionally glancing forward down the street.",
+        "Medium tracking shot of Casey and Leo walking on a sidewalk in Hillcrest Estates. Casey, wearing the red-and-white baseball cap and the red-and-brown plaid shirt over a striped tee, looks concerned. Leo walks beside her wearing the dark plaid shirt and a backward baseball cap, and talks expressively. Leo is carrying a backpack. The shot ends with a quick pan away to a blurry street."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In Hillcrest Estates, Leo, wearing the dark plaid shirt and carrying a backpack, and Jordan listen with somber expressions, exchanging a concerned look.",
+        "In the suburban streets of Hillcrest Estates, Leo, Casey, and Jordan walk together on a sidewalk. Leo is talking while Casey walks beside him, listening with a concerned expression. Jordan walks with them, occasionally glancing forward down the street.",
+        "Medium tracking shot of Casey and Leo walking on a sidewalk in Hillcrest Estates. Casey, wearing the red-and-white baseball cap and the red-and-brown plaid shirt over a striped tee, looks concerned. Leo walks beside her wearing the dark plaid shirt and a backward baseball cap, and talks expressively. Leo is carrying a backpack. The shot ends with a quick pan away to a blurry street."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Ava"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Walter"
+      ],
+      "places": [
+        "Hillcrest Estates"
+      ],
+      "objects": []
+    },
+    "2:2": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [],
+      "objects": [
+        "the red baseball cap"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [],
+      "objects": [
+        "the red and white trucker cap",
+        "the chemical transport truck"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "Hillcrest Estates"
+      ],
+      "objects": [
+        "the chemical transport truck"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Dry Basin"
+      ],
+      "objects": [
+        "the industrial street brush"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Chemical Plant"
+      ],
+      "objects": [
+        "the chemical transport truck",
+        "the red gas can"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Dry Basin"
+      ],
+      "objects": [
+        "the white armored truck"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Ava",
+        "Casey"
+      ],
+      "places": [
+        "The Workshop"
+      ],
+      "objects": [
+        "the red baseball cap",
+        "the red and blue plaid shirt"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Unfinished Room"
+      ],
+      "objects": [
+        "the red baseball cap",
+        "the red and blue plaid shirt",
+        "the toy dinosaur set"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Schoolyard"
+      ],
+      "objects": [
+        "the glowing yellow orb"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Claire",
+        "Ava"
+      ],
+      "places": [
+        "The Workshop"
+      ],
+      "objects": [
+        "the iridescent goo",
+        "the red and blue plaid shirt"
+      ]
+    },
+    "9:2": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [],
+      "objects": [
+        "the white car"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Nia",
+        "Casey"
+      ],
+      "places": [
+        "The Racetrack"
+      ],
+      "objects": [
+        "the yellow finish line tape"
+      ]
+    },
+    "11:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Playroom"
+      ],
+      "objects": [
+        "the blue play tunnel"
+      ]
+    },
+    "12:1": {
+      "characters": [
+        "Casey",
+        "Jordan",
+        "Marcus"
+      ],
+      "places": [
+        "The Schoolyard"
+      ],
+      "objects": []
+    },
+    "13:1": {
+      "characters": [
+        "Walter",
+        "Casey"
+      ],
+      "places": [
+        "The Dry Basin"
+      ],
+      "objects": [
+        "the dusty bicycle",
+        "the red Hummer"
+      ]
+    },
+    "14:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Overgrown Porch"
+      ],
+      "objects": []
+    },
+    "15:1": {
+      "characters": [
+        "Leo",
+        "Marcus"
+      ],
+      "places": [
+        "The Playroom"
+      ],
+      "objects": [
+        "the muddy baseball cap"
+      ]
+    },
+    "16:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Scholar's Bedroom"
+      ],
+      "objects": [
+        "the collection of trophies",
+        "VHS tape"
+      ]
+    },
+    "17:1": {
+      "characters": [
+        "Casey",
+        "Claire"
+      ],
+      "places": [
+        "The Celebration Hall"
+      ],
+      "objects": [
+        "the opening credit text"
+      ]
+    },
+    "18:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Schoolyard"
+      ],
+      "objects": [
+        "the opening credit text"
+      ]
+    },
+    "18:2": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [],
+      "objects": [
+        "the opening credit text"
+      ]
+    },
+    "19:1": {
+      "characters": [
+        "Casey",
+        "Claire"
+      ],
+      "places": [
+        "The Darkroom"
+      ],
+      "objects": [
+        "the opening credit text"
+      ]
+    },
+    "20:1": {
+      "characters": [
+        "Walter",
+        "Casey"
+      ],
+      "places": [
+        "The Playroom"
+      ],
+      "objects": [
+        "the opening credit text"
+      ]
+    },
+    "20:2": {
+      "characters": [
+        "Claire"
+      ],
+      "places": [
+        "The Playroom"
+      ],
+      "objects": [
+        "the pearl necklace",
+        "the opening credit text"
+      ]
+    },
+    "21:1": {
+      "characters": [
+        "Walter",
+        "Casey"
+      ],
+      "places": [
+        "The Chemical Plant"
+      ],
+      "objects": [
+        "the red Hummer",
+        "the opening credit text"
+      ]
+    },
+    "22:1": {
+      "characters": [
+        "Casey",
+        "Maya"
+      ],
+      "places": [
+        "The Playroom"
+      ],
+      "objects": [
+        "the opening credit text"
+      ]
+    },
+    "23:1": {
+      "characters": [
+        "Walter",
+        "Casey",
+        "Claire",
+        "Maya"
+      ],
+      "places": [
+        "The Classroom"
+      ],
+      "objects": [
+        "the opening credit text"
+      ]
+    },
+    "23:2": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [],
+      "objects": [
+        "the opening credit text"
+      ]
+    },
+    "24:1": {
+      "characters": [
+        "Nia"
+      ],
+      "places": [
+        "The Mack House"
+      ],
+      "objects": [
+        "the 'MACK' mailbox",
+        "the opening credit text"
+      ]
+    },
+    "25:1": {
+      "characters": [
+        "Casey",
+        "Nia"
+      ],
+      "places": [
+        "The Scholar's Bedroom"
+      ],
+      "objects": [
+        "the white bookshelf",
+        "the brass telescope"
+      ]
+    },
+    "26:1": {
+      "characters": [
+        "Ava",
+        "Maya"
+      ],
+      "places": [
+        "The Scholar's Bedroom"
+      ],
+      "objects": [
+        "the white bookshelf"
+      ]
+    },
+    "27:1": {
+      "characters": [
+        "Casey",
+        "Claire"
+      ],
+      "places": [
+        "The Scholar's Bedroom"
+      ],
+      "objects": [
+        "the white bookshelf",
+        "the collection of trophies"
+      ]
+    },
+    "28:1": {
+      "characters": [
+        "Nia"
+      ],
+      "places": [
+        "The Scholar's Bedroom"
+      ],
+      "objects": []
+    },
+    "29:1": {
+      "characters": [
+        "Casey",
+        "Walter",
+        "Leo"
+      ],
+      "places": [
+        "The Classroom"
+      ],
+      "objects": [
+        "the trophy shelf",
+        "the awards display"
+      ]
+    },
+    "30:1": {
+      "characters": [
+        "Walter",
+        "Ava"
+      ],
+      "places": [
+        "The Scholar's Bedroom"
+      ],
+      "objects": []
+    },
+    "31:1": {
+      "characters": [
+        "Casey",
+        "Walter",
+        "Nia"
+      ],
+      "places": [
+        "The Classroom"
+      ],
+      "objects": []
+    },
+    "32:1": {
+      "characters": [
+        "Nia"
+      ],
+      "places": [
+        "The Scholar's Bedroom"
+      ],
+      "objects": []
+    },
+    "33:1": {
+      "characters": [
+        "Casey",
+        "Walter"
+      ],
+      "places": [
+        "The Classroom"
+      ],
+      "objects": [
+        "the awards display"
+      ]
+    },
+    "33:2": {
+      "characters": [
+        "Casey",
+        "Walter",
+        "Ava"
+      ],
+      "places": [
+        "The Classroom"
+      ],
+      "objects": [
+        "the trophy shelf",
+        "the awards display"
+      ]
+    },
+    "34:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Scholar's Bedroom"
+      ],
+      "objects": []
+    },
+    "35:1": {
+      "characters": [
+        "Casey",
+        "Walter",
+        "Nia"
+      ],
+      "places": [
+        "The Classroom"
+      ],
+      "objects": [
+        "the stack of cash",
+        "the trophy shelf",
+        "the awards display"
+      ]
+    },
+    "35:2": {
+      "characters": [
+        "Walter",
+        "Claire"
+      ],
+      "places": [
+        "The Classroom"
+      ],
+      "objects": []
+    },
+    "36:1": {
+      "characters": [
+        "Casey",
+        "Leo"
+      ],
+      "places": [
+        "The Scholar's Bedroom"
+      ],
+      "objects": [
+        "the stack of cash"
+      ]
+    },
+    "37:1": {
+      "characters": [
+        "Nia"
+      ],
+      "places": [
+        "The Classroom"
+      ],
+      "objects": [
+        "the awards display"
+      ]
+    },
+    "38:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Scholar's Bedroom"
+      ],
+      "objects": []
+    },
+    "39:1": {
+      "characters": [
+        "Leo",
+        "Jordan"
+      ],
+      "places": [
+        "Hillcrest Estates"
+      ],
+      "objects": []
+    },
+    "39:2": {
+      "characters": [
+        "Leo",
+        "Casey",
+        "Jordan"
+      ],
+      "places": [
+        "Hillcrest Estates"
+      ],
+      "objects": []
+    },
+    "39:3": {
+      "characters": [
+        "Casey",
+        "Leo"
+      ],
+      "places": [
+        "Hillcrest Estates"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Ava",
+      "label": "Character 1",
+      "description": "Female character with no discernible physical features or clothing."
+    },
+    "Character 2": {
+      "name": "Walter",
+      "label": "Character 2",
+      "description": "Man wearing a purple sweater vest over a collared shirt and a tie."
+    },
+    "Character 3": {
+      "name": "Casey",
+      "label": "Character 3",
+      "description": "Person wearing a backwards red-and-white baseball cap and a red and brown plaid shirt layered over a striped t-shirt."
+    },
+    "Character 4": {
+      "name": "Claire",
+      "label": "Character 4",
+      "description": "Woman with blonde hair styled in an updo, wearing a black sleeveless top and a pearl necklace."
+    },
+    "Character 5": {
+      "name": "Nia",
+      "label": "Character 5",
+      "description": "Young woman with her hair styled in a ponytail."
+    },
+    "Character 6": {
+      "name": "Jordan",
+      "label": "Character 6",
+      "description": "Teenage person with long blonde hair, wearing a backwards green baseball cap, a red and purple striped shirt, and a backpack."
+    },
+    "Character 7": {
+      "name": "Marcus",
+      "label": "Character 7",
+      "description": "Young Black man with a short haircut, wearing a striped t-shirt and a backpack."
+    },
+    "Character 8": {
+      "name": "Leo",
+      "label": "Character 8",
+      "description": "Young man with short dark hair, wearing a dark plaid shirt, a backpack, and a backward baseball cap."
+    },
+    "Character 9": {
+      "name": "Maya",
+      "label": "Character 9",
+      "description": "Young woman wearing a bright yellow jacket and a black helmet."
+    },
+    "Location 1": {
+      "name": "Hillcrest Estates",
+      "label": "Location 1",
+      "description": "A network of suburban residential streets nestled among rolling hills."
+    },
+    "Location 2": {
+      "name": "The Dry Basin",
+      "label": "Location 2",
+      "description": "A dusty, outdoor desert area with flat ground composed of packed earth, dirt, and small debris."
+    },
+    "Location 3": {
+      "name": "The Workshop",
+      "label": "Location 3",
+      "description": "Indoor cluttered workshop."
+    },
+    "Location 4": {
+      "name": "The Unfinished Room",
+      "label": "Location 4",
+      "description": "An unfinished interior room with exposed wooden wall studs and no drywall."
+    },
+    "Location 5": {
+      "name": "The Schoolyard",
+      "label": "Location 5",
+      "description": "Outdoor schoolyard."
+    },
+    "Location 6": {
+      "name": "The Racetrack",
+      "label": "Location 6",
+      "description": "Outdoor race course with a yellow finish line tape."
+    },
+    "Location 7": {
+      "name": "The Playroom",
+      "label": "Location 7",
+      "description": "Suburban house interior with a white door and a large, blue, collapsible fabric play tunnel."
+    },
+    "Location 8": {
+      "name": "The Overgrown Porch",
+      "label": "Location 8",
+      "description": "A cluttered house porch heavily overgrown with vines, featuring a doorway and a ladder."
+    },
+    "Location 9": {
+      "name": "The Scholar's Bedroom",
+      "label": "Location 9",
+      "description": "Interior of a bedroom featuring a white bookshelf with numerous trophies, a telescope, and a wall poster."
+    },
+    "Location 10": {
+      "name": "The Celebration Hall",
+      "label": "Location 10",
+      "description": "An event venue for a celebration."
+    },
+    "Location 11": {
+      "name": "The Car Interior",
+      "label": "Location 11",
+      "description": "Interior of a passenger vehicle with a steering wheel, dashboard, front seats, and a center console"
+    },
+    "Location 12": {
+      "name": "The Darkroom",
+      "label": "Location 12",
+      "description": "The dark interior of a photographic darkroom."
+    },
+    "Location 13": {
+      "name": "The Chemical Plant",
+      "label": "Location 13",
+      "description": "A modern chemical plant with both interior and exterior areas, including a dry, grassy hill."
+    },
+    "Location 14": {
+      "name": "The Classroom",
+      "label": "Location 14",
+      "description": "School classroom interior with a whiteboard and trophies."
+    },
+    "Location 15": {
+      "name": "The Mack House",
+      "label": "Location 15",
+      "description": "A two-story suburban house with a white mailbox that has the name 'MACK' written on its side."
+    },
+    "Object 1": {
+      "name": "the red and blue plaid shirt",
+      "label": "Object 1",
+      "description": "Button-up plaid shirt with a pattern of intersecting red, dark blue, and white lines"
+    },
+    "Object 2": {
+      "name": "the red baseball cap",
+      "label": "Object 2",
+      "description": "Solid red baseball cap, likely made of cotton, with a rounded multi-panel crown and a stiff, curved front bill"
+    },
+    "Object 3": {
+      "name": "the red and white trucker cap",
+      "label": "Object 3",
+      "description": "Baseball cap with a white front panel and red fabric on the curved bill, sides, and back"
+    },
+    "Object 4": {
+      "name": "the chemical transport truck",
+      "label": "Object 4",
+      "description": "Large white transport truck with a prominent front grille and black text on the side that reads 'CHEMICAL TRANSPORT'."
+    },
+    "Object 5": {
+      "name": "the industrial street brush",
+      "label": "Object 5",
+      "description": "Large, cylindrical industrial brush attachment with a central metal axle and densely packed, stiff, dark-colored bristles coated in a layer of dirt and fine dust."
+    },
+    "Object 6": {
+      "name": "the red gas can",
+      "label": "Object 6",
+      "description": "Red rectangular plastic gas can with a top handle, a flexible black spout with a yellow cap, and a slightly scuffed, dirty surface."
+    },
+    "Object 7": {
+      "name": "the muddy baseball cap",
+      "label": "Object 7",
+      "description": "Generic baseball cap stained with mud and covered in dust"
+    },
+    "Object 8": {
+      "name": "the white armored truck",
+      "label": "Object 8",
+      "description": "Large, white armored truck with a boxy, utilitarian design, heavy plating, small reinforced windows, and large, rugged wheels."
+    },
+    "Object 9": {
+      "name": "the glowing yellow orb",
+      "label": "Object 9",
+      "description": "A small, glowing yellow ball"
+    },
+    "Object 10": {
+      "name": "the iridescent goo",
+      "label": "Object 10",
+      "description": "A shiny, viscous, amorphous mass of multi-colored goo"
+    },
+    "Object 11": {
+      "name": "the white car",
+      "label": "Object 11",
+      "description": "White vehicle with headlights"
+    },
+    "Object 12": {
+      "name": "the yellow finish line tape",
+      "label": "Object 12",
+      "description": "Wide, bright yellow finish line tape made of a thin, ribbon-like material, often with the word \"FINISH\" printed in black block letters"
+    },
+    "Object 13": {
+      "name": "the blue play tunnel",
+      "label": "Object 13",
+      "description": "Large, blue, collapsible fabric play tunnel with a circular fabric opening."
+    },
+    "Object 14": {
+      "name": "the red Hummer",
+      "label": "Object 14",
+      "description": "Large red Hummer truck with a massive front grille and a dusty exterior"
+    },
+    "Object 15": {
+      "name": "the dusty bicycle",
+      "label": "Object 15",
+      "description": "Dust-covered bicycle with a simple metal-tube body, straight handlebars, and thick, knobby tires caked with dirt."
+    },
+    "Object 16": {
+      "name": "the collection of trophies",
+      "label": "Object 16",
+      "description": "A collection of award trophies of various sizes and designs, each with a base and a topper."
+    },
+    "Object 17": {
+      "name": "the opening credit text",
+      "label": "Object 17",
+      "description": "Text consisting of the words 'Larisa Oleynik As Alex'."
+    },
+    "Object 18": {
+      "name": "the pearl necklace",
+      "label": "Object 18",
+      "description": "A single-strand necklace of round, white pearls"
+    },
+    "Object 19": {
+      "name": "the 'MACK' mailbox",
+      "label": "Object 19",
+      "description": "White mailbox with the name 'MACK' written on its side."
+    },
+    "Object 20": {
+      "name": "the brass telescope",
+      "label": "Object 20",
+      "description": "Brass refractor telescope mounted on a dark wood tripod."
+    },
+    "Object 21": {
+      "name": "the white bookshelf",
+      "label": "Object 21",
+      "description": "Tall, rectangular white wooden bookshelf with multiple horizontal shelves and simple vertical side panels."
+    },
+    "Object 22": {
+      "name": "the awards display",
+      "label": "Object 22",
+      "description": "A collection of gold and silver-toned trophies of various sizes, some with columnar bodies and athletic or academic figurines on top, mounted on marble and dark wood bases, interspersed with framed paper certificates in simple black and wood-grain frames."
+    },
+    "Object 23": {
+      "name": "the trophy shelf",
+      "label": "Object 23",
+      "description": "A school bookshelf containing school trophies and framed certificates."
+    },
+    "Object 24": {
+      "name": "the stack of cash",
+      "label": "Object 24",
+      "description": "A thick stack of rectangular paper currency bills"
+    },
+    "Object 25": {
+      "name": "the maroon striped sweater",
+      "label": "Object 25",
+      "description": "Maroon sweater with a striped pattern"
+    }
+  },
+  "_window_shot_ids": [
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0001",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0002",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0003",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0004",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0005",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0006",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0007",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0008",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0009",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0010",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0012",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0013",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0014",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0015",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0016",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0017",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0018",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0019",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0020",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0021",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0022",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0023",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0024",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0025",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0026",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0027",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0028",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0029",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0030",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0031",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0032",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0033",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0034",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0035",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0036",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0037",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0038",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0039",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0041",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0042",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0043",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0044",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0045",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0047",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0048",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0049",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0050",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0051",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0052",
+    "00016ca0-1928-3ff9-8f2b-22275b894fad__run146__i0_j46__T600__shot0053"
+  ],
+  "_num_scenes": 39,
+  "_num_shots": 50,
+  "_name_map": {
+    "Character 1": "Ava",
+    "Character 2": "Walter",
+    "Character 3": "Casey",
+    "Character 4": "Claire",
+    "Character 5": "Nia",
+    "Character 6": "Jordan",
+    "Character 7": "Marcus",
+    "Character 8": "Leo",
+    "Character 9": "Maya",
+    "Location 1": "Hillcrest Estates",
+    "Location 10": "The Celebration Hall",
+    "Location 11": "The Car Interior",
+    "Location 12": "The Darkroom",
+    "Location 13": "The Chemical Plant",
+    "Location 14": "The Classroom",
+    "Location 15": "The Mack House",
+    "Location 2": "The Dry Basin",
+    "Location 3": "The Workshop",
+    "Location 4": "The Unfinished Room",
+    "Location 5": "The Schoolyard",
+    "Location 6": "The Racetrack",
+    "Location 7": "The Playroom",
+    "Location 8": "The Overgrown Porch",
+    "Location 9": "The Scholar's Bedroom",
+    "Object 1": "the red and blue plaid shirt",
+    "Object 10": "the iridescent goo",
+    "Object 11": "the white car",
+    "Object 12": "the yellow finish line tape",
+    "Object 13": "the blue play tunnel",
+    "Object 14": "the red Hummer",
+    "Object 15": "the dusty bicycle",
+    "Object 16": "the collection of trophies",
+    "Object 17": "the opening credit text",
+    "Object 18": "the pearl necklace",
+    "Object 19": "the 'MACK' mailbox",
+    "Object 2": "the red baseball cap",
+    "Object 20": "the brass telescope",
+    "Object 21": "the white bookshelf",
+    "Object 22": "the awards display",
+    "Object 23": "the trophy shelf",
+    "Object 24": "the stack of cash",
+    "Object 25": "the maroon striped sweater",
+    "Object 3": "the red and white trucker cap",
+    "Object 4": "the chemical transport truck",
+    "Object 5": "the industrial street brush",
+    "Object 6": "the red gas can",
+    "Object 7": "the muddy baseball cap",
+    "Object 8": "the white armored truck",
+    "Object 9": "the glowing yellow orb"
+  }
+}

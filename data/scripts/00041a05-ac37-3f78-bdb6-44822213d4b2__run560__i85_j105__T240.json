@@ -1,0 +1,419 @@
+{
+  "story_name": "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240",
+  "story_overview": "In Nexus Plaza, an energy vortex transforms Anya and Ethan into armored soldiers, joining Nikolai and Javier. Chaos ensues as Cruz attacks Nikolai, and massive behemoths and missiles ravage the city. From an office, Leo investigates the crisis, which leads him, Nikolai, and Cruz to a hospital filled with affected patients.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Nikolai: Man with a haggard face and unruly, matted dark hair, wearing a disheveled and dirt-stained black suit over an unbuttoned white shirt with a loose, askew white cravat.\nKai: Person wearing a light-colored trench coat, a red bandana, and a bow tie.\nThe Medical Bay: Interior of a stark hospital or laboratory room containing a bed and a doorway.\nthe beige tactical vest: Beige tactical vest with multiple storage pouches, MOLLE webbing, and adjustable straps with black plastic buckles.\nthe camouflage tactical vest: Tactical vest with a beige camouflage pattern.\nthe green exosuit: Full-body suit of robotic futuristic armor composed of interlocking green and black plates forming a complete exoskeleton.\n\nMedium shot in The Medical Bay, with the green hooded jacket visible. Nikolai, wearing the camouflage tactical vest, and Kai, wearing the beige tactical vest, stand in profile, the black ink tattoo visible on Kai's neck. They both slowly turn their heads to look intently off-screen to the right. Behind them, several figures in the green exosuit stand partially visible against a plain white wall."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Medical Bay, with the green hooded jacket visible. Nikolai, wearing the camouflage tactical vest, and Kai, wearing the beige tactical vest, stand in profile, the black ink tattoo visible on Kai's neck. They both slowly turn their heads to look intently off-screen to the right. Behind them, several figures in the green exosuit stand partially visible against a plain white wall."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Anya: Woman with shoulder-length dark hair.\nEthan: Man with shaggy brown hair wearing a tan collared jacket.\nJavier: Man wearing a red bandana and a long dark skirt with white stripes at the hem.\nNexus Plaza: An outdoor urban plaza surrounded by modern buildings, with one building featuring a facade composed of large, integrated digital display screens.\nthe swirling energy vortex: A swirling, glowing mass of fiery green and black energy.\nOrion: Person in futuristic armor with a glowing helmet\n\nIn the urban plaza of Nexus Plaza, Anya and Ethan are suddenly enveloped by the swirling energy vortex. Their civilian clothes instantly transform into matching green exosuits. Now armored, they join Javier and Orion as they all fall into a soldier formation.",
+        "Cruz: Man wearing a red bandana, a green shirt, and camouflage pants.\nthe massive video wall: A bank of large, rectangular, illuminated digital display screens forming a massive video wall.\n\nIn the daytime chaos of Nexus Plaza, Cruz lunges forward, throwing a punch, as Orion looks on. On a building in the background, the massive video wall displays a man's face.",
+        "Silas: Man with a smudged face and a fake beard, wearing a yellow beanie, a light grey quilted vest over a blue long-sleeved shirt, and a brown jacket.\n\nOver-the-shoulder shot on a chaotic street in Nexus Plaza during the day. A figure in the green exosuit forcefully pushes Kai. In the background, other armored soldiers and frightened civilians, including Orion, Javier, Silas, and Cruz, react with alarm."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In the urban plaza of Nexus Plaza, Anya and Ethan are suddenly enveloped by the swirling energy vortex. Their civilian clothes instantly transform into matching green exosuits. Now armored, they join Javier and Orion as they all fall into a soldier formation.",
+        "In the daytime chaos of Nexus Plaza, Cruz lunges forward, throwing a punch, as Orion looks on. On a building in the background, the massive video wall displays a man's face.",
+        "Over-the-shoulder shot on a chaotic street in Nexus Plaza during the day. A figure in the green exosuit forcefully pushes Kai. In the background, other armored soldiers and frightened civilians, including Orion, Javier, Silas, and Cruz, react with alarm."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Leo: Man with a clean-shaven face and neatly-combed dark hair, wearing a rumpled grey business suit with a loosened tie and an open-collared blue dress shirt.\nAcademy Courtyard: An outdoor school courtyard with an adjacent large building.\n\nIn the daytime at Academy Courtyard, Nikolai stands defensively, facing two massive armored behemoths that tower over the group. Behind him, Leo, Anya, Cruz, and Orion flinch as both behemoths raise their arms, unleashing a swirling energy vortex which fills the air with thick smoke and bright sparks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the daytime at Academy Courtyard, Nikolai stands defensively, facing two massive armored behemoths that tower over the group. Behind him, Leo, Anya, Cruz, and Orion flinch as both behemoths raise their arms, unleashing a swirling energy vortex which fills the air with thick smoke and bright sparks."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "the military missiles: Long, cylindrical military missiles with a sleek, gunmetal-grey metallic finish, a sharply pointed nose cone, and multiple stabilizing fins at the base.\n\nAerial extreme long shot of Nexus Plaza under attack in broad daylight. Dozens of the military missiles crisscross the sky, leaving long smoke trails. Large, fiery explosions erupt between the buildings, sending up thick plumes of black smoke as the swirling energy vortex moves through the destruction.",
+        "High aerial view of Nexus Plaza, where the city is under attack during the day, with Anya nearby. Dozens of fiery explosions erupt across the modern buildings, sending thick plumes of black smoke into the sky. In the midst of the chaos, the swirling energy vortex, a mass of glowing green and black energy, pulses and expands."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Aerial extreme long shot of Nexus Plaza under attack in broad daylight. Dozens of the military missiles crisscross the sky, leaving long smoke trails. Large, fiery explosions erupt between the buildings, sending up thick plumes of black smoke as the swirling energy vortex moves through the destruction.",
+        "High aerial view of Nexus Plaza, where the city is under attack during the day, with Anya nearby. Dozens of fiery explosions erupt across the modern buildings, sending thick plumes of black smoke into the sky. In the midst of the chaos, the swirling energy vortex, a mass of glowing green and black energy, pulses and expands."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Operations Office: An office interior containing architectural partitions, a window with blinds, and technical equipment.\nthe futuristic diagnostic tool: A small, black piece of futuristic technical equipment with distinct components in red, yellow, and blue.\nthe modular office partitions: Large architectural partitions incorporating a single door.\n\nClose-up on Leo in The Operations Office. His expression shifts to one of deep concern as he turns his gaze slightly off-screen. the futuristic diagnostic tool sits on a desk in the blurred foreground. In the background, Ethan shifts his weight as he stands near the modular office partitions, where the beige tactical vest is draped over a chair."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Leo in The Operations Office. His expression shifts to one of deep concern as he turns his gaze slightly off-screen. the futuristic diagnostic tool sits on a desk in the blurred foreground. In the background, Ethan shifts his weight as he stands near the modular office partitions, where the beige tactical vest is draped over a chair."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "the hospital bed: A standard institutional-style hospital bed with an adjustable metal support structure, a simple headboard and footboard, and metal side rails.\n\nOver-the-shoulder shot of Ethan inside The Medical Bay. He leans in, looking intently at the futuristic diagnostic tool, which displays glowing purple schematics of human bodies on its screen. In the background, the hospital bed stands.",
+        "the oxygen mask: A medical breathing apparatus consisting of a clear facial mask connected to a flexible white tube.\nthe red paisley bandana: A square, red cotton bandana with a traditional white paisley pattern, slightly faded and worn at the edges.\n\nNikolai, Leo, and Cruz walk through the stark, dimly lit Medical Bay, where a patient lies in a single hospital bed wearing the yellow t-shirt and the oxygen mask, and another patient is nearby wearing the red t-shirt."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot of Ethan inside The Medical Bay. He leans in, looking intently at the futuristic diagnostic tool, which displays glowing purple schematics of human bodies on its screen. In the background, the hospital bed stands.",
+        "Nikolai, Leo, and Cruz walk through the stark, dimly lit Medical Bay, where a patient lies in a single hospital bed wearing the yellow t-shirt and the oxygen mask, and another patient is nearby wearing the red t-shirt."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Nikolai",
+        "Kai"
+      ],
+      "places": [
+        "The Medical Bay"
+      ],
+      "objects": [
+        "the green hooded jacket",
+        "the beige tactical vest",
+        "the black ink tattoo",
+        "the camouflage tactical vest",
+        "the green exosuit"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Anya",
+        "Ethan",
+        "Javier",
+        "Orion"
+      ],
+      "places": [
+        "Nexus Plaza"
+      ],
+      "objects": [
+        "the swirling energy vortex"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Orion",
+        "Cruz"
+      ],
+      "places": [
+        "Nexus Plaza"
+      ],
+      "objects": [
+        "the massive video wall"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Kai",
+        "Silas",
+        "Javier",
+        "Orion",
+        "Cruz"
+      ],
+      "places": [
+        "Nexus Plaza"
+      ],
+      "objects": [
+        "the green exosuit"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leo",
+        "Anya",
+        "Cruz",
+        "Orion",
+        "Nikolai"
+      ],
+      "places": [
+        "Academy Courtyard"
+      ],
+      "objects": [
+        "the armored behemoth",
+        "the swirling energy vortex"
+      ]
+    },
+    "4:1": {
+      "characters": [],
+      "places": [
+        "Nexus Plaza"
+      ],
+      "objects": [
+        "the military missiles",
+        "the swirling energy vortex"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Anya"
+      ],
+      "places": [
+        "Nexus Plaza"
+      ],
+      "objects": [
+        "the swirling energy vortex"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Leo",
+        "Ethan"
+      ],
+      "places": [
+        "The Operations Office"
+      ],
+      "objects": [
+        "the beige tactical vest",
+        "the futuristic diagnostic tool",
+        "the modular office partitions"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Ethan"
+      ],
+      "places": [
+        "The Medical Bay"
+      ],
+      "objects": [
+        "the futuristic diagnostic tool",
+        "the hospital bed"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Nikolai",
+        "Leo",
+        "Cruz"
+      ],
+      "places": [],
+      "objects": [
+        "the oxygen mask",
+        "the yellow t-shirt",
+        "the red t-shirt",
+        "the red paisley bandana"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Nikolai",
+      "label": "Character 1",
+      "description": "Man with a haggard face and unruly, matted dark hair, wearing a disheveled and dirt-stained black suit over an unbuttoned white shirt with a loose, askew white cravat."
+    },
+    "Character 2": {
+      "name": "Leo",
+      "label": "Character 2",
+      "description": "Man with a clean-shaven face and neatly-combed dark hair, wearing a rumpled grey business suit with a loosened tie and an open-collared blue dress shirt."
+    },
+    "Character 4": {
+      "name": "Javier",
+      "label": "Character 4",
+      "description": "Man wearing a red bandana and a long dark skirt with white stripes at the hem."
+    },
+    "Character 5": {
+      "name": "Cruz",
+      "label": "Character 5",
+      "description": "Man wearing a red bandana, a green shirt, and camouflage pants."
+    },
+    "Character 6": {
+      "name": "Kai",
+      "label": "Character 6",
+      "description": "Person wearing a light-colored trench coat, a red bandana, and a bow tie."
+    },
+    "Character 7": {
+      "name": "Silas",
+      "label": "Character 7",
+      "description": "Man with a smudged face and a fake beard, wearing a yellow beanie, a light grey quilted vest over a blue long-sleeved shirt, and a brown jacket."
+    },
+    "Character 8": {
+      "name": "Anya",
+      "label": "Character 8",
+      "description": "Woman with shoulder-length dark hair."
+    },
+    "Character 9": {
+      "name": "Ethan",
+      "label": "Character 9",
+      "description": "Man with shaggy brown hair wearing a tan collared jacket."
+    },
+    "Character 10": {
+      "name": "Orion",
+      "label": "Character 10",
+      "description": "Person in futuristic armor with a glowing helmet"
+    },
+    "Location 1": {
+      "name": "The Medical Bay",
+      "label": "Location 1",
+      "description": "Interior of a stark hospital or laboratory room containing a bed and a doorway."
+    },
+    "Location 2": {
+      "name": "Nexus Plaza",
+      "label": "Location 2",
+      "description": "An outdoor urban plaza surrounded by modern buildings, with one building featuring a facade composed of large, integrated digital display screens."
+    },
+    "Location 3": {
+      "name": "Academy Courtyard",
+      "label": "Location 3",
+      "description": "An outdoor school courtyard with an adjacent large building."
+    },
+    "Location 4": {
+      "name": "The Operations Office",
+      "label": "Location 4",
+      "description": "An office interior containing architectural partitions, a window with blinds, and technical equipment."
+    },
+    "Object 1": {
+      "name": "the red paisley bandana",
+      "label": "Object 1",
+      "description": "A square, red cotton bandana with a traditional white paisley pattern, slightly faded and worn at the edges."
+    },
+    "Object 2": {
+      "name": "the modular office partitions",
+      "label": "Object 2",
+      "description": "Large architectural partitions incorporating a single door."
+    },
+    "Object 3": {
+      "name": "the hospital bed",
+      "label": "Object 3",
+      "description": "A standard institutional-style hospital bed with an adjustable metal support structure, a simple headboard and footboard, and metal side rails."
+    },
+    "Object 4": {
+      "name": "the futuristic diagnostic tool",
+      "label": "Object 4",
+      "description": "A small, black piece of futuristic technical equipment with distinct components in red, yellow, and blue."
+    },
+    "Object 5": {
+      "name": "the yellow t-shirt",
+      "label": "Object 5",
+      "description": "Plain yellow short-sleeved t-shirt"
+    },
+    "Object 6": {
+      "name": "the massive video wall",
+      "label": "Object 6",
+      "description": "A bank of large, rectangular, illuminated digital display screens forming a massive video wall."
+    },
+    "Object 7": {
+      "name": "the green exosuit",
+      "label": "Object 7",
+      "description": "Full-body suit of robotic futuristic armor composed of interlocking green and black plates forming a complete exoskeleton."
+    },
+    "Object 8": {
+      "name": "the beige tactical vest",
+      "label": "Object 8",
+      "description": "Beige tactical vest with multiple storage pouches, MOLLE webbing, and adjustable straps with black plastic buckles."
+    },
+    "Object 9": {
+      "name": "the camouflage tactical vest",
+      "label": "Object 9",
+      "description": "Tactical vest with a beige camouflage pattern."
+    },
+    "Object 10": {
+      "name": "the green hooded jacket",
+      "label": "Object 10",
+      "description": "Green hooded jacket"
+    },
+    "Object 11": {
+      "name": "the black ink tattoo",
+      "label": "Object 11",
+      "description": "Prominent black tattoo"
+    },
+    "Object 12": {
+      "name": "the swirling energy vortex",
+      "label": "Object 12",
+      "description": "A swirling, glowing mass of fiery green and black energy."
+    },
+    "Object 13": {
+      "name": "the armored behemoth",
+      "label": "Object 13",
+      "description": "Massive, hulking monster encased in thick, segmented plates of metallic green armor"
+    },
+    "Object 14": {
+      "name": "the military missiles",
+      "label": "Object 14",
+      "description": "Long, cylindrical military missiles with a sleek, gunmetal-grey metallic finish, a sharply pointed nose cone, and multiple stabilizing fins at the base."
+    },
+    "Object 15": {
+      "name": "the oxygen mask",
+      "label": "Object 15",
+      "description": "A medical breathing apparatus consisting of a clear facial mask connected to a flexible white tube."
+    },
+    "Object 16": {
+      "name": "the red t-shirt",
+      "label": "Object 16",
+      "description": "Plain red short-sleeved crew-neck t-shirt"
+    }
+  },
+  "_window_shot_ids": [
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240__shot0023",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240__shot0024",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240__shot0025",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240__shot0026",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240__shot0027",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240__shot0028",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240__shot0029",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240__shot0030",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240__shot0031",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i85_j105__T240__shot0032"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Nikolai",
+    "Character 10": "Orion",
+    "Character 2": "Leo",
+    "Character 3": "Rico",
+    "Character 4": "Javier",
+    "Character 5": "Cruz",
+    "Character 6": "Kai",
+    "Character 7": "Silas",
+    "Character 8": "Anya",
+    "Character 9": "Ethan",
+    "Location 1": "The Medical Bay",
+    "Location 2": "Nexus Plaza",
+    "Location 3": "Academy Courtyard",
+    "Location 4": "The Operations Office",
+    "Object 1": "the red paisley bandana",
+    "Object 10": "the green hooded jacket",
+    "Object 11": "the black ink tattoo",
+    "Object 12": "the swirling energy vortex",
+    "Object 13": "the armored behemoth",
+    "Object 14": "the military missiles",
+    "Object 15": "the oxygen mask",
+    "Object 16": "the red t-shirt",
+    "Object 2": "the modular office partitions",
+    "Object 3": "the hospital bed",
+    "Object 4": "the futuristic diagnostic tool",
+    "Object 5": "the yellow t-shirt",
+    "Object 6": "the massive video wall",
+    "Object 7": "the green exosuit",
+    "Object 8": "the beige tactical vest",
+    "Object 9": "the camouflage tactical vest"
+  }
+}

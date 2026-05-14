@@ -1,0 +1,376 @@
+{
+  "story_name": "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420",
+  "story_overview": "The story follows a series of violent and emotional encounters centered around Ronan. After a tense scene with a distressed Clara, Ronan is attacked by Leo. Following Clara's discovery of a convulsing person, a distraught Ronan has an angry phone call before leaving a house at night with a duffel bag.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Ronan: Disheveled man with reddish-blonde hair and a mustache, wearing an open patterned shirt over a white T-shirt.\nThe Entryway Kitchen: House kitchen interior with an adjoining front entryway and door.\nShaky close-up shot in The Entryway Kitchen. Ronan, with an angry face, struggles violently while wearing the brown leather jacket over the patterned shirt.",
+        "Clara: Woman with long brown hair wearing a dark blue robe.\nthe green hoodie: Dark green hoodie.\n\nOver-the-shoulder close-up in The Entryway Kitchen, filmed with a shaky, handheld style. Clara faces the camera, her face contorted in distress as she cries. The shot is framed over the back and shoulder of Ronan, who stands in the foreground. the green hoodie lies on a piece of furniture in the background."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Shaky close-up shot in The Entryway Kitchen. Ronan, with an angry face, struggles violently while wearing the brown leather jacket over the patterned shirt.",
+        "Over-the-shoulder close-up in The Entryway Kitchen, filmed with a shaky, handheld style. Clara faces the camera, her face contorted in distress as she cries. The shot is framed over the back and shoulder of Ronan, who stands in the foreground. the green hoodie lies on a piece of furniture in the background."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Leo: Man wearing a light-colored patterned shirt.\nThe Living Room: Unspecified indoor room in a house.\n\nA shaky, close-up view inside The Living Room at night. An angry Leo attacks Ronan from behind, wrapping one arm around Ronan's neck in a chokehold and covering Ronan's mouth with his other hand. Ronan struggles violently, face contorted in terror and gasps for air.",
+        "Sophie: Woman wearing a striped cardigan.\nthe red trousers: Vibrant red women's trousers with a tailored fit and a smooth fabric texture.\n\nLow-angle close-up on the feet and lower legs of Ronan and Sophie. They stand close together on the floor in The Living Room, shifting their weight subtly. Ronan wears the dark trousers and Sophie wears the red trousers and the black shoes.",
+        "Nadia: Woman with brown hair.\nthe pink patterned sweater: Pink and white patterned knit sweater.\n\nExtreme close-up at night in The Living Room. The hand of Leo gently caresses the hair and shoulder of Nadia, who is wearing the pink patterned sweater."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "A shaky, close-up view inside The Living Room at night. An angry Leo attacks Ronan from behind, wrapping one arm around Ronan's neck in a chokehold and covering Ronan's mouth with his other hand. Ronan struggles violently, face contorted in terror and gasps for air.",
+        "Low-angle close-up on the feet and lower legs of Ronan and Sophie. They stand close together on the floor in The Living Room, shifting their weight subtly. Ronan wears the dark trousers and Sophie wears the red trousers and the black shoes.",
+        "Extreme close-up at night in The Living Room. The hand of Leo gently caresses the hair and shoulder of Nadia, who is wearing the pink patterned sweater."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Playroom: Indoor room in a house with a tiled floor, furnished with a red toy box and a wooden chair.\nthe red toy box: Simple toy box of a solid red color.\n\nHigh-angle shot of The Playroom. A person wearing the green hoodie and the dark-wash jeans lies on their back, convulsing on the tiled floor near the patterned shirt and the red toy box. Clara enters the room and freezes, her face filled with horror at the sight."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle shot of The Playroom. A person wearing the green hoodie and the dark-wash jeans lies on their back, convulsing on the tiled floor near the patterned shirt and the red toy box. Clara enters the room and freezes, her face filled with horror at the sight."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Julian: Man wearing a black leather jacket over a white shirt.\n\nMedium close-up, shaky handheld view inside The Entryway Kitchen. Ronan smiles as he approaches Julian from behind. Julian, wearing a black leather jacket, has his back to us. Ronan touches Julian's arm.",
+        "A close-up, handheld-style shot of Ronan inside The Entryway Kitchen. Ronan wears the brown leather jacket, and his face is contorted in anger and agitation as he speaks to someone just off-camera."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium close-up, shaky handheld view inside The Entryway Kitchen. Ronan smiles as he approaches Julian from behind. Julian, wearing a black leather jacket, has his back to us. Ronan touches Julian's arm.",
+        "A close-up, handheld-style shot of Ronan inside The Entryway Kitchen. Ronan wears the brown leather jacket, and his face is contorted in anger and agitation as he speaks to someone just off-camera."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Close-up of a distressed Sophie and Ronan in The Living Room. Wrapped in the plaid blanket, she slowly looks down, her messy hair falling forward to partially obscure her face.",
+        "the vintage cell phone: Dark gray, blocky old-style mobile phone with a matte plastic casing, a small monochrome screen, a physical numeric keypad, and a short, stubby external antenna.\n\nShaky close-up shot inside The Living Room. Ronan, wearing the brown leather jacket, holds the vintage cell phone to his ear. His face contorts in distress and anger as he speaks."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of a distressed Sophie and Ronan in The Living Room. Wrapped in the plaid blanket, she slowly looks down, her messy hair falling forward to partially obscure her face.",
+        "Shaky close-up shot inside The Living Room. Ronan, wearing the brown leather jacket, holds the vintage cell phone to his ear. His face contorts in distress and anger as he speaks."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Brick House Porch: Exterior of a brick house with a porch, a wooden door, and a porch railing overlooking a street in a city environment.\nthe black duffel bag: Large black duffel bag.\n\nMedium shot at night at The Brick House Porch, as light snow falls. A woman stands on the sidewalk, wearing the brown leather jacket and the red trousers, and carrying the black duffel bag. With a concerned expression, she glances around before walking out of frame to the right."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot at night at The Brick House Porch, as light snow falls. A woman stands on the sidewalk, wearing the brown leather jacket and the red trousers, and carrying the black duffel bag. With a concerned expression, she glances around before walking out of frame to the right."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Ronan"
+      ],
+      "places": [
+        "The Entryway Kitchen"
+      ],
+      "objects": [
+        "the brown leather jacket",
+        "the patterned shirt"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Clara",
+        "Ronan"
+      ],
+      "places": [
+        "The Entryway Kitchen"
+      ],
+      "objects": [
+        "the green hoodie"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Ronan",
+        "Leo"
+      ],
+      "places": [
+        "The Living Room"
+      ],
+      "objects": []
+    },
+    "2:2": {
+      "characters": [
+        "Sophie",
+        "Ronan"
+      ],
+      "places": [
+        "The Living Room"
+      ],
+      "objects": [
+        "the red trousers",
+        "the black shoes",
+        "the dark trousers"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Leo",
+        "Nadia"
+      ],
+      "places": [
+        "The Living Room"
+      ],
+      "objects": [
+        "the pink patterned sweater"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Playroom"
+      ],
+      "objects": [
+        "the green hoodie",
+        "the dark-wash jeans",
+        "the red toy box",
+        "the patterned shirt"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Ronan",
+        "Julian"
+      ],
+      "places": [
+        "The Entryway Kitchen"
+      ],
+      "objects": []
+    },
+    "4:2": {
+      "characters": [
+        "Ronan"
+      ],
+      "places": [
+        "The Entryway Kitchen"
+      ],
+      "objects": [
+        "the brown leather jacket"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Sophie",
+        "Ronan"
+      ],
+      "places": [
+        "The Living Room"
+      ],
+      "objects": [
+        "the plaid blanket"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Ronan"
+      ],
+      "places": [
+        "The Living Room"
+      ],
+      "objects": [
+        "the brown leather jacket",
+        "the vintage cell phone"
+      ]
+    },
+    "6:1": {
+      "characters": [],
+      "places": [
+        "The Brick House Porch"
+      ],
+      "objects": [
+        "the brown leather jacket",
+        "the red trousers",
+        "the black duffel bag"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Ronan",
+      "label": "Character 1",
+      "description": "Disheveled man with reddish-blonde hair and a mustache, wearing an open patterned shirt over a white T-shirt."
+    },
+    "Character 2": {
+      "name": "Leo",
+      "label": "Character 2",
+      "description": "Man wearing a light-colored patterned shirt."
+    },
+    "Character 3": {
+      "name": "Clara",
+      "label": "Character 3",
+      "description": "Woman with long brown hair wearing a dark blue robe."
+    },
+    "Character 4": {
+      "name": "Sophie",
+      "label": "Character 4",
+      "description": "Woman wearing a striped cardigan."
+    },
+    "Character 5": {
+      "name": "Nadia",
+      "label": "Character 5",
+      "description": "Woman with brown hair."
+    },
+    "Character 6": {
+      "name": "Julian",
+      "label": "Character 6",
+      "description": "Man wearing a black leather jacket over a white shirt."
+    },
+    "Location 1": {
+      "name": "The Brick House Porch",
+      "label": "Location 1",
+      "description": "Exterior of a brick house with a porch, a wooden door, and a porch railing overlooking a street in a city environment."
+    },
+    "Location 2": {
+      "name": "The Entryway Kitchen",
+      "label": "Location 2",
+      "description": "House kitchen interior with an adjoining front entryway and door."
+    },
+    "Location 3": {
+      "name": "The Living Room",
+      "label": "Location 3",
+      "description": "Unspecified indoor room in a house."
+    },
+    "Location 4": {
+      "name": "The Playroom",
+      "label": "Location 4",
+      "description": "Indoor room in a house with a tiled floor, furnished with a red toy box and a wooden chair."
+    },
+    "Object 1": {
+      "name": "the patterned shirt",
+      "label": "Object 1",
+      "description": "Men's white short-sleeved patterned shirt, worn open"
+    },
+    "Object 2": {
+      "name": "the brown leather jacket",
+      "label": "Object 2",
+      "description": "Dark brown leather jacket"
+    },
+    "Object 3": {
+      "name": "the red trousers",
+      "label": "Object 3",
+      "description": "Vibrant red women's trousers with a tailored fit and a smooth fabric texture."
+    },
+    "Object 4": {
+      "name": "the black duffel bag",
+      "label": "Object 4",
+      "description": "Large black duffel bag."
+    },
+    "Object 5": {
+      "name": "the green hoodie",
+      "label": "Object 5",
+      "description": "Dark green hoodie."
+    },
+    "Object 6": {
+      "name": "the black shoes",
+      "label": "Object 6",
+      "description": "Dark black shoes"
+    },
+    "Object 7": {
+      "name": "the dark trousers",
+      "label": "Object 7",
+      "description": "Dark-colored trousers"
+    },
+    "Object 8": {
+      "name": "the pink patterned sweater",
+      "label": "Object 8",
+      "description": "Pink and white patterned knit sweater."
+    },
+    "Object 9": {
+      "name": "the dark-wash jeans",
+      "label": "Object 9",
+      "description": "Dark-wash denim jeans"
+    },
+    "Object 10": {
+      "name": "the red toy box",
+      "label": "Object 10",
+      "description": "Simple toy box of a solid red color."
+    },
+    "Object 11": {
+      "name": "the plaid blanket",
+      "label": "Object 11",
+      "description": "Blanket with a plaid pattern"
+    },
+    "Object 12": {
+      "name": "the vintage cell phone",
+      "label": "Object 12",
+      "description": "Dark gray, blocky old-style mobile phone with a matte plastic casing, a small monochrome screen, a physical numeric keypad, and a short, stubby external antenna."
+    }
+  },
+  "_window_shot_ids": [
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0054",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0055",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0056",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0058",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0059",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0060",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0061",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0062",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0064",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0065",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run744__i20_j54__T420__shot0067"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Ronan",
+    "Character 2": "Leo",
+    "Character 3": "Clara",
+    "Character 4": "Sophie",
+    "Character 5": "Nadia",
+    "Character 6": "Julian",
+    "Location 1": "The Brick House Porch",
+    "Location 2": "The Entryway Kitchen",
+    "Location 3": "The Living Room",
+    "Location 4": "The Playroom",
+    "Object 1": "the patterned shirt",
+    "Object 10": "the red toy box",
+    "Object 11": "the plaid blanket",
+    "Object 12": "the vintage cell phone",
+    "Object 2": "the brown leather jacket",
+    "Object 3": "the red trousers",
+    "Object 4": "the black duffel bag",
+    "Object 5": "the green hoodie",
+    "Object 6": "the black shoes",
+    "Object 7": "the dark trousers",
+    "Object 8": "the pink patterned sweater",
+    "Object 9": "the dark-wash jeans"
+  }
+}

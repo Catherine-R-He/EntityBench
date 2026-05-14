@@ -1,0 +1,355 @@
+{
+  "story_name": "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180",
+  "story_overview": "Nico, a musician, finds moments of quiet introspection in his humble room, observed by his friends Felix and Andre. At night, tensions simmer between Rosa and her partner Leon in a candlelit bedroom. The story unfolds through brief, atmospheric encounters in alleyways and private rooms, hinting at the complex relationships between Nico, Rosa, and the others.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Felix: Man with short brown hair, wearing a simple brown shirt and dark pants.\nAndre: Man with a shaved head, wearing a dark grey t-shirt.\nNico: Man with dark curly hair and a mustache, wearing a beige tunic and a thin dark strap worn across his body.\nThe Bare Room: A spartan, humble room with a floor and a doorway.\nthe silver harmonica: Small, rectangular diatonic harmonica with silver-colored metal cover plates.\nthe old newspaper: A broadsheet newspaper with yellowed, creased pages, featuring a prominent black ink headline and a grainy black-and-white photograph.\nthe sunlit window: A simple, unadorned window filled with bright light.\nthe stained mattress: Thin, bare, rectangular mattress with a worn, stained, and discolored off-white fabric cover.\n\nInside The Bare Room, dimly lit by light from the sunlit window, Nico sits in the foreground playing the silver harmonica and looking at the old newspaper. In the background, Andre stands next to Felix, who turns to smile at Nico."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Bare Room, dimly lit by light from the sunlit window, Nico sits in the foreground playing the silver harmonica and looking at the old newspaper. In the background, Andre stands next to Felix, who turns to smile at Nico."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Simple House: A single-story house exterior with two windows and surrounding bushes.\nthe overgrown bushes: A group of dark, indistinct bushes with soft, rounded shapes and no visible individual leaves or branches.\n\nExterior of The Simple House at night. In the foreground are the dark silhouettes of the overgrown bushes. Two windows of The Simple House are illuminated with warm light. In the leftmost illuminated window, the faint silhouette of Nico briefly walks past."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Exterior of The Simple House at night. In the foreground are the dark silhouettes of the overgrown bushes. Two windows of The Simple House are illuminated with warm light. In the leftmost illuminated window, the faint silhouette of Nico briefly walks past."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Leon: Man wearing a long-sleeved shirt and dark trousers.\nRosa: Woman.\nThe Candlelit Bedroom: Dark bedroom interior furnished with a bed and decorated with multiple candles.\nthe wooden bed: Large wooden bed with a simple headboard and indistinct, possibly white or light-colored, sheets and blankets.\nthe dripping candle: Tall, slender white wax taper candle, partially burned with solidified drips of wax down its sides.\n\nIn the dark The Candlelit Bedroom, illuminated by a flickering the dripping candle, Rosa lies awake in the wooden bed next to the sleeping Leon. Her expression grows concerned as she watches him, and she reaches out to gently rest her hand on his chest.",
+        "A close-up view inside The Candlelit Bedroom at night, softly illuminated by the dripping candle. Leon is fast asleep in the wooden bed, breathing deeply. Nico stands nearby, looking down at Leon with a worried expression.",
+        "In The Candlelit Bedroom, Leon and Rosa lie awake side-by-side in the wooden bed, the scene softly lit by the flickering of the dripping candle. Rosa slowly turns her head to look at Leon with a watchful expression. Leon lies on his back, staring blankly up at the ceiling, his chest rising and falling slowly as he breathes.",
+        "Close-up shot in The Candlelit Bedroom, dimly lit by the flickering glow of the dripping candle. Leon and Nico sleep in the wooden bed, while Rosa lies awake beside them. Rosa has her arm around Leon, her gaze drifting over his face as her expression fills with deep concern."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In the dark The Candlelit Bedroom, illuminated by a flickering the dripping candle, Rosa lies awake in the wooden bed next to the sleeping Leon. Her expression grows concerned as she watches him, and she reaches out to gently rest her hand on his chest.",
+        "A close-up view inside The Candlelit Bedroom at night, softly illuminated by the dripping candle. Leon is fast asleep in the wooden bed, breathing deeply. Nico stands nearby, looking down at Leon with a worried expression.",
+        "In The Candlelit Bedroom, Leon and Rosa lie awake side-by-side in the wooden bed, the scene softly lit by the flickering of the dripping candle. Rosa slowly turns her head to look at Leon with a watchful expression. Leon lies on his back, staring blankly up at the ceiling, his chest rising and falling slowly as he breathes.",
+        "Close-up shot in The Candlelit Bedroom, dimly lit by the flickering glow of the dripping candle. Leon and Nico sleep in the wooden bed, while Rosa lies awake beside them. Rosa has her arm around Leon, her gaze drifting over his face as her expression fills with deep concern."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Lantern Alley: A narrow outdoor alleyway between buildings, featuring multiple doorways, decorative hanging lanterns, and a laundry line with clothes strung overhead.\nthe glowing lantern: lantern that emits a dim glow from an internal light source.\nthe hanging laundry: An assortment of clothing including white cotton sheets, drab-colored shirts, and dark trousers.\nthe clothesline: A thin rope laundry line strung with assorted articles of clothing, including shirts and linens.\n\nNighttime in The Lantern Alley. Rosa walks through the narrow alley, holding the glowing lantern. As she passes a doorway, Nico emerges and walks past her. In the background, Andre leans inside another doorway under the clothesline and the hanging laundry, watching.",
+        "At night, Nico walks down The Lantern Alley. The alley is dimly lit by the glowing lantern, and the clothesline with the hanging laundry is strung overhead. After a brief pause, Nico enters a doorway on the right."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Nighttime in The Lantern Alley. Rosa walks through the narrow alley, holding the glowing lantern. As she passes a doorway, Nico emerges and walks past her. In the background, Andre leans inside another doorway under the clothesline and the hanging laundry, watching.",
+        "At night, Nico walks down The Lantern Alley. The alley is dimly lit by the glowing lantern, and the clothesline with the hanging laundry is strung overhead. After a brief pause, Nico enters a doorway on the right."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Inside the dark The Candlelit Bedroom at night, Nico gently runs his hand down Rosa's back as she is bent over with her back to the camera. The scene is illuminated by the flickering glow of the dripping candle. In the background, the folk lute rests against a wall.",
+        "In the candle-lit bedroom, Nico sits on the bed and plays the folk lute. Felix sits next to him, watching him play and smiling softly. The dripping candle flickers on a nearby surface."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside the dark The Candlelit Bedroom at night, Nico gently runs his hand down Rosa's back as she is bent over with her back to the camera. The scene is illuminated by the flickering glow of the dripping candle. In the background, the folk lute rests against a wall.",
+        "In the candle-lit bedroom, Nico sits on the bed and plays the folk lute. Felix sits next to him, watching him play and smiling softly. The dripping candle flickers on a nearby surface."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Felix",
+        "Andre",
+        "Nico"
+      ],
+      "places": [
+        "The Bare Room"
+      ],
+      "objects": [
+        "the silver harmonica",
+        "the old newspaper",
+        "the sunlit window",
+        "the stained mattress"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Nico"
+      ],
+      "places": [
+        "The Simple House"
+      ],
+      "objects": [
+        "the sunlit window",
+        "the overgrown bushes"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leon",
+        "Rosa"
+      ],
+      "places": [
+        "The Candlelit Bedroom"
+      ],
+      "objects": [
+        "the wooden bed",
+        "the dripping candle"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Leon",
+        "Nico"
+      ],
+      "places": [
+        "The Candlelit Bedroom"
+      ],
+      "objects": [
+        "the wooden bed",
+        "the dripping candle"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Leon",
+        "Rosa"
+      ],
+      "places": [
+        "The Candlelit Bedroom"
+      ],
+      "objects": [
+        "the wooden bed",
+        "the dripping candle"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Leon",
+        "Rosa",
+        "Nico"
+      ],
+      "places": [
+        "The Candlelit Bedroom"
+      ],
+      "objects": [
+        "the wooden bed",
+        "the dripping candle"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Andre",
+        "Rosa",
+        "Nico"
+      ],
+      "places": [
+        "The Lantern Alley"
+      ],
+      "objects": [
+        "the glowing lantern",
+        "the hanging laundry",
+        "the clothesline"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Nico"
+      ],
+      "places": [
+        "The Lantern Alley"
+      ],
+      "objects": [
+        "the glowing lantern",
+        "the hanging laundry"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Rosa",
+        "Nico"
+      ],
+      "places": [
+        "The Candlelit Bedroom"
+      ],
+      "objects": [
+        "the dripping candle",
+        "the folk lute"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Felix",
+        "Nico"
+      ],
+      "places": [
+        "The Candlelit Bedroom"
+      ],
+      "objects": [
+        "the dripping candle",
+        "the folk lute"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Nico",
+      "label": "Character 1",
+      "description": "Man with dark curly hair and a mustache, wearing a beige tunic and a thin dark strap worn across his body."
+    },
+    "Character 2": {
+      "name": "Felix",
+      "label": "Character 2",
+      "description": "Man with short brown hair, wearing a simple brown shirt and dark pants."
+    },
+    "Character 3": {
+      "name": "Andre",
+      "label": "Character 3",
+      "description": "Man with a shaved head, wearing a dark grey t-shirt."
+    },
+    "Character 4": {
+      "name": "Leon",
+      "label": "Character 4",
+      "description": "Man wearing a long-sleeved shirt and dark trousers."
+    },
+    "Character 5": {
+      "name": "Rosa",
+      "label": "Character 5",
+      "description": "Woman."
+    },
+    "Location 1": {
+      "name": "The Bare Room",
+      "label": "Location 1",
+      "description": "A spartan, humble room with a floor and a doorway."
+    },
+    "Location 2": {
+      "name": "The Simple House",
+      "label": "Location 2",
+      "description": "A single-story house exterior with two windows and surrounding bushes."
+    },
+    "Location 3": {
+      "name": "The Candlelit Bedroom",
+      "label": "Location 3",
+      "description": "Dark bedroom interior furnished with a bed and decorated with multiple candles."
+    },
+    "Location 4": {
+      "name": "The Lantern Alley",
+      "label": "Location 4",
+      "description": "A narrow outdoor alleyway between buildings, featuring multiple doorways, decorative hanging lanterns, and a laundry line with clothes strung overhead."
+    },
+    "Object 1": {
+      "name": "the old newspaper",
+      "label": "Object 1",
+      "description": "A broadsheet newspaper with yellowed, creased pages, featuring a prominent black ink headline and a grainy black-and-white photograph."
+    },
+    "Object 2": {
+      "name": "the sunlit window",
+      "label": "Object 2",
+      "description": "A simple, unadorned window filled with bright light."
+    },
+    "Object 3": {
+      "name": "the silver harmonica",
+      "label": "Object 3",
+      "description": "Small, rectangular diatonic harmonica with silver-colored metal cover plates."
+    },
+    "Object 4": {
+      "name": "the stained mattress",
+      "label": "Object 4",
+      "description": "Thin, bare, rectangular mattress with a worn, stained, and discolored off-white fabric cover."
+    },
+    "Object 5": {
+      "name": "the overgrown bushes",
+      "label": "Object 5",
+      "description": "A group of dark, indistinct bushes with soft, rounded shapes and no visible individual leaves or branches."
+    },
+    "Object 6": {
+      "name": "the dripping candle",
+      "label": "Object 6",
+      "description": "Tall, slender white wax taper candle, partially burned with solidified drips of wax down its sides."
+    },
+    "Object 7": {
+      "name": "the wooden bed",
+      "label": "Object 7",
+      "description": "Large wooden bed with a simple headboard and indistinct, possibly white or light-colored, sheets and blankets."
+    },
+    "Object 8": {
+      "name": "the glowing lantern",
+      "label": "Object 8",
+      "description": "lantern that emits a dim glow from an internal light source."
+    },
+    "Object 9": {
+      "name": "the clothesline",
+      "label": "Object 9",
+      "description": "A thin rope laundry line strung with assorted articles of clothing, including shirts and linens."
+    },
+    "Object 10": {
+      "name": "the hanging laundry",
+      "label": "Object 10",
+      "description": "An assortment of clothing including white cotton sheets, drab-colored shirts, and dark trousers."
+    },
+    "Object 11": {
+      "name": "the folk lute",
+      "label": "Object 11",
+      "description": "Folk stringed instrument"
+    }
+  },
+  "_window_shot_ids": [
+    "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180__shot0007",
+    "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180__shot0008",
+    "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180__shot0009",
+    "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180__shot0010",
+    "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180__shot0011",
+    "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180__shot0012",
+    "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180__shot0013",
+    "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180__shot0014",
+    "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180__shot0015",
+    "0003fbde-71da-3578-842a-e69ade5f51fa__run542__i35_j49__T180__shot0016"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Nico",
+    "Character 2": "Felix",
+    "Character 3": "Andre",
+    "Character 4": "Leon",
+    "Character 5": "Rosa",
+    "Location 1": "The Bare Room",
+    "Location 2": "The Simple House",
+    "Location 3": "The Candlelit Bedroom",
+    "Location 4": "The Lantern Alley",
+    "Object 1": "the old newspaper",
+    "Object 10": "the hanging laundry",
+    "Object 11": "the folk lute",
+    "Object 2": "the sunlit window",
+    "Object 3": "the silver harmonica",
+    "Object 4": "the stained mattress",
+    "Object 5": "the overgrown bushes",
+    "Object 6": "the dripping candle",
+    "Object 7": "the wooden bed",
+    "Object 8": "the glowing lantern",
+    "Object 9": "the clothesline"
+  }
+}

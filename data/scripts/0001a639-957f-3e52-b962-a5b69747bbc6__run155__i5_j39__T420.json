@@ -1,0 +1,414 @@
+{
+  "story_name": "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420",
+  "story_overview": "In a school classroom, a group of young trainers including Chloe, Akira, and Leo gather for a lesson. Their mentor, Marcus, leads a session on a wooden deck where the trainers and their Pokémon listen attentively. The students later interact with various Pokémon, with Kai and Chloe observing a white fox pokémon, and Chloe and Akira bonding with a yellow electric pokémon.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Marcus: Dark-skinned man with a goatee, bare-chested, wearing an open white lab coat, a white cap with a rainbow emblem, and green-rimmed glasses.\nLeo: Man with blonde hair wearing an open white lab coat.\nAkira: Shirtless young man with spiky red and black hair, wearing a necklace.\nChloe: A young girl with long blonde hair and green eyes.\nThe School Classroom: Classroom with light green walls, a wooden floor, and bookshelves.\nthe striped t-shirt: Short-sleeved crew-neck t-shirt with a pattern of horizontal blue and white stripes.\nthe classroom bookshelves: Bookshelves with framed pictures on the shelves.\n\nMarcus, wearing the white lab coat, and Leo, wearing the striped t-shirt under his white lab coat, are talking with Chloe near the classroom bookshelves. They all turn as Akira walks into the frame from the left to join them.",
+        "Sato: Young animated boy with black hair, wearing a red and white baseball cap, a blue t-shirt, and a light blue backpack.\nRohan: Dark-skinned man with gray, shoulder-length hair, wearing a light blue, short-sleeved, button-up shirt with a fish print pattern.\nthe white skull cap: A plain white cloth skull cap.\n\nMedium shot in The School Classroom. Marcus, wearing the white lab coat and the white cap with a rainbow emblem, Rohan, wearing the blue fish-print shirt, and Sato stand side-by-side, slowly turning to look at each other with neutral expressions.",
+        "Kai: Person in blue pants and a green sash.\n\nRohan, wearing the blue fish-print shirt, and Kai stand side-by-side. Rohan smiles happily and gestures slightly. Kai looks on with a neutral expression, and Chloe stands with them, shifting her weight slightly."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Marcus, wearing the white lab coat, and Leo, wearing the striped t-shirt under his white lab coat, are talking with Chloe near the classroom bookshelves. They all turn as Akira walks into the frame from the left to join them.",
+        "Medium shot in The School Classroom. Marcus, wearing the white lab coat and the white cap with a rainbow emblem, Rohan, wearing the blue fish-print shirt, and Sato stand side-by-side, slowly turning to look at each other with neutral expressions.",
+        "Rohan, wearing the blue fish-print shirt, and Kai stand side-by-side. Rohan smiles happily and gestures slightly. Kai looks on with a neutral expression, and Chloe stands with them, shifting her weight slightly."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Kenta: Young man wearing a cap and a striped shirt.\nThe Wooden Deck: Outdoor deck with a wooden floor.\nthe group of small pokémon: A group of small Pokémon including a yellow, rodent-like Pikachu with long black-tipped ears and red cheek pouches; a white, fox-like Alolan Vulpix with fluffy fur and six tails; and a blue, seal-like Popplio with a light blue neck frill and a pink nose.\n\nOn the sunlit The Wooden Deck, a group of young trainers including Rohan, Kenta, Leo, and Akira are gathered with the group of small pokémon. They all nod and listen as Marcus, seen from the front, addresses them, gesturing for emphasis."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "On the sunlit The Wooden Deck, a group of young trainers including Rohan, Kenta, Leo, and Akira are gathered with the group of small pokémon. They all nod and listen as Marcus, seen from the front, addresses them, gesturing for emphasis."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Geometric Space: Abstract geometric space with a brown geometric surface and large, static red and yellow graphic shapes and structures.\nthe white fox pokémon: Small, fox-like Pokémon (Alolan Vulpix) with fluffy white fur that has some reddish-brown coloration, large pointed ears, a curled tuft of fur on its head, and multiple curled tails.\n\nMedium shot in The Geometric Space. Chloe walks over to the red and yellow perch where the white fox pokémon sits. Rohan stands beside her, watching intently as Chloe gently pets the white fox pokémon."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Geometric Space. Chloe walks over to the red and yellow perch where the white fox pokémon sits. Rohan stands beside her, watching intently as Chloe gently pets the white fox pokémon."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "High-angle medium shot of the white fox pokémon standing on a brown geometric surface in The Geometric Space, its tails twitching slightly. Nearby, Chloe takes a small step toward the white fox pokémon, her eyes widening in awe and her mouth falling slightly open. The large, red and yellow structure of the red and yellow perch is in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle medium shot of the white fox pokémon standing on a brown geometric surface in The Geometric Space, its tails twitching slightly. Nearby, Chloe takes a small step toward the white fox pokémon, her eyes widening in awe and her mouth falling slightly open. The large, red and yellow structure of the red and yellow perch is in the background."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "In The School Classroom, Kenta and Akira's eyes widen with surprise and excitement as they look at each other."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The School Classroom, Kenta and Akira's eyes widen with surprise and excitement as they look at each other."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "On The Wooden Deck, Marcus speaks with an excited expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "On The Wooden Deck, Marcus speaks with an excited expression."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "the pink flower hair clip: A bright pink flower hair ornament composed of five simple, rounded petals and a small, circular yellow center, all with a smooth appearance and a thin black outline.\nthe green chalkboard: Large, rectangular chalkboard with a clean, dark green, matte surface.\nthe yellow electric pokémon: Small, yellow, rodent-like Pokémon with long black-tipped ears, circular red cheeks, and a lightning-bolt-shaped tail.\n\nChloe, wearing the pink flower hair clip, and Marcus, standing in front of the green chalkboard with the yellow electric pokémon, turn and smile at Akira, who smiles back.",
+        "Extreme close-up on the face of Chloe in The School Classroom. Behind her, the green wall and the classroom bookshelves are visible. Her expression changes from neutral to slightly surprised as her eyes widen and her mouth opens a little in a silent gasp."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Chloe, wearing the pink flower hair clip, and Marcus, standing in front of the green chalkboard with the yellow electric pokémon, turn and smile at Akira, who smiles back.",
+        "Extreme close-up on the face of Chloe in The School Classroom. Behind her, the green wall and the classroom bookshelves are visible. Her expression changes from neutral to slightly surprised as her eyes widen and her mouth opens a little in a silent gasp."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "The Open Field: An open outdoor space under a blue sky.\n\nClose-up shot of Leo smiling in The Open Field while wearing the striped t-shirt. the yellow electric pokémon suddenly jumps onto Leo's shoulder."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot of Leo smiling in The Open Field while wearing the striped t-shirt. the yellow electric pokémon suddenly jumps onto Leo's shoulder."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Marcus",
+        "Leo",
+        "Akira",
+        "Chloe"
+      ],
+      "places": [
+        "The School Classroom"
+      ],
+      "objects": [
+        "the white lab coat",
+        "the striped t-shirt",
+        "the classroom bookshelves"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Sato",
+        "Rohan",
+        "Marcus"
+      ],
+      "places": [
+        "The School Classroom"
+      ],
+      "objects": [
+        "the white lab coat",
+        "the blue fish-print shirt"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Chloe",
+        "Rohan",
+        "Kai"
+      ],
+      "places": [
+        "The School Classroom"
+      ],
+      "objects": [
+        "the blue fish-print shirt"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Rohan",
+        "Marcus",
+        "Kenta",
+        "Leo",
+        "Akira"
+      ],
+      "places": [
+        "The Wooden Deck"
+      ],
+      "objects": [
+        "the group of small pokémon"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Chloe",
+        "Rohan"
+      ],
+      "places": [
+        "The Geometric Space"
+      ],
+      "objects": [
+        "the white fox pokémon",
+        "the red and yellow perch"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Geometric Space"
+      ],
+      "objects": [
+        "the white fox pokémon",
+        "the red and yellow perch"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Kenta",
+        "Akira"
+      ],
+      "places": [
+        "The School Classroom"
+      ],
+      "objects": [
+        "the classroom bookshelves"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Wooden Deck"
+      ],
+      "objects": []
+    },
+    "7:1": {
+      "characters": [
+        "Marcus",
+        "Chloe",
+        "Akira"
+      ],
+      "places": [
+        "The School Classroom"
+      ],
+      "objects": [
+        "the pink flower hair clip",
+        "the green chalkboard",
+        "the yellow electric pokémon"
+      ]
+    },
+    "7:2": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The School Classroom"
+      ],
+      "objects": [
+        "the classroom bookshelves"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Open Field"
+      ],
+      "objects": [
+        "the striped t-shirt",
+        "the yellow electric pokémon"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Kai",
+      "label": "Character 1",
+      "description": "Person in blue pants and a green sash."
+    },
+    "Character 2": {
+      "name": "Chloe",
+      "label": "Character 2",
+      "description": "A young girl with long blonde hair and green eyes."
+    },
+    "Character 3": {
+      "name": "Kenta",
+      "label": "Character 3",
+      "description": "Young man wearing a cap and a striped shirt."
+    },
+    "Character 4": {
+      "name": "Marcus",
+      "label": "Character 4",
+      "description": "Dark-skinned man with a goatee, bare-chested, wearing an open white lab coat, a white cap with a rainbow emblem, and green-rimmed glasses."
+    },
+    "Character 5": {
+      "name": "Leo",
+      "label": "Character 5",
+      "description": "Man with blonde hair wearing an open white lab coat."
+    },
+    "Character 6": {
+      "name": "Akira",
+      "label": "Character 6",
+      "description": "Shirtless young man with spiky red and black hair, wearing a necklace."
+    },
+    "Character 8": {
+      "name": "Sato",
+      "label": "Character 8",
+      "description": "Young animated boy with black hair, wearing a red and white baseball cap, a blue t-shirt, and a light blue backpack."
+    },
+    "Character 9": {
+      "name": "Rohan",
+      "label": "Character 9",
+      "description": "Dark-skinned man with gray, shoulder-length hair, wearing a light blue, short-sleeved, button-up shirt with a fish print pattern."
+    },
+    "Location 1": {
+      "name": "The School Classroom",
+      "label": "Location 1",
+      "description": "Classroom with light green walls, a wooden floor, and bookshelves."
+    },
+    "Location 2": {
+      "name": "The Wooden Deck",
+      "label": "Location 2",
+      "description": "Outdoor deck with a wooden floor."
+    },
+    "Location 3": {
+      "name": "The Geometric Space",
+      "label": "Location 3",
+      "description": "Abstract geometric space with a brown geometric surface and large, static red and yellow graphic shapes and structures."
+    },
+    "Location 4": {
+      "name": "The Open Field",
+      "label": "Location 4",
+      "description": "An open outdoor space under a blue sky."
+    },
+    "Object 1": {
+      "name": "the yellow electric pokémon",
+      "label": "Object 1",
+      "description": "Small, yellow, rodent-like Pokémon with long black-tipped ears, circular red cheeks, and a lightning-bolt-shaped tail."
+    },
+    "Object 2": {
+      "name": "the white fox pokémon",
+      "label": "Object 2",
+      "description": "Small, fox-like Pokémon (Alolan Vulpix) with fluffy white fur that has some reddish-brown coloration, large pointed ears, a curled tuft of fur on its head, and multiple curled tails."
+    },
+    "Object 3": {
+      "name": "the group of small pokémon",
+      "label": "Object 3",
+      "description": "A group of small Pokémon including a yellow, rodent-like Pikachu with long black-tipped ears and red cheek pouches; a white, fox-like Alolan Vulpix with fluffy fur and six tails; and a blue, seal-like Popplio with a light blue neck frill and a pink nose."
+    },
+    "Object 4": {
+      "name": "the classroom bookshelves",
+      "label": "Object 4",
+      "description": "Bookshelves with framed pictures on the shelves."
+    },
+    "Object 5": {
+      "name": "the striped t-shirt",
+      "label": "Object 5",
+      "description": "Short-sleeved crew-neck t-shirt with a pattern of horizontal blue and white stripes."
+    },
+    "Object 6": {
+      "name": "the white lab coat",
+      "label": "Object 6",
+      "description": "Open white lab coat"
+    },
+    "Object 7": {
+      "name": "the blue fish-print shirt",
+      "label": "Object 7",
+      "description": "Light blue shirt with an all-over print of green fish"
+    },
+    "Object 8": {
+      "name": "the white skull cap",
+      "label": "Object 8",
+      "description": "A plain white cloth skull cap"
+    },
+    "Object 9": {
+      "name": "the red and yellow perch",
+      "label": "Object 9",
+      "description": "A red and yellow perch-like structure"
+    },
+    "Object 10": {
+      "name": "the pink flower hair clip",
+      "label": "Object 10",
+      "description": "A bright pink flower hair ornament composed of five simple, rounded petals and a small, circular yellow center, all with a smooth appearance and a thin black outline."
+    },
+    "Object 11": {
+      "name": "the green chalkboard",
+      "label": "Object 11",
+      "description": "Large, rectangular chalkboard with a clean, dark green, matte surface."
+    }
+  },
+  "_window_shot_ids": [
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0007",
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0009",
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0010",
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0011",
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0012",
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0013",
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0014",
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0015",
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0016",
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0017",
+    "0001a639-957f-3e52-b962-a5b69747bbc6__run155__i5_j39__T420__shot0018"
+  ],
+  "_num_scenes": 8,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Kai",
+    "Character 10": "Silas",
+    "Character 2": "Chloe",
+    "Character 3": "Kenta",
+    "Character 4": "Marcus",
+    "Character 5": "Leo",
+    "Character 6": "Akira",
+    "Character 7": "Miki",
+    "Character 8": "Sato",
+    "Character 9": "Rohan",
+    "Location 1": "The School Classroom",
+    "Location 2": "The Wooden Deck",
+    "Location 3": "The Geometric Space",
+    "Location 4": "The Open Field",
+    "Object 1": "the yellow electric pokémon",
+    "Object 10": "the pink flower hair clip",
+    "Object 11": "the green chalkboard",
+    "Object 2": "the white fox pokémon",
+    "Object 3": "the group of small pokémon",
+    "Object 4": "the classroom bookshelves",
+    "Object 5": "the striped t-shirt",
+    "Object 6": "the white lab coat",
+    "Object 7": "the blue fish-print shirt",
+    "Object 8": "the white skull cap",
+    "Object 9": "the red and yellow perch"
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "story_name": "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300",
+  "story_overview": "A group of tourists, including Leo, Wyatt, Agnes, and Isabelle, navigate a chaotic and stormy day at a bus depot, where their similar pink rain ponchos add to the confusion. These scenes are contrasted with surreal visions of a mysterious figure named Kai in a dark void, haunted by a crimson haze and the stylized face of Silas. The journey culminates with the group's arrival at the Orly Airport in Paris.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Chloe: Woman with red hair wearing a pink and white striped jacket.\nDamian: Slender figure in a devil costume featuring a horned headdress and a horned mask.\nThe Tour Bus: The interior of a tour bus.\nthe red plastic poncho: A bright red, poncho-style raincoat made of smooth, glossy plastic, featuring an attached hood and a wide, loose-fitting, draping cut.\nClose-up shot from inside The Tour Bus, creating a blurry and chaotic view. the red plastic poncho is waved erratically, filling and obscuring the frame. Damian and Chloe are barely visible sitting in a seat behind the moving object."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot from inside The Tour Bus, creating a blurry and chaotic view. the red plastic poncho is waved erratically, filling and obscuring the frame. Damian and Chloe are barely visible sitting in a seat behind the moving object."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Silas: Stylized line drawing of a man's face with a dark beard and wide eyes.\nAgnes: Older woman.\nThe Bus Depot: Paved outdoor area with an adjacent bus.\nthe white tour bus: Large white tour bus with a single horizontal red stripe along its side.\n\nIn the rain at The Bus Depot, a joyful Agnes, wearing the pink rain poncho, runs alongside the white tour bus, waving excitedly. The stylized line drawing of Silas's face is superimposed on the shot.",
+        "Marco: Man wearing a colorful patterned shirt and a straw visor.\n\nClose-up of Marco in The Bus Depot during a heavy downpour. He stands next to the white tour bus, struggling against the wind as the pink rain poncho whips erratically around him.",
+        "Alex: A person whose face and body are completely concealed by a pink rain poncho with the hood up.\nLeo: Man wearing a red shirt and light-colored pants.\nthe pink umbrella: A standard stick umbrella with a bright pink canopy, a slender metal shaft, and a pink plastic J-hook handle.\n\nIn The Bus Depot, Leo and Alex run through a heavy downpour and strong wind toward the white tour bus. Leo struggles to control the pink umbrella as the wind batters it, while Alex, wearing the pink rain poncho, runs beside him. The red plastic poncho tumbles across the wet pavement, and the stylized face of Silas is superimposed over the shot."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In the rain at The Bus Depot, a joyful Agnes, wearing the pink rain poncho, runs alongside the white tour bus, waving excitedly. The stylized line drawing of Silas's face is superimposed on the shot.",
+        "Close-up of Marco in The Bus Depot during a heavy downpour. He stands next to the white tour bus, struggling against the wind as the pink rain poncho whips erratically around him.",
+        "In The Bus Depot, Leo and Alex run through a heavy downpour and strong wind toward the white tour bus. Leo struggles to control the pink umbrella as the wind batters it, while Alex, wearing the pink rain poncho, runs beside him. The red plastic poncho tumbles across the wet pavement, and the stylized face of Silas is superimposed over the shot."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Kai: Figure in dark clothing.\nThe Void: A solid black, featureless, non-descript space.\nthe cast iron cauldron: Large, wide-mouthed black cast iron cauldron with a thick, reinforced rim and a soot-stained, rough surface.\nthe crimson haze: Faint, dramatic, diffuse red glow with soft, blurry edges.\n\nIn The Void, Kai, wearing the devil costume, stands behind the crimson haze next to the cast iron cauldron. He adopts a menacing expression as he slowly raises the trident. The scene is bathed in the flickering light from the crimson haze.",
+        "Extreme close-up, low angle of Silas's face against the dark The Void. A brief, dramatic flash of the crimson haze illuminates Silas's face as his eyes widen in terror.",
+        "Isabelle: Blonde woman wearing a translucent pink plastic rain poncho with a hood.\n\nThe faint crimson haze briefly flares, illuminating a shadowy Isabelle at the top of the screen."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Void, Kai, wearing the devil costume, stands behind the crimson haze next to the cast iron cauldron. He adopts a menacing expression as he slowly raises the trident. The scene is bathed in the flickering light from the crimson haze.",
+        "Extreme close-up, low angle of Silas's face against the dark The Void. A brief, dramatic flash of the crimson haze illuminates Silas's face as his eyes widen in terror.",
+        "The faint crimson haze briefly flares, illuminating a shadowy Isabelle at the top of the screen."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "the straw trilby hat: A classic trilby-style hat made of tightly woven, light tan straw, featuring a short brim, a teardrop-shaped crown, and a wide, dark navy blue grosgrain ribbon band.\nWyatt: Man with a blue and green patterned shirt, and a straw cowboy hat\n\nAt The Bus Depot during a downpour, Wyatt and Marco stand next to the white tour bus, shivering in the rain. Wyatt pulls the pink rain poncho he is wearing tighter around himself.",
+        "the vintage sedan: Vintage sedan with a classic, curved body design, prominent chrome bumpers, and a detailed front grille.\nthe broken red umbrella: A red umbrella with its canopy inverted, exposing its internal metal structure.\n\nIn The Bus Depot during a heavy storm, Leo and Isabelle speak to each other in the foreground, with the white tour bus visible. In the background, a person struggles to control the broken red umbrella near the parked white tour bus and the vintage sedan. The red plastic poncho lies on the wet pavement as the stylized face of Silas is superimposed over the scene.",
+        "Close-up in The Bus Depot as rain falls. Alex, wearing the pink rain poncho, and Isabelle, also in a poncho, huddle together next to the white tour bus, shifting slightly. Through a rain-streaked window of the bus, an older man with white hair and glasses sits inside, looking down, then slowly glances up.",
+        "On a rainy day in The Bus Depot, Marco stands next to the white tour bus, wearing the wet cowboy hat and talking animatedly. Alex, wearing the pink rain poncho, stands facing Marco and listening.",
+        "Medium shot of Leo, Isabelle, and Marco standing together on a wet street in The Bus Depot, talking amongst themselves as rain falls. Isabelle is wearing the pink rain poncho. The white tour bus is parked on the right side of the street, and the vintage sedan is parked on the left.",
+        "In a heavy downpour at The Bus Depot, Alex and Isabelle stand with their backs to the camera, both wearing pink rain ponchos. Isabelle turns and walks away from the camera. To the right, the white tour bus and the vintage sedan are parked in the background.",
+        "In the rainy The Bus Depot, Wyatt and Agnes disembark from the white tour bus onto the wet pavement. Wyatt struggles to put on his pink rain poncho, while Agnes is already wearing her large, billowing pink poncho."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "At The Bus Depot during a downpour, Wyatt and Marco stand next to the white tour bus, shivering in the rain. Wyatt pulls the pink rain poncho he is wearing tighter around himself.",
+        "In The Bus Depot during a heavy storm, Leo and Isabelle speak to each other in the foreground, with the white tour bus visible. In the background, a person struggles to control the broken red umbrella near the parked white tour bus and the vintage sedan. The red plastic poncho lies on the wet pavement as the stylized face of Silas is superimposed over the scene.",
+        "Close-up in The Bus Depot as rain falls. Alex, wearing the pink rain poncho, and Isabelle, also in a poncho, huddle together next to the white tour bus, shifting slightly. Through a rain-streaked window of the bus, an older man with white hair and glasses sits inside, looking down, then slowly glances up.",
+        "On a rainy day in The Bus Depot, Marco stands next to the white tour bus, wearing the wet cowboy hat and talking animatedly. Alex, wearing the pink rain poncho, stands facing Marco and listening.",
+        "Medium shot of Leo, Isabelle, and Marco standing together on a wet street in The Bus Depot, talking amongst themselves as rain falls. Isabelle is wearing the pink rain poncho. The white tour bus is parked on the right side of the street, and the vintage sedan is parked on the left.",
+        "In a heavy downpour at The Bus Depot, Alex and Isabelle stand with their backs to the camera, both wearing pink rain ponchos. Isabelle turns and walks away from the camera. To the right, the white tour bus and the vintage sedan are parked in the background.",
+        "In the rainy The Bus Depot, Wyatt and Agnes disembark from the white tour bus onto the wet pavement. Wyatt struggles to put on his pink rain poncho, while Agnes is already wearing her large, billowing pink poncho."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Orly Terminal: Exterior of a large, mid-century modern airport terminal building with a prominent 'AEROPORT DE PARIS' sign, a sprawling parking lot filled with vintage 1960s cars, and an air traffic control tower.\nthe vintage cars: A collection of various 1960s-era automobiles, including sedans and coupes, in a range of colors, featuring rounded body styles with prominent chrome bumpers, grilles, and trim.\n\nWide shot of The Orly Terminal on an overcast day. The mid-century modern airport terminal and an air traffic control tower stand in the background. In the foreground, Wyatt walks through the sprawling parking lot, which is filled with the vintage cars."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wide shot of The Orly Terminal on an overcast day. The mid-century modern airport terminal and an air traffic control tower stand in the background. In the foreground, Wyatt walks through the sprawling parking lot, which is filled with the vintage cars."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Chloe",
+        "Damian"
+      ],
+      "places": [
+        "The Tour Bus"
+      ],
+      "objects": [
+        "the red plastic poncho"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Silas",
+        "Agnes"
+      ],
+      "places": [
+        "The Bus Depot"
+      ],
+      "objects": [
+        "the white tour bus",
+        "the pink rain poncho"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Bus Depot"
+      ],
+      "objects": [
+        "the white tour bus",
+        "the pink rain poncho"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Leo"
+      ],
+      "places": [
+        "The Bus Depot"
+      ],
+      "objects": [
+        "the white tour bus",
+        "the pink rain poncho",
+        "the red plastic poncho",
+        "the pink umbrella"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Kai"
+      ],
+      "places": [
+        "The Void"
+      ],
+      "objects": [
+        "the cast iron cauldron",
+        "the devil costume",
+        "the crimson haze"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Void"
+      ],
+      "objects": [
+        "the crimson haze"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Isabelle"
+      ],
+      "places": [
+        "The Void"
+      ],
+      "objects": [
+        "the crimson haze"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Wyatt",
+        "Marco"
+      ],
+      "places": [
+        "The Bus Depot"
+      ],
+      "objects": [
+        "the white tour bus",
+        "the pink rain poncho"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Silas",
+        "Leo",
+        "Isabelle"
+      ],
+      "places": [
+        "The Bus Depot"
+      ],
+      "objects": [
+        "the white tour bus",
+        "the red plastic poncho",
+        "the vintage sedan",
+        "the broken red umbrella"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Alex",
+        "Isabelle"
+      ],
+      "places": [
+        "The Bus Depot"
+      ],
+      "objects": [
+        "the white tour bus",
+        "the pink rain poncho"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Alex",
+        "Marco"
+      ],
+      "places": [
+        "The Bus Depot"
+      ],
+      "objects": [
+        "the white tour bus",
+        "the pink rain poncho",
+        "the wet cowboy hat"
+      ]
+    },
+    "4:5": {
+      "characters": [
+        "Marco",
+        "Leo",
+        "Isabelle"
+      ],
+      "places": [
+        "The Bus Depot"
+      ],
+      "objects": [
+        "the white tour bus",
+        "the pink rain poncho",
+        "the vintage sedan"
+      ]
+    },
+    "4:6": {
+      "characters": [
+        "Alex",
+        "Isabelle"
+      ],
+      "places": [
+        "The Bus Depot"
+      ],
+      "objects": [
+        "the white tour bus",
+        "the vintage sedan"
+      ]
+    },
+    "4:7": {
+      "characters": [
+        "Wyatt",
+        "Agnes"
+      ],
+      "places": [
+        "The Bus Depot"
+      ],
+      "objects": [
+        "the white tour bus"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Wyatt"
+      ],
+      "places": [
+        "The Orly Terminal"
+      ],
+      "objects": [
+        "the vintage cars"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Man wearing a red shirt and light-colored pants."
+    },
+    "Character 2": {
+      "name": "Chloe",
+      "label": "Character 2",
+      "description": "Woman with red hair wearing a pink and white striped jacket."
+    },
+    "Character 3": {
+      "name": "Silas",
+      "label": "Character 3",
+      "description": "Stylized line drawing of a man's face with a dark beard and wide eyes."
+    },
+    "Character 4": {
+      "name": "Kai",
+      "label": "Character 4",
+      "description": "Figure in dark clothing."
+    },
+    "Character 5": {
+      "name": "Wyatt",
+      "label": "Character 5",
+      "description": "Man with a blue and green patterned shirt, and a straw cowboy hat"
+    },
+    "Character 6": {
+      "name": "Agnes",
+      "label": "Character 6",
+      "description": "Older woman."
+    },
+    "Character 7": {
+      "name": "Isabelle",
+      "label": "Character 7",
+      "description": "Blonde woman wearing a translucent pink plastic rain poncho with a hood."
+    },
+    "Character 9": {
+      "name": "Alex",
+      "label": "Character 9",
+      "description": "A person whose face and body are completely concealed by a pink rain poncho with the hood up."
+    },
+    "Character 10": {
+      "name": "Damian",
+      "label": "Character 10",
+      "description": "Slender figure in a devil costume featuring a horned headdress and a horned mask."
+    },
+    "Character 11": {
+      "name": "Marco",
+      "label": "Character 11",
+      "description": "Man wearing a colorful patterned shirt and a straw visor."
+    },
+    "Location 1": {
+      "name": "The Void",
+      "label": "Location 1",
+      "description": "A solid black, featureless, non-descript space."
+    },
+    "Location 2": {
+      "name": "The Bus Depot",
+      "label": "Location 2",
+      "description": "Paved outdoor area with an adjacent bus."
+    },
+    "Location 3": {
+      "name": "The Tour Bus",
+      "label": "Location 3",
+      "description": "The interior of a tour bus."
+    },
+    "Location 4": {
+      "name": "The Orly Terminal",
+      "label": "Location 4",
+      "description": "Exterior of a large, mid-century modern airport terminal building with a prominent 'AEROPORT DE PARIS' sign, a sprawling parking lot filled with vintage 1960s cars, and an air traffic control tower."
+    },
+    "Object 1": {
+      "name": "the crimson haze",
+      "label": "Object 1",
+      "description": "Faint, dramatic, diffuse red glow with soft, blurry edges."
+    },
+    "Object 2": {
+      "name": "the white tour bus",
+      "label": "Object 2",
+      "description": "Large white tour bus with a single horizontal red stripe along its side."
+    },
+    "Object 3": {
+      "name": "the pink rain poncho",
+      "label": "Object 3",
+      "description": "Large, hooded pink rain poncho made of a slick, waterproof material"
+    },
+    "Object 4": {
+      "name": "the straw trilby hat",
+      "label": "Object 4",
+      "description": "A classic trilby-style hat made of tightly woven, light tan straw, featuring a short brim, a teardrop-shaped crown, and a wide, dark navy blue grosgrain ribbon band"
+    },
+    "Object 5": {
+      "name": "the red plastic poncho",
+      "label": "Object 5",
+      "description": "A bright red, poncho-style raincoat made of smooth, glossy plastic, featuring an attached hood and a wide, loose-fitting, draping cut."
+    },
+    "Object 6": {
+      "name": "the vintage sedan",
+      "label": "Object 6",
+      "description": "Vintage sedan with a classic, curved body design, prominent chrome bumpers, and a detailed front grille."
+    },
+    "Object 7": {
+      "name": "the devil costume",
+      "label": "Object 7",
+      "description": "A costume for a Horned Devil figure, consisting of a slender garment, a mask with horns, and a trident"
+    },
+    "Object 8": {
+      "name": "the pink umbrella",
+      "label": "Object 8",
+      "description": "A standard stick umbrella with a bright pink canopy, a slender metal shaft, and a pink plastic J-hook handle."
+    },
+    "Object 9": {
+      "name": "the wet cowboy hat",
+      "label": "Object 9",
+      "description": "Rain-soaked cowboy hat"
+    },
+    "Object 10": {
+      "name": "the cast iron cauldron",
+      "label": "Object 10",
+      "description": "Large, wide-mouthed black cast iron cauldron with a thick, reinforced rim and a soot-stained, rough surface."
+    },
+    "Object 11": {
+      "name": "the broken red umbrella",
+      "label": "Object 11",
+      "description": "A red umbrella with its canopy inverted, exposing its internal metal structure."
+    },
+    "Object 12": {
+      "name": "the vintage cars",
+      "label": "Object 12",
+      "description": "A collection of various 1960s-era automobiles, including sedans and coupes, in a range of colors, featuring rounded body styles with prominent chrome bumpers, grilles, and trim."
+    }
+  },
+  "_window_shot_ids": [
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0034",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0035",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0036",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0037",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0038",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0040",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0041",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0042",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0043",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0044",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0045",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0046",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0048",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0049",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run348__i0_j26__T300__shot0051"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 10": "Damian",
+    "Character 11": "Marco",
+    "Character 2": "Chloe",
+    "Character 3": "Silas",
+    "Character 4": "Kai",
+    "Character 5": "Wyatt",
+    "Character 6": "Agnes",
+    "Character 7": "Isabelle",
+    "Character 8": "Rowan",
+    "Character 9": "Alex",
+    "Location 1": "The Void",
+    "Location 2": "The Bus Depot",
+    "Location 3": "The Tour Bus",
+    "Location 4": "The Orly Terminal",
+    "Object 1": "the crimson haze",
+    "Object 10": "the cast iron cauldron",
+    "Object 11": "the broken red umbrella",
+    "Object 12": "the vintage cars",
+    "Object 2": "the white tour bus",
+    "Object 3": "the pink rain poncho",
+    "Object 4": "the straw trilby hat",
+    "Object 5": "the red plastic poncho",
+    "Object 6": "the vintage sedan",
+    "Object 7": "the devil costume",
+    "Object 8": "the pink umbrella",
+    "Object 9": "the wet cowboy hat"
+  }
+}

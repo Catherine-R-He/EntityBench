@@ -1,0 +1,353 @@
+{
+  "story_name": "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240",
+  "story_overview": "Arthur and his associate Silas investigate a mysterious house covered in handwritten wallpaper, observed by police officer Marcus. As they peel back the walls' layers, they make a surprising discovery. The investigation leads Arthur to the cordoned-off house at night, culminating in him crushing a cryptic note in a private study.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Arthur: Man in a formal black suit and white gloves.\nThe Manuscript Bathroom: Indoor bathroom with walls covered in handwritten wallpaper, a toilet, and a blue-tiled bathtub.\nthe handwritten wallpaper: Large sheet of white paper wallpaper covered with handwritten text.\n\nInside The Manuscript Bathroom, Arthur stands in the doorway and begins peeling the handwritten wallpaper from the wall."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Manuscript Bathroom, Arthur stands in the doorway and begins peeling the handwritten wallpaper from the wall."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Marcus: Man in a dark police officer's uniform with a matching hat.\nSilas: Man with glasses, wearing a bomber jacket over a white collared shirt with a dark tie, and white gloves.\nThe Manuscript Hallway: Indoor narrow hallway with walls covered in handwritten wallpaper.\n\nEye-level view in The Manuscript Hallway. Arthur carefully positions the handwritten wallpaper against the wall. Silas, wearing the white gloves, adjusts his glasses as he watches intently, while Marcus shifts his weight in a nearby doorway.",
+        "In the narrow, dimly lit The Manuscript Hallway, Silas, wearing white gloves, carefully maneuvers a large, rolled-up piece of the handwritten wallpaper. He props the roll against a wall, preparing to position it.",
+        "In The Manuscript Hallway, Silas, wearing the white gloves, carefully removes the framed photograph from the wall. Marcus stands nearby, observing the scene with a watchful gaze.",
+        "Close-up of Silas, wearing the white gloves, who looks forward with a serious expression. He raises his hand and points forward authoritatively.",
+        "Close-up in The Manuscript Hallway on Silas's hand in the white gloves as it carefully peels the handwritten wallpaper from the wall. Marcus stands nearby, watching intently.",
+        "Close-up on Silas, who looks down, a slight smile forming on his face.",
+        "Close-up in The Manuscript Hallway on Silas's hand, which is wearing white gloves. The hand peels back the handwritten wallpaper from the wall, revealing a different surface underneath.",
+        "Silas smirks as he speaks. Over his shoulder, Marcus's eyes widen in shock as he listens.",
+        "the silver flip phone: Silver-colored flip phone with a classic clamshell design, a small external display on the front, and a smooth metallic finish.\nthe tailored dark suit: A sharply tailored suit in a solid dark color, consisting of a jacket and matching trousers\nthe rimless eyeglasses: Rimless eyeglasses with rectangular lenses and thin, gunmetal-colored metallic arms\n\nClose-up of Silas, wearing the dark bomber jacket, the white gloves, and the rimless eyeglasses, raising the silver flip phone to his ear and speaking into it."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Eye-level view in The Manuscript Hallway. Arthur carefully positions the handwritten wallpaper against the wall. Silas, wearing the white gloves, adjusts his glasses as he watches intently, while Marcus shifts his weight in a nearby doorway.",
+        "In the narrow, dimly lit The Manuscript Hallway, Silas, wearing white gloves, carefully maneuvers a large, rolled-up piece of the handwritten wallpaper. He props the roll against a wall, preparing to position it.",
+        "In The Manuscript Hallway, Silas, wearing the white gloves, carefully removes the framed photograph from the wall. Marcus stands nearby, observing the scene with a watchful gaze.",
+        "Close-up of Silas, wearing the white gloves, who looks forward with a serious expression. He raises his hand and points forward authoritatively.",
+        "Close-up in The Manuscript Hallway on Silas's hand in the white gloves as it carefully peels the handwritten wallpaper from the wall. Marcus stands nearby, watching intently.",
+        "Close-up on Silas, who looks down, a slight smile forming on his face.",
+        "Close-up in The Manuscript Hallway on Silas's hand, which is wearing white gloves. The hand peels back the handwritten wallpaper from the wall, revealing a different surface underneath.",
+        "Silas smirks as he speaks. Over his shoulder, Marcus's eyes widen in shock as he listens.",
+        "Close-up of Silas, wearing the dark bomber jacket, the white gloves, and the rimless eyeglasses, raising the silver flip phone to his ear and speaking into it."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Cordoned House: The entrance of a house with front steps, cordoned off with yellow police tape.\nthe police tape: Bright yellow plastic tape with the words \"POLICE LINE DO NOT CROSS\" printed in bold black capital letters and repeated along its length.\nthe silver briefcase: An open, hard-shell briefcase with a silver-colored exterior.\n\nArthur walks towards the house carefully carrying the open silver briefcase, ducks under the police tape, and goes inside. On the front steps, Marcus stands guard, watching Arthur's approach. Silas watches from the sidewalk, with the roof of the parked car in the foreground."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Arthur walks towards the house carefully carrying the open silver briefcase, ducks under the police tape, and goes inside. On the front steps, Marcus stands guard, watching Arthur's approach. Silas watches from the sidewalk, with the roof of the parked car in the foreground."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Cole: Man wearing a dark jacket.\nThe Executive Study: A traditional, stately office with dark wood furnishings, featuring a large desk with a classic brass desk lamp.\nthe crumpled note: Large sheet of paper, heavily crumpled and creased all over.\n\nIn the dimly lit The Executive Study, Cole stands at a large desk and speaks while holding the crumpled note. Marcus stands nearby, watching him. Under the light from the desk lamp, Cole then forcefully crushes the crumpled note in his hand."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Executive Study, Cole stands at a large desk and speaks while holding the crumpled note. Marcus stands nearby, watching him. Under the light from the desk lamp, Cole then forcefully crushes the crumpled note in his hand."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Manuscript Bathroom"
+      ],
+      "objects": [
+        "the handwritten wallpaper"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Marcus",
+        "Silas",
+        "Arthur"
+      ],
+      "places": [
+        "The Manuscript Hallway"
+      ],
+      "objects": [
+        "the white gloves",
+        "the handwritten wallpaper"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Manuscript Hallway"
+      ],
+      "objects": [
+        "the handwritten wallpaper"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Silas",
+        "Marcus"
+      ],
+      "places": [
+        "The Manuscript Hallway"
+      ],
+      "objects": [
+        "the white gloves",
+        "the framed photograph",
+        "the handwritten wallpaper"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [],
+      "objects": [
+        "the white gloves"
+      ]
+    },
+    "2:5": {
+      "characters": [
+        "Silas",
+        "Marcus"
+      ],
+      "places": [
+        "The Manuscript Hallway"
+      ],
+      "objects": [
+        "the white gloves",
+        "the handwritten wallpaper"
+      ]
+    },
+    "2:6": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "2:7": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Manuscript Hallway"
+      ],
+      "objects": [
+        "the white gloves",
+        "the handwritten wallpaper"
+      ]
+    },
+    "2:8": {
+      "characters": [
+        "Silas",
+        "Marcus"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "2:9": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [],
+      "objects": [
+        "the rimless eyeglasses",
+        "the silver flip phone",
+        "the white gloves",
+        "the dark bomber jacket"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Silas",
+        "Marcus",
+        "Arthur"
+      ],
+      "places": [
+        "The Cordoned House"
+      ],
+      "objects": [
+        "the police tape",
+        "the silver briefcase",
+        "the parked car"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Marcus",
+        "Cole"
+      ],
+      "places": [
+        "The Executive Study"
+      ],
+      "objects": [
+        "the crumpled note"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Silas",
+      "label": "Character 1",
+      "description": "Man with glasses, wearing a bomber jacket over a white collared shirt with a dark tie, and white gloves."
+    },
+    "Character 2": {
+      "name": "Arthur",
+      "label": "Character 2",
+      "description": "Man in a formal black suit and white gloves."
+    },
+    "Character 4": {
+      "name": "Marcus",
+      "label": "Character 4",
+      "description": "Man in a dark police officer's uniform with a matching hat."
+    },
+    "Character 5": {
+      "name": "Cole",
+      "label": "Character 5",
+      "description": "Man wearing a dark jacket."
+    },
+    "Location 1": {
+      "name": "The Manuscript Bathroom",
+      "label": "Location 1",
+      "description": "Indoor bathroom with walls covered in handwritten wallpaper, a toilet, and a blue-tiled bathtub."
+    },
+    "Location 2": {
+      "name": "The Manuscript Hallway",
+      "label": "Location 2",
+      "description": "Indoor narrow hallway with walls covered in handwritten wallpaper."
+    },
+    "Location 3": {
+      "name": "The Cordoned House",
+      "label": "Location 3",
+      "description": "The entrance of a house with front steps, cordoned off with yellow police tape."
+    },
+    "Location 4": {
+      "name": "The Executive Study",
+      "label": "Location 4",
+      "description": "A traditional, stately office with dark wood furnishings, featuring a large desk with a classic brass desk lamp."
+    },
+    "Object 1": {
+      "name": "the handwritten wallpaper",
+      "label": "Object 1",
+      "description": "Large sheet of white paper wallpaper covered with handwritten text."
+    },
+    "Object 2": {
+      "name": "the white gloves",
+      "label": "Object 2",
+      "description": "A pair of plain, solid white gloves"
+    },
+    "Object 3": {
+      "name": "the framed photograph",
+      "label": "Object 3",
+      "description": "A picture enclosed in a border"
+    },
+    "Object 4": {
+      "name": "the rimless eyeglasses",
+      "label": "Object 4",
+      "description": "Rimless eyeglasses with rectangular lenses and thin, gunmetal-colored metallic arms"
+    },
+    "Object 5": {
+      "name": "the silver flip phone",
+      "label": "Object 5",
+      "description": "Silver-colored flip phone with a classic clamshell design, a small external display on the front, and a smooth metallic finish."
+    },
+    "Object 6": {
+      "name": "the dark bomber jacket",
+      "label": "Object 6",
+      "description": "Dark bomber jacket"
+    },
+    "Object 7": {
+      "name": "the tailored dark suit",
+      "label": "Object 7",
+      "description": "A sharply tailored suit in a solid dark color, consisting of a jacket and matching trousers"
+    },
+    "Object 8": {
+      "name": "the silver briefcase",
+      "label": "Object 8",
+      "description": "An open, hard-shell briefcase with a silver-colored exterior."
+    },
+    "Object 9": {
+      "name": "the police tape",
+      "label": "Object 9",
+      "description": "Bright yellow plastic tape with the words \"POLICE LINE DO NOT CROSS\" printed in bold black capital letters and repeated along its length."
+    },
+    "Object 10": {
+      "name": "the parked car",
+      "label": "Object 10",
+      "description": "A car of unspecified make, model, and color"
+    },
+    "Object 11": {
+      "name": "the crumpled note",
+      "label": "Object 11",
+      "description": "Large sheet of paper, heavily crumpled and creased all over."
+    }
+  },
+  "_window_shot_ids": [
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0007",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0008",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0009",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0010",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0012",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0013",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0014",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0015",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0016",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0017",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0018",
+    "0008e405-28f2-32a3-a538-d1d45e8d8bd5__run1028__i20_j39__T240__shot0019"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Silas",
+    "Character 2": "Arthur",
+    "Character 3": "Elias",
+    "Character 4": "Marcus",
+    "Character 5": "Cole",
+    "Location 1": "The Manuscript Bathroom",
+    "Location 2": "The Manuscript Hallway",
+    "Location 3": "The Cordoned House",
+    "Location 4": "The Executive Study",
+    "Object 1": "the handwritten wallpaper",
+    "Object 10": "the parked car",
+    "Object 11": "the crumpled note",
+    "Object 2": "the white gloves",
+    "Object 3": "the framed photograph",
+    "Object 4": "the rimless eyeglasses",
+    "Object 5": "the silver flip phone",
+    "Object 6": "the dark bomber jacket",
+    "Object 7": "the tailored dark suit",
+    "Object 8": "the silver briefcase",
+    "Object 9": "the police tape"
+  }
+}

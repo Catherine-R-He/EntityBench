@@ -1,0 +1,335 @@
+{
+  "story_name": "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180",
+  "story_overview": "Host Marcus interviews several guests on his talk show, '#BrokenSkullSessions.' The conversations with Omar, Vince, and Leo are animated and cover a range of emotions, from serious discussion to hearty laughter. The show also features an archival video clip of Vince and Gideon.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Vince: Bald man with a goatee wearing a short-sleeved maroon t-shirt.\nMarcus: Bald man with a muscular build and a full, dark, neatly-trimmed beard and mustache, wearing a short-sleeved blue t-shirt with a small white logo on the chest.\nThe Dark Room: Dark, featureless indoor setting with no discernible architecture, furniture, or decor.\nthe show title graphic: On-screen graphic overlay of the show title text '#BrokenSkullSessions'.\n\nClose-up shot of Marcus and Vince in The Dark Room, with the show title graphic on screen. Both men stare directly forward, their mouths dropping open in shock and amazement."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot of Marcus and Vince in The Dark Room, with the show title graphic on screen. Both men stare directly forward, their mouths dropping open in shock and amazement."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Omar: Bald man with a thick, dark, curly beard, wearing a dark T-shirt.\nLeo: Bald man wearing a plain red short-sleeved t-shirt.\nAn Outdoor Area: An outdoor location.\nLow-angle extreme close-up in An Outdoor Area. Leo and Omar lean forward, looking down curiously into the camera as the show title graphic appears on screen. Leo then raises his hand and covers the lens."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle extreme close-up in An Outdoor Area. Leo and Omar lean forward, looking down curiously into the camera as the show title graphic appears on screen. Leo then raises his hand and covers the lens."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Breakfast Table: A breakfast table set with a box of Post Honey-Comb cereal, a bowl filled with honeycomb-shaped cereal, a glass of juice, a glass of milk, and a slice of toast.\nthe bowl of honeycomb cereal: A full bowl of golden-yellow, honeycomb-shaped puffed cereal pieces in white milk.\nthe glass of milk: Simple, straight-sided clear glass tumbler full of opaque white milk.\nthe glass of orange juice: A clear glass tumbler full of orange juice.\nthe slice of toast: Single square slice of white bread toasted to a light golden brown with a porous texture.\n\nThe camera slowly pans across a bright and appetizing breakfast laid out on The Breakfast Table, showing a box of Post Honey-Comb cereal, the bowl of honeycomb cereal, the glass of orange juice, the glass of milk, and the slice of toast."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "The camera slowly pans across a bright and appetizing breakfast laid out on The Breakfast Table, showing a box of Post Honey-Comb cereal, the bowl of honeycomb cereal, the glass of orange juice, the glass of milk, and the slice of toast."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Gideon: Bald man with a long grey beard, wearing a blue polo shirt.\nThe Talk Show Studio: Indoor talk show set featuring a brick wall, a large grey desk, a large set screen displaying a logo, and two wrestling championship belts mounted on the wall.\nIn The Talk Show Studio, Omar and Leo sit at a large desk, engaged in an animated conversation under the show title graphic. On the large screen behind them, a grainy archival video clip plays, showing Vince and Gideon.",
+        "the vintage Texaco sign: Circular red sign featuring a large white star with a green capital 'T' at its center, and the word 'TEXACO' in black block letters above it.\n\nInside The Talk Show Studio, Vince speaks seriously, gesturing with his hands as he sits at a desk. Leo and Marcus sit across from him with their backs to the camera, listening intently. In the background, the vintage Texaco sign hangs on the brick wall.",
+        "the wrestling championship belts: Two decorative wrestling championship belts, each with a large, ornate, gold-colored central plate and smaller matching side plates, mounted on a wide black leather strap.\n\nLeo, sitting at the desk, turns his head from off-camera toward Vince and smiles warmly. Vince, sitting across from him, nods slightly in response, with the wrestling championship belts displayed on the wall behind them. The show title graphic appears in the top corner of the frame.",
+        "Medium close-up of Marcus and Omar sitting across from each other in The Talk Show Studio. Marcus speaks with a serious expression while Omar listens intently. In the background, the wrestling championship belts and the vintage Texaco sign hang on the brick wall, and the show title graphic is overlaid on screen.",
+        "Medium close-up of Omar inside The Talk Show Studio. He talks for a moment and then laughs heartily. In the background, the vintage Texaco sign and the wrestling championship belts are on the wall. The show title graphic is at the bottom of the frame.",
+        "Medium close-up shot of Vince speaking animatedly in The Talk Show Studio, with the show title graphic on screen. In the background, the wrestling championship belts are on the brick wall.",
+        "Over-the-shoulder shot of Omar sitting at a desk in The Talk Show Studio and sipping from a mug. Vince and Leo sit opposite him, occasionally nodding as they listen. In the background, the wrestling championship belts hang on the brick wall.",
+        "Over-the-shoulder shot from behind Marcus, who sits at a desk in The Talk Show Studio. Across the desk, Omar and Leo sit with somber expressions. Omar nods slowly as he listens, while Leo shifts his weight slightly, both listening intently. the vintage Texaco sign hangs on the brick wall in the background."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Talk Show Studio, Omar and Leo sit at a large desk, engaged in an animated conversation under the show title graphic. On the large screen behind them, a grainy archival video clip plays, showing Vince and Gideon.",
+        "Inside The Talk Show Studio, Vince speaks seriously, gesturing with his hands as he sits at a desk. Leo and Marcus sit across from him with their backs to the camera, listening intently. In the background, the vintage Texaco sign hangs on the brick wall.",
+        "Leo, sitting at the desk, turns his head from off-camera toward Vince and smiles warmly. Vince, sitting across from him, nods slightly in response, with the wrestling championship belts displayed on the wall behind them. The show title graphic appears in the top corner of the frame.",
+        "Medium close-up of Marcus and Omar sitting across from each other in The Talk Show Studio. Marcus speaks with a serious expression while Omar listens intently. In the background, the wrestling championship belts and the vintage Texaco sign hang on the brick wall, and the show title graphic is overlaid on screen.",
+        "Medium close-up of Omar inside The Talk Show Studio. He talks for a moment and then laughs heartily. In the background, the vintage Texaco sign and the wrestling championship belts are on the wall. The show title graphic is at the bottom of the frame.",
+        "Medium close-up shot of Vince speaking animatedly in The Talk Show Studio, with the show title graphic on screen. In the background, the wrestling championship belts are on the brick wall.",
+        "Over-the-shoulder shot of Omar sitting at a desk in The Talk Show Studio and sipping from a mug. Vince and Leo sit opposite him, occasionally nodding as they listen. In the background, the wrestling championship belts hang on the brick wall.",
+        "Over-the-shoulder shot from behind Marcus, who sits at a desk in The Talk Show Studio. Across the desk, Omar and Leo sit with somber expressions. Omar nods slowly as he listens, while Leo shifts his weight slightly, both listening intently. the vintage Texaco sign hangs on the brick wall in the background."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Vince",
+        "Marcus"
+      ],
+      "places": [
+        "The Dark Room"
+      ],
+      "objects": [
+        "the show title graphic"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Omar",
+        "Leo"
+      ],
+      "places": [
+        "An Outdoor Area"
+      ],
+      "objects": [
+        "the show title graphic"
+      ]
+    },
+    "3:1": {
+      "characters": [],
+      "places": [
+        "The Breakfast Table"
+      ],
+      "objects": [
+        "the bowl of honeycomb cereal",
+        "the glass of milk",
+        "the glass of orange juice",
+        "the slice of toast",
+        "a box of Post Honey-Comb cereal"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Omar",
+        "Leo",
+        "Vince",
+        "Gideon"
+      ],
+      "places": [
+        "The Talk Show Studio"
+      ],
+      "objects": [
+        "the show title graphic"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Marcus",
+        "Vince",
+        "Leo"
+      ],
+      "places": [
+        "The Talk Show Studio"
+      ],
+      "objects": [
+        "the vintage Texaco sign"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Vince",
+        "Leo"
+      ],
+      "places": [
+        "The Talk Show Studio"
+      ],
+      "objects": [
+        "the show title graphic",
+        "the wrestling championship belts"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Omar",
+        "Marcus"
+      ],
+      "places": [
+        "The Talk Show Studio"
+      ],
+      "objects": [
+        "the wrestling championship belts",
+        "the vintage Texaco sign",
+        "the show title graphic"
+      ]
+    },
+    "4:5": {
+      "characters": [
+        "Omar"
+      ],
+      "places": [
+        "The Talk Show Studio"
+      ],
+      "objects": [
+        "the wrestling championship belts",
+        "the vintage Texaco sign",
+        "the show title graphic"
+      ]
+    },
+    "4:6": {
+      "characters": [
+        "Vince"
+      ],
+      "places": [
+        "The Talk Show Studio"
+      ],
+      "objects": [
+        "the wrestling championship belts",
+        "the show title graphic"
+      ]
+    },
+    "4:7": {
+      "characters": [
+        "Omar",
+        "Vince",
+        "Leo"
+      ],
+      "places": [
+        "The Talk Show Studio"
+      ],
+      "objects": [
+        "the wrestling championship belts"
+      ]
+    },
+    "4:8": {
+      "characters": [
+        "Omar",
+        "Leo",
+        "Marcus"
+      ],
+      "places": [
+        "The Talk Show Studio"
+      ],
+      "objects": [
+        "the vintage Texaco sign"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Marcus",
+      "label": "Character 1",
+      "description": "Bald man with a muscular build and a full, dark, neatly-trimmed beard and mustache, wearing a short-sleeved blue t-shirt with a small white logo on the chest."
+    },
+    "Character 2": {
+      "name": "Leo",
+      "label": "Character 2",
+      "description": "Bald man wearing a plain red short-sleeved t-shirt."
+    },
+    "Character 3": {
+      "name": "Gideon",
+      "label": "Character 3",
+      "description": "Bald man with a long grey beard, wearing a blue polo shirt."
+    },
+    "Character 4": {
+      "name": "Omar",
+      "label": "Character 4",
+      "description": "Bald man with a thick, dark, curly beard, wearing a dark T-shirt."
+    },
+    "Character 5": {
+      "name": "Vince",
+      "label": "Character 5",
+      "description": "Bald man with a goatee wearing a short-sleeved maroon t-shirt."
+    },
+    "Location 1": {
+      "name": "The Talk Show Studio",
+      "label": "Location 1",
+      "description": "Indoor talk show set featuring a brick wall, a large grey desk, a large set screen displaying a logo, and two wrestling championship belts mounted on the wall."
+    },
+    "Location 2": {
+      "name": "The Dark Room",
+      "label": "Location 2",
+      "description": "Dark, featureless indoor setting with no discernible architecture, furniture, or decor."
+    },
+    "Location 3": {
+      "name": "An Outdoor Area",
+      "label": "Location 3",
+      "description": "An outdoor location."
+    },
+    "Location 4": {
+      "name": "The Breakfast Table",
+      "label": "Location 4",
+      "description": "A breakfast table set with a box of Post Honey-Comb cereal, a bowl filled with honeycomb-shaped cereal, a glass of juice, a glass of milk, and a slice of toast."
+    },
+    "Object 1": {
+      "name": "the wrestling championship belts",
+      "label": "Object 1",
+      "description": "Two decorative wrestling championship belts, each with a large, ornate, gold-colored central plate and smaller matching side plates, mounted on a wide black leather strap."
+    },
+    "Object 2": {
+      "name": "the vintage Texaco sign",
+      "label": "Object 2",
+      "description": "Circular red sign featuring a large white star with a green capital 'T' at its center, and the word 'TEXACO' in black block letters above it."
+    },
+    "Object 3": {
+      "name": "the show title graphic",
+      "label": "Object 3",
+      "description": "On-screen graphic overlay of the show title text '#BrokenSkullSessions'."
+    },
+    "Object 4": {
+      "name": "the bowl of honeycomb cereal",
+      "label": "Object 4",
+      "description": "A full bowl of golden-yellow, honeycomb-shaped puffed cereal pieces in white milk."
+    },
+    "Object 5": {
+      "name": "the glass of orange juice",
+      "label": "Object 5",
+      "description": "A clear glass tumbler full of orange juice."
+    },
+    "Object 6": {
+      "name": "the glass of milk",
+      "label": "Object 6",
+      "description": "Simple, straight-sided clear glass tumbler full of opaque white milk."
+    },
+    "Object 7": {
+      "name": "the slice of toast",
+      "label": "Object 7",
+      "description": "Single square slice of white bread toasted to a light golden brown with a porous texture."
+    }
+  },
+  "_window_shot_ids": [
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0023",
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0024",
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0025",
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0026",
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0027",
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0028",
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0029",
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0030",
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0031",
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0032",
+    "000b08e1-589d-353e-8421-5337a3abc2d1__run1285__i30_j45__T180__shot0033"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Marcus",
+    "Character 2": "Leo",
+    "Character 3": "Gideon",
+    "Character 4": "Omar",
+    "Character 5": "Vince",
+    "Character 6": "Damian",
+    "Location 1": "The Talk Show Studio",
+    "Location 2": "The Dark Room",
+    "Location 3": "An Outdoor Area",
+    "Location 4": "The Breakfast Table",
+    "Object 1": "the wrestling championship belts",
+    "Object 2": "the vintage Texaco sign",
+    "Object 3": "the show title graphic",
+    "Object 4": "the bowl of honeycomb cereal",
+    "Object 5": "the glass of orange juice",
+    "Object 6": "the glass of milk",
+    "Object 7": "the slice of toast"
+  }
+}

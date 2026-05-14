@@ -1,0 +1,544 @@
+{
+  "story_name": "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180",
+  "story_overview": "Amidst a tense, chess-themed gathering, Leo navigates a web of intrigue involving Julian, Isabelle, and others. The tension escalates as Clara is forcibly escorted away by Leo and Hector. The story culminates in a series of emotional embraces between a relieved Leo and Isabelle.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Leo: Man with short brown hair and a beard, wearing a grey suit jacket over a white collared shirt.\nJulian: Man with long dark hair wearing a dark, fitted vest over a white long-sleeved collared shirt.\nThe Checkmate Hall: Indoor event space featuring chess-themed decorations and a desaturated color palette.\nthe chess piece silhouettes: Large, black, two-dimensional decorative silhouettes shaped like chess pieces.\n\nJulian, arms crossed, turns his head to look intently to the side. Beside him in front of the chess piece silhouettes, Leo takes a slow breath, his eyes closed in deep concentration."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Julian, arms crossed, turns his head to look intently to the side. Beside him in front of the chess piece silhouettes, Leo takes a slow breath, his eyes closed in deep concentration."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Isabelle: Young woman with blonde hair pulled back under a large striped hat, wearing a light-colored collared shirt.\n\nClose-up on Isabelle in the desaturated, shadowy The Checkmate Hall. With a serious expression, Isabelle slowly looks down. The featureless dark hat moves into the frame from the right, partially obscuring her face.",
+        "Conrad: Man with a concerned expression, wearing a white fedora, a suit, and a tie.\nClara: Woman with blonde hair and bangs wearing a dark gray shirt.\nthe black chess bishop: Polished dark black chess bishop with a smooth surface and a characteristic diagonal slit cut into its rounded top.\nthe analog chess clock: Rectangular analog chess clock in a polished dark wood housing, featuring two large circular faces with white backgrounds, black numerals, and small red flag indicators, topped with two black plunger-style buttons.\nthe wooden chessboard table: Wooden table with a polished, inlaid chessboard surface featuring a grid of alternating black and white squares.\nthe inlaid chess table: Dark, polished wood chess table with an inlaid board of alternating dark and light squares, featuring a complete set of stylized black and white chess pieces.\n\nClose-up in The Checkmate Hall, focusing on the inlaid chess table. Conrad's hand moves the black chess bishop across the board. After releasing the piece, he firmly presses a button on the adjacent analog chess clock as Clara watches the game intently."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on Isabelle in the desaturated, shadowy The Checkmate Hall. With a serious expression, Isabelle slowly looks down. The featureless dark hat moves into the frame from the right, partially obscuring her face.",
+        "Close-up in The Checkmate Hall, focusing on the inlaid chess table. Conrad's hand moves the black chess bishop across the board. After releasing the piece, he firmly presses a button on the adjacent analog chess clock as Clara watches the game intently."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Marcus: Man wearing a grey suit, a white shirt, and a dark hat with a white stripe.\nThe Surrealist Plaza: An outdoor environment with highly stylized, non-naturalistic architectural elements and design.\n\nClose-up on Leo's face in The Surrealist Plaza. He keeps his eyes closed for a moment in concentration, then slowly opens them, revealing a somber and determined gaze. Marcus, wearing the dark grey suit, stands nearby, subtly shifting his weight."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Leo's face in The Surrealist Plaza. He keeps his eyes closed for a moment in concentration, then slowly opens them, revealing a somber and determined gaze. Marcus, wearing the dark grey suit, stands nearby, subtly shifting his weight."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Silas: Man wearing a dark fedora.\nRoman: Man wearing a white shirt and a dark blue fedora.\n\nIn The Checkmate Hall, Silas sits opposite Roman at the inlaid chess table in the middle of a chess game. The two players lock eyes in an intense stare for a moment before Silas slowly leans forward, his gaze dropping to the chessboard.",
+        "the cream blazer: Woman's light-colored, tailored blazer-style jacket, possibly cream or off-white, with notched lapels and a single-button front closure.\n\nA close-up shot of Isabelle sitting in The Checkmate Hall. She wears the cream blazer, and her expression grows concerned as she listens intently."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The Checkmate Hall, Silas sits opposite Roman at the inlaid chess table in the middle of a chess game. The two players lock eyes in an intense stare for a moment before Silas slowly leans forward, his gaze dropping to the chessboard.",
+        "A close-up shot of Isabelle sitting in The Checkmate Hall. She wears the cream blazer, and her expression grows concerned as she listens intently."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Hector: Large, broad-shouldered man with a thick, dark beard, wearing a dark-colored monochrome suit.\nThe Verdant Corridor: An office complex hallway with walls decorated with potted plants and framed pictures.\nthe security earpiece: Black security earpiece with a clear, coiled acoustic tube and a thin black wire.\nthe grayscale potted plants: Leafy plants with broad foliage in shades of grey, housed in simple, dark-colored cylindrical pots.\nthe black-and-white photos: Framed pictures with black-and-white images.\nNora: Woman\n\nIn the hallway of The Verdant Corridor, Clara struggles as she is forcibly escorted by Leo, Hector, and Nora. Leo grips one of her arms while touching his security earpiece, and Hector holds her other arm as they move down the hall, past the black-and-white photos and the grayscale potted plants.",
+        "the reinforced office door: Heavy, solid-core office door with a dark wood veneer finish, a small, vertical, rectangular window of wire-reinforced glass, and a brushed steel lever handle.\n\nIn the hallway of The Verdant Corridor, Hector and Leo forcibly escort a distressed Clara, each holding one of her arms. As they walk toward the reinforced office door, Leo speaks into the security earpiece. Nora walks beside the group, her expression concerned.",
+        "In The Verdant Corridor, Silas, Isabelle, and Roman stand near a hook on the wall where the charcoal woman's suit hangs. They look at the suit and murmur to each other.",
+        "the plaid blouse: Woman's long-sleeved, collared, button-front shirt with a woven plaid pattern, worn under a cardigan.\n\nBlack and white medium shot. Leo and Isabelle stand together in the dimly lit hallway of The Verdant Corridor. Isabelle, wearing the cream-colored blouse and the open-front cardigan, looks just off-camera, her expression changing from a warm smile to a wide, happy grin."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In the hallway of The Verdant Corridor, Clara struggles as she is forcibly escorted by Leo, Hector, and Nora. Leo grips one of her arms while touching his security earpiece, and Hector holds her other arm as they move down the hall, past the black-and-white photos and the grayscale potted plants.",
+        "In the hallway of The Verdant Corridor, Hector and Leo forcibly escort a distressed Clara, each holding one of her arms. As they walk toward the reinforced office door, Leo speaks into the security earpiece. Nora walks beside the group, her expression concerned.",
+        "In The Verdant Corridor, Silas, Isabelle, and Roman stand near a hook on the wall where the charcoal woman's suit hangs. They look at the suit and murmur to each other.",
+        "Black and white medium shot. Leo and Isabelle stand together in the dimly lit hallway of The Verdant Corridor. Isabelle, wearing the cream-colored blouse and the open-front cardigan, looks just off-camera, her expression changing from a warm smile to a wide, happy grin."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Black and white. Inside the dimly lit The Checkmate Hall, Leo and Nora sway gently while locked in a tight embrace. Leo has a contented smile on his face. Nora's back is to the camera.",
+        "the black spotlight: Cylindrical spotlight with a matte black metal housing, a large circular glass lens, and an articulated mounting bracket.\n\nBlack and white, close-up shot. In The Checkmate Hall, Roman, seen in profile under the black spotlight, cries with a relieved expression as he holds Isabelle in a tight, emotional embrace. Isabelle's back is to the camera, her face hidden as he holds her.",
+        "With a somber expression, Leo, wearing the dark grey suit over the high-necked white shirt, tightly hugs Nora, whose back is to the camera. Hector stands in the background, observing them."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Black and white. Inside the dimly lit The Checkmate Hall, Leo and Nora sway gently while locked in a tight embrace. Leo has a contented smile on his face. Nora's back is to the camera.",
+        "Black and white, close-up shot. In The Checkmate Hall, Roman, seen in profile under the black spotlight, cries with a relieved expression as he holds Isabelle in a tight, emotional embrace. Isabelle's back is to the camera, her face hidden as he holds her.",
+        "With a somber expression, Leo, wearing the dark grey suit over the high-necked white shirt, tightly hugs Nora, whose back is to the camera. Hector stands in the background, observing them."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Modern Terrace: An outdoor patio/courtyard defined by modern architecture and featuring surrounding greenery.\n\nClose-up on the face of Leo, wearing the high-necked white shirt, in The Modern Terrace. He has a somber, contemplative expression and blinks slowly. The surrounding greenery is softly blurred behind him in the daylight.",
+        "Eye-level close-up of Leo, wearing the white collared shirt, talking while standing in the sunlit The Modern Terrace. Silas looks on from the background behind him, softly blurred."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on the face of Leo, wearing the high-necked white shirt, in The Modern Terrace. He has a somber, contemplative expression and blinks slowly. The surrounding greenery is softly blurred behind him in the daylight.",
+        "Eye-level close-up of Leo, wearing the white collared shirt, talking while standing in the sunlit The Modern Terrace. Silas looks on from the background behind him, softly blurred."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Leo",
+        "Julian"
+      ],
+      "places": [
+        "The Checkmate Hall"
+      ],
+      "objects": [
+        "the dark formal vest",
+        "the dark grey suit",
+        "the chess piece silhouettes"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Isabelle"
+      ],
+      "places": [
+        "The Checkmate Hall"
+      ],
+      "objects": [
+        "the featureless dark hat"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Conrad",
+        "Clara"
+      ],
+      "places": [
+        "The Checkmate Hall"
+      ],
+      "objects": [
+        "the black chess bishop",
+        "the analog chess clock",
+        "the inlaid chess table"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leo",
+        "Marcus"
+      ],
+      "places": [
+        "The Surrealist Plaza"
+      ],
+      "objects": [
+        "the dark grey suit"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Silas",
+        "Roman"
+      ],
+      "places": [
+        "The Checkmate Hall"
+      ],
+      "objects": [
+        "the inlaid chess table"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Isabelle"
+      ],
+      "places": [
+        "The Checkmate Hall"
+      ],
+      "objects": [
+        "the cream blazer"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Leo",
+        "Clara",
+        "Nora",
+        "Hector"
+      ],
+      "places": [
+        "The Verdant Corridor"
+      ],
+      "objects": [
+        "the security earpiece",
+        "the grayscale potted plants",
+        "the black-and-white photos"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Leo",
+        "Clara",
+        "Hector",
+        "Nora"
+      ],
+      "places": [
+        "The Verdant Corridor"
+      ],
+      "objects": [
+        "the security earpiece",
+        "the reinforced office door"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Silas",
+        "Isabelle",
+        "Roman"
+      ],
+      "places": [
+        "The Verdant Corridor"
+      ],
+      "objects": [
+        "the charcoal woman's suit"
+      ]
+    },
+    "5:4": {
+      "characters": [
+        "Leo",
+        "Isabelle"
+      ],
+      "places": [
+        "The Verdant Corridor"
+      ],
+      "objects": [
+        "the open-front cardigan"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Leo",
+        "Nora"
+      ],
+      "places": [
+        "The Checkmate Hall"
+      ],
+      "objects": []
+    },
+    "6:2": {
+      "characters": [
+        "Isabelle",
+        "Roman"
+      ],
+      "places": [
+        "The Checkmate Hall"
+      ],
+      "objects": [
+        "the black spotlight"
+      ]
+    },
+    "6:3": {
+      "characters": [
+        "Leo",
+        "Hector",
+        "Nora"
+      ],
+      "places": [
+        "The Checkmate Hall"
+      ],
+      "objects": [
+        "the high-necked white shirt",
+        "the dark grey suit"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Modern Terrace"
+      ],
+      "objects": [
+        "the high-necked white shirt"
+      ]
+    },
+    "7:2": {
+      "characters": [
+        "Leo",
+        "Silas"
+      ],
+      "places": [
+        "The Modern Terrace"
+      ],
+      "objects": [
+        "the white collared shirt"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Man with short brown hair and a beard, wearing a grey suit jacket over a white collared shirt."
+    },
+    "Character 2": {
+      "name": "Silas",
+      "label": "Character 2",
+      "description": "Man wearing a dark fedora."
+    },
+    "Character 3": {
+      "name": "Julian",
+      "label": "Character 3",
+      "description": "Man with long dark hair wearing a dark, fitted vest over a white long-sleeved collared shirt."
+    },
+    "Character 4": {
+      "name": "Isabelle",
+      "label": "Character 4",
+      "description": "Young woman with blonde hair pulled back under a large striped hat, wearing a light-colored collared shirt."
+    },
+    "Character 5": {
+      "name": "Conrad",
+      "label": "Character 5",
+      "description": "Man with a concerned expression, wearing a white fedora, a suit, and a tie."
+    },
+    "Character 6": {
+      "name": "Hector",
+      "label": "Character 6",
+      "description": "Large, broad-shouldered man with a thick, dark beard, wearing a dark-colored monochrome suit."
+    },
+    "Character 7": {
+      "name": "Clara",
+      "label": "Character 7",
+      "description": "Woman with blonde hair and bangs wearing a dark gray shirt."
+    },
+    "Character 8": {
+      "name": "Marcus",
+      "label": "Character 8",
+      "description": "Man wearing a grey suit, a white shirt, and a dark hat with a white stripe."
+    },
+    "Character 9": {
+      "name": "Roman",
+      "label": "Character 9",
+      "description": "Man wearing a white shirt and a dark blue fedora."
+    },
+    "Character 10": {
+      "name": "Nora",
+      "label": "Character 10",
+      "description": "Woman"
+    },
+    "Location 1": {
+      "name": "The Surrealist Plaza",
+      "label": "Location 1",
+      "description": "An outdoor environment with highly stylized, non-naturalistic architectural elements and design."
+    },
+    "Location 2": {
+      "name": "The Checkmate Hall",
+      "label": "Location 2",
+      "description": "Indoor event space featuring chess-themed decorations and a desaturated color palette."
+    },
+    "Location 3": {
+      "name": "The Verdant Corridor",
+      "label": "Location 3",
+      "description": "An office complex hallway with walls decorated with potted plants and framed pictures."
+    },
+    "Location 4": {
+      "name": "The Modern Terrace",
+      "label": "Location 4",
+      "description": "An outdoor patio/courtyard defined by modern architecture and featuring surrounding greenery."
+    },
+    "Object 1": {
+      "name": "the dark grey suit",
+      "label": "Object 1",
+      "description": "A dark grey suit consisting of a single-breasted jacket with notched lapels and matching tailored trousers"
+    },
+    "Object 2": {
+      "name": "the inlaid chess table",
+      "label": "Object 2",
+      "description": "Dark, polished wood chess table with an inlaid board of alternating dark and light squares, featuring a complete set of stylized black and white chess pieces."
+    },
+    "Object 3": {
+      "name": "the black chess bishop",
+      "label": "Object 3",
+      "description": "Polished dark black chess bishop with a smooth surface and a characteristic diagonal slit cut into its rounded top."
+    },
+    "Object 4": {
+      "name": "the high-necked white shirt",
+      "label": "Object 4",
+      "description": "White, high-necked collared shirt"
+    },
+    "Object 5": {
+      "name": "the dark formal vest",
+      "label": "Object 5",
+      "description": "Dark, button-front man's vest worn over a long-sleeved white collared shirt"
+    },
+    "Object 6": {
+      "name": "the chess piece silhouettes",
+      "label": "Object 6",
+      "description": "Large, black, two-dimensional decorative silhouettes shaped like chess pieces."
+    },
+    "Object 7": {
+      "name": "the featureless dark hat",
+      "label": "Object 7",
+      "description": "A dark, featureless hat of an indeterminate style"
+    },
+    "Object 8": {
+      "name": "the analog chess clock",
+      "label": "Object 8",
+      "description": "Rectangular analog chess clock in a polished dark wood housing, featuring two large circular faces with white backgrounds, black numerals, and small red flag indicators, topped with two black plunger-style buttons."
+    },
+    "Object 9": {
+      "name": "the wooden chessboard table",
+      "label": "Object 9",
+      "description": "Wooden table with a polished, inlaid chessboard surface featuring a grid of alternating black and white squares"
+    },
+    "Object 10": {
+      "name": "the blue and white fedora",
+      "label": "Object 10",
+      "description": "Dark blue fedora with a wide, white band around the base of the crown"
+    },
+    "Object 11": {
+      "name": "the white collared shirt",
+      "label": "Object 11",
+      "description": "White collared shirt"
+    },
+    "Object 12": {
+      "name": "the cream blazer",
+      "label": "Object 12",
+      "description": "Woman's light-colored, tailored blazer-style jacket, possibly cream or off-white, with notched lapels and a single-button front closure."
+    },
+    "Object 13": {
+      "name": "the security earpiece",
+      "label": "Object 13",
+      "description": "Black security earpiece with a clear, coiled acoustic tube and a thin black wire."
+    },
+    "Object 14": {
+      "name": "the monochrome suits",
+      "label": "Object 14",
+      "description": "Dark-colored men's suits, appearing monochrome, each consisting of a suit jacket and matching trousers"
+    },
+    "Object 15": {
+      "name": "the black-and-white photos",
+      "label": "Object 15",
+      "description": "Framed pictures with black-and-white images."
+    },
+    "Object 16": {
+      "name": "the grayscale potted plants",
+      "label": "Object 16",
+      "description": "Leafy plants with broad foliage in shades of grey, housed in simple, dark-colored cylindrical pots."
+    },
+    "Object 17": {
+      "name": "the reinforced office door",
+      "label": "Object 17",
+      "description": "Heavy, solid-core office door with a dark wood veneer finish, a small, vertical, rectangular window of wire-reinforced glass, and a brushed steel lever handle."
+    },
+    "Object 18": {
+      "name": "the charcoal woman's suit",
+      "label": "Object 18",
+      "description": "Dark, sharply tailored woman's suit made of a smooth, matte fabric in a charcoal gray color, consisting of a single-breasted blazer with structured shoulders and notched lapels, paired with matching trousers, and a high-collared, light gray blouse visible at the neck"
+    },
+    "Object 19": {
+      "name": "the plaid blouse",
+      "label": "Object 19",
+      "description": "Woman's long-sleeved, collared, button-front shirt with a woven plaid pattern, worn under a cardigan"
+    },
+    "Object 20": {
+      "name": "the open-front cardigan",
+      "label": "Object 20",
+      "description": "Open-front cardigan sweater"
+    },
+    "Object 21": {
+      "name": "the dark suit",
+      "label": "Object 21",
+      "description": "Dark-colored suit jacket with matching trousers"
+    },
+    "Object 22": {
+      "name": "the black spotlight",
+      "label": "Object 22",
+      "description": "Cylindrical spotlight with a matte black metal housing, a large circular glass lens, and an articulated mounting bracket."
+    }
+  },
+  "_window_shot_ids": [
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0007",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0008",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0009",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0010",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0011",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0012",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0013",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0014",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0015",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0016",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0017",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0018",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0019",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0020",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run368__i40_j54__T180__shot0021"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 10": "Nora",
+    "Character 2": "Silas",
+    "Character 3": "Julian",
+    "Character 4": "Isabelle",
+    "Character 5": "Conrad",
+    "Character 6": "Hector",
+    "Character 7": "Clara",
+    "Character 8": "Marcus",
+    "Character 9": "Roman",
+    "Location 1": "The Surrealist Plaza",
+    "Location 2": "The Checkmate Hall",
+    "Location 3": "The Verdant Corridor",
+    "Location 4": "The Modern Terrace",
+    "Object 1": "the dark grey suit",
+    "Object 10": "the blue and white fedora",
+    "Object 11": "the white collared shirt",
+    "Object 12": "the cream blazer",
+    "Object 13": "the security earpiece",
+    "Object 14": "the monochrome suits",
+    "Object 15": "the black-and-white photos",
+    "Object 16": "the grayscale potted plants",
+    "Object 17": "the reinforced office door",
+    "Object 18": "the charcoal woman's suit",
+    "Object 19": "the plaid blouse",
+    "Object 2": "the inlaid chess table",
+    "Object 20": "the open-front cardigan",
+    "Object 21": "the dark suit",
+    "Object 22": "the black spotlight",
+    "Object 3": "the black chess bishop",
+    "Object 4": "the high-necked white shirt",
+    "Object 5": "the dark formal vest",
+    "Object 6": "the chess piece silhouettes",
+    "Object 7": "the featureless dark hat",
+    "Object 8": "the analog chess clock",
+    "Object 9": "the wooden chessboard table"
+  }
+}

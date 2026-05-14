@@ -1,0 +1,345 @@
+{
+  "story_name": "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420",
+  "story_overview": "From a military encampment, Seo-jun arrives at the Royal Courtyard and formally greets Hae-won. Tense conversations unfold within the palace between Seo-jun, the official Min-jun, and So-hee, culminating in So-hee's somber reflection in her chambers.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Jin-woo: Young man with long, dark, messy hair, wearing a blue headband and silver chest plate over a maroon-and-blue tunic\nJi-ho: Man wearing a full-length, coarse-spun beige robe and a simple black cloth headband across his forehead\nSeo-jun: Man with long, curly dark hair and a goatee, wearing brown studded leather armor over an ornate red and gold tunic\n\nSeo-jun, wearing the studded leather armor and the ornate black headband, stares forward as his expression becomes stern and intense. Jin-woo shifts his weight slightly to his right, and Ji-ho watches from just behind them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Seo-jun, wearing the studded leather armor and the ornate black headband, stares forward as his expression becomes stern and intense. Jin-woo shifts his weight slightly to his right, and Ji-ho watches from just behind them."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Hae-won: Woman wearing a traditional Korean Hanbok consisting of a yellow upper garment and a long, full skirt in a purple/magenta color\nMin-jun: Older man with graying hair and a goatee, wearing a long-sleeved, full-length traditional Korean red official's robe and a tall, formal black hat\n\nIn The Royal Courtyard, Hae-won, Jin-woo, Min-jun, and Ji-ho stand together, watching as Seo-jun walks down a set of stone stairs. Seo-jun approaches Hae-won and stops to give a low, formal bow.",
+        "Do-yun: Korean man in traditional blue robes with a matching blue headband that has a silver and turquoise emblem on the front.\n\nClose-up on Hae-won in The Royal Courtyard as she speaks with a serious expression. Seo-jun stands facing her, with his back to the camera. In the background, Do-yun and Ji-ho stand together, shifting subtly as they observe the conversation.",
+        "So-hee: Woman wearing an ornate, multi-layered traditional Korean hanbok with black, magenta, and blue fabric, featuring intricate gold patterns\n\nOver-the-shoulder close-up from behind So-hee in The Royal Courtyard, her hair in an elaborate updo adorned with the golden hair pins. She faces Min-jun, wearing the red official's robe and the formal black hat, who slowly lowers his gaze, his expression somber.",
+        "Seo-jun speaks with a serious expression to Ji-ho, who listens and gives a slight, solemn nod. In the background, Min-jun watches their conversation intently, his eyes shifting between the two men."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Royal Courtyard, Hae-won, Jin-woo, Min-jun, and Ji-ho stand together, watching as Seo-jun walks down a set of stone stairs. Seo-jun approaches Hae-won and stops to give a low, formal bow.",
+        "Close-up on Hae-won in The Royal Courtyard as she speaks with a serious expression. Seo-jun stands facing her, with his back to the camera. In the background, Do-yun and Ji-ho stand together, shifting subtly as they observe the conversation.",
+        "Over-the-shoulder close-up from behind So-hee in The Royal Courtyard, her hair in an elaborate updo adorned with the golden hair pins. She faces Min-jun, wearing the red official's robe and the formal black hat, who slowly lowers his gaze, his expression somber.",
+        "Seo-jun speaks with a serious expression to Ji-ho, who listens and gives a slight, solemn nod. In the background, Min-jun watches their conversation intently, his eyes shifting between the two men."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Inside The Royal Tea Room, a close-up on Min-jun, wearing the red official's robe and the formal black hat, his face showing concern as he speaks. In the foreground is the back of So-hee's head, her hair adorned with the heart-shaped hair ornaments.",
+        "Close-up from over the shoulder of So-hee inside The Royal Tea Room, her intricate hairstyle decorated with the heart-shaped hair ornaments. Seo-jun lifts his head to face her with a somber expression, while Min-jun, wearing the red official's robe and the formal black hat, shifts his weight slightly in the background as he observes the tense conversation.",
+        "Inside The Royal Tea Room, Min-jun speaks with a serious expression, gesturing subtly. Seo-jun listens intently in profile, occasionally nodding, while Jin-woo and Ji-ho watch from the background.",
+        "Close-up shot in The Royal Tea Room. Min-jun, wearing the red official's robe and the formal black hat, speaks with a serious expression, looking intently at Seo-jun. Seo-jun stands opposite him, listening with a stern look on his face as his jaw tightens slightly."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Royal Tea Room, a close-up on Min-jun, wearing the red official's robe and the formal black hat, his face showing concern as he speaks. In the foreground is the back of So-hee's head, her hair adorned with the heart-shaped hair ornaments.",
+        "Close-up from over the shoulder of So-hee inside The Royal Tea Room, her intricate hairstyle decorated with the heart-shaped hair ornaments. Seo-jun lifts his head to face her with a somber expression, while Min-jun, wearing the red official's robe and the formal black hat, shifts his weight slightly in the background as he observes the tense conversation.",
+        "Inside The Royal Tea Room, Min-jun speaks with a serious expression, gesturing subtly. Seo-jun listens intently in profile, occasionally nodding, while Jin-woo and Ji-ho watch from the background.",
+        "Close-up shot in The Royal Tea Room. Min-jun, wearing the red official's robe and the formal black hat, speaks with a serious expression, looking intently at Seo-jun. Seo-jun stands opposite him, listening with a stern look on his face as his jaw tightens slightly."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Royal Bedchamber: Ornate historical bedroom interior featuring a prominent red circular archway, a large canopy bed, and a carved wooden table.\n\nFramed by a prominent red circular archway, So-hee stands in The Royal Bedchamber. With her hands clasped and a somber expression on her face, she slowly turns in place.",
+        "So-hee sits down at a large, round wooden table. In the background, Do-yun and Ji-ho watch So-hee from a doorway, exchanging a subtle glance."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Framed by a prominent red circular archway, So-hee stands in The Royal Bedchamber. With her hands clasped and a somber expression on her face, she slowly turns in place.",
+        "So-hee sits down at a large, round wooden table. In the background, Do-yun and Ji-ho watch So-hee from a doorway, exchanging a subtle glance."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Jin-woo",
+        "Ji-ho",
+        "Seo-jun"
+      ],
+      "places": [
+        "The Foothills Camp"
+      ],
+      "objects": [
+        "the studded leather armor",
+        "the ornate black headband"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Seo-jun",
+        "Jin-woo",
+        "Hae-won",
+        "Ji-ho",
+        "Min-jun"
+      ],
+      "places": [
+        "The Royal Courtyard"
+      ],
+      "objects": [
+        "the red official's robe",
+        "the formal black hat"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Seo-jun",
+        "Do-yun",
+        "Hae-won",
+        "Ji-ho"
+      ],
+      "places": [
+        "The Royal Courtyard"
+      ],
+      "objects": []
+    },
+    "2:3": {
+      "characters": [
+        "So-hee",
+        "Min-jun"
+      ],
+      "places": [
+        "The Royal Courtyard"
+      ],
+      "objects": [
+        "the golden hair pins",
+        "the formal black hat",
+        "the red official's robe"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Seo-jun",
+        "Ji-ho",
+        "Min-jun"
+      ],
+      "places": [
+        "The Royal Courtyard"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "So-hee",
+        "Min-jun"
+      ],
+      "places": [
+        "The Royal Tea Room"
+      ],
+      "objects": [
+        "the formal black hat",
+        "the red official's robe",
+        "the heart-shaped hair ornaments"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Seo-jun",
+        "Min-jun",
+        "So-hee"
+      ],
+      "places": [
+        "The Royal Tea Room"
+      ],
+      "objects": [
+        "the formal black hat",
+        "the red official's robe",
+        "the heart-shaped hair ornaments"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Seo-jun",
+        "Jin-woo",
+        "Ji-ho",
+        "Min-jun"
+      ],
+      "places": [
+        "The Royal Tea Room"
+      ],
+      "objects": []
+    },
+    "3:4": {
+      "characters": [
+        "Seo-jun",
+        "Min-jun"
+      ],
+      "places": [
+        "The Royal Tea Room"
+      ],
+      "objects": [
+        "the red official's robe",
+        "the formal black hat"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "So-hee"
+      ],
+      "places": [
+        "The Royal Bedchamber"
+      ],
+      "objects": []
+    },
+    "4:2": {
+      "characters": [
+        "Do-yun",
+        "So-hee",
+        "Ji-ho"
+      ],
+      "places": [
+        "The Royal Bedchamber"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Jin-woo",
+      "label": "Character 1",
+      "description": "Young man with long, dark, messy hair, wearing a blue headband and silver chest plate over a maroon-and-blue tunic"
+    },
+    "Character 2": {
+      "name": "Min-jun",
+      "label": "Character 2",
+      "description": "Older man with graying hair and a goatee, wearing a long-sleeved, full-length traditional Korean red official's robe and a tall, formal black hat"
+    },
+    "Character 3": {
+      "name": "Hae-won",
+      "label": "Character 3",
+      "description": "Woman wearing a traditional Korean Hanbok consisting of a yellow upper garment and a long, full skirt in a purple/magenta color"
+    },
+    "Character 4": {
+      "name": "So-hee",
+      "label": "Character 4",
+      "description": "Woman wearing an ornate, multi-layered traditional Korean hanbok with black, magenta, and blue fabric, featuring intricate gold patterns"
+    },
+    "Character 5": {
+      "name": "Do-yun",
+      "label": "Character 5",
+      "description": "Korean man in traditional blue robes with a matching blue headband that has a silver and turquoise emblem on the front."
+    },
+    "Character 6": {
+      "name": "Seo-jun",
+      "label": "Character 6",
+      "description": "Man with long, curly dark hair and a goatee, wearing brown studded leather armor over an ornate red and gold tunic"
+    },
+    "Character 7": {
+      "name": "Ji-ho",
+      "label": "Character 7",
+      "description": "Man wearing a full-length, coarse-spun beige robe and a simple black cloth headband across his forehead"
+    },
+    "Location 1": {
+      "name": "The Royal Courtyard",
+      "label": "Location 1",
+      "description": "Spacious outdoor courtyard of a traditional Korean palace with stone-paved ground, surrounded by single-story wooden pavilions featuring ornate, curved, grey-tiled roofs and intricately painted eaves in vibrant red, green, and blue patterns"
+    },
+    "Location 2": {
+      "name": "The Foothills Camp",
+      "label": "Location 2",
+      "description": "An outdoor historical village and military encampment at the base of a mountain, featuring multiple buildings with thatched roofs"
+    },
+    "Location 3": {
+      "name": "The Royal Tea Room",
+      "label": "Location 3",
+      "description": "Historical Korean traditional indoor conversation room featuring wooden latticed screens"
+    },
+    "Location 4": {
+      "name": "The Royal Bedchamber",
+      "label": "Location 4",
+      "description": "Ornate historical bedroom interior featuring a prominent red circular archway, a large canopy bed, and a carved wooden table."
+    },
+    "Object 1": {
+      "name": "the studded leather armor",
+      "label": "Object 1",
+      "description": "Brown studded leather torso armor"
+    },
+    "Object 2": {
+      "name": "the ornate black headband",
+      "label": "Object 2",
+      "description": "Ornate black headband"
+    },
+    "Object 3": {
+      "name": "the ornate purple robe",
+      "label": "Object 3",
+      "description": "Ornate traditional Korean robe made of fine black and purple fabric with intricate decorative patterns"
+    },
+    "Object 4": {
+      "name": "the red official's robe",
+      "label": "Object 4",
+      "description": "A long-sleeved, full-length traditional Korean official's robe made of an ornate, patterned red fabric, featuring a rounded collar and wide sleeves"
+    },
+    "Object 5": {
+      "name": "the formal black hat",
+      "label": "Object 5",
+      "description": "A tall, traditional Korean official's hat made of stiff black material, featuring a high, rounded back panel and two thin, rectangular wing-like appendages extending horizontally from the rear"
+    },
+    "Object 6": {
+      "name": "the golden hair pins",
+      "label": "Object 6",
+      "description": "A collection of ornate, traditional Korean gold hair ornaments with elaborate and intricate decorative designs"
+    },
+    "Object 7": {
+      "name": "the heart-shaped hair ornaments",
+      "label": "Object 7",
+      "description": "A set of elaborate, heart-shaped gold hair ornaments"
+    }
+  },
+  "_window_shot_ids": [
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0025",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0026",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0027",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0028",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0029",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0030",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0031",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0032",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0033",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0034",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i50_j86__T420__shot0035"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Jin-woo",
+    "Character 2": "Min-jun",
+    "Character 3": "Hae-won",
+    "Character 4": "So-hee",
+    "Character 5": "Do-yun",
+    "Character 6": "Seo-jun",
+    "Character 7": "Ji-ho",
+    "Location 1": "The Royal Courtyard",
+    "Location 2": "The Foothills Camp",
+    "Location 3": "The Royal Tea Room",
+    "Location 4": "The Royal Bedchamber",
+    "Object 1": "the studded leather armor",
+    "Object 2": "the ornate black headband",
+    "Object 3": "the ornate purple robe",
+    "Object 4": "the red official's robe",
+    "Object 5": "the formal black hat",
+    "Object 6": "the golden hair pins",
+    "Object 7": "the heart-shaped hair ornaments"
+  }
+}

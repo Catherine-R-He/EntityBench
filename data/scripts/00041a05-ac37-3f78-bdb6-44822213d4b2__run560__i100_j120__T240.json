@@ -1,0 +1,338 @@
+{
+  "story_name": "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240",
+  "story_overview": "The armored hero Cyra defeats antagonists Jaxon, Kaito, and Riley with an energy blast in The Crimson Room. The conflict continues in The Grand Atrium where Cyra fights Kai, and Jaxon advances on Leo. In a bio-lab, Victor and Omar examine strange yellow vials, while tense interactions between Victor, Leo, and Kai hint at a deeper conspiracy.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Victor: Middle-aged man with an angular face and short dark hair, wearing a light grey blazer over a light blue collared shirt.\nJaxon: Bulky figure in grey and green armor with a gold visor\nKaito: Young man with dark, shaggy hair, wearing a brown hooded jacket and a large, mechanical belt\nRiley: Person in a green and black mecha suit with a distinctive helmet that has three lenses on the side\nthe red and blue armor: Blue, red, and black armored suit with a matching blue and red helmet that has vents on the sides\n\nIn the center of The Crimson Room, a figure wearing the red and blue armor is surrounded by Jaxon, Kaito, and Riley. Victor stands near the wall, observing the confrontation, while the interlocking plate armor stands inertly nearby. The figure unleashes a powerful blast of blue energy and shimmering snowflake-like particles, violently throwing Jaxon, Kaito, and Riley backward across the room."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the center of The Crimson Room, a figure wearing the red and blue armor is surrounded by Jaxon, Kaito, and Riley. Victor stands near the wall, observing the confrontation, while the interlocking plate armor stands inertly nearby. The figure unleashes a powerful blast of blue energy and shimmering snowflake-like particles, violently throwing Jaxon, Kaito, and Riley backward across the room."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Cyra: A person wearing plates of red and blue armor.\nKai: Person wearing a yellow patterned shirt and a breathing mask over their nose and mouth.\nLeo: Man with short dark hair, wearing a blue jacket with a white-striped collar and a breathing mask over his face.\n\nCyra, wearing the red and blue armor, executes a fluid martial arts flip in The Grand Atrium, throwing Kai to the reflective floor. Leo backs away from the fight as Jaxon advances toward him. Nearby, the interlocking plate armor and the heavy-duty armor stand on display, small lights blinking on their chassis."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Cyra, wearing the red and blue armor, executes a fluid martial arts flip in The Grand Atrium, throwing Kai to the reflective floor. Leo backs away from the fight as Jaxon advances toward him. Nearby, the interlocking plate armor and the heavy-duty armor stand on display, small lights blinking on their chassis."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "A person in the red and blue armor performs a dynamic backflip in mid-air over Victor inside The Access Corridor."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A person in the red and blue armor performs a dynamic backflip in mid-air over Victor inside The Access Corridor."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Omar: Man.\nThe Bio-Lab: Laboratory interior with a metal counter, a metal tray, and three plastic containers filled with yellow liquid.\nthe tray of yellow vials: A metal tray with three plastic containers filled with yellow liquid.\n\nMedium shot in The Bio-Lab. Victor stands behind a metal counter and gestures towards the tray of yellow vials. Omar leans in slightly, observing the containers on the tray.",
+        "the kinetic sculpture shelf: Metal shelving unit filled with a collection of clocks and intricate, metallic kinetic sculptures.\n\nOver-the-shoulder shot from Kaito's perspective, looking across the dimly lit The Bio-Lab. Victor leans against a wall with his arms crossed, shifting his weight slightly as he maintains a serious expression. Next to him stands the kinetic sculpture shelf.",
+        "Medium over-the-shoulder shot from behind Leo in the dimly lit The Bio-Lab. Victor, wearing the light grey blazer, stands opposite him and slowly looks down with a serious expression. Kai, standing beside Victor, shifts his gaze slightly as he observes the interaction.",
+        "Victor stands beside Kai. He glances off-camera, a subtle smirk playing on his lips.",
+        "the blue bomber jacket: Blue bomber jacket with a zippered front and ribbed knit cuffs and waistband.\n\nClose-up of Kaito inside The Bio-Lab. He stares forward intently, then a menacing smirk forms on his face. The kinetic sculpture shelf is visible next to him, with the blue bomber jacket draped over it.",
+        "Close-up profile of Victor in the dimly lit Bio-Lab. A faint, ambiguous smirk forms on his face as he looks off-screen. Kai is visible in the background, standing very still.",
+        "In the dimly lit The Bio-Lab, Riley is in the foreground and suddenly raises the large colorful device. In the background, Victor, Omar, and Leo react with surprise."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Bio-Lab. Victor stands behind a metal counter and gestures towards the tray of yellow vials. Omar leans in slightly, observing the containers on the tray.",
+        "Over-the-shoulder shot from Kaito's perspective, looking across the dimly lit The Bio-Lab. Victor leans against a wall with his arms crossed, shifting his weight slightly as he maintains a serious expression. Next to him stands the kinetic sculpture shelf.",
+        "Medium over-the-shoulder shot from behind Leo in the dimly lit The Bio-Lab. Victor, wearing the light grey blazer, stands opposite him and slowly looks down with a serious expression. Kai, standing beside Victor, shifts his gaze slightly as he observes the interaction.",
+        "Victor stands beside Kai. He glances off-camera, a subtle smirk playing on his lips.",
+        "Close-up of Kaito inside The Bio-Lab. He stares forward intently, then a menacing smirk forms on his face. The kinetic sculpture shelf is visible next to him, with the blue bomber jacket draped over it.",
+        "Close-up profile of Victor in the dimly lit Bio-Lab. A faint, ambiguous smirk forms on his face as he looks off-screen. Kai is visible in the background, standing very still.",
+        "In the dimly lit The Bio-Lab, Riley is in the foreground and suddenly raises the large colorful device. In the background, Victor, Omar, and Leo react with surprise."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Victor",
+        "Jaxon",
+        "Kaito",
+        "Riley"
+      ],
+      "places": [
+        "The Crimson Room"
+      ],
+      "objects": [
+        "the red and blue armor",
+        "the interlocking plate armor"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Kai",
+        "Leo",
+        "Jaxon",
+        "Cyra"
+      ],
+      "places": [
+        "The Grand Atrium"
+      ],
+      "objects": [
+        "the red and blue armor",
+        "the interlocking plate armor",
+        "the heavy-duty armor"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "The Access Corridor"
+      ],
+      "objects": [
+        "the red and blue armor"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Victor",
+        "Omar"
+      ],
+      "places": [
+        "The Bio-Lab"
+      ],
+      "objects": [
+        "the tray of yellow vials"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Victor",
+        "Kaito"
+      ],
+      "places": [
+        "The Bio-Lab"
+      ],
+      "objects": [
+        "the kinetic sculpture shelf"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Kai",
+        "Victor",
+        "Leo"
+      ],
+      "places": [
+        "The Bio-Lab"
+      ],
+      "objects": [
+        "the light grey blazer"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Kai",
+        "Victor"
+      ],
+      "places": [
+        "The Bio-Lab"
+      ],
+      "objects": [
+        "the light grey blazer"
+      ]
+    },
+    "4:5": {
+      "characters": [
+        "Kaito"
+      ],
+      "places": [
+        "The Bio-Lab"
+      ],
+      "objects": [
+        "the blue bomber jacket",
+        "the kinetic sculpture shelf"
+      ]
+    },
+    "4:6": {
+      "characters": [
+        "Kai",
+        "Victor"
+      ],
+      "places": [
+        "The Bio-Lab"
+      ],
+      "objects": []
+    },
+    "4:7": {
+      "characters": [
+        "Victor",
+        "Omar",
+        "Leo",
+        "Riley"
+      ],
+      "places": [
+        "The Bio-Lab"
+      ],
+      "objects": [
+        "the large colorful device"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Victor",
+      "label": "Character 1",
+      "description": "Middle-aged man with an angular face and short dark hair, wearing a light grey blazer over a light blue collared shirt."
+    },
+    "Character 2": {
+      "name": "Omar",
+      "label": "Character 2",
+      "description": "Man."
+    },
+    "Character 3": {
+      "name": "Kai",
+      "label": "Character 3",
+      "description": "Person wearing a yellow patterned shirt and a breathing mask over their nose and mouth."
+    },
+    "Character 4": {
+      "name": "Leo",
+      "label": "Character 4",
+      "description": "Man with short dark hair, wearing a blue jacket with a white-striped collar and a breathing mask over his face."
+    },
+    "Character 5": {
+      "name": "Jaxon",
+      "label": "Character 5",
+      "description": "Bulky figure in grey and green armor with a gold visor"
+    },
+    "Character 6": {
+      "name": "Kaito",
+      "label": "Character 6",
+      "description": "Young man with dark, shaggy hair, wearing a brown hooded jacket and a large, mechanical belt"
+    },
+    "Character 7": {
+      "name": "Riley",
+      "label": "Character 7",
+      "description": "Person in a green and black mecha suit with a distinctive helmet that has three lenses on the side"
+    },
+    "Location 1": {
+      "name": "The Access Corridor",
+      "label": "Location 1",
+      "description": "Modern indoor hallway with square lights on the ceiling."
+    },
+    "Location 2": {
+      "name": "The Grand Atrium",
+      "label": "Location 2",
+      "description": "Spacious modern building lobby with a minimalist design and a highly reflective floor"
+    },
+    "Location 3": {
+      "name": "The Crimson Room",
+      "label": "Location 3",
+      "description": "A plain, featureless room with solid red walls and no visible furniture or decorations"
+    },
+    "Location 4": {
+      "name": "The Bio-Lab",
+      "label": "Location 4",
+      "description": "Laboratory interior with a metal counter, a metal tray, and three plastic containers filled with yellow liquid."
+    },
+    "Object 1": {
+      "name": "the red and blue armor",
+      "label": "Object 1",
+      "description": "Blue, red, and black armored suit with a matching blue and red helmet that has vents on the sides"
+    },
+    "Object 2": {
+      "name": "the interlocking plate armor",
+      "label": "Object 2",
+      "description": "A full-body robotic armored suit made of interlocking black and silver metallic plates"
+    },
+    "Object 3": {
+      "name": "the heavy-duty armor",
+      "label": "Object 3",
+      "description": "Large, bulky suit of heavy armor with oversized plating"
+    },
+    "Object 4": {
+      "name": "the tray of yellow vials",
+      "label": "Object 4",
+      "description": "A metal tray with three plastic containers filled with yellow liquid."
+    },
+    "Object 5": {
+      "name": "the kinetic sculpture shelf",
+      "label": "Object 5",
+      "description": "Metal shelving unit filled with a collection of clocks and intricate, metallic kinetic sculptures."
+    },
+    "Object 6": {
+      "name": "the light grey blazer",
+      "label": "Object 6",
+      "description": "Light grey blazer"
+    },
+    "Object 7": {
+      "name": "the blue bomber jacket",
+      "label": "Object 7",
+      "description": "Blue bomber jacket with a zippered front and ribbed knit cuffs and waistband."
+    },
+    "Object 8": {
+      "name": "the large colorful device",
+      "label": "Object 8",
+      "description": "Large, colorful device"
+    },
+    "Gen_Cyra": {
+      "name": "Cyra",
+      "label": "Gen_Cyra",
+      "description": "A person wearing plates of red and blue armor."
+    }
+  },
+  "_window_shot_ids": [
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240__shot0040",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240__shot0041",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240__shot0042",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240__shot0043",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240__shot0045",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240__shot0046",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240__shot0047",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240__shot0049",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240__shot0050",
+    "00041a05-ac37-3f78-bdb6-44822213d4b2__run560__i100_j120__T240__shot0051"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Victor",
+    "Character 2": "Omar",
+    "Character 3": "Kai",
+    "Character 4": "Leo",
+    "Character 5": "Jaxon",
+    "Character 6": "Kaito",
+    "Character 7": "Riley",
+    "Location 1": "The Access Corridor",
+    "Location 2": "The Grand Atrium",
+    "Location 3": "The Crimson Room",
+    "Location 4": "The Bio-Lab",
+    "Object 1": "the red and blue armor",
+    "Object 2": "the interlocking plate armor",
+    "Object 3": "the heavy-duty armor",
+    "Object 4": "the tray of yellow vials",
+    "Object 5": "the kinetic sculpture shelf",
+    "Object 6": "the light grey blazer",
+    "Object 7": "the blue bomber jacket",
+    "Object 8": "the large colorful device"
+  }
+}

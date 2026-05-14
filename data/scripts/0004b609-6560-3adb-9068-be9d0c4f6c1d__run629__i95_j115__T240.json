@@ -1,0 +1,382 @@
+{
+  "story_name": "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240",
+  "story_overview": "Lian is held captive in a courtyard by the guard Chen. Chen also interacts with a man named Wei. Later, in her chambers, Lian is adorned with her white spike earrings and has a tense conversation with Wei, leaving them both looking concerned.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Lian: Woman with long, dark hair styled in an elaborate updo, wearing a traditional light blue/green robe and a pair of long, dangling white spike earrings.\nChen: Man wearing a Guard Uniform consisting of red and black robes and a traditional black hat.\nThe Torchlit Courtyard: Outdoor traditional Chinese courtyard with grey stone paving, surrounded by single-story buildings with dark wooden support pillars, carved lattice screen windows, and curved gray tile roofs, featuring wall-mounted metal torches.\nthe heavy patterned robe: Dark, heavy-fabric robe featuring a subtle, repeating dark-on-dark pattern.\nthe red paper lanterns: Traditional Chinese lanterns with a spherical red paper body, black calligraphy characters on the sides, and a decorative gold tassel at the bottom.\n\nLian sinks to her knees on the stone paving and bows her head. Chen steps forward to stand guard over her. The heavy patterned robe lies on the ground beside Lian."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Lian sinks to her knees on the stone paving and bows her head. Chen steps forward to stand guard over her. The heavy patterned robe lies on the ground beside Lian."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Wei: Man with his hair in a topknot, wearing a dark patterned tunic.\nThe Inner Chamber: General indoor room with indeterminate features.\n\nWei stands with his head bowed in deference. Chen watches him with a stoic expression for a moment, then gives a slight, almost imperceptible nod."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wei stands with his head bowed in deference. Chen watches him with a stoic expression for a moment, then gives a slight, almost imperceptible nod."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "the dark riding horse: A large, strong-boned riding horse with a dark coat and a neatly groomed mane and tail, outfitted with a polished brown leather saddle and a matching bridle with brass fittings.\nthe ornate lacquered carriage: Large, ornate enclosed carriage with a dark lacquered wood body, decorated with intricate gold-leaf scrollwork and gilded carvings, featuring large glass windows, large spoked wooden wheels with gilded rims, and brass lanterns mounted on the front.\n\nLow-angle shot in The Torchlit Courtyard at night. Chen sits atop the dark riding horse next to the ornate lacquered carriage and speaks. Lian stands near the carriage, looking up and listening to him.",
+        "the traditional men's clothing: A set of generic, traditional, historical Chinese men's clothing.\n\nMedium close-up in The Torchlit Courtyard. Chen, wearing his Guard Uniform, speaks with a serious expression. Lian stands behind him, listening intently with a concerned look.",
+        "Bao: Guard in a dark uniform\n\nMedium shot in The Torchlit Courtyard. Chen and Bao stand facing each other, speaking in low tones. Nearby, Lian stands next to the red tiered container, her gaze fixed on Chen and Bao.",
+        "Rui: Woman wearing a pink and purple robe\nthe lacquered food box: Three-tiered square food box with a glossy, dark brown lacquer finish and a delicate gold-leaf bamboo design on the top lid\n\nClose-up, torso-down shot of Wei, Rui, and Lian walking through The Torchlit Courtyard at night. He wears the dark patterned robe and carries the lacquered food box in his hands."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Low-angle shot in The Torchlit Courtyard at night. Chen sits atop the dark riding horse next to the ornate lacquered carriage and speaks. Lian stands near the carriage, looking up and listening to him.",
+        "Medium close-up in The Torchlit Courtyard. Chen, wearing his Guard Uniform, speaks with a serious expression. Lian stands behind him, listening intently with a concerned look.",
+        "Medium shot in The Torchlit Courtyard. Chen and Bao stand facing each other, speaking in low tones. Nearby, Lian stands next to the red tiered container, her gaze fixed on Chen and Bao.",
+        "Close-up, torso-down shot of Wei, Rui, and Lian walking through The Torchlit Courtyard at night. He wears the dark patterned robe and carries the lacquered food box in his hands."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Silk Pavilion: An elegant interior of a traditional Chinese noblewoman's room.\nthe brown attendant's robe: Simple, unadorned traditional Chinese-style attendant's robe made of plain brown fabric, featuring long wide sleeves and an ankle-length cut.\nthe golden noblewoman's headdress: Ornate and elaborate golden headdress in a traditional Chinese noblewoman's style\n\nMedium shot in The Silk Pavilion. Lian, wearing a light blue/green robe and the golden noblewoman's headdress, stands on the left and speaks with a serious expression. On the right, Chen listens intently while an attendant wearing the brown attendant's robe stands beside her, looking down with a worried expression and subtly shifting their weight.",
+        "Close-up on Lian in the dimly lit The Silk Pavilion. She wears a traditional light blue/green robe, the white spike earrings, and the golden noblewoman's headdress. With an expression of anger and disappointment, she looks down as she speaks."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Silk Pavilion. Lian, wearing a light blue/green robe and the golden noblewoman's headdress, stands on the left and speaks with a serious expression. On the right, Chen listens intently while an attendant wearing the brown attendant's robe stands beside her, looking down with a worried expression and subtly shifting their weight.",
+        "Close-up on Lian in the dimly lit The Silk Pavilion. She wears a traditional light blue/green robe, the white spike earrings, and the golden noblewoman's headdress. With an expression of anger and disappointment, she looks down as she speaks."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "With a distressed expression, Lian slightly shakes her head as she and Chen look down toward the camera's position."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "With a distressed expression, Lian slightly shakes her head as she and Chen look down toward the camera's position."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Lian, wearing the traditional light blue/green robe, the white spike earrings, and the golden noblewoman's headdress, her expression growing concerned as she listens to Wei speak to her.",
+        "the ornate wooden hairpin: Long, slender hairpin made of polished dark wood, topped with an ornate silver filigree ornament in a floral design and embedded with small, glittering amethyst chips.\n\nIn a close-up, Wei and Chen stand in the dimly lit Silk Pavilion. Wearing his dark patterned tunic and the ornate wooden hairpin, Wei slowly looks down and aside, a pensive and concerned expression on his face. Chen stands motionless beside him."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Lian, wearing the traditional light blue/green robe, the white spike earrings, and the golden noblewoman's headdress, her expression growing concerned as she listens to Wei speak to her.",
+        "In a close-up, Wei and Chen stand in the dimly lit Silk Pavilion. Wearing his dark patterned tunic and the ornate wooden hairpin, Wei slowly looks down and aside, a pensive and concerned expression on his face. Chen stands motionless beside him."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Chen",
+        "Lian"
+      ],
+      "places": [
+        "The Torchlit Courtyard"
+      ],
+      "objects": [
+        "the heavy patterned robe",
+        "the red paper lanterns"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Wei",
+        "Chen"
+      ],
+      "places": [
+        "The Inner Chamber"
+      ],
+      "objects": [
+        "the dark patterned tunic"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Chen",
+        "Lian"
+      ],
+      "places": [
+        "The Torchlit Courtyard"
+      ],
+      "objects": [
+        "the dark riding horse",
+        "the ornate lacquered carriage"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Lian",
+        "Chen"
+      ],
+      "places": [
+        "The Torchlit Courtyard"
+      ],
+      "objects": []
+    },
+    "3:3": {
+      "characters": [
+        "Chen",
+        "Lian",
+        "Bao"
+      ],
+      "places": [
+        "The Torchlit Courtyard"
+      ],
+      "objects": [
+        "the red tiered container"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Rui",
+        "Lian",
+        "Wei"
+      ],
+      "places": [
+        "The Torchlit Courtyard"
+      ],
+      "objects": [
+        "the dark patterned robe",
+        "the lacquered food box"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Lian",
+        "Chen"
+      ],
+      "places": [
+        "The Silk Pavilion"
+      ],
+      "objects": [
+        "the golden noblewoman's headdress",
+        "the brown attendant's robe"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Lian"
+      ],
+      "places": [
+        "The Silk Pavilion"
+      ],
+      "objects": [
+        "the golden noblewoman's headdress",
+        "the white spike earrings"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Lian",
+        "Chen"
+      ],
+      "places": [
+        "The Inner Chamber"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Lian",
+        "Wei"
+      ],
+      "places": [
+        "The Silk Pavilion"
+      ],
+      "objects": [
+        "the golden noblewoman's headdress"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Chen",
+        "Wei"
+      ],
+      "places": [
+        "The Silk Pavilion"
+      ],
+      "objects": [
+        "the ornate wooden hairpin"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Lian",
+      "label": "Character 1",
+      "description": "Woman with long, dark hair styled in an elaborate updo, wearing a traditional light blue/green robe and a pair of long, dangling white spike earrings."
+    },
+    "Character 3": {
+      "name": "Wei",
+      "label": "Character 3",
+      "description": "Man with his hair in a topknot, wearing a dark patterned tunic."
+    },
+    "Character 5": {
+      "name": "Bao",
+      "label": "Character 5",
+      "description": "Guard in a dark uniform"
+    },
+    "Character 6": {
+      "name": "Chen",
+      "label": "Character 6",
+      "description": "Man wearing a Guard Uniform consisting of red and black robes and a traditional black hat."
+    },
+    "Character 7": {
+      "name": "Rui",
+      "label": "Character 7",
+      "description": "Woman wearing a pink and purple robe"
+    },
+    "Location 1": {
+      "name": "The Torchlit Courtyard",
+      "label": "Location 1",
+      "description": "Outdoor traditional Chinese courtyard with grey stone paving, surrounded by single-story buildings with dark wooden support pillars, carved lattice screen windows, and curved gray tile roofs, featuring wall-mounted metal torches."
+    },
+    "Location 2": {
+      "name": "The Inner Chamber",
+      "label": "Location 2",
+      "description": "General indoor room with indeterminate features."
+    },
+    "Location 3": {
+      "name": "The Silk Pavilion",
+      "label": "Location 3",
+      "description": "An elegant interior of a traditional Chinese noblewoman's room."
+    },
+    "Object 1": {
+      "name": "the white spike earrings",
+      "label": "Object 1",
+      "description": "A pair of long, dangling earrings, each consisting of a single, slender, polished white spike suspended from a simple silver hook"
+    },
+    "Object 2": {
+      "name": "the dark patterned robe",
+      "label": "Object 2",
+      "description": "Black robe made of fabric with a subtle, dark pattern"
+    },
+    "Object 3": {
+      "name": "the heavy patterned robe",
+      "label": "Object 3",
+      "description": "Dark, heavy-fabric robe featuring a subtle, repeating dark-on-dark pattern."
+    },
+    "Object 4": {
+      "name": "the dark patterned tunic",
+      "label": "Object 4",
+      "description": "A black robe or tunic featuring a dark pattern"
+    },
+    "Object 5": {
+      "name": "the ornate wooden hairpin",
+      "label": "Object 5",
+      "description": "Long, slender hairpin made of polished dark wood, topped with an ornate silver filigree ornament in a floral design and embedded with small, glittering amethyst chips."
+    },
+    "Object 6": {
+      "name": "the red paper lanterns",
+      "label": "Object 6",
+      "description": "Traditional Chinese lanterns with a spherical red paper body, black calligraphy characters on the sides, and a decorative gold tassel at the bottom."
+    },
+    "Object 7": {
+      "name": "the dark riding horse",
+      "label": "Object 7",
+      "description": "A large, strong-boned riding horse with a dark coat and a neatly groomed mane and tail, outfitted with a polished brown leather saddle and a matching bridle with brass fittings."
+    },
+    "Object 8": {
+      "name": "the ornate lacquered carriage",
+      "label": "Object 8",
+      "description": "Large, ornate enclosed carriage with a dark lacquered wood body, decorated with intricate gold-leaf scrollwork and gilded carvings, featuring large glass windows, large spoked wooden wheels with gilded rims, and brass lanterns mounted on the front."
+    },
+    "Object 9": {
+      "name": "the traditional men's clothing",
+      "label": "Object 9",
+      "description": "A set of generic, traditional, historical Chinese men's clothing"
+    },
+    "Object 10": {
+      "name": "the red tiered container",
+      "label": "Object 10",
+      "description": "A red, tiered container composed of multiple stacked sections"
+    },
+    "Object 11": {
+      "name": "the lacquered food box",
+      "label": "Object 11",
+      "description": "Three-tiered square food box with a glossy, dark brown lacquer finish and a delicate gold-leaf bamboo design on the top lid"
+    },
+    "Object 12": {
+      "name": "the golden noblewoman's headdress",
+      "label": "Object 12",
+      "description": "Ornate and elaborate golden headdress in a traditional Chinese noblewoman's style"
+    },
+    "Object 13": {
+      "name": "the green noblewoman's robe",
+      "label": "Object 13",
+      "description": "Elaborate, traditional green Chinese noblewoman's robe"
+    },
+    "Object 14": {
+      "name": "the brown attendant's robe",
+      "label": "Object 14",
+      "description": "Simple, unadorned traditional Chinese-style attendant's robe made of plain brown fabric, featuring long wide sleeves and an ankle-length cut."
+    }
+  },
+  "_window_shot_ids": [
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0066",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0067",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0068",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0069",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0070",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0071",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0072",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0073",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0074",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0075",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i95_j115__T240__shot0076"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Lian",
+    "Character 2": "An",
+    "Character 3": "Wei",
+    "Character 4": "Jia",
+    "Character 5": "Bao",
+    "Character 6": "Chen",
+    "Character 7": "Rui",
+    "Location 1": "The Torchlit Courtyard",
+    "Location 2": "The Inner Chamber",
+    "Location 3": "The Silk Pavilion",
+    "Object 1": "the white spike earrings",
+    "Object 10": "the red tiered container",
+    "Object 11": "the lacquered food box",
+    "Object 12": "the golden noblewoman's headdress",
+    "Object 13": "the green noblewoman's robe",
+    "Object 14": "the brown attendant's robe",
+    "Object 2": "the dark patterned robe",
+    "Object 3": "the heavy patterned robe",
+    "Object 4": "the dark patterned tunic",
+    "Object 5": "the ornate wooden hairpin",
+    "Object 6": "the red paper lanterns",
+    "Object 7": "the dark riding horse",
+    "Object 8": "the ornate lacquered carriage",
+    "Object 9": "the traditional men's clothing"
+  }
+}

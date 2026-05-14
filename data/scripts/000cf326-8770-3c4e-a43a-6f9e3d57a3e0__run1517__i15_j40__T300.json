@@ -1,0 +1,423 @@
+{
+  "story_name": "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300",
+  "story_overview": "Minister Hyeon-sik and Jin-woo engage in a serious discussion within the Imperial Hall. Distraught, Hyeon-sik is plagued by a vision of a captured woman in tattered clothes, later seen grieving. The story culminates with Jin-woo riding a horse across a field, embarking on a seemingly urgent journey.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Tae-hwan: Older man with graying hair pulled back and a goatee, wearing a golden headpiece and ornate, multi-layered traditional robes in black, red, and pink.\nHyeon-sik: Korean man with his hair styled in a topknot secured by a decorative headband, wearing a minister's blue attire.\nJin-woo: Person wearing a black headdress and a Minister's Purple and White Robe with a prominent high collar.\nThe Imperial Hall: Ornate traditional palace interior with high ceilings, polished marble floors, walls with intricate gilded moldings and decorative wood paneling, large arched windows, and elaborate crystal chandeliers.\nthe heavy red curtains: Large, heavy curtains made of a plush, deep red fabric.\nthe ornate four-poster bed: Large, ornate four-poster bed with intricately carved dark wood posts and headboard, a heavy red fabric canopy, and a plush red bedspread.\nMedium shot in The Imperial Hall. Hyeon-sik, wearing the blue minister's formal attire and the blue minister's hat, sits at an ornate, round wooden table and speaks. Across from him, Jin-woo and Tae-hwan listen attentively. In the background, the heavy red curtains hang beside the ornate four-poster bed.",
+        "Close-up in The Imperial Hall of Jin-woo, wearing the high-collared purple robe and the dangling silver earrings, speaking to Tae-hwan with a serious expression. Jin-woo is positioned in front of the white lattice screen.",
+        "Close-up of Jin-woo speaking with a serious expression in The Imperial Hall. Wearing the high-collared purple robe, he stands positioned directly in front of the white lattice screen.",
+        "Close-up of Hyeon-sik in The Imperial Hall, wearing the blue minister's formal robes and the decorative floral headband. His expression is serious and pensive, and he shifts his gaze slightly as he looks just off-camera. The white lattice screen is visible in the background behind him.",
+        "the amethyst pendant necklace: A fine-linked silver chain with a large, teardrop-shaped amethyst pendant in an ornate silver filigree setting.\nClose-up of Jin-woo, wearing the high-collared purple robe, the amethyst pendant necklace, and the dangling silver earrings, speaking while standing in front of the white lattice screen in The Imperial Hall."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Imperial Hall. Hyeon-sik, wearing the blue minister's formal attire and the blue minister's hat, sits at an ornate, round wooden table and speaks. Across from him, Jin-woo and Tae-hwan listen attentively. In the background, the heavy red curtains hang beside the ornate four-poster bed.",
+        "Close-up in The Imperial Hall of Jin-woo, wearing the high-collared purple robe and the dangling silver earrings, speaking to Tae-hwan with a serious expression. Jin-woo is positioned in front of the white lattice screen.",
+        "Close-up of Jin-woo speaking with a serious expression in The Imperial Hall. Wearing the high-collared purple robe, he stands positioned directly in front of the white lattice screen.",
+        "Close-up of Hyeon-sik in The Imperial Hall, wearing the blue minister's formal robes and the decorative floral headband. His expression is serious and pensive, and he shifts his gaze slightly as he looks just off-camera. The white lattice screen is visible in the background behind him.",
+        "Close-up of Jin-woo, wearing the high-collared purple robe, the amethyst pendant necklace, and the dangling silver earrings, speaking while standing in front of the white lattice screen in The Imperial Hall."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Palace Courtyard: Outdoor palace courtyard featuring a raised wooden platform and brightly colored banners.\n\nHyeon-sik stands in The Palace Courtyard, wearing the blue minister's formal attire. His gaze drifts off-screen and his serious, contemplative expression deepens slightly as the colorful festival banner flutters in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Hyeon-sik stands in The Palace Courtyard, wearing the blue minister's formal attire. His gaze drifts off-screen and his serious, contemplative expression deepens slightly as the colorful festival banner flutters in the background."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Stone Wastes: An outdoor landscape of uneven, dry ground covered in dust, loose gray stones, and jagged rock formations, with no vegetation.\nthe thick, frayed ropes: Multiple strands of thick, coarse, frayed brown rope.\nthe ragged, soiled garments: A set of heavily soiled and tattered garments made of a coarse, rough-spun fabric in muted earth tones, with frayed edges and multiple tears.\n\nHyeon-sik, wearing the blue minister's formal attire, stares forward with a concerned expression. His focus wavers as he sees a vision of a woman in ragged, soiled garments, struggling against thick, frayed ropes that bind her hands."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Hyeon-sik, wearing the blue minister's formal attire, stares forward with a concerned expression. His focus wavers as he sees a vision of a woman in ragged, soiled garments, struggling against thick, frayed ropes that bind her hands."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Close-up of Jin-woo, wearing the high-collared purple robe and the dangling silver earrings, in The Imperial Hall. With a serious expression, Jin-woo speaks while standing in front of the white lattice screen.",
+        "Close-up on Hyeon-sik, wearing the blue minister's formal attire and the decorative floral headband, in the dimly lit The Imperial Hall. His face is sorrowful and his eyes are filled with tears. He slowly closes his eyes in grief."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Jin-woo, wearing the high-collared purple robe and the dangling silver earrings, in The Imperial Hall. With a serious expression, Jin-woo speaks while standing in front of the white lattice screen.",
+        "Close-up on Hyeon-sik, wearing the blue minister's formal attire and the decorative floral headband, in the dimly lit The Imperial Hall. His face is sorrowful and his eyes are filled with tears. He slowly closes his eyes in grief."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the teal attendant's uniform: Traditional Korean attendant's uniform consisting of a long-sleeved, high-collared teal robe made of a simple fabric, worn over loose-fitting trousers and cinched with a wide, dark fabric sash at the waist.\n\nMedium shot in The Palace Courtyard during the day, with the colorful festival banner visible. Hyeon-sik, wearing the blue minister's formal attire, stands solemnly on a raised wooden platform, his gaze slowly sweeping over the courtyard below. Below the platform, an attendant wearing the teal attendant's uniform stands stiffly at attention in a line with other guards."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Palace Courtyard during the day, with the colorful festival banner visible. Hyeon-sik, wearing the blue minister's formal attire, stands solemnly on a raised wooden platform, his gaze slowly sweeping over the courtyard below. Below the platform, an attendant wearing the teal attendant's uniform stands stiffly at attention in a line with other guards."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Close-up shot of Hyeon-sik, wearing the blue minister's formal attire and the decorative floral headband, standing inside The Imperial Hall. His gaze shifts slightly to the side as his expression clouds over with deep worry and sorrow."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot of Hyeon-sik, wearing the blue minister's formal attire and the decorative floral headband, standing inside The Imperial Hall. His gaze shifts slightly to the side as his expression clouds over with deep worry and sorrow."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Emerald Field: A vast, open green field bordered by a distant line of tall trees.\nthe tall forest trees: Tall, mature trees with thick, dark trunks and full, dense green canopies.\nWide shot of Jin-woo riding the saddled horse across The Emerald Field at sunset. A line of the tall forest trees forms the background, and the brilliant sun creates a lens flare that moves across the screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wide shot of Jin-woo riding the saddled horse across The Emerald Field at sunset. A line of the tall forest trees forms the background, and the brilliant sun creates a lens flare that moves across the screen."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Tae-hwan",
+        "Hyeon-sik",
+        "Jin-woo"
+      ],
+      "places": [
+        "The Imperial Hall"
+      ],
+      "objects": [
+        "the blue minister's formal attire",
+        "the blue minister's hat",
+        "the heavy red curtains",
+        "the ornate four-poster bed"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Tae-hwan",
+        "Jin-woo"
+      ],
+      "places": [
+        "The Imperial Hall"
+      ],
+      "objects": [
+        "the high-collared purple robe",
+        "the white lattice screen",
+        "the dangling silver earrings"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Jin-woo"
+      ],
+      "places": [
+        "The Imperial Hall"
+      ],
+      "objects": [
+        "the high-collared purple robe",
+        "the white lattice screen"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Hyeon-sik"
+      ],
+      "places": [
+        "The Imperial Hall"
+      ],
+      "objects": [
+        "the blue minister's formal attire",
+        "the decorative floral headband",
+        "the white lattice screen"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Jin-woo"
+      ],
+      "places": [
+        "The Imperial Hall"
+      ],
+      "objects": [
+        "the white lattice screen",
+        "the high-collared purple robe",
+        "the dangling silver earrings",
+        "the amethyst pendant necklace"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Hyeon-sik"
+      ],
+      "places": [
+        "The Palace Courtyard"
+      ],
+      "objects": [
+        "the colorful festival banner",
+        "the blue minister's formal attire"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Hyeon-sik"
+      ],
+      "places": [
+        "The Stone Wastes"
+      ],
+      "objects": [
+        "the blue minister's formal attire",
+        "the thick, frayed ropes",
+        "the ragged, soiled garments"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Jin-woo"
+      ],
+      "places": [
+        "The Imperial Hall"
+      ],
+      "objects": [
+        "the high-collared purple robe",
+        "the dangling silver earrings",
+        "the white lattice screen"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Hyeon-sik"
+      ],
+      "places": [
+        "The Imperial Hall"
+      ],
+      "objects": [
+        "the blue minister's formal attire",
+        "the decorative floral headband"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Hyeon-sik"
+      ],
+      "places": [
+        "The Palace Courtyard"
+      ],
+      "objects": [
+        "the blue minister's formal attire",
+        "the teal attendant's uniform",
+        "the colorful festival banner"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Hyeon-sik"
+      ],
+      "places": [
+        "The Imperial Hall"
+      ],
+      "objects": [
+        "the blue minister's formal attire",
+        "the decorative floral headband"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Jin-woo"
+      ],
+      "places": [
+        "The Emerald Field"
+      ],
+      "objects": [
+        "the saddled horse",
+        "the tall forest trees",
+        "the brilliant sun"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Jin-woo",
+      "label": "Character 1",
+      "description": "Person wearing a black headdress and a Minister's Purple and White Robe with a prominent high collar."
+    },
+    "Character 2": {
+      "name": "Tae-hwan",
+      "label": "Character 2",
+      "description": "Older man with graying hair pulled back and a goatee, wearing a golden headpiece and ornate, multi-layered traditional robes in black, red, and pink."
+    },
+    "Character 4": {
+      "name": "Hyeon-sik",
+      "label": "Character 4",
+      "description": "Korean man with his hair styled in a topknot secured by a decorative headband, wearing a minister's blue attire."
+    },
+    "Location 1": {
+      "name": "The Imperial Hall",
+      "label": "Location 1",
+      "description": "Ornate traditional palace interior with high ceilings, polished marble floors, walls with intricate gilded moldings and decorative wood paneling, large arched windows, and elaborate crystal chandeliers."
+    },
+    "Location 2": {
+      "name": "The Palace Courtyard",
+      "label": "Location 2",
+      "description": "Outdoor palace courtyard featuring a raised wooden platform and brightly colored banners."
+    },
+    "Location 3": {
+      "name": "The Stone Wastes",
+      "label": "Location 3",
+      "description": "An outdoor landscape of uneven, dry ground covered in dust, loose gray stones, and jagged rock formations, with no vegetation."
+    },
+    "Location 4": {
+      "name": "The Emerald Field",
+      "label": "Location 4",
+      "description": "A vast, open green field bordered by a distant line of tall trees."
+    },
+    "Object 1": {
+      "name": "the high-collared purple robe",
+      "label": "Object 1",
+      "description": "Purple and white robe featuring a prominent, high, ruffled purple collar"
+    },
+    "Object 2": {
+      "name": "the blue minister's formal attire",
+      "label": "Object 2",
+      "description": "Traditional blue royal minister's formal attire, complete with a matching hat"
+    },
+    "Object 3": {
+      "name": "the blue minister's hat",
+      "label": "Object 3",
+      "description": "A formal, traditional minister's hat made of structured blue fabric"
+    },
+    "Object 4": {
+      "name": "the heavy red curtains",
+      "label": "Object 4",
+      "description": "Large, heavy curtains made of a plush, deep red fabric."
+    },
+    "Object 5": {
+      "name": "the ornate four-poster bed",
+      "label": "Object 5",
+      "description": "Large, ornate four-poster bed with intricately carved dark wood posts and headboard, a heavy red fabric canopy, and a plush red bedspread."
+    },
+    "Object 6": {
+      "name": "the dangling silver earrings",
+      "label": "Object 6",
+      "description": "Dangling earrings"
+    },
+    "Object 7": {
+      "name": "the white lattice screen",
+      "label": "Object 7",
+      "description": "A white screen with an open, crisscrossing lattice pattern"
+    },
+    "Object 8": {
+      "name": "the decorative floral headband",
+      "label": "Object 8",
+      "description": "Decorative headband featuring a floral emblem and a turquoise ornament"
+    },
+    "Object 9": {
+      "name": "the amethyst pendant necklace",
+      "label": "Object 9",
+      "description": "A fine-linked silver chain with a large, teardrop-shaped amethyst pendant in an ornate silver filigree setting."
+    },
+    "Object 10": {
+      "name": "the colorful festival banner",
+      "label": "Object 10",
+      "description": "Vibrant, multi-colored fabric banner"
+    },
+    "Object 11": {
+      "name": "the ragged, soiled garments",
+      "label": "Object 11",
+      "description": "A set of heavily soiled and tattered garments made of a coarse, rough-spun fabric in muted earth tones, with frayed edges and multiple tears."
+    },
+    "Object 12": {
+      "name": "the thick, frayed ropes",
+      "label": "Object 12",
+      "description": "Multiple strands of thick, coarse, frayed brown rope."
+    },
+    "Object 13": {
+      "name": "the teal attendant's uniform",
+      "label": "Object 13",
+      "description": "Traditional Korean attendant's uniform consisting of a long-sleeved, high-collared teal robe made of a simple fabric, worn over loose-fitting trousers and cinched with a wide, dark fabric sash at the waist."
+    },
+    "Object 14": {
+      "name": "the brilliant sun",
+      "label": "Object 14",
+      "description": "A brilliant, glowing sun"
+    },
+    "Object 15": {
+      "name": "the saddled horse",
+      "label": "Object 15",
+      "description": "A horse wearing a saddle and bridle"
+    },
+    "Object 16": {
+      "name": "the tall forest trees",
+      "label": "Object 16",
+      "description": "Tall, mature trees with thick, dark trunks and full, dense green canopies."
+    }
+  },
+  "_window_shot_ids": [
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0002",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0004",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0005",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0006",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0007",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0008",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0009",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0010",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0012",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0013",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0014",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1517__i15_j40__T300__shot0015"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Jin-woo",
+    "Character 2": "Tae-hwan",
+    "Character 3": "Min-jun",
+    "Character 4": "Hyeon-sik",
+    "Location 1": "The Imperial Hall",
+    "Location 2": "The Palace Courtyard",
+    "Location 3": "The Stone Wastes",
+    "Location 4": "The Emerald Field",
+    "Object 1": "the high-collared purple robe",
+    "Object 10": "the colorful festival banner",
+    "Object 11": "the ragged, soiled garments",
+    "Object 12": "the thick, frayed ropes",
+    "Object 13": "the teal attendant's uniform",
+    "Object 14": "the brilliant sun",
+    "Object 15": "the saddled horse",
+    "Object 16": "the tall forest trees",
+    "Object 2": "the blue minister's formal attire",
+    "Object 3": "the blue minister's hat",
+    "Object 4": "the heavy red curtains",
+    "Object 5": "the ornate four-poster bed",
+    "Object 6": "the dangling silver earrings",
+    "Object 7": "the white lattice screen",
+    "Object 8": "the decorative floral headband",
+    "Object 9": "the amethyst pendant necklace"
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "story_name": "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240",
+  "story_overview": "At the bustling Main Auto Garage, mechanics Walter, Quinn, Leo, and Mitch work on a variety of vehicles. Walter and Quinn team up on a black BMW, while Mitch and Quinn later inspect an orange sedan. The story follows the mechanics' interactions as they move between different repair jobs, cars, and locations within the busy workshop.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Walter: Bald man with thick-rimmed glasses, wearing a solid black short-sleeved polo shirt and black shorts.\nQuinn: Woman with a short blonde fade haircut with the longer hair on top tied back, wearing a dark royal blue short-sleeved polo shirt.\nThe Main Auto Garage: Interior of a functional auto repair shop featuring a bright red floor, hydraulic car lifts, metal tool chests, workbenches, and a clutter of car parts and automotive equipment.\nthe black BMW sedan: Black BMW sports sedan with a glossy paint finish and distinctive dual front kidney grille.\nthe red tool chest: A red, wheeled tool chest cabinet.\nthe green storage cabinets: A modular garage storage system of industrial metal fixtures, comprising bright green cabinets and shelving units with contrasting yellow handles and trim.\n\nIn The Main Auto Garage, Walter, wearing the black polo shirt, leans over the open engine bay of the black BMW sedan, working intently. Quinn stands beside him, observing his work and asking him a question. In the background, the red tool chest stands next to the green storage cabinets."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Main Auto Garage, Walter, wearing the black polo shirt, leans over the open engine bay of the black BMW sedan, working intently. Quinn stands beside him, observing his work and asking him a question. In the background, the red tool chest stands next to the green storage cabinets."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Red Ferry Deck: A vehicle ferry deck with a flat metal surface painted a solid, bright red.\nLow angle close-up on the front wheel and side of Walter's car, the black BMW sedan, as it drives slowly forward. The car's wheel rolls onto the bright red metal surface of The Red Ferry Deck."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low angle close-up on the front wheel and side of Walter's car, the black BMW sedan, as it drives slowly forward. The car's wheel rolls onto the bright red metal surface of The Red Ferry Deck."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Leo: Man with light brown hair and wire-frame glasses, wearing a dark navy blue short-sleeved polo shirt.\nThe Garage Exterior: The street-level exterior of the Main Auto Repair Shop, which has an open doorway and is adjacent to a street with a parked white van.\nDriven by Leo, the silver hatchback enters The Main Auto Garage through a large, open bay door from The Garage Exterior. Bright daylight streams in from outside, illuminating the silver hatchback as it pulls onto the garage's red floor.",
+        "Mitch: Man with short blond hair, wearing a grease-stained blue mechanic's jumpsuit over a plain grey t-shirt, and scuffed, heavy-duty work boots.\nthe orange sedan: Bright orange four-door sedan with a glossy finish and standard silver alloy wheels.\nthe blue workbench: Blue metal auto repair workbench with a flat top surface and sturdy legs.\n\nInside The Main Auto Garage, Walter walks across the red floor, seen from behind. In the background, the fabric flags hang above Mitch, who works at the blue workbench beside the orange sedan, which has its hood raised. Quinn stands nearby, watching Mitch and nodding slightly.",
+        "the safety glasses: Clear safety glasses with black plastic full-frames and integrated side shields.\nthe vintage red scooter: A vintage-style motor scooter with a glossy red body, a black leather seat, and chrome details including handlebars, side mirrors, and a large, round front headlight.\nMedium close-up shot of Walter and Leo in The Main Auto Garage. Walter talks animatedly, gesturing with his hands, while Leo listens intently. In the background, the vintage red scooter is parked in front of the green storage cabinets, with the safety glasses resting on a shelf."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Driven by Leo, the silver hatchback enters The Main Auto Garage through a large, open bay door from The Garage Exterior. Bright daylight streams in from outside, illuminating the silver hatchback as it pulls onto the garage's red floor.",
+        "Inside The Main Auto Garage, Walter walks across the red floor, seen from behind. In the background, the fabric flags hang above Mitch, who works at the blue workbench beside the orange sedan, which has its hood raised. Quinn stands nearby, watching Mitch and nodding slightly.",
+        "Medium close-up shot of Walter and Leo in The Main Auto Garage. Walter talks animatedly, gesturing with his hands, while Leo listens intently. In the background, the vintage red scooter is parked in front of the green storage cabinets, with the safety glasses resting on a shelf."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Workshop Office: An office interior with wood-paneled walls and a wooden staircase, containing garage storage fixtures, a yellow oil drum, a potted plant, and a 'Turbo' logo.\n\nIn the foreground of The Workshop Office, Leo speaks animatedly, gesturing with his hands. In the background, Walter stands near the wooden staircase with his arms crossed, listening and nodding occasionally, with the green storage cabinets against the office wall."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the foreground of The Workshop Office, Leo speaks animatedly, gesturing with his hands. In the background, Walter stands near the wooden staircase with his arms crossed, listening and nodding occasionally, with the green storage cabinets against the office wall."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the red MG convertible: Classic red MG convertible sports car.\n\nHigh angle shot in The Main Auto Garage. Quinn leans over the open engine bay of the red MG convertible, tinkering with a component inside. In the foreground, Walter stands with his back to the camera, observing the repairs as he slowly crosses his arms.",
+        "the red car lift: Heavy-duty two-post automotive lift with a bright red painted finish, consisting of two tall vertical steel posts and adjustable horizontal lifting arms.\nthe commercial brand banners: A collection of blue, rectangular commercial banners featuring the brand names and logos for 'Mercedes-Benz' and 'Snap-on'.\n\nMedium shot from behind Walter as he walks through the busy The Main Auto Garage. The silver SUV, the orange sedan, and the white convertible are parked on the floor, while the red MG convertible is elevated on the red car lift. In the background, the commercial brand banners hang on a wall.",
+        "Mitch leans over the open hood of the white convertible car, working on its engine. Walter stands beside the car, watching him and shifting his weight slightly. The vintage red scooter is parked in the background.",
+        "A medium shot of Leo, wearing the safety glasses, talking and gesturing inside The Main Auto Garage. Behind Leo, the red tool chest stands against a wall under the commercial brand banners."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "High angle shot in The Main Auto Garage. Quinn leans over the open engine bay of the red MG convertible, tinkering with a component inside. In the foreground, Walter stands with his back to the camera, observing the repairs as he slowly crosses his arms.",
+        "Medium shot from behind Walter as he walks through the busy The Main Auto Garage. The silver SUV, the orange sedan, and the white convertible are parked on the floor, while the red MG convertible is elevated on the red car lift. In the background, the commercial brand banners hang on a wall.",
+        "Mitch leans over the open hood of the white convertible car, working on its engine. Walter stands beside the car, watching him and shifting his weight slightly. The vintage red scooter is parked in the background.",
+        "A medium shot of Leo, wearing the safety glasses, talking and gesturing inside The Main Auto Garage. Behind Leo, the red tool chest stands against a wall under the commercial brand banners."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Walter",
+        "Quinn"
+      ],
+      "places": [
+        "The Main Auto Garage"
+      ],
+      "objects": [
+        "the black BMW sedan",
+        "the black polo shirt",
+        "the red tool chest",
+        "the green storage cabinets"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Walter"
+      ],
+      "places": [
+        "The Red Ferry Deck"
+      ],
+      "objects": [
+        "the black BMW sedan"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Main Auto Garage",
+        "The Garage Exterior"
+      ],
+      "objects": [
+        "the silver hatchback"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Quinn",
+        "Mitch",
+        "Walter"
+      ],
+      "places": [
+        "The Main Auto Garage"
+      ],
+      "objects": [
+        "the orange sedan",
+        "the blue workbench",
+        "the fabric flags"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Walter",
+        "Leo"
+      ],
+      "places": [
+        "The Main Auto Garage"
+      ],
+      "objects": [
+        "the safety glasses",
+        "the vintage red scooter",
+        "the green storage cabinets"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Walter",
+        "Leo"
+      ],
+      "places": [
+        "The Workshop Office"
+      ],
+      "objects": [
+        "the green storage cabinets"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Walter",
+        "Quinn"
+      ],
+      "places": [
+        "The Main Auto Garage"
+      ],
+      "objects": [
+        "the red MG convertible"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Walter"
+      ],
+      "places": [
+        "The Main Auto Garage"
+      ],
+      "objects": [
+        "the silver SUV",
+        "the white convertible",
+        "the orange sedan",
+        "the red car lift",
+        "the commercial brand banners",
+        "the red MG convertible"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Walter",
+        "Mitch"
+      ],
+      "places": [
+        "The Main Auto Garage"
+      ],
+      "objects": [
+        "the white convertible",
+        "the vintage red scooter"
+      ]
+    },
+    "5:4": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Main Auto Garage"
+      ],
+      "objects": [
+        "the safety glasses",
+        "the red tool chest",
+        "the commercial brand banners"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Walter",
+      "label": "Character 1",
+      "description": "Bald man with thick-rimmed glasses, wearing a solid black short-sleeved polo shirt and black shorts."
+    },
+    "Character 2": {
+      "name": "Quinn",
+      "label": "Character 2",
+      "description": "Woman with a short blonde fade haircut with the longer hair on top tied back, wearing a dark royal blue short-sleeved polo shirt."
+    },
+    "Character 3": {
+      "name": "Leo",
+      "label": "Character 3",
+      "description": "Man with light brown hair and wire-frame glasses, wearing a dark navy blue short-sleeved polo shirt."
+    },
+    "Character 4": {
+      "name": "Mitch",
+      "label": "Character 4",
+      "description": "Man with short blond hair, wearing a grease-stained blue mechanic's jumpsuit over a plain grey t-shirt, and scuffed, heavy-duty work boots."
+    },
+    "Location 1": {
+      "name": "The Main Auto Garage",
+      "label": "Location 1",
+      "description": "Interior of a functional auto repair shop featuring a bright red floor, hydraulic car lifts, metal tool chests, workbenches, and a clutter of car parts and automotive equipment."
+    },
+    "Location 2": {
+      "name": "The Garage Exterior",
+      "label": "Location 2",
+      "description": "The street-level exterior of the Main Auto Repair Shop, which has an open doorway and is adjacent to a street with a parked white van."
+    },
+    "Location 3": {
+      "name": "The Red Ferry Deck",
+      "label": "Location 3",
+      "description": "A vehicle ferry deck with a flat metal surface painted a solid, bright red."
+    },
+    "Location 4": {
+      "name": "The Workshop Office",
+      "label": "Location 4",
+      "description": "An office interior with wood-paneled walls and a wooden staircase, containing garage storage fixtures, a yellow oil drum, a potted plant, and a 'Turbo' logo."
+    },
+    "Object 1": {
+      "name": "the safety glasses",
+      "label": "Object 1",
+      "description": "Clear safety glasses with black plastic full-frames and integrated side shields."
+    },
+    "Object 2": {
+      "name": "the red car lift",
+      "label": "Object 2",
+      "description": "Heavy-duty two-post automotive lift with a bright red painted finish, consisting of two tall vertical steel posts and adjustable horizontal lifting arms."
+    },
+    "Object 3": {
+      "name": "the red MG convertible",
+      "label": "Object 3",
+      "description": "Classic red MG convertible sports car."
+    },
+    "Object 4": {
+      "name": "the silver hatchback",
+      "label": "Object 4",
+      "description": "Silver hatchback car"
+    },
+    "Object 5": {
+      "name": "the black BMW sedan",
+      "label": "Object 5",
+      "description": "Black BMW sports sedan with a glossy paint finish and distinctive dual front kidney grille."
+    },
+    "Object 6": {
+      "name": "the green storage cabinets",
+      "label": "Object 6",
+      "description": "A modular garage storage system of industrial metal fixtures, comprising bright green cabinets and shelving units with contrasting yellow handles and trim."
+    },
+    "Object 7": {
+      "name": "the red tool chest",
+      "label": "Object 7",
+      "description": "A red, wheeled tool chest cabinet."
+    },
+    "Object 8": {
+      "name": "the black polo shirt",
+      "label": "Object 8",
+      "description": "Plain black short-sleeved shirt"
+    },
+    "Object 9": {
+      "name": "the fabric flags",
+      "label": "Object 9",
+      "description": "A collection of fabric flags"
+    },
+    "Object 10": {
+      "name": "the blue workbench",
+      "label": "Object 10",
+      "description": "Blue metal auto repair workbench with a flat top surface and sturdy legs."
+    },
+    "Object 11": {
+      "name": "the orange sedan",
+      "label": "Object 11",
+      "description": "Bright orange four-door sedan with a glossy finish and standard silver alloy wheels."
+    },
+    "Object 12": {
+      "name": "the vintage red scooter",
+      "label": "Object 12",
+      "description": "A vintage-style motor scooter with a glossy red body, a black leather seat, and chrome details including handlebars, side mirrors, and a large, round front headlight."
+    },
+    "Object 13": {
+      "name": "the commercial brand banners",
+      "label": "Object 13",
+      "description": "A collection of blue, rectangular commercial banners featuring the brand names and logos for 'Mercedes-Benz' and 'Snap-on'."
+    },
+    "Object 14": {
+      "name": "the silver SUV",
+      "label": "Object 14",
+      "description": "A sport utility vehicle with a metallic silver exterior"
+    },
+    "Object 15": {
+      "name": "the white convertible",
+      "label": "Object 15",
+      "description": "White convertible car"
+    }
+  },
+  "_window_shot_ids": [
+    "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240__shot0018",
+    "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240__shot0019",
+    "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240__shot0020",
+    "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240__shot0021",
+    "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240__shot0022",
+    "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240__shot0023",
+    "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240__shot0024",
+    "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240__shot0025",
+    "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240__shot0026",
+    "000876bf-93c6-34e5-b415-67b3cc875a1e__run974__i35_j53__T240__shot0027"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Walter",
+    "Character 2": "Quinn",
+    "Character 3": "Leo",
+    "Character 4": "Mitch",
+    "Location 1": "The Main Auto Garage",
+    "Location 2": "The Garage Exterior",
+    "Location 3": "The Red Ferry Deck",
+    "Location 4": "The Workshop Office",
+    "Object 1": "the safety glasses",
+    "Object 10": "the blue workbench",
+    "Object 11": "the orange sedan",
+    "Object 12": "the vintage red scooter",
+    "Object 13": "the commercial brand banners",
+    "Object 14": "the silver SUV",
+    "Object 15": "the white convertible",
+    "Object 2": "the red car lift",
+    "Object 3": "the red MG convertible",
+    "Object 4": "the silver hatchback",
+    "Object 5": "the black BMW sedan",
+    "Object 6": "the green storage cabinets",
+    "Object 7": "the red tool chest",
+    "Object 8": "the black polo shirt",
+    "Object 9": "the fabric flags"
+  }
+}

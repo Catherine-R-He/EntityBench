@@ -1,0 +1,404 @@
+{
+  "story_name": "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420",
+  "story_overview": "In a colonial-era city, Arthur, a military officer, receives a mysterious folder from Elias, a clandestine contact. Observed by his companions Priya and Rohan, this exchange sets them on a path involving ancient ruins, a secret laboratory, and traditional village ceremonies, hinting at a deeper conspiracy.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Priya: Young South Asian woman with distinctive makeup including a bindi and three dots under her right eye, adorned with elaborate traditional jewelry including a silver maang tikka and matching earrings.\nArthur: Man with a beard and longer dark hair, wearing a Historical Tan Uniform.\nAnjali: Woman wearing an orange sari.\nStone Creek Village: An outdoor, rural, rocky village.\nThe Sunstone Ruins: Ancient outdoor stone temple ruins with a stone veranda, set within an arid landscape.\nthe bright yellow turban: A prominent yellow turban made of thickly wrapped cloth.\n\nIn Stone Creek Village during the day, an older man wearing the bright yellow turban affectionately places his hands on Arthur's shoulders and face. Priya and Anjali look on and smile, as other villagers watch from the background. In the distance, The Sunstone Ruins are visible beyond a river."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In Stone Creek Village during the day, an older man wearing the bright yellow turban affectionately places his hands on Arthur's shoulders and face. Priya and Anjali look on and smile, as other villagers watch from the background. In the distance, The Sunstone Ruins are visible beyond a river."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Vintage Laboratory: An old-fashioned, cluttered indoor laboratory with a desk and various surfaces covered in vintage laboratory equipment, including glass beakers, flasks, and a steaming apparatus.\nthe complex lab apparatus: A complex assembly of vintage analog laboratory apparatus with glass beakers, round-bottom flasks, coiled condenser tubing, rubber hoses, tarnished brass clamps, and support frames, with some glassware showing glowing liquids and other components featuring analog pressure gauges and control dials.\n\nIn the dimly lit The Vintage Laboratory, Priya leans over a desk cluttered with the intricate glassware of the complex lab apparatus. She intently examines a substance in a small container as steam gently rises from the apparatus."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Vintage Laboratory, Priya leans over a desk cluttered with the intricate glassware of the complex lab apparatus. She intently examines a substance in a small container as steam gently rises from the apparatus."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Elias: Older man with long white hair and a mustache, wearing glasses and a flat cap.\nThe Old Quarter: Outdoor colonial-era street scene with cobblestone paving, brick buildings, an outdoor cafe with tables and chairs, and a vintage light green car.\nthe wrought-iron cafe table: Small, round outdoor cafe table with a weathered, dark-stained wooden top and an ornate black wrought-iron pedestal base with three curved legs.\n\nWide shot of a busy street in The Old Quarter during the day. In the foreground, Arthur, Priya, and Anjali sit at the wrought-iron cafe table, talking amongst themselves. Elias walks toward their table. In the background, pedestrians walk along the sidewalk as the vintage light green car remains parked on the street.",
+        "the twin-lens reflex camera: Vintage twin-lens reflex camera with a black, boxy body covered in textured leatherette, two vertically-stacked lenses with silver chrome rims, and attached to a worn brown leather shoulder strap.\n\nIn The Old Quarter, at an outdoor cafe, Arthur is seated at the wrought-iron cafe table with the twin-lens reflex camera slung over his shoulder. He takes the manila folder from someone just out of frame and opens it. At nearby tables, Priya, Anjali, and other patrons are chatting amongst themselves.",
+        "Rohan: Man wearing a light-colored sleeveless top and a small hoop earring in his left ear.\nthe red-cuffed military jacket: A tan colonial-era military uniform jacket with vibrant red lapels and cuffs, adorned with brass buttons, paired with a black tricorn hat with white trim.\n\nMedium shot in The Old Quarter, where a man wearing the red-cuffed military jacket stands and speaks emphatically to the group seated around the wrought-iron cafe table. Arthur, seated at the table, holds up the manila folder and replies. Rohan and Priya sit beside Arthur, watching the exchange intently.",
+        "In The Old Quarter, Arthur sits at the wrought-iron cafe table and gestures as he speaks to Anjali, who sits across from him and smiles. The twin-lens reflex camera rests on the table. Nearby, Priya, wearing the colonial police uniform, stands watching them, shifting her weight slightly. In the background, the vintage light green car is parked on the street as pedestrians and a person leading a horse pass by.",
+        "the historical black dress: A historical-style black dress and a matching black hat.\nthe horse-drawn carriage: Large, Colonial-era horse-drawn carriage with a large wooden wheel.\n\nDaytime on the cobblestone street of The Old Quarter. Priya walks barefoot through the scene. On the left, the horse-drawn carriage is parked. In the middle of the street, several men in colonial-era police uniforms converse beside the parked vintage black convertible, as a woman in the historical black dress walks along the sidewalk on the right.",
+        "The shot opens on the large wooden wheel of the horse-drawn carriage, parked on the cobblestone street of The Old Quarter. The vintage black convertible drives down the dusty road, passing the stationary carriage. On the sidewalk, Priya, Anjali, and Elias walk together, turning to watch as the car drives by."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Wide shot of a busy street in The Old Quarter during the day. In the foreground, Arthur, Priya, and Anjali sit at the wrought-iron cafe table, talking amongst themselves. Elias walks toward their table. In the background, pedestrians walk along the sidewalk as the vintage light green car remains parked on the street.",
+        "In The Old Quarter, at an outdoor cafe, Arthur is seated at the wrought-iron cafe table with the twin-lens reflex camera slung over his shoulder. He takes the manila folder from someone just out of frame and opens it. At nearby tables, Priya, Anjali, and other patrons are chatting amongst themselves.",
+        "Medium shot in The Old Quarter, where a man wearing the red-cuffed military jacket stands and speaks emphatically to the group seated around the wrought-iron cafe table. Arthur, seated at the table, holds up the manila folder and replies. Rohan and Priya sit beside Arthur, watching the exchange intently.",
+        "In The Old Quarter, Arthur sits at the wrought-iron cafe table and gestures as he speaks to Anjali, who sits across from him and smiles. The twin-lens reflex camera rests on the table. Nearby, Priya, wearing the colonial police uniform, stands watching them, shifting her weight slightly. In the background, the vintage light green car is parked on the street as pedestrians and a person leading a horse pass by.",
+        "Daytime on the cobblestone street of The Old Quarter. Priya walks barefoot through the scene. On the left, the horse-drawn carriage is parked. In the middle of the street, several men in colonial-era police uniforms converse beside the parked vintage black convertible, as a woman in the historical black dress walks along the sidewalk on the right.",
+        "The shot opens on the large wooden wheel of the horse-drawn carriage, parked on the cobblestone street of The Old Quarter. The vintage black convertible drives down the dusty road, passing the stationary carriage. On the sidewalk, Priya, Anjali, and Elias walk together, turning to watch as the car drives by."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Yellow Void: An amorphous space consisting of a solid, uniformly yellow-toned wall, devoid of any discernible architectural features, textures, or furnishings.\nthe bright orange turban: Bright orange fabric turban, wrapped in many layers to form a rounded, voluminous shape with visible folds.\nthe potted sapling: A small plant sapling with slender stems and small green leaves, housed in a small, reddish-brown terracotta pot.\n\nAgainst the solid yellow wall of The Yellow Void, Arthur, wearing the Historical Tan Uniform and the bright orange turban, guides Priya forward. Priya, dressed in the red and gold sari, solemnly holds the potted sapling. In the background, Anjali looks on, her hands clasped respectfully."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Against the solid yellow wall of The Yellow Void, Arthur, wearing the Historical Tan Uniform and the bright orange turban, guides Priya forward. Priya, dressed in the red and gold sari, solemnly holds the potted sapling. In the background, Anjali looks on, her hands clasped respectfully."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the sunset-colored sari: Vibrant woman's sari in shades of orange, red, and yellow.\nthe flower garlands: Garlands composed of bright red and yellow flower blossoms strung together into long strands.\nLow-angle shot in Stone Creek Village. A traditional procession moves through the bustling village. Priya, wearing the sunset-colored sari, and a man wearing the bright yellow turban walk together through a crowd. They pass a thatched-roof hut decorated with the flower garlands as an older man wearing the white head wrap watches them pass."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle shot in Stone Creek Village. A traditional procession moves through the bustling village. Priya, wearing the sunset-colored sari, and a man wearing the bright yellow turban walk together through a crowd. They pass a thatched-roof hut decorated with the flower garlands as an older man wearing the white head wrap watches them pass."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Priya",
+        "Arthur",
+        "Anjali"
+      ],
+      "places": [
+        "Stone Creek Village",
+        "The Sunstone Ruins"
+      ],
+      "objects": [
+        "the bright yellow turban"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Priya"
+      ],
+      "places": [
+        "The Vintage Laboratory"
+      ],
+      "objects": [
+        "the complex lab apparatus"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Priya",
+        "Arthur",
+        "Anjali",
+        "Elias"
+      ],
+      "places": [
+        "The Old Quarter"
+      ],
+      "objects": [
+        "the wrought-iron cafe table"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Priya",
+        "Arthur",
+        "Anjali"
+      ],
+      "places": [
+        "The Old Quarter"
+      ],
+      "objects": [
+        "the twin-lens reflex camera",
+        "the manila folder",
+        "the wrought-iron cafe table"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Priya",
+        "Rohan",
+        "Arthur"
+      ],
+      "places": [
+        "The Old Quarter"
+      ],
+      "objects": [
+        "the wrought-iron cafe table",
+        "the manila folder",
+        "the red-cuffed military jacket"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Priya",
+        "Arthur",
+        "Anjali"
+      ],
+      "places": [
+        "The Old Quarter"
+      ],
+      "objects": [
+        "the colonial police uniform",
+        "the wrought-iron cafe table",
+        "the twin-lens reflex camera"
+      ]
+    },
+    "3:5": {
+      "characters": [
+        "Priya"
+      ],
+      "places": [
+        "The Old Quarter"
+      ],
+      "objects": [
+        "the vintage black convertible",
+        "the historical black dress",
+        "the horse-drawn carriage"
+      ]
+    },
+    "3:6": {
+      "characters": [
+        "Priya",
+        "Anjali",
+        "Elias"
+      ],
+      "places": [
+        "The Old Quarter"
+      ],
+      "objects": [
+        "the horse-drawn carriage",
+        "the vintage black convertible"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Priya",
+        "Arthur",
+        "Anjali"
+      ],
+      "places": [
+        "The Yellow Void"
+      ],
+      "objects": [
+        "the bright orange turban",
+        "the red and gold sari",
+        "the potted sapling",
+        "the Historical Tan Uniform"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Priya"
+      ],
+      "places": [
+        "Stone Creek Village"
+      ],
+      "objects": [
+        "the sunset-colored sari",
+        "the bright yellow turban",
+        "the white head wrap",
+        "the flower garlands"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Arthur",
+      "label": "Character 1",
+      "description": "Man with a beard and longer dark hair, wearing a Historical Tan Uniform."
+    },
+    "Character 2": {
+      "name": "Priya",
+      "label": "Character 2",
+      "description": "Young South Asian woman with distinctive makeup including a bindi and three dots under her right eye, adorned with elaborate traditional jewelry including a silver maang tikka and matching earrings."
+    },
+    "Character 3": {
+      "name": "Rohan",
+      "label": "Character 3",
+      "description": "Man wearing a light-colored sleeveless top and a small hoop earring in his left ear."
+    },
+    "Character 4": {
+      "name": "Elias",
+      "label": "Character 4",
+      "description": "Older man with long white hair and a mustache, wearing glasses and a flat cap."
+    },
+    "Character 5": {
+      "name": "Anjali",
+      "label": "Character 5",
+      "description": "Woman wearing an orange sari."
+    },
+    "Location 1": {
+      "name": "The Old Quarter",
+      "label": "Location 1",
+      "description": "Outdoor colonial-era street scene with cobblestone paving, brick buildings, an outdoor cafe with tables and chairs, and a vintage light green car."
+    },
+    "Location 2": {
+      "name": "The Yellow Void",
+      "label": "Location 2",
+      "description": "An amorphous space consisting of a solid, uniformly yellow-toned wall, devoid of any discernible architectural features, textures, or furnishings."
+    },
+    "Location 3": {
+      "name": "Stone Creek Village",
+      "label": "Location 3",
+      "description": "An outdoor, rural, rocky village."
+    },
+    "Location 4": {
+      "name": "The Sunstone Ruins",
+      "label": "Location 4",
+      "description": "Ancient outdoor stone temple ruins with a stone veranda, set within an arid landscape."
+    },
+    "Location 5": {
+      "name": "The Vintage Laboratory",
+      "label": "Location 5",
+      "description": "An old-fashioned, cluttered indoor laboratory with a desk and various surfaces covered in vintage laboratory equipment, including glass beakers, flasks, and a steaming apparatus."
+    },
+    "Object 1": {
+      "name": "the colonial police uniform",
+      "label": "Object 1",
+      "description": "Khaki tan, Colonial-era style police uniform"
+    },
+    "Object 2": {
+      "name": "the all-white suit",
+      "label": "Object 2",
+      "description": "A set of men's clothing, entirely white in color"
+    },
+    "Object 3": {
+      "name": "the sunset-colored sari",
+      "label": "Object 3",
+      "description": "Vibrant woman's sari in shades of orange, red, and yellow."
+    },
+    "Object 4": {
+      "name": "the bright yellow turban",
+      "label": "Object 4",
+      "description": "A prominent yellow turban made of thickly wrapped cloth."
+    },
+    "Object 5": {
+      "name": "the complex lab apparatus",
+      "label": "Object 5",
+      "description": "A complex assembly of vintage analog laboratory apparatus with glass beakers, round-bottom flasks, coiled condenser tubing, rubber hoses, tarnished brass clamps, and support frames, with some glassware showing glowing liquids and other components featuring analog pressure gauges and control dials."
+    },
+    "Object 6": {
+      "name": "the vintage black convertible",
+      "label": "Object 6",
+      "description": "Vintage early-20th-century style convertible car with a glossy black finish, a foldable black fabric roof, prominent separate fenders over thin spoked wheels, flat footboards mounted below the doors, and large round headlamps on either side of an upright radiator grille"
+    },
+    "Object 7": {
+      "name": "the wrought-iron cafe table",
+      "label": "Object 7",
+      "description": "Small, round outdoor cafe table with a weathered, dark-stained wooden top and an ornate black wrought-iron pedestal base with three curved legs."
+    },
+    "Object 8": {
+      "name": "the twin-lens reflex camera",
+      "label": "Object 8",
+      "description": "Vintage twin-lens reflex camera with a black, boxy body covered in textured leatherette, two vertically-stacked lenses with silver chrome rims, and attached to a worn brown leather shoulder strap."
+    },
+    "Object 9": {
+      "name": "the manila folder",
+      "label": "Object 9",
+      "description": "Standard manila document folder made of light-tan cardstock with a rectangular shape and a blank tab along the top edge"
+    },
+    "Object 10": {
+      "name": "the red-cuffed military jacket",
+      "label": "Object 10",
+      "description": "A tan colonial-era military uniform jacket with vibrant red lapels and cuffs, adorned with brass buttons, paired with a black tricorn hat with white trim."
+    },
+    "Object 11": {
+      "name": "the historical black dress",
+      "label": "Object 11",
+      "description": "A historical-style black dress and a matching black hat."
+    },
+    "Object 12": {
+      "name": "the horse-drawn carriage",
+      "label": "Object 12",
+      "description": "Large, Colonial-era horse-drawn carriage with a large wooden wheel."
+    },
+    "Object 13": {
+      "name": "the bright orange turban",
+      "label": "Object 13",
+      "description": "Bright orange fabric turban, wrapped in many layers to form a rounded, voluminous shape with visible folds."
+    },
+    "Object 14": {
+      "name": "the red and gold sari",
+      "label": "Object 14",
+      "description": "A red and gold sari"
+    },
+    "Object 15": {
+      "name": "the potted sapling",
+      "label": "Object 15",
+      "description": "A small plant sapling with slender stems and small green leaves, housed in a small, reddish-brown terracotta pot."
+    },
+    "Object 16": {
+      "name": "the flower garlands",
+      "label": "Object 16",
+      "description": "Garlands composed of bright red and yellow flower blossoms strung together into long strands."
+    },
+    "Object 17": {
+      "name": "the white head wrap",
+      "label": "Object 17",
+      "description": "Simple white cloth head wrap"
+    }
+  },
+  "_window_shot_ids": [
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420__shot0067",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420__shot0068",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420__shot0069",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420__shot0070",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420__shot0071",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420__shot0072",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420__shot0073",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420__shot0074",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420__shot0075",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run474__i25_j57__T420__shot0076"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Arthur",
+    "Character 2": "Priya",
+    "Character 3": "Rohan",
+    "Character 4": "Elias",
+    "Character 5": "Anjali",
+    "Location 1": "The Old Quarter",
+    "Location 2": "The Yellow Void",
+    "Location 3": "Stone Creek Village",
+    "Location 4": "The Sunstone Ruins",
+    "Location 5": "The Vintage Laboratory",
+    "Object 1": "the colonial police uniform",
+    "Object 10": "the red-cuffed military jacket",
+    "Object 11": "the historical black dress",
+    "Object 12": "the horse-drawn carriage",
+    "Object 13": "the bright orange turban",
+    "Object 14": "the red and gold sari",
+    "Object 15": "the potted sapling",
+    "Object 16": "the flower garlands",
+    "Object 17": "the white head wrap",
+    "Object 2": "the all-white suit",
+    "Object 3": "the sunset-colored sari",
+    "Object 4": "the bright yellow turban",
+    "Object 5": "the complex lab apparatus",
+    "Object 6": "the vintage black convertible",
+    "Object 7": "the wrought-iron cafe table",
+    "Object 8": "the twin-lens reflex camera",
+    "Object 9": "the manila folder"
+  }
+}

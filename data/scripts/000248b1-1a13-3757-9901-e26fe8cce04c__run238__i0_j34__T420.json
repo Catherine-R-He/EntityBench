@@ -1,0 +1,1514 @@
+{
+  "story_name": "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420",
+  "story_overview": "In a bustling European city at night, a group of friends navigates the streets and a web of tense phone calls. While Simon rides through the city, Leo, Felix, and Noah try to connect with a distressed Isabelle, who is seen having emotional conversations on the phone. The story follows their separate journeys, culminating in moments of sadness and introspection for both Leo and Isabelle against the backdrop of the city's glowing lights.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Simon: Man wearing a yellow jacket, a beanie, and a backpack.\nCobblestone Alley: A narrow outdoor cobblestone alley that connects to a wide city street with sidewalks.\n\nView from behind Simon as he walks down the narrow, dark Cobblestone Alley at night. He emerges onto a bustling city street, filled with car traffic and pedestrians on the sidewalks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "View from behind Simon as he walks down the narrow, dark Cobblestone Alley at night. He emerges onto a bustling city street, filled with car traffic and pedestrians on the sidewalks."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Alex: Woman with shoulder-length brown hair.\nThe Car Interior: Interior of a vehicle featuring a dashboard, a steering wheel, and seats, enclosed by a roof, doors, a front windshield, and side windows.\n\nClose-up shot of Alex's hand holding the smartphone with map against the dark car upholstery inside The Car Interior, tilting the phone slightly. The illuminated screen of the smartphone with map displays a digital map, with a route clearly marked to a location labeled 'Place de la Bourse'.",
+        "Leo: Man wearing a light blue jacket over a white t-shirt.\nFelix: Man wearing a light-colored, unbuttoned collared shirt over a t-shirt.\nMedium close-up inside The Car Interior at night. Leo sits in the driver's seat against the dark car upholstery, smiling slightly as he looks down at the glowing screen of the smartphone with map. Beside him in the passenger seat, Felix leans in to get a better look at the screen."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up shot of Alex's hand holding the smartphone with map against the dark car upholstery inside The Car Interior, tilting the phone slightly. The illuminated screen of the smartphone with map displays a digital map, with a route clearly marked to a location labeled 'Place de la Bourse'.",
+        "Medium close-up inside The Car Interior at night. Leo sits in the driver's seat against the dark car upholstery, smiling slightly as he looks down at the glowing screen of the smartphone with map. Beside him in the passenger seat, Felix leans in to get a better look at the screen."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "City Street Corner: A European-style city street with a paved road, concrete sidewalks, a traffic light fixture, and parked cars along the curb.\nthe electric scooter: Standard electric scooter with a matte dark gray main body, a slender steering column, T-shaped handlebars with black rubber grips, a black non-slip deck, and small black wheels with a red taillight on the rear fender.\nViewed from behind, Simon rides the electric scooter along the paved street in City Street Corner at night. He moves away from the camera, heading towards the red glow of the red traffic light in the distance."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Viewed from behind, Simon rides the electric scooter along the paved street in City Street Corner at night. He moves away from the camera, heading towards the red glow of the red traffic light in the distance."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Chloe: Woman with dark hair and bangs.\n\nFelix drives the car, his hands on the steering wheel, his gaze shifting from the road ahead to the rearview mirror. Chloe sits in the passenger seat on the dark car upholstery, turning her head slightly to look out the side window."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Felix drives the car, his hands on the steering wheel, his gaze shifting from the road ahead to the rearview mirror. Chloe sits in the passenger seat on the dark car upholstery, turning her head slightly to look out the side window."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Isabelle: Woman wearing a light blue jacket over a white top and matching white trousers.\nNoah: Man wearing a dark jacket and light-colored pants.\n\nAt night at Cobblestone Alley, Leo, Isabelle, and Noah stand on the cobblestone sidewalk, talking and gesturing to each other. To their right, the silver hatchback is stopped on the street. To their left, the glow from the red traffic light illuminates the pavement."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At night at Cobblestone Alley, Leo, Isabelle, and Noah stand on the cobblestone sidewalk, talking and gesturing to each other. To their right, the silver hatchback is stopped on the street. To their left, the glow from the red traffic light illuminates the pavement."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "the single white wireless earbud: Single white wireless earbud with a glossy plastic casing, a short stem, and a small, dark mesh speaker grille.\n\nSide view from inside The Car Interior at night. Leo, wearing his light blue denim jacket, drives the car with a neutral expression, his gaze occasionally shifting to his mirrors while his hands grip the car steering wheel. The single white wireless earbud is in his right ear. Isabelle sits in the passenger seat next to him, looking out her window."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Side view from inside The Car Interior at night. Leo, wearing his light blue denim jacket, drives the car with a neutral expression, his gaze occasionally shifting to his mirrors while his hands grip the car steering wheel. The single white wireless earbud is in his right ear. Isabelle sits in the passenger seat next to him, looking out her window."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Laundry Street: Urban street with a concrete sidewalk fronting a row of shops, including a storefront with 'LOW COST LAUNDRY' signage.\nthe camera-rigged vehicle: A vehicle modified with specialized camera-mounting equipment.\nthe laundry neon sign: Rectangular neon sign with the words 'LOW COST' in glowing yellow text above the word 'LAUNDRY' in glowing blue text, mounted on a dark backing.\n\nA tracking shot from the moving camera-rigged vehicle captures the view of Laundry Street at night. The camera pans past Simon, who stands on the sidewalk glancing around in front of a row of shops, including a laundromat with the laundry neon sign."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A tracking shot from the moving camera-rigged vehicle captures the view of Laundry Street at night. The camera pans past Simon, who stands on the sidewalk glancing around in front of a row of shops, including a laundromat with the laundry neon sign."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Oscar: Man wearing a charcoal grey cardigan over a gray crewneck t-shirt, with a single wired earbud in one ear.\n\nOscar sits in the driver's seat, hands on the steering wheel and looking straight ahead. His fingers tap lightly on the steering wheel. The dim scene is heavily cast in blue light."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Oscar sits in the driver's seat, hands on the steering wheel and looking straight ahead. His fingers tap lightly on the steering wheel. The dim scene is heavily cast in blue light."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "the small wireless earbud: Small, white wireless earbud with a smooth, molded plastic casing.\nMedium close-up in The Car Interior at night. Felix sits in the driver's seat against the dark car upholstery, seen in profile with the small wireless earbud in his right ear. He smiles gently as he looks toward Alex, who is sitting in the passenger seat. Through the window, the city lights are visible as soft, blurred lights in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up in The Car Interior at night. Felix sits in the driver's seat against the dark car upholstery, seen in profile with the small wireless earbud in his right ear. He smiles gently as he looks toward Alex, who is sitting in the passenger seat. Through the window, the city lights are visible as soft, blurred lights in the background."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Carousel Plaza: An outdoor public space featuring a large, two-story carousel with decorative lights, a paved sidewalk, and a street lined with lights.\n\nAt night in Carousel Plaza, the brightly lit grand carousel spins as Alex rides one of the painted horses. On the sidewalk, Isabelle turns and walks away from the carousel along the street lined with lights."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At night in Carousel Plaza, the brightly lit grand carousel spins as Alex rides one of the painted horses. On the sidewalk, Isabelle turns and walks away from the carousel along the street lined with lights."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "The Green Awning Corner: Urban street corner with a storefront distinguished by a large green awning, with a pedestrian crosswalk marked by white lines on the pavement.\nthe illuminated green awning: A green canvas commercial awning that is brightly illuminated from within.\n\nMedium shot at night in The Green Awning Corner. Isabelle, wearing the white pantsuit, stands on the street corner under the illuminated green awning with her arms crossed, anxiously shifting her weight as she looks off-camera. Leo, wearing the light blue shirt-jacket, stands beside her, glancing from the same off-camera direction toward Isabelle with a concerned expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot at night in The Green Awning Corner. Isabelle, wearing the white pantsuit, stands on the street corner under the illuminated green awning with her arms crossed, anxiously shifting her weight as she looks off-camera. Leo, wearing the light blue shirt-jacket, stands beside her, glancing from the same off-camera direction toward Isabelle with a concerned expression."
+      ]
+    },
+    {
+      "scene_num": 12,
+      "video_prompts": [
+        "The City Promenade: A wide, tree-lined promenade with a sidewalk bordered by black bollards, a gravel area, a street with parked cars, and illuminated buildings.\nFull shot at night. Leo, wearing the light blue shirt-jacket, and Isabelle, wearing the white pantsuit, walk together along the wide, tree-lined promenade of The City Promenade. They stroll past the black bollards bordering the sidewalk, with parked cars and illuminated buildings visible in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Full shot at night. Leo, wearing the light blue shirt-jacket, and Isabelle, wearing the white pantsuit, walk together along the wide, tree-lined promenade of The City Promenade. They stroll past the black bollards bordering the sidewalk, with parked cars and illuminated buildings visible in the background."
+      ]
+    },
+    {
+      "scene_num": 13,
+      "video_prompts": [
+        "A low-angle, close-up shot at City Street Corner, focusing on the lower legs and feet of Simon, and of Isabelle wearing the white pantsuit, walking on a paved sidewalk.",
+        "the round-top backpack: Medium-sized dark gray nylon backpack with a classic rounded-top shape, a main compartment, a smaller front zippered pocket, and black adjustable shoulder straps.\nthe bokeh lights: A collection of soft, diffused, glowing circular lights in warm yellow, orange, and white tones.\n\nIsabelle, carrying the round-top backpack, stands on the sidewalk with her arms crossed, looking worried and pensive as she shifts her weight. Leo stands a few feet away, watching her with concern.",
+        "Isabelle, wearing the white pantsuit, walks along the sidewalk toward the camera. Further down the street, Simon, wearing the round-top backpack, walks away from the camera. In the distant background, Noah straightens up from near the parked cars, while Felix shifts his weight on the sidewalk.",
+        "Full shot of Isabelle, wearing the white pantsuit, walking confidently toward the camera on a sidewalk in City Street Corner. In the background, Simon and Noah walk along the street, which is lined with the parked cars and the street motorcycle. The evening scene is filled with the bokeh lights of the city.",
+        "the simple gray backpack: Medium-sized gray nylon backpack with a rectangular main compartment, a smaller zippered pocket on the front, and adjustable black webbing straps, showing minor signs of use and no visible branding.\n\nLeo stands on the sidewalk of City Street Corner, looking around pensively. He wears the light blue denim jacket and has the simple gray backpack on his back. The street motorcycle is parked in the background, and the street is illuminated by the warm glow of the bokeh lights and light from building windows."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "A low-angle, close-up shot at City Street Corner, focusing on the lower legs and feet of Simon, and of Isabelle wearing the white pantsuit, walking on a paved sidewalk.",
+        "Isabelle, carrying the round-top backpack, stands on the sidewalk with her arms crossed, looking worried and pensive as she shifts her weight. Leo stands a few feet away, watching her with concern.",
+        "Isabelle, wearing the white pantsuit, walks along the sidewalk toward the camera. Further down the street, Simon, wearing the round-top backpack, walks away from the camera. In the distant background, Noah straightens up from near the parked cars, while Felix shifts his weight on the sidewalk.",
+        "Full shot of Isabelle, wearing the white pantsuit, walking confidently toward the camera on a sidewalk in City Street Corner. In the background, Simon and Noah walk along the street, which is lined with the parked cars and the street motorcycle. The evening scene is filled with the bokeh lights of the city.",
+        "Leo stands on the sidewalk of City Street Corner, looking around pensively. He wears the light blue denim jacket and has the simple gray backpack on his back. The street motorcycle is parked in the background, and the street is illuminated by the warm glow of the bokeh lights and light from building windows."
+      ]
+    },
+    {
+      "scene_num": 14,
+      "video_prompts": [
+        "The Green Sofa Room: Indoor room featuring a green sofa/couch and a wall clock.\nthe round wall clock: Round analog wall clock with a dark wood casing, a white face, black Arabic numerals, and black hands.\nthe black smartphone: Modern black smartphone with a thin rectangular body, rounded corners, and a large glossy glass screen covering the front.\n\nIn the dimly lit The Green Sofa Room, Alex sleeps on a green sofa while Simon shifts in a nearby chair. The ringing of the black smartphone on a table startles Alex awake. She sits up groggily, answers the black smartphone, and holds the device to her ear."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Green Sofa Room, Alex sleeps on a green sofa while Simon shifts in a nearby chair. The ringing of the black smartphone on a table startles Alex awake. She sits up groggily, answers the black smartphone, and holds the device to her ear."
+      ]
+    },
+    {
+      "scene_num": 15,
+      "video_prompts": [
+        "The Reception Office: Office interior with a reception desk and a secondary work desk featuring an office landline telephone.\nthe dark wood office desk: Standard rectangular office desk with a dark wood laminate top and a simple black metal base.\nthe smartphone camera: Modern black smartphone with a large, dark glass screen, a glossy rectangular body with rounded corners, and a multi-lens camera array on the back\n\nInside The Reception Office at night, Felix shifts his weight anxiously while looking at his smartphone, where the screen displays '10:00 PM, France'. In the background, Leo sits at the dark wood office desk and speaks into the office landline phone."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Reception Office at night, Felix shifts his weight anxiously while looking at his smartphone, where the screen displays '10:00 PM, France'. In the background, Leo sits at the dark wood office desk and speaks into the office landline phone."
+      ]
+    },
+    {
+      "scene_num": 16,
+      "video_prompts": [
+        "Medium close-up of Simon sitting on the green sofa in The Green Sofa Room at night. He raises the black smartphone to his ear, his expression growing concerned as he listens."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up of Simon sitting on the green sofa in The Green Sofa Room at night. He raises the black smartphone to his ear, his expression growing concerned as he listens."
+      ]
+    },
+    {
+      "scene_num": 17,
+      "video_prompts": [
+        "Leo holds the vintage phone receiver to his ear, speaking with a worried expression, his face lit by the blurred city lights glowing in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Leo holds the vintage phone receiver to his ear, speaking with a worried expression, his face lit by the blurred city lights glowing in the background."
+      ]
+    },
+    {
+      "scene_num": 18,
+      "video_prompts": [
+        "Close-up of Simon in The Green Sofa Room at night. He holds the black smartphone to his ear and speaks into it with a concerned expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Simon in The Green Sofa Room at night. He holds the black smartphone to his ear and speaks into it with a concerned expression."
+      ]
+    },
+    {
+      "scene_num": 19,
+      "video_prompts": [
+        "the office file shelves: Tall, open-backed metal shelving units packed with rows of multicolored office binders and manila file folders with white labels on the spines.\n\nInside The Reception Office at night, Leo sits at the dark wood office desk and speaks into the office landline phone with a concerned expression. In the background, Felix works at a separate desk, with the office file shelves lining the wall behind them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Reception Office at night, Leo sits at the dark wood office desk and speaks into the office landline phone with a concerned expression. In the background, Felix works at a separate desk, with the office file shelves lining the wall behind them."
+      ]
+    },
+    {
+      "scene_num": 20,
+      "video_prompts": [
+        "Close-up of Leo at City Street Corner, holding a vintage phone receiver to his ear as he talks with a concerned expression. The background is filled with the soft, blurred glow of the bokeh lights."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Leo at City Street Corner, holding a vintage phone receiver to his ear as he talks with a concerned expression. The background is filled with the soft, blurred glow of the bokeh lights."
+      ]
+    },
+    {
+      "scene_num": 21,
+      "video_prompts": [
+        "the brass table lamps: A matching set of classic table lamps, each with a polished brass base, a slender stem, and a simple, off-white fabric drum shade.\n\nSimon, with a concerned expression, sits on the green sofa in The Green Sofa Room. He holds the black smartphone to his ear, speaking anxiously into the phone. The room is softly lit by the warm glow from the brass table lamps placed nearby."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Simon, with a concerned expression, sits on the green sofa in The Green Sofa Room. He holds the black smartphone to his ear, speaking anxiously into the phone. The room is softly lit by the warm glow from the brass table lamps placed nearby."
+      ]
+    },
+    {
+      "scene_num": 22,
+      "video_prompts": [
+        "Close-up of Leo in City Street Corner at night. He holds the vintage phone receiver to his ear, speaking into it with a concerned expression as the city lights blur softly in the background.",
+        "Close-up on Alex in City Street Corner at night. Wearing the two-tone green jacket, she holds a cell phone to her ear with a worried and stressed expression. While speaking to Leo, she frustratedly runs her free hand through her hair. The city lights are out of focus in the background."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Leo in City Street Corner at night. He holds the vintage phone receiver to his ear, speaking into it with a concerned expression as the city lights blur softly in the background.",
+        "Close-up on Alex in City Street Corner at night. Wearing the two-tone green jacket, she holds a cell phone to her ear with a worried and stressed expression. While speaking to Leo, she frustratedly runs her free hand through her hair. The city lights are out of focus in the background."
+      ]
+    },
+    {
+      "scene_num": 23,
+      "video_prompts": [
+        "In a dimly lit The Green Sofa Room, Simon sits on the green sofa with a concerned expression. He holds the black smartphone to his right ear, speaking into it."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a dimly lit The Green Sofa Room, Simon sits on the green sofa with a concerned expression. He holds the black smartphone to his right ear, speaking into it."
+      ]
+    },
+    {
+      "scene_num": 24,
+      "video_prompts": [
+        "Close-up of Isabelle in City Street Corner, standing with Leo on the street at night. She listens intently to the vintage phone receiver she holds to her ear, her expression serious as the city lights glow softly in the background.",
+        "A close-up of Leo at City Street Corner, his light blue denim jacket visible. His expression shifts to one of serious concern as he holds the vintage phone receiver to his ear, listening intently. The background is filled with soft, out-of-focus city lights."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Isabelle in City Street Corner, standing with Leo on the street at night. She listens intently to the vintage phone receiver she holds to her ear, her expression serious as the city lights glow softly in the background.",
+        "A close-up of Leo at City Street Corner, his light blue denim jacket visible. His expression shifts to one of serious concern as he holds the vintage phone receiver to his ear, listening intently. The background is filled with soft, out-of-focus city lights."
+      ]
+    },
+    {
+      "scene_num": 25,
+      "video_prompts": [
+        "In The Green Sofa Room at night, Alex, with a concerned expression, sits on the green sofa next to Simon. She holds the black smartphone to her ear and talks into it."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Green Sofa Room at night, Alex, with a concerned expression, sits on the green sofa next to Simon. She holds the black smartphone to her ear and talks into it."
+      ]
+    },
+    {
+      "scene_num": 26,
+      "video_prompts": [
+        "Close-up on Leo at City Street Corner. He holds the vintage phone receiver to his ear. With a serious expression, he speaks firmly into it, stating that he is ending the call."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Leo at City Street Corner. He holds the vintage phone receiver to his ear. With a serious expression, he speaks firmly into it, stating that he is ending the call."
+      ]
+    },
+    {
+      "scene_num": 27,
+      "video_prompts": [
+        "Medium close-up of Simon sitting on the green sofa in The Green Sofa Room at night. With a concerned expression, he lowers the black smartphone from his ear and stares at its screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up of Simon sitting on the green sofa in The Green Sofa Room at night. With a concerned expression, he lowers the black smartphone from his ear and stares at its screen."
+      ]
+    },
+    {
+      "scene_num": 28,
+      "video_prompts": [
+        "Medium shot inside The Reception Office at night. A somber Leo stands at a reception desk, tapping his fingers on the office landline phone. In the background, Felix works at a desk."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot inside The Reception Office at night. A somber Leo stands at a reception desk, tapping his fingers on the office landline phone. In the background, Felix works at a desk."
+      ]
+    },
+    {
+      "scene_num": 29,
+      "video_prompts": [
+        "Leo and Noah stand on the City Street Corner at night, with soft, blurred city lights glowing in the background. Noah glances over at Leo, who slowly turns his head to look down the street."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Leo and Noah stand on the City Street Corner at night, with soft, blurred city lights glowing in the background. Noah glances over at Leo, who slowly turns his head to look down the street."
+      ]
+    },
+    {
+      "scene_num": 30,
+      "video_prompts": [
+        "Morgan: Person wearing a gray blazer\n\nIn The Reception Office, Leo, wearing the light blue shirt-jacket, leans on the reception desk. Across the desk, Morgan looks up and smiles at him. The office landline phone is on the desk between them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Reception Office, Leo, wearing the light blue shirt-jacket, leans on the reception desk. Across the desk, Morgan looks up and smiles at him. The office landline phone is on the desk between them."
+      ]
+    },
+    {
+      "scene_num": 31,
+      "video_prompts": [
+        "Leo watches someone off-screen with a faint smile, then turns and starts to walk out of frame to the left."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Leo watches someone off-screen with a faint smile, then turns and starts to walk out of frame to the left."
+      ]
+    },
+    {
+      "scene_num": 32,
+      "video_prompts": [
+        "The Sunlit Room: Indoor room with a windowsill that has a small white flower pot on it.\nthe small flower pot: Small white ceramic flower pot with a simple, classic tapered shape.\nthe front-pocket backpack: Dark grey nylon backpack with a rounded top, a large main compartment, a smaller zippered pocket on the front, and two padded shoulder straps.\n\nClose-up on the small flower pot on a windowsill in The Sunlit Room. The hand of Leo enters the frame and picks up the small flower pot. The shot reveals the full figure of Leo standing, wearing the light blue denim jacket over a white t-shirt and the front-pocket backpack. Leo holds the small flower pot, turning it slightly in his hands as he looks down at it with a thoughtful expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on the small flower pot on a windowsill in The Sunlit Room. The hand of Leo enters the frame and picks up the small flower pot. The shot reveals the full figure of Leo standing, wearing the light blue denim jacket over a white t-shirt and the front-pocket backpack. Leo holds the small flower pot, turning it slightly in his hands as he looks down at it with a thoughtful expression."
+      ]
+    },
+    {
+      "scene_num": 33,
+      "video_prompts": [
+        "the black t-shirt: Plain black short-sleeved crewneck t-shirt.\n\nAt night in Cobblestone Alley, Felix, wearing a cream-colored, unbuttoned collared shirt over the black t-shirt, exits a building through a red door and walks down the cobblestone alley. He looks down at the large smartphone screen while passing a parked bicycle. Nearby, Simon leans against a brick wall, shifting his weight slightly as he waits.",
+        "At night in Cobblestone Alley, Leo, wearing the simple gray backpack, unlocks his bicycle, which is parked on the street.",
+        "At night in Cobblestone Alley, Simon rides a bicycle along a sidewalk before turning down the narrow, dimly lit cobblestone alley. He pedals away from the camera, receding into the distance."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "At night in Cobblestone Alley, Felix, wearing a cream-colored, unbuttoned collared shirt over the black t-shirt, exits a building through a red door and walks down the cobblestone alley. He looks down at the large smartphone screen while passing a parked bicycle. Nearby, Simon leans against a brick wall, shifting his weight slightly as he waits.",
+        "At night in Cobblestone Alley, Leo, wearing the simple gray backpack, unlocks his bicycle, which is parked on the street.",
+        "At night in Cobblestone Alley, Simon rides a bicycle along a sidewalk before turning down the narrow, dimly lit cobblestone alley. He pedals away from the camera, receding into the distance."
+      ]
+    },
+    {
+      "scene_num": 34,
+      "video_prompts": [
+        "Grand Theatre Square: A spacious, historic European city square with a cobblestone street, featuring the Grand Théâtre de Bordeaux, a large Neoclassical building with an ornate stone facade and a prominent colonnade of Corinthian columns.\n\nAt night in Grand Theatre Square, Isabelle walks from right to left across the cobblestone street, passing in front of the brightly illuminated Grand Théâtre de Bordeaux."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At night in Grand Theatre Square, Isabelle walks from right to left across the cobblestone street, passing in front of the brightly illuminated Grand Théâtre de Bordeaux."
+      ]
+    },
+    {
+      "scene_num": 35,
+      "video_prompts": [
+        "He looks down, his expression becoming sad and tearful.",
+        "Leo and Felix stand together on a sidewalk in City Street Corner at night. Leo looks down with a sad expression as tears well up in his eyes. The background is a soft blur of out-of-focus city lights."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "He looks down, his expression becoming sad and tearful.",
+        "Leo and Felix stand together on a sidewalk in City Street Corner at night. Leo looks down with a sad expression as tears well up in his eyes. The background is a soft blur of out-of-focus city lights."
+      ]
+    },
+    {
+      "scene_num": 36,
+      "video_prompts": [
+        "Wide shot at night in Grand Theatre Square. The facade of the Grand Théâtre de Bordeaux is brightly illuminated. In the foreground, Leo sits on the cobblestone ground with his back to the camera, looking up at the building. Grand Theatre Square is mostly empty.",
+        "Close-up on Leo and Simon at night in Grand Theatre Square. Leo looks down with a sad expression, while Simon glances at him with concern. The city lights in the background are soft and beautifully blurred."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Wide shot at night in Grand Theatre Square. The facade of the Grand Théâtre de Bordeaux is brightly illuminated. In the foreground, Leo sits on the cobblestone ground with his back to the camera, looking up at the building. Grand Theatre Square is mostly empty.",
+        "Close-up on Leo and Simon at night in Grand Theatre Square. Leo looks down with a sad expression, while Simon glances at him with concern. The city lights in the background are soft and beautifully blurred."
+      ]
+    },
+    {
+      "scene_num": 37,
+      "video_prompts": [
+        "The Reading Nook: Indoor setting with seating, intended for book reading.\n\nInside The Reading Nook, a close-up shot focuses on Leo's hands as he slowly turns a page of the open black-and-white photobook resting on his lap. The pages show text alongside black-and-white images."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Reading Nook, a close-up shot focuses on Leo's hands as he slowly turns a page of the open black-and-white photobook resting on his lap. The pages show text alongside black-and-white images."
+      ]
+    },
+    {
+      "scene_num": 38,
+      "video_prompts": [
+        "Close-up on Leo at night at Grand Theatre Square. Tears stream down his face as he looks down with a sad expression. The city lights in the background are blurred into soft bokeh.",
+        "Medium shot at night in Grand Theatre Square, the city square in front of the Grand Théâtre de Bordeaux. Simon sits on the cobblestone curb, absorbed in reading a book. On the street behind him, Leo rides a bicycle, while Noah walks along the sidewalk."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on Leo at night at Grand Theatre Square. Tears stream down his face as he looks down with a sad expression. The city lights in the background are blurred into soft bokeh.",
+        "Medium shot at night in Grand Theatre Square, the city square in front of the Grand Théâtre de Bordeaux. Simon sits on the cobblestone curb, absorbed in reading a book. On the street behind him, Leo rides a bicycle, while Noah walks along the sidewalk."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "Cobblestone Alley",
+        "Bustling City Street"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The Car Interior"
+      ],
+      "objects": [
+        "the dark car upholstery",
+        "the smartphone with map"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Leo",
+        "Felix"
+      ],
+      "places": [
+        "The Car Interior"
+      ],
+      "objects": [
+        "the dark car upholstery",
+        "the smartphone with map"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the electric scooter",
+        "the red traffic light"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Felix",
+        "Chloe"
+      ],
+      "places": [
+        "The Car Interior"
+      ],
+      "objects": [
+        "the dark car upholstery"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Leo",
+        "Isabelle",
+        "Noah"
+      ],
+      "places": [
+        "Cobblestone Alley"
+      ],
+      "objects": [
+        "the silver hatchback",
+        "the red traffic light"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Leo",
+        "Isabelle"
+      ],
+      "places": [
+        "The Car Interior"
+      ],
+      "objects": [
+        "the car steering wheel",
+        "the single white wireless earbud"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "Laundry Street"
+      ],
+      "objects": [
+        "the camera-rigged vehicle",
+        "the laundry neon sign"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Oscar"
+      ],
+      "places": [
+        "The Car Interior"
+      ],
+      "objects": [
+        "the driver's seat",
+        "the single wired earbud"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Felix",
+        "Alex"
+      ],
+      "places": [
+        "The Car Interior"
+      ],
+      "objects": [
+        "the dark car upholstery",
+        "the small wireless earbud"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Isabelle",
+        "Alex"
+      ],
+      "places": [
+        "Carousel Plaza"
+      ],
+      "objects": [
+        "the grand carousel"
+      ]
+    },
+    "11:1": {
+      "characters": [
+        "Leo",
+        "Isabelle"
+      ],
+      "places": [
+        "The Green Awning Corner"
+      ],
+      "objects": [
+        "the light blue shirt-jacket",
+        "the white pantsuit",
+        "the illuminated green awning"
+      ]
+    },
+    "12:1": {
+      "characters": [
+        "Leo",
+        "Isabelle"
+      ],
+      "places": [
+        "The City Promenade"
+      ],
+      "objects": [
+        "the light blue shirt-jacket",
+        "the white pantsuit"
+      ]
+    },
+    "13:1": {
+      "characters": [
+        "Simon",
+        "Isabelle"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the white pantsuit"
+      ]
+    },
+    "13:2": {
+      "characters": [
+        "Leo",
+        "Isabelle"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the round-top backpack",
+        "the parked cars",
+        "the bokeh lights"
+      ]
+    },
+    "13:3": {
+      "characters": [
+        "Felix",
+        "Simon",
+        "Isabelle",
+        "Noah"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the parked cars",
+        "the bokeh lights",
+        "the white pantsuit",
+        "the round-top backpack"
+      ]
+    },
+    "13:4": {
+      "characters": [
+        "Simon",
+        "Isabelle",
+        "Noah"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the bokeh lights",
+        "the white pantsuit",
+        "the parked cars",
+        "the street motorcycle"
+      ]
+    },
+    "13:5": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the bokeh lights",
+        "the street motorcycle",
+        "the simple gray backpack"
+      ]
+    },
+    "14:1": {
+      "characters": [
+        "Simon",
+        "Alex"
+      ],
+      "places": [
+        "The Green Sofa Room"
+      ],
+      "objects": [
+        "the black smartphone"
+      ]
+    },
+    "15:1": {
+      "characters": [
+        "Leo",
+        "Felix"
+      ],
+      "places": [
+        "The Reception Office"
+      ],
+      "objects": [
+        "the office landline phone",
+        "the dark wood office desk",
+        "the smartphone camera"
+      ]
+    },
+    "16:1": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "The Green Sofa Room"
+      ],
+      "objects": [
+        "the black smartphone"
+      ]
+    },
+    "17:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the vintage phone receiver"
+      ]
+    },
+    "18:1": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "The Green Sofa Room"
+      ],
+      "objects": [
+        "the black smartphone"
+      ]
+    },
+    "19:1": {
+      "characters": [
+        "Leo",
+        "Felix"
+      ],
+      "places": [
+        "The Reception Office"
+      ],
+      "objects": [
+        "the office landline phone",
+        "the dark wood office desk",
+        "the office file shelves"
+      ]
+    },
+    "20:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the bokeh lights",
+        "the vintage phone receiver"
+      ]
+    },
+    "21:1": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "The Green Sofa Room"
+      ],
+      "objects": [
+        "the black smartphone",
+        "the brass table lamps"
+      ]
+    },
+    "22:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the vintage phone receiver"
+      ]
+    },
+    "22:2": {
+      "characters": [
+        "Leo",
+        "Alex"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the two-tone green jacket"
+      ]
+    },
+    "23:1": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "The Green Sofa Room"
+      ],
+      "objects": [
+        "the black smartphone"
+      ]
+    },
+    "24:1": {
+      "characters": [
+        "Leo",
+        "Isabelle"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the vintage phone receiver"
+      ]
+    },
+    "24:2": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the vintage phone receiver"
+      ]
+    },
+    "25:1": {
+      "characters": [
+        "Simon",
+        "Alex"
+      ],
+      "places": [
+        "The Green Sofa Room"
+      ],
+      "objects": [
+        "the black smartphone"
+      ]
+    },
+    "26:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": [
+        "the vintage phone receiver"
+      ]
+    },
+    "27:1": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "The Green Sofa Room"
+      ],
+      "objects": [
+        "the black smartphone"
+      ]
+    },
+    "28:1": {
+      "characters": [
+        "Leo",
+        "Felix"
+      ],
+      "places": [
+        "The Reception Office"
+      ],
+      "objects": [
+        "the office landline phone"
+      ]
+    },
+    "29:1": {
+      "characters": [
+        "Leo",
+        "Noah"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": []
+    },
+    "30:1": {
+      "characters": [
+        "Leo",
+        "Morgan"
+      ],
+      "places": [
+        "The Reception Office"
+      ],
+      "objects": [
+        "the light blue shirt-jacket",
+        "the office landline phone"
+      ]
+    },
+    "31:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": []
+    },
+    "32:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Sunlit Room"
+      ],
+      "objects": [
+        "the small flower pot",
+        "the front-pocket backpack"
+      ]
+    },
+    "33:1": {
+      "characters": [
+        "Felix",
+        "Simon"
+      ],
+      "places": [
+        "Cobblestone Alley"
+      ],
+      "objects": [
+        "the large smartphone screen",
+        "the black t-shirt"
+      ]
+    },
+    "33:2": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "Cobblestone Alley"
+      ],
+      "objects": [
+        "the simple gray backpack",
+        "his bicycle"
+      ]
+    },
+    "33:3": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "Cobblestone Alley"
+      ],
+      "objects": [
+        "bicycle"
+      ]
+    },
+    "34:1": {
+      "characters": [
+        "Isabelle"
+      ],
+      "places": [
+        "Grand Theatre Square"
+      ],
+      "objects": []
+    },
+    "35:1": {
+      "characters": [],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": []
+    },
+    "35:2": {
+      "characters": [
+        "Leo",
+        "Felix"
+      ],
+      "places": [
+        "City Street Corner"
+      ],
+      "objects": []
+    },
+    "36:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "Grand Theatre Square"
+      ],
+      "objects": []
+    },
+    "36:2": {
+      "characters": [
+        "Leo",
+        "Simon"
+      ],
+      "places": [
+        "Grand Theatre Square"
+      ],
+      "objects": []
+    },
+    "37:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Reading Nook"
+      ],
+      "objects": [
+        "the black-and-white photobook"
+      ]
+    },
+    "38:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "Grand Theatre Square"
+      ],
+      "objects": []
+    },
+    "38:2": {
+      "characters": [
+        "Leo",
+        "Simon",
+        "Noah"
+      ],
+      "places": [
+        "Grand Theatre Square"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Alex",
+      "label": "Character 1",
+      "description": "Woman with shoulder-length brown hair."
+    },
+    "Character 2": {
+      "name": "Leo",
+      "label": "Character 2",
+      "description": "Man wearing a light blue jacket over a white t-shirt."
+    },
+    "Character 3": {
+      "name": "Felix",
+      "label": "Character 3",
+      "description": "Man wearing a light-colored, unbuttoned collared shirt over a t-shirt."
+    },
+    "Character 4": {
+      "name": "Simon",
+      "label": "Character 4",
+      "description": "Man wearing a yellow jacket, a beanie, and a backpack."
+    },
+    "Character 5": {
+      "name": "Chloe",
+      "label": "Character 5",
+      "description": "Woman with dark hair and bangs."
+    },
+    "Character 6": {
+      "name": "Noah",
+      "label": "Character 6",
+      "description": "Man wearing a dark jacket and light-colored pants."
+    },
+    "Character 7": {
+      "name": "Oscar",
+      "label": "Character 7",
+      "description": "Man wearing a charcoal grey cardigan over a gray crewneck t-shirt, with a single wired earbud in one ear."
+    },
+    "Character 8": {
+      "name": "Isabelle",
+      "label": "Character 8",
+      "description": "Woman wearing a light blue jacket over a white top and matching white trousers."
+    },
+    "Character 9": {
+      "name": "Morgan",
+      "label": "Character 9",
+      "description": "Person wearing a gray blazer"
+    },
+    "Location 1": {
+      "name": "Cobblestone Alley",
+      "label": "Location 1",
+      "description": "A narrow outdoor cobblestone alley that connects to a wide city street with sidewalks."
+    },
+    "Location 2": {
+      "name": "City Street Corner",
+      "label": "Location 2",
+      "description": "A European-style city street with a paved road, concrete sidewalks, a traffic light fixture, and parked cars along the curb."
+    },
+    "Location 3": {
+      "name": "Laundry Street",
+      "label": "Location 3",
+      "description": "Urban street with a concrete sidewalk fronting a row of shops, including a storefront with 'LOW COST LAUNDRY' signage."
+    },
+    "Location 4": {
+      "name": "The Car Interior",
+      "label": "Location 4",
+      "description": "Interior of a vehicle featuring a dashboard, a steering wheel, and seats, enclosed by a roof, doors, a front windshield, and side windows."
+    },
+    "Location 5": {
+      "name": "Carousel Plaza",
+      "label": "Location 5",
+      "description": "An outdoor public space featuring a large, two-story carousel with decorative lights, a paved sidewalk, and a street lined with lights."
+    },
+    "Location 6": {
+      "name": "The Green Awning Corner",
+      "label": "Location 6",
+      "description": "Urban street corner with a storefront distinguished by a large green awning, with a pedestrian crosswalk marked by white lines on the pavement."
+    },
+    "Location 7": {
+      "name": "The City Promenade",
+      "label": "Location 7",
+      "description": "A wide, tree-lined promenade with a sidewalk bordered by black bollards, a gravel area, a street with parked cars, and illuminated buildings."
+    },
+    "Location 8": {
+      "name": "The Green Sofa Room",
+      "label": "Location 8",
+      "description": "Indoor room featuring a green sofa/couch and a wall clock."
+    },
+    "Location 9": {
+      "name": "The Reception Office",
+      "label": "Location 9",
+      "description": "Office interior with a reception desk and a secondary work desk featuring an office landline telephone."
+    },
+    "Location 10": {
+      "name": "The Sunlit Room",
+      "label": "Location 10",
+      "description": "Indoor room with a windowsill that has a small white flower pot on it."
+    },
+    "Location 11": {
+      "name": "Grand Theatre Square",
+      "label": "Location 11",
+      "description": "A spacious, historic European city square with a cobblestone street, featuring the Grand Théâtre de Bordeaux, a large Neoclassical building with an ornate stone facade and a prominent colonnade of Corinthian columns."
+    },
+    "Location 12": {
+      "name": "The Reading Nook",
+      "label": "Location 12",
+      "description": "Indoor setting with seating, intended for book reading."
+    },
+    "Object 1": {
+      "name": "the dark car upholstery",
+      "label": "Object 1",
+      "description": "Car interior with dark upholstery and trim"
+    },
+    "Object 2": {
+      "name": "the smartphone with map",
+      "label": "Object 2",
+      "description": "A smartphone with a digital map on its screen showing a marked route to a location labeled 'Place de la Bourse'"
+    },
+    "Object 3": {
+      "name": "the red traffic light",
+      "label": "Object 3",
+      "description": "Standard vertical traffic light with a black rectangular housing and an illuminated circular red light at the top position beneath a small overhanging visor"
+    },
+    "Object 4": {
+      "name": "the electric scooter",
+      "label": "Object 4",
+      "description": "Standard electric scooter with a matte dark gray main body, a slender steering column, T-shaped handlebars with black rubber grips, a black non-slip deck, and small black wheels with a red taillight on the rear fender."
+    },
+    "Object 5": {
+      "name": "the silver hatchback",
+      "label": "Object 5",
+      "description": "Silver hatchback car"
+    },
+    "Object 6": {
+      "name": "the light blue shirt-jacket",
+      "label": "Object 6",
+      "description": "Open-front light blue shirt-jacket"
+    },
+    "Object 7": {
+      "name": "the single white wireless earbud",
+      "label": "Object 7",
+      "description": "Single white wireless earbud with a glossy plastic casing, a short stem, and a small, dark mesh speaker grille."
+    },
+    "Object 8": {
+      "name": "the car steering wheel",
+      "label": "Object 8",
+      "description": "Car interior with a steering wheel"
+    },
+    "Object 9": {
+      "name": "the laundry neon sign",
+      "label": "Object 9",
+      "description": "Rectangular neon sign with the words 'LOW COST' in glowing yellow text above the word 'LAUNDRY' in glowing blue text, mounted on a dark backing."
+    },
+    "Object 10": {
+      "name": "the camera-rigged vehicle",
+      "label": "Object 10",
+      "description": "A vehicle modified with specialized camera-mounting equipment."
+    },
+    "Object 11": {
+      "name": "the single wired earbud",
+      "label": "Object 11",
+      "description": "A single earbud"
+    },
+    "Object 12": {
+      "name": "the driver's seat",
+      "label": "Object 12",
+      "description": "Car interior with a driver's seat and a steering wheel"
+    },
+    "Object 13": {
+      "name": "the small wireless earbud",
+      "label": "Object 13",
+      "description": "Small, white wireless earbud with a smooth, molded plastic casing."
+    },
+    "Object 14": {
+      "name": "the grand carousel",
+      "label": "Object 14",
+      "description": "Large, two-story carousel with a decorative canopy and painted horses, adorned with numerous bright lights"
+    },
+    "Object 15": {
+      "name": "the white pantsuit",
+      "label": "Object 15",
+      "description": "White flared-leg pantsuit with gold buttons"
+    },
+    "Object 16": {
+      "name": "the illuminated green awning",
+      "label": "Object 16",
+      "description": "A green canvas commercial awning that is brightly illuminated from within."
+    },
+    "Object 17": {
+      "name": "the two-tone green jacket",
+      "label": "Object 17",
+      "description": "A two-toned jacket with light green and dark green sections"
+    },
+    "Object 18": {
+      "name": "the bokeh lights",
+      "label": "Object 18",
+      "description": "A collection of soft, diffused, glowing circular lights in warm yellow, orange, and white tones."
+    },
+    "Object 19": {
+      "name": "the plain white top",
+      "label": "Object 19",
+      "description": "A plain white top"
+    },
+    "Object 20": {
+      "name": "the round-top backpack",
+      "label": "Object 20",
+      "description": "Medium-sized dark gray nylon backpack with a classic rounded-top shape, a main compartment, a smaller front zippered pocket, and black adjustable shoulder straps."
+    },
+    "Object 21": {
+      "name": "the parked cars",
+      "label": "Object 21",
+      "description": "Several parked modern passenger vehicles"
+    },
+    "Object 22": {
+      "name": "the street motorcycle",
+      "label": "Object 22",
+      "description": "Standard street motorcycle"
+    },
+    "Object 23": {
+      "name": "the black smartphone",
+      "label": "Object 23",
+      "description": "Modern black smartphone with a thin rectangular body, rounded corners, and a large glossy glass screen covering the front."
+    },
+    "Object 24": {
+      "name": "the round wall clock",
+      "label": "Object 24",
+      "description": "Round analog wall clock with a dark wood casing, a white face, black Arabic numerals, and black hands"
+    },
+    "Object 25": {
+      "name": "the office landline phone",
+      "label": "Object 25",
+      "description": "A standard multi-line office landline telephone with a dark gray plastic casing, a slanted base featuring a numeric keypad, a small monochrome LCD screen, and multiple function buttons, with a matching handset connected by a coiled cord"
+    },
+    "Object 26": {
+      "name": "the dark wood office desk",
+      "label": "Object 26",
+      "description": "Standard rectangular office desk with a dark wood laminate top and a simple black metal base."
+    },
+    "Object 27": {
+      "name": "the smartphone camera",
+      "label": "Object 27",
+      "description": "Modern black smartphone with a large, dark glass screen, a glossy rectangular body with rounded corners, and a multi-lens camera array on the back"
+    },
+    "Object 28": {
+      "name": "the gray collared shirt",
+      "label": "Object 28",
+      "description": "A gray collared shirt"
+    },
+    "Object 29": {
+      "name": "the vintage phone receiver",
+      "label": "Object 29",
+      "description": "Old-fashioned black landline phone receiver made of glossy hard plastic with a coiled black cord attached"
+    },
+    "Object 30": {
+      "name": "the office file shelves",
+      "label": "Object 30",
+      "description": "Tall, open-backed metal shelving units packed with rows of multicolored office binders and manila file folders with white labels on the spines."
+    },
+    "Object 31": {
+      "name": "the brass table lamps",
+      "label": "Object 31",
+      "description": "A matching set of classic table lamps, each with a polished brass base, a slender stem, and a simple, off-white fabric drum shade."
+    },
+    "Object 32": {
+      "name": "the gray blazer",
+      "label": "Object 32",
+      "description": "Man's-style grey blazer with a boxy, single-breasted cut, structured shoulders, and notched lapels"
+    },
+    "Object 33": {
+      "name": "the dark shirt",
+      "label": "Object 33",
+      "description": "Dark-colored shirt"
+    },
+    "Object 34": {
+      "name": "the front-pocket backpack",
+      "label": "Object 34",
+      "description": "Dark grey nylon backpack with a rounded top, a large main compartment, a smaller zippered pocket on the front, and two padded shoulder straps."
+    },
+    "Object 35": {
+      "name": "the small flower pot",
+      "label": "Object 35",
+      "description": "Small white ceramic flower pot with a simple, classic tapered shape."
+    },
+    "Object 36": {
+      "name": "the large smartphone screen",
+      "label": "Object 36",
+      "description": "Modern rectangular smartphone with a large glass screen"
+    },
+    "Object 37": {
+      "name": "the black t-shirt",
+      "label": "Object 37",
+      "description": "Plain black short-sleeved crewneck t-shirt."
+    },
+    "Object 38": {
+      "name": "the simple gray backpack",
+      "label": "Object 38",
+      "description": "Medium-sized gray nylon backpack with a rectangular main compartment, a smaller zippered pocket on the front, and adjustable black webbing straps, showing minor signs of use and no visible branding."
+    },
+    "Object 39": {
+      "name": "the black-and-white photobook",
+      "label": "Object 39",
+      "description": "A photobook or album with pages containing printed text alongside black-and-white photographs"
+    },
+    "Object 40": {
+      "name": "the plain white t-shirt",
+      "label": "Object 40",
+      "description": "Plain white t-shirt"
+    }
+  },
+  "_window_shot_ids": [
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0001",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0003",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0004",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0005",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0006",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0007",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0008",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0009",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0010",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0011",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0012",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0013",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0014",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0015",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0016",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0017",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0018",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0019",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0021",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0022",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0023",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0024",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0025",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0026",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0027",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0028",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0029",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0030",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0031",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0032",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0033",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0034",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0035",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0036",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0037",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0038",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0039",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0040",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0041",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0042",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0043",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0044",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0045",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0046",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0047",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0049",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0050",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0051",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0052",
+    "000248b1-1a13-3757-9901-e26fe8cce04c__run238__i0_j34__T420__shot0053"
+  ],
+  "_num_scenes": 38,
+  "_num_shots": 50,
+  "_name_map": {
+    "Character 1": "Alex",
+    "Character 2": "Leo",
+    "Character 3": "Felix",
+    "Character 4": "Simon",
+    "Character 5": "Chloe",
+    "Character 6": "Noah",
+    "Character 7": "Oscar",
+    "Character 8": "Isabelle",
+    "Character 9": "Morgan",
+    "Location 1": "Cobblestone Alley",
+    "Location 10": "The Sunlit Room",
+    "Location 11": "Grand Theatre Square",
+    "Location 12": "The Reading Nook",
+    "Location 2": "City Street Corner",
+    "Location 3": "Laundry Street",
+    "Location 4": "The Car Interior",
+    "Location 5": "Carousel Plaza",
+    "Location 6": "The Green Awning Corner",
+    "Location 7": "The City Promenade",
+    "Location 8": "The Green Sofa Room",
+    "Location 9": "The Reception Office",
+    "Object 1": "the dark car upholstery",
+    "Object 10": "the camera-rigged vehicle",
+    "Object 11": "the single wired earbud",
+    "Object 12": "the driver's seat",
+    "Object 13": "the small wireless earbud",
+    "Object 14": "the grand carousel",
+    "Object 15": "the white pantsuit",
+    "Object 16": "the illuminated green awning",
+    "Object 17": "the two-tone green jacket",
+    "Object 18": "the bokeh lights",
+    "Object 19": "the plain white top",
+    "Object 2": "the smartphone with map",
+    "Object 20": "the round-top backpack",
+    "Object 21": "the parked cars",
+    "Object 22": "the street motorcycle",
+    "Object 23": "the black smartphone",
+    "Object 24": "the round wall clock",
+    "Object 25": "the office landline phone",
+    "Object 26": "the dark wood office desk",
+    "Object 27": "the smartphone camera",
+    "Object 28": "the gray collared shirt",
+    "Object 29": "the vintage phone receiver",
+    "Object 3": "the red traffic light",
+    "Object 30": "the office file shelves",
+    "Object 31": "the brass table lamps",
+    "Object 32": "the gray blazer",
+    "Object 33": "the dark shirt",
+    "Object 34": "the front-pocket backpack",
+    "Object 35": "the small flower pot",
+    "Object 36": "the large smartphone screen",
+    "Object 37": "the black t-shirt",
+    "Object 38": "the simple gray backpack",
+    "Object 39": "the black-and-white photobook",
+    "Object 4": "the electric scooter",
+    "Object 40": "the plain white t-shirt",
+    "Object 5": "the silver hatchback",
+    "Object 6": "the light blue shirt-jacket",
+    "Object 7": "the single white wireless earbud",
+    "Object 8": "the car steering wheel",
+    "Object 9": "the laundry neon sign"
+  }
+}

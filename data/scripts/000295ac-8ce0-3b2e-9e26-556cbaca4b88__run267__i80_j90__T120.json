@@ -1,0 +1,440 @@
+{
+  "story_name": "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120",
+  "story_overview": "Following a violent incident involving Chloe, Lena, and a man named Silas, the stoic Arthur investigates by examining a series of black-and-white photographs. Arthur confronts the now-imprisoned Silas, whose cryptic words lead Arthur to a shocking discovery back in his study.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Arthur: Man with short, neatly combed dark hair, wearing black-rimmed glasses, a dark charcoal suit jacket, a white collared shirt, and a dark tie.\nThe Garden Gazebo: Outdoor area featuring a white gazebo.\n\nIn The Garden Gazebo, a close-up follows a distressed Arthur, who is wearing the white collared shirt and dark charcoal suit jacket. He turns and walks away, disappearing into the darkness."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Garden Gazebo, a close-up follows a distressed Arthur, who is wearing the white collared shirt and dark charcoal suit jacket. He turns and walks away, disappearing into the darkness."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Chloe: Woman with blonde hair wearing a white slip dress with thin spaghetti straps.\nThe Shadowed Room: Dark indoor room.\nthe white choker necklace: A plain, solid white band-style choker necklace.\n\nExtreme close-up on the face of Chloe as her features begin to contort in distress, a tear welling in her eye. She wears the white choker necklace around her neck. The setting is the dramatically lit The Shadowed Room, and the thin white rope hangs vertically next to her face, swaying slightly.",
+        "Silas: Man with shaggy, shoulder-length black hair and a full, dark beard.\nAlex: A person with long, straight dark brown hair and intense eyes.\n\nInside The Shadowed Room, Silas has blood on his face and stares forward with a fixed, intense expression, his eyes narrowing slightly. The view is from over the shoulder of Alex's out-of-focus silhouette in the foreground. The camera slowly pushes in on Silas.",
+        "Extreme close-up of Chloe in The Shadowed Room. Her eyes squeeze shut in a grimace of pain as the thin white rope pulls tighter against her neck and cheek. The scene is starkly lit with dramatic blue and white light against a pitch-black background.",
+        "Extreme close-up on the face of Silas, with blood smeared on it, inside The Shadowed Room. He stares intently off-camera, his brow furrowing slightly, as an out-of-focus figure enters the foreground, partially blocking the view of his face.",
+        "Fiona: Young woman with long curly red hair falling past her shoulders, fair skin with light freckles, wearing a fitted sage-green vintage A-line dress with a Peter Pan collar and short puffed sleeves, and a thin brown leather belt at the waist\n\nExtreme close-up on Chloe's terrified face as she screams at Fiona in The Shadowed Room, her mouth wide open as she struggles against the thin white rope wrapped tightly around her neck. The shot is dramatically lit, with harsh light on her face against the dark background.",
+        "Lena: Woman with long dark hair, wearing a white slip.\n\nIn The Shadowed Room, Silas glares, blood visible on his mouth. Lena screams in terror as the thin white rope is pulled taut near her neck."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Extreme close-up on the face of Chloe as her features begin to contort in distress, a tear welling in her eye. She wears the white choker necklace around her neck. The setting is the dramatically lit The Shadowed Room, and the thin white rope hangs vertically next to her face, swaying slightly.",
+        "Inside The Shadowed Room, Silas has blood on his face and stares forward with a fixed, intense expression, his eyes narrowing slightly. The view is from over the shoulder of Alex's out-of-focus silhouette in the foreground. The camera slowly pushes in on Silas.",
+        "Extreme close-up of Chloe in The Shadowed Room. Her eyes squeeze shut in a grimace of pain as the thin white rope pulls tighter against her neck and cheek. The scene is starkly lit with dramatic blue and white light against a pitch-black background.",
+        "Extreme close-up on the face of Silas, with blood smeared on it, inside The Shadowed Room. He stares intently off-camera, his brow furrowing slightly, as an out-of-focus figure enters the foreground, partially blocking the view of his face.",
+        "Extreme close-up on Chloe's terrified face as she screams at Fiona in The Shadowed Room, her mouth wide open as she struggles against the thin white rope wrapped tightly around her neck. The shot is dramatically lit, with harsh light on her face against the dark background.",
+        "In The Shadowed Room, Silas glares, blood visible on his mouth. Lena screams in terror as the thin white rope is pulled taut near her neck."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Executive Study: An indoor office with dark wood paneling, a large executive desk with a high-backed chair, and walls lined with built-in bookshelves filled with books.\nthe black-and-white photograph: Rectangular black-and-white photograph with a white border.\n\nInside The Executive Study, Arthur, dressed in the dark charcoal suit and the dark tie and wearing the black-rimmed glasses, looks down with a serious expression. He then raises the black-and-white photograph to examine it more closely with a focused gaze."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Executive Study, Arthur, dressed in the dark charcoal suit and the dark tie and wearing the black-rimmed glasses, looks down with a serious expression. He then raises the black-and-white photograph to examine it more closely with a focused gaze."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Prison Cell: A stark, confined jail cell interior with rough concrete or stone walls, a bare floor, and a front wall of thick, vertical iron bars.\nthe iron cell bars: A set of thick, vertical, cylindrical metal bars, dark grey in color.\n\nExtreme close-up on Silas's face inside The Prison Cell. He looks through the iron cell bars at Arthur and speaks with a knowing smirk. Arthur stands on the other side of the bars, listening intently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up on Silas's face inside The Prison Cell. He looks through the iron cell bars at Arthur and speaks with a knowing smirk. Arthur stands on the other side of the bars, listening intently."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Close-up on Arthur, wearing the dark charcoal suit and the black-rimmed glasses, in the dimly lit The Executive Study. With an expression of intense focus, he holds and flips through a stack of photographs, including the black-and-white photograph. Lena stands silently in the background, watching him and shifting her weight slightly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Arthur, wearing the dark charcoal suit and the black-rimmed glasses, in the dimly lit The Executive Study. With an expression of intense focus, he holds and flips through a stack of photographs, including the black-and-white photograph. Lena stands silently in the background, watching him and shifting her weight slightly."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "An extreme close-up on Silas's face is viewed through the blurry, out-of-focus vertical the iron cell bars. The scene is dimly lit, and his pensive and somber expression subtly shifts as he looks off-screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "An extreme close-up on Silas's face is viewed through the blurry, out-of-focus vertical the iron cell bars. The scene is dimly lit, and his pensive and somber expression subtly shifts as he looks off-screen."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Close-up shot of Arthur inside The Executive Study. Arthur is wearing the dark charcoal suit and has a pensive expression, looking down. He slowly removes the black-rimmed glasses from his face and rubs the bridge of his nose."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot of Arthur inside The Executive Study. Arthur is wearing the dark charcoal suit and has a pensive expression, looking down. He slowly removes the black-rimmed glasses from his face and rubs the bridge of his nose."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "A close-up of Silas's face, seen through the vertical iron cell bars inside The Prison Cell. With a worried and distressed expression, Silas shifts his gaze to look just off-screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A close-up of Silas's face, seen through the vertical iron cell bars inside The Prison Cell. With a worried and distressed expression, Silas shifts his gaze to look just off-screen."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Close-up shot of Arthur, wearing the dark tie and the dark charcoal suit, in the dimly lit The Executive Study. His brow furrows slightly as he listens intently to Chloe, who is speaking from off-screen, his expression remaining serious and pensive.",
+        "Close-up profile of Arthur, wearing the dark tie and the dark charcoal suit, in the dimly lit The Executive Study. He stares forward at Chloe in shock, his mouth falling wide open in a silent gasp."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up shot of Arthur, wearing the dark tie and the dark charcoal suit, in the dimly lit The Executive Study. His brow furrows slightly as he listens intently to Chloe, who is speaking from off-screen, his expression remaining serious and pensive.",
+        "Close-up profile of Arthur, wearing the dark tie and the dark charcoal suit, in the dimly lit The Executive Study. He stares forward at Chloe in shock, his mouth falling wide open in a silent gasp."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Garden Gazebo"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Shadowed Room"
+      ],
+      "objects": [
+        "the white choker necklace",
+        "the thin white rope"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Silas",
+        "Alex"
+      ],
+      "places": [
+        "The Shadowed Room"
+      ],
+      "objects": []
+    },
+    "2:3": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Shadowed Room"
+      ],
+      "objects": [
+        "the thin white rope"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Shadowed Room"
+      ],
+      "objects": []
+    },
+    "2:5": {
+      "characters": [
+        "Chloe",
+        "Fiona"
+      ],
+      "places": [
+        "The Shadowed Room"
+      ],
+      "objects": [
+        "the thin white rope"
+      ]
+    },
+    "2:6": {
+      "characters": [
+        "Silas",
+        "Lena"
+      ],
+      "places": [
+        "The Shadowed Room"
+      ],
+      "objects": [
+        "the thin white rope"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Executive Study"
+      ],
+      "objects": [
+        "the dark charcoal suit",
+        "the dark tie",
+        "the black-rimmed glasses",
+        "the black-and-white photograph"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Silas",
+        "Arthur"
+      ],
+      "places": [
+        "The Prison Cell"
+      ],
+      "objects": [
+        "the iron cell bars"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Arthur",
+        "Lena"
+      ],
+      "places": [
+        "The Executive Study"
+      ],
+      "objects": [
+        "the dark charcoal suit",
+        "the black-rimmed glasses",
+        "the black-and-white photograph"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Prison Cell"
+      ],
+      "objects": [
+        "the iron cell bars"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Executive Study"
+      ],
+      "objects": [
+        "the dark charcoal suit",
+        "the black-rimmed glasses"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Prison Cell"
+      ],
+      "objects": [
+        "the iron cell bars"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Chloe",
+        "Arthur"
+      ],
+      "places": [
+        "The Executive Study"
+      ],
+      "objects": [
+        "the dark charcoal suit",
+        "the dark tie"
+      ]
+    },
+    "9:2": {
+      "characters": [
+        "Chloe",
+        "Arthur"
+      ],
+      "places": [
+        "The Executive Study"
+      ],
+      "objects": [
+        "the dark charcoal suit",
+        "the dark tie"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Chloe",
+      "label": "Character 1",
+      "description": "Woman with blonde hair wearing a white slip dress with thin spaghetti straps."
+    },
+    "Character 2": {
+      "name": "Lena",
+      "label": "Character 2",
+      "description": "Woman with long dark hair, wearing a white slip."
+    },
+    "Character 3": {
+      "name": "Fiona",
+      "label": "Character 3",
+      "description": "Young woman with long curly red hair falling past her shoulders, fair skin with light freckles, wearing a fitted sage-green vintage A-line dress with a Peter Pan collar and short puffed sleeves, and a thin brown leather belt at the waist"
+    },
+    "Character 4": {
+      "name": "Alex",
+      "label": "Character 4",
+      "description": "A person with long, straight dark brown hair and intense eyes."
+    },
+    "Character 5": {
+      "name": "Silas",
+      "label": "Character 5",
+      "description": "Man with shaggy, shoulder-length black hair and a full, dark beard."
+    },
+    "Character 6": {
+      "name": "Arthur",
+      "label": "Character 6",
+      "description": "Man with short, neatly combed dark hair, wearing black-rimmed glasses, a dark charcoal suit jacket, a white collared shirt, and a dark tie."
+    },
+    "Location 1": {
+      "name": "The Garden Gazebo",
+      "label": "Location 1",
+      "description": "Outdoor area featuring a white gazebo."
+    },
+    "Location 2": {
+      "name": "The Shadowed Room",
+      "label": "Location 2",
+      "description": "Dark indoor room."
+    },
+    "Location 3": {
+      "name": "The Executive Study",
+      "label": "Location 3",
+      "description": "An indoor office with dark wood paneling, a large executive desk with a high-backed chair, and walls lined with built-in bookshelves filled with books."
+    },
+    "Location 4": {
+      "name": "The Prison Cell",
+      "label": "Location 4",
+      "description": "A stark, confined jail cell interior with rough concrete or stone walls, a bare floor, and a front wall of thick, vertical iron bars."
+    },
+    "Object 1": {
+      "name": "the thin white rope",
+      "label": "Object 1",
+      "description": "Thin white rope with a twisted-strand texture"
+    },
+    "Object 2": {
+      "name": "the black long-sleeved shirt",
+      "label": "Object 2",
+      "description": "Plain black long-sleeved shirt"
+    },
+    "Object 3": {
+      "name": "the white choker necklace",
+      "label": "Object 3",
+      "description": "A plain, solid white band-style choker necklace."
+    },
+    "Object 4": {
+      "name": "the black-and-white photograph",
+      "label": "Object 4",
+      "description": "Rectangular black-and-white photograph with a white border."
+    },
+    "Object 5": {
+      "name": "the dark charcoal suit",
+      "label": "Object 5",
+      "description": "Dark-colored suit consisting of a matching jacket and trousers"
+    },
+    "Object 6": {
+      "name": "the black-rimmed glasses",
+      "label": "Object 6",
+      "description": "Black, thick-framed, rectangular eyeglasses with clear lenses"
+    },
+    "Object 7": {
+      "name": "the dark tie",
+      "label": "Object 7",
+      "description": "Tie"
+    },
+    "Object 8": {
+      "name": "the iron cell bars",
+      "label": "Object 8",
+      "description": "A set of thick, vertical, cylindrical metal bars, dark grey in color."
+    }
+  },
+  "_window_shot_ids": [
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0020",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0021",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0022",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0023",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0024",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0025",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0026",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0027",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0028",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0029",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0030",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0031",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0032",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0033",
+    "000295ac-8ce0-3b2e-9e26-556cbaca4b88__run267__i80_j90__T120__shot0034"
+  ],
+  "_num_scenes": 9,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Chloe",
+    "Character 2": "Lena",
+    "Character 3": "Fiona",
+    "Character 4": "Alex",
+    "Character 5": "Silas",
+    "Character 6": "Arthur",
+    "Location 1": "The Garden Gazebo",
+    "Location 2": "The Shadowed Room",
+    "Location 3": "The Executive Study",
+    "Location 4": "The Prison Cell",
+    "Object 1": "the thin white rope",
+    "Object 2": "the black long-sleeved shirt",
+    "Object 3": "the white choker necklace",
+    "Object 4": "the black-and-white photograph",
+    "Object 5": "the dark charcoal suit",
+    "Object 6": "the black-rimmed glasses",
+    "Object 7": "the dark tie",
+    "Object 8": "the iron cell bars"
+  }
+}

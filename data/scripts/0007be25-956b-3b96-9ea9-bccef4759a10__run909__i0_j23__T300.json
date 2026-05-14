@@ -1,0 +1,398 @@
+{
+  "story_name": "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300",
+  "story_overview": "In an abandoned warehouse, Marcus, Dylan, and Leo confront a mysterious figure named Kai. The situation escalates, leading to Marcus being found injured in a field infirmary, where he is tended to by Isabelle as a worried Arthur and Dylan look on.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Arthur: Middle-aged man with graying hair and a beard, wearing a suit, a tie, and glasses.\nThe Safehouse: A dimly lit, sparsely furnished safehouse interior.\n\nClose-up shot of Arthur's face in The Safehouse. He looks slightly upward, his brow furrowing with a serious expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot of Arthur's face in The Safehouse. He looks slightly upward, his brow furrowing with a serious expression."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Marcus: Man wearing a dark green jacket over an open tan button-up shirt and a grey t-shirt.\nKai: A person whose features are obscured, seen only from behind.\nThe Abandoned Warehouse: Spacious, unfinished warehouse interior with a bare concrete floor, high ceilings, and exposed metal support beams and ductwork.\n\nInside The Abandoned Warehouse, Marcus speaks while looking down towards Kai, who is in the foreground and looks up at him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Abandoned Warehouse, Marcus speaks while looking down towards Kai, who is in the foreground and looks up at him."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "In The Safehouse, a close-up shot captures Marcus, wearing the tan button-up shirt. He looks upward with a concerned expression as he talks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Safehouse, a close-up shot captures Marcus, wearing the tan button-up shirt. He looks upward with a concerned expression as he talks."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Dylan: Man wearing a dark charcoal gray shirt-jacket made of heavy twill, layered over a dark shirt.\nClose-up of Dylan looking down with a serious expression as he speaks. He is wearing the charcoal shirt-jacket inside the brightly lit The Abandoned Warehouse, with the background blurred and out of focus."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Dylan looking down with a serious expression as he speaks. He is wearing the charcoal shirt-jacket inside the brightly lit The Abandoned Warehouse, with the background blurred and out of focus."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Isabelle: Woman with long brown hair wearing a dark leather jacket over a red top\nClose-up on Marcus's face in the dimly lit The Safehouse, beside Isabelle. He stares intently off-screen, his eyes widening and mouth falling open in sudden shock."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Marcus's face in the dimly lit The Safehouse, beside Isabelle. He stares intently off-screen, his eyes widening and mouth falling open in sudden shock."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Chloe: Woman with long wavy blonde hair, wearing a dark jacket with dark sleeves and a white scarf around her neck.\nLeo: Man with a beard and glasses.\n\nClose-up on Leo in The Abandoned Warehouse. He leans against a corrugated metal wall, his expression pensive and somber as he looks down. He slowly lifts his head, and Chloe, standing beside him, turns to look at him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Leo in The Abandoned Warehouse. He leans against a corrugated metal wall, his expression pensive and somber as he looks down. He slowly lifts his head, and Chloe, standing beside him, turns to look at him."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Close-up of Marcus in the dimly lit The Safehouse. Reacting to a sound he just heard, his expression becomes concerned and he glances slightly upwards and off-camera."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Marcus in the dimly lit The Safehouse. Reacting to a sound he just heard, his expression becomes concerned and he glances slightly upwards and off-camera."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Mateo: Man with dark curly hair and a light beard, wearing a dark patterned jacket over a collared shirt.\nthe silver pendant necklace: Thin, dark brown leather cord necklace with a small, rectangular silver pendant featuring a brushed, non-reflective finish and a single vertical etched line.\nClose-up on Dylan, wearing the charcoal shirt-jacket and the silver pendant necklace, in The Abandoned Warehouse. He is looking down, then slowly raises his head to look to his right with a knowing smirk. Mateo stands nearby in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Dylan, wearing the charcoal shirt-jacket and the silver pendant necklace, in The Abandoned Warehouse. He is looking down, then slowly raises his head to look to his right with a knowing smirk. Mateo stands nearby in the background."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Marcus looks toward Leo with a concerned expression and begins to speak, his mouth moving with the words."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Marcus looks toward Leo with a concerned expression and begins to speak, his mouth moving with the words."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Close-up of Dylan standing inside the dimly lit The Abandoned Warehouse, with Kai standing motionless in the background. Dylan looks down in thought for a moment, then looks up to speak with a serious expression on his face."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Dylan standing inside the dimly lit The Abandoned Warehouse, with Kai standing motionless in the background. Dylan looks down in thought for a moment, then looks up to speak with a serious expression on his face."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "Close-up on Marcus, wearing the dark green jacket over the tan button-up shirt and the grey t-shirt, in the dimly lit The Safehouse. He looks up and to the side with a worried and concerned expression, listening intently to Leo off-camera."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Marcus, wearing the dark green jacket over the tan button-up shirt and the grey t-shirt, in the dimly lit The Safehouse. He looks up and to the side with a worried and concerned expression, listening intently to Leo off-camera."
+      ]
+    },
+    {
+      "scene_num": 12,
+      "video_prompts": [
+        "The Field Infirmary: Interior of a tent used as a sick room, furnished with a cot or bed.\nthe canvas cot: Simple, low-slung cot with a plain wooden base and a taut, unadorned canvas surface.\n\nInside the dimly lit The Field Infirmary, Marcus lies injured on the canvas cot. Isabelle sits beside him, looking down with a concerned expression as she places a hand on his arm. In the background, Arthur and Dylan stand together, exchanging a worried glance."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside the dimly lit The Field Infirmary, Marcus lies injured on the canvas cot. Isabelle sits beside him, looking down with a concerned expression as she places a hand on his arm. In the background, Arthur and Dylan stand together, exchanging a worried glance."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Safehouse"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Marcus",
+        "Kai"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Safehouse"
+      ],
+      "objects": [
+        "the tan button-up shirt"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Dylan"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": [
+        "the charcoal shirt-jacket"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Marcus",
+        "Isabelle"
+      ],
+      "places": [
+        "The Safehouse"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Chloe",
+        "Leo"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": []
+    },
+    "7:1": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Safehouse"
+      ],
+      "objects": []
+    },
+    "8:1": {
+      "characters": [
+        "Dylan",
+        "Mateo"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": [
+        "the charcoal shirt-jacket",
+        "the silver pendant necklace"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Marcus",
+        "Leo"
+      ],
+      "places": [
+        "The Safehouse"
+      ],
+      "objects": []
+    },
+    "10:1": {
+      "characters": [
+        "Dylan",
+        "Kai"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": []
+    },
+    "11:1": {
+      "characters": [
+        "Marcus",
+        "Leo"
+      ],
+      "places": [
+        "The Safehouse"
+      ],
+      "objects": [
+        "the tan button-up shirt",
+        "the grey t-shirt"
+      ]
+    },
+    "12:1": {
+      "characters": [
+        "Marcus",
+        "Dylan",
+        "Arthur",
+        "Isabelle"
+      ],
+      "places": [
+        "The Field Infirmary"
+      ],
+      "objects": [
+        "the canvas cot"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Arthur",
+      "label": "Character 1",
+      "description": "Middle-aged man with graying hair and a beard, wearing a suit, a tie, and glasses."
+    },
+    "Character 2": {
+      "name": "Kai",
+      "label": "Character 2",
+      "description": "A person whose features are obscured, seen only from behind."
+    },
+    "Character 3": {
+      "name": "Leo",
+      "label": "Character 3",
+      "description": "Man with a beard and glasses."
+    },
+    "Character 4": {
+      "name": "Marcus",
+      "label": "Character 4",
+      "description": "Man wearing a dark green jacket over an open tan button-up shirt and a grey t-shirt."
+    },
+    "Character 5": {
+      "name": "Dylan",
+      "label": "Character 5",
+      "description": "Man wearing a dark charcoal gray shirt-jacket made of heavy twill, layered over a dark shirt."
+    },
+    "Character 6": {
+      "name": "Isabelle",
+      "label": "Character 6",
+      "description": "Woman with long brown hair wearing a dark leather jacket over a red top"
+    },
+    "Character 7": {
+      "name": "Mateo",
+      "label": "Character 7",
+      "description": "Man with dark curly hair and a light beard, wearing a dark patterned jacket over a collared shirt."
+    },
+    "Character 8": {
+      "name": "Chloe",
+      "label": "Character 8",
+      "description": "Woman with long wavy blonde hair, wearing a dark jacket with dark sleeves and a white scarf around her neck."
+    },
+    "Location 1": {
+      "name": "The Safehouse",
+      "label": "Location 1",
+      "description": "A dimly lit, sparsely furnished safehouse interior."
+    },
+    "Location 2": {
+      "name": "The Abandoned Warehouse",
+      "label": "Location 2",
+      "description": "Spacious, unfinished warehouse interior with a bare concrete floor, high ceilings, and exposed metal support beams and ductwork."
+    },
+    "Location 3": {
+      "name": "The Field Infirmary",
+      "label": "Location 3",
+      "description": "Interior of a tent used as a sick room, furnished with a cot or bed."
+    },
+    "Object 1": {
+      "name": "the tan button-up shirt",
+      "label": "Object 1",
+      "description": "Tan collared button-up shirt"
+    },
+    "Object 2": {
+      "name": "the grey t-shirt",
+      "label": "Object 2",
+      "description": "Grey crewneck t-shirt"
+    },
+    "Object 3": {
+      "name": "the charcoal shirt-jacket",
+      "label": "Object 3",
+      "description": "Dark charcoal gray shirt-jacket made of heavy twill, with a collar with triangular tips, a button-up front, and two button-flap pockets on the chest"
+    },
+    "Object 4": {
+      "name": "the silver pendant necklace",
+      "label": "Object 4",
+      "description": "Thin, dark brown leather cord necklace with a small, rectangular silver pendant featuring a brushed, non-reflective finish and a single vertical etched line."
+    },
+    "Object 5": {
+      "name": "the canvas cot",
+      "label": "Object 5",
+      "description": "Simple, low-slung cot with a plain wooden base and a taut, unadorned canvas surface."
+    }
+  },
+  "_window_shot_ids": [
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0034",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0035",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0036",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0037",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0038",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0039",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0040",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0041",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0042",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0044",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0045",
+    "0007be25-956b-3b96-9ea9-bccef4759a10__run909__i0_j23__T300__shot0047"
+  ],
+  "_num_scenes": 12,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Arthur",
+    "Character 2": "Kai",
+    "Character 3": "Leo",
+    "Character 4": "Marcus",
+    "Character 5": "Dylan",
+    "Character 6": "Isabelle",
+    "Character 7": "Mateo",
+    "Character 8": "Chloe",
+    "Location 1": "The Safehouse",
+    "Location 2": "The Abandoned Warehouse",
+    "Location 3": "The Field Infirmary",
+    "Object 1": "the tan button-up shirt",
+    "Object 2": "the grey t-shirt",
+    "Object 3": "the charcoal shirt-jacket",
+    "Object 4": "the silver pendant necklace",
+    "Object 5": "the canvas cot"
+  }
+}

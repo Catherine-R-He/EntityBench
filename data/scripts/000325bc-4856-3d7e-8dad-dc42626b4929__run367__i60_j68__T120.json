@@ -1,0 +1,566 @@
+{
+  "story_name": "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120",
+  "story_overview": "At the International Chess Championship, Silas keeps a watchful eye on the proceedings as Sophie competes. Meanwhile, Isla and Nadia appear to monitor the event from a high-tech command center, suggesting a covert operation is underway amidst the tension of the tournament.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Silas: Man wearing a grey blazer and a blue fedora.\nArthur: Man with grey hair and glasses.\nThe Championship Hall: A spacious, brightly lit indoor tournament hall with high ceilings and functional overhead lighting, filled with long tables and chairs arranged in neat, orderly rows for competition.\nA close-up of Silas with a serious expression, wearing the blue fedora. He is inside the busy The Championship Hall, looking around. In the background, Arthur is partially visible in the crowd."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A close-up of Silas with a serious expression, wearing the blue fedora. He is inside the busy The Championship Hall, looking around. In the background, Arthur is partially visible in the crowd."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Isla: Young woman with long, light brown hair styled in a single braid down her back.\nMarco: Man wearing a maroon T-shirt and a dark suit jacket.\nThe Strategy Room: Indoor planning room or hideout with a floor lamp.\nthe standing floor lamp: Tall freestanding lamp with a vertical pole, a base, and a light-diffusing shade.\nClose-up on Marco, wearing the maroon t-shirt, in The Strategy Room. He talks with a surprised expression on his face while Isla stands beside him, listening. The room is softly lit by the standing floor lamp, which glows in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Marco, wearing the maroon t-shirt, in The Strategy Room. He talks with a surprised expression on his face while Isla stands beside him, listening. The room is softly lit by the standing floor lamp, which glows in the background."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Alex: Person wearing a grey suit, a white scarf, and a dark fedora.\nDimitri: Man with a beard, wearing a grey suit and a tie.\nSophie: Young woman with blonde hair in a half-ponytail.\nthe tournament chess table: Standard tournament-style chess table made of polished dark wood with an integrated chessboard surface of alternating light and dark squares and a simple, unadorned border.\nthe wooden chess set: A wooden chess set, including a board with alternating light and dark polished wood squares, and a full set of traditional Staunton-style chess pieces carved from contrasting light and dark wood.\nthe velvet rope barrier: Thick, black velvet rope with polished brass clasps, attached to a series of tall, freestanding polished brass stanchions with round weighted bases and ball finials.\nthe giant chess piece silhouettes: Large, solid black, two-dimensional cutouts shaped like giant chess pieces including a king and a queen.\n\nInside the brightly lit `The Championship Hall`, `Sophie` sits at `the tournament chess table`, contemplating her move before sliding a piece from `the wooden chess set` across the board. In the background, a crowd of spectators, including `Isla`, `Silas`, `Alex`, `Dimitri`, and `Marco`, watches intently from behind `the velvet rope barrier`, some leaning forward slightly. Large `the giant chess piece silhouettes` are visible on the back wall."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside the brightly lit `The Championship Hall`, `Sophie` sits at `the tournament chess table`, contemplating her move before sliding a piece from `the wooden chess set` across the board. In the background, a crowd of spectators, including `Isla`, `Silas`, `Alex`, `Dimitri`, and `Marco`, watches intently from behind `the velvet rope barrier`, some leaning forward slightly. Large `the giant chess piece silhouettes` are visible on the back wall."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Nadia: Woman.\nThe Command Center: A crowded indoor control room with banks of computer monitors, complex consoles with keyboards and buttons, and numerous operator chairs.\n\nClose-up on Nadia, wearing the black hijab, in The Command Center. She looks up with a concerned expression, then turns her head. In the background, Silas, wearing the blue fedora, and Isla confer near a console while watching the monitors."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Nadia, wearing the black hijab, in The Command Center. She looks up with a concerned expression, then turns her head. In the background, Silas, wearing the blue fedora, and Isla confer near a console while watching the monitors."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Julian: Man with dark hair in a grey suit, white collared shirt, red patterned tie, and grey fedora\n\nAlex stands in the center of an attentive crowd and gestures while speaking, with Isla standing beside them, looking on. Silas, wearing his blue fedora, and Julian stand among the crowd just behind them, watching Alex intently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Alex stands in the center of an attentive crowd and gestures while speaking, with Isla standing beside them, looking on. Silas, wearing his blue fedora, and Julian stand among the crowd just behind them, watching Alex intently."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Isla's gaze shifts across a monitor, her expression serious. Beside her, Nadia, wearing the black hijab, also stares intently ahead, her focus unwavering. Silas leans over Isla's shoulder to look at the monitor, while another man wearing the white ghutra headscarf glances towards them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Isla's gaze shifts across a monitor, her expression serious. Beside her, Nadia, wearing the black hijab, also stares intently ahead, her focus unwavering. Silas leans over Isla's shoulder to look at the monitor, while another man wearing the white ghutra headscarf glances towards them."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Ben: Man with glasses wearing a black-and-white argyle polo shirt and a lanyard around his neck.\nthe digital chess clock: Digital chess clock with a black plastic wedge-shaped casing, two large LCD time displays, and two large rocker-style buttons on top.\n\nIn The Championship Hall, Sophie sits at the tournament chess table, her gaze fixed intently on the wooden chess set, and the digital chess clock. In the background, Julian, wearing the grey fedora, and Ben, wearing the championship lanyard and the argyle polo shirt, watch from the crowd of spectators. Suddenly, the overhead lights extinguish, and a single spotlight illuminates only Sophie and the chess game, plunging the rest of the hall into darkness.",
+        "the pinstripe blazer: Dark wool blazer with a subtle pinstripe pattern, notched lapels, and a single-breasted two-button closure.\n\nClose-up shot in the now-dark The Championship Hall. Silas, wearing the pinstripe blazer and the dark patterned fedora, looks up with a surprised and concerned expression, reacting to something off-screen. Shadowed silhouettes of a crowd are visible around him."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The Championship Hall, Sophie sits at the tournament chess table, her gaze fixed intently on the wooden chess set, and the digital chess clock. In the background, Julian, wearing the grey fedora, and Ben, wearing the championship lanyard and the argyle polo shirt, watch from the crowd of spectators. Suddenly, the overhead lights extinguish, and a single spotlight illuminates only Sophie and the chess game, plunging the rest of the hall into darkness.",
+        "Close-up shot in the now-dark The Championship Hall. Silas, wearing the pinstripe blazer and the dark patterned fedora, looks up with a surprised and concerned expression, reacting to something off-screen. Shadowed silhouettes of a crowd are visible around him."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "The Yellow Hallway: Indoor hallway and elevator space with solid yellow walls.\nthe black tactical suit: All-black, form-fitting tactical uniform consisting of a long-sleeved top and matching pants, made of a matte, durable fabric with multiple utility straps, pouches, and reinforced panels.\n\nA close-up of Nadia wearing the black tactical suit inside The Yellow Hallway. Nadia stretches her neck by tilting her head to the side."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A close-up of Nadia wearing the black tactical suit inside The Yellow Hallway. Nadia stretches her neck by tilting her head to the side."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "the glowing monitor screen: Luminous computer screen displaying a digital interface.\n\nClose-up of Marco in profile, wearing a dark suit jacket over the maroon t-shirt, inside the warmly lit The Strategy Room. Marco's face is illuminated by the glow of the glowing monitor screen. With a serious and concentrated expression, his eyes scan the glowing monitor screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Marco in profile, wearing a dark suit jacket over the maroon t-shirt, inside the warmly lit The Strategy Room. Marco's face is illuminated by the glow of the glowing monitor screen. With a serious and concentrated expression, his eyes scan the glowing monitor screen."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Sophie smiles as she speaks animatedly. Nearby, Isla, Alex, wearing the dark fedora, Dimitri, Julian, and Ben stand together and observe her, murmuring quietly among themselves.",
+        "Julian, wearing the grey fedora, is shaking hands with Isla, who has her back to the camera. The giant chess piece silhouettes are prominent on the wall behind them.",
+        "Over the shoulder view of Marco, looking at Sophie, who leans forward slightly, her eyes scanning the wooden chess set between them. The match takes place in The Championship Hall, with spectators, including Arthur and Alex, watching from the background.",
+        "Over-the-shoulder shot of Isla at The Championship Hall as she reaches out to move a piece on the wooden chess set. Across the table, her opponent stares with intense concentration at the board. In the background, Julian and Ben watch the match from behind the velvet rope barrier, leaning forward slightly.",
+        "A view of the tournament chess table inside The Championship Hall. The blue fedora sits on the table next to the pieces from the wooden chess set and the digital chess clock. In the background, spectators including Arthur and Julian watch the match. Arthur leans over and whispers something to Julian."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Sophie smiles as she speaks animatedly. Nearby, Isla, Alex, wearing the dark fedora, Dimitri, Julian, and Ben stand together and observe her, murmuring quietly among themselves.",
+        "Julian, wearing the grey fedora, is shaking hands with Isla, who has her back to the camera. The giant chess piece silhouettes are prominent on the wall behind them.",
+        "Over the shoulder view of Marco, looking at Sophie, who leans forward slightly, her eyes scanning the wooden chess set between them. The match takes place in The Championship Hall, with spectators, including Arthur and Alex, watching from the background.",
+        "Over-the-shoulder shot of Isla at The Championship Hall as she reaches out to move a piece on the wooden chess set. Across the table, her opponent stares with intense concentration at the board. In the background, Julian and Ben watch the match from behind the velvet rope barrier, leaning forward slightly.",
+        "A view of the tournament chess table inside The Championship Hall. The blue fedora sits on the table next to the pieces from the wooden chess set and the digital chess clock. In the background, spectators including Arthur and Julian watch the match. Arthur leans over and whispers something to Julian."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Silas",
+        "Arthur"
+      ],
+      "places": [
+        "The Championship Hall"
+      ],
+      "objects": [
+        "the blue fedora"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Isla",
+        "Marco"
+      ],
+      "places": [
+        "The Strategy Room"
+      ],
+      "objects": [
+        "the maroon t-shirt",
+        "the standing floor lamp"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Isla",
+        "Silas",
+        "Alex",
+        "Dimitri",
+        "Sophie",
+        "Marco"
+      ],
+      "places": [
+        "The Championship Hall"
+      ],
+      "objects": [
+        "the tournament chess table",
+        "the wooden chess set",
+        "the velvet rope barrier",
+        "the giant chess piece silhouettes"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Isla",
+        "Nadia",
+        "Silas"
+      ],
+      "places": [
+        "The Command Center"
+      ],
+      "objects": [
+        "the black hijab"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Isla",
+        "Silas",
+        "Alex",
+        "Julian"
+      ],
+      "places": [
+        "The Championship Hall"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Isla",
+        "Nadia",
+        "Silas"
+      ],
+      "places": [
+        "The Command Center"
+      ],
+      "objects": [
+        "the white ghutra headscarf",
+        "the black hijab"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Sophie",
+        "Julian",
+        "Ben"
+      ],
+      "places": [
+        "The Championship Hall"
+      ],
+      "objects": [
+        "the tournament chess table",
+        "the wooden chess set",
+        "the digital chess clock",
+        "the grey fedora",
+        "the argyle polo shirt",
+        "the championship lanyard"
+      ]
+    },
+    "7:2": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Championship Hall"
+      ],
+      "objects": [
+        "the dark patterned fedora",
+        "the pinstripe blazer"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Nadia"
+      ],
+      "places": [
+        "The Yellow Hallway"
+      ],
+      "objects": [
+        "the black tactical suit"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Strategy Room"
+      ],
+      "objects": [
+        "the glowing monitor screen",
+        "the maroon t-shirt"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Isla",
+        "Alex",
+        "Dimitri",
+        "Sophie",
+        "Julian",
+        "Ben"
+      ],
+      "places": [
+        "The Championship Hall"
+      ],
+      "objects": [
+        "the dark fedora"
+      ]
+    },
+    "10:2": {
+      "characters": [
+        "Isla",
+        "Julian"
+      ],
+      "places": [
+        "The Championship Hall"
+      ],
+      "objects": [
+        "the grey fedora",
+        "the giant chess piece silhouettes"
+      ]
+    },
+    "10:3": {
+      "characters": [
+        "Alex",
+        "Sophie",
+        "Arthur",
+        "Marco"
+      ],
+      "places": [
+        "The Championship Hall"
+      ],
+      "objects": [
+        "the wooden chess set"
+      ]
+    },
+    "10:4": {
+      "characters": [
+        "Isla",
+        "Julian",
+        "Ben"
+      ],
+      "places": [
+        "The Championship Hall"
+      ],
+      "objects": [
+        "the wooden chess set",
+        "the velvet rope barrier"
+      ]
+    },
+    "10:5": {
+      "characters": [
+        "Arthur",
+        "Julian"
+      ],
+      "places": [
+        "The Championship Hall"
+      ],
+      "objects": [
+        "the blue fedora",
+        "the wooden chess set",
+        "the digital chess clock",
+        "the tournament chess table"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Silas",
+      "label": "Character 1",
+      "description": "Man wearing a grey blazer and a blue fedora."
+    },
+    "Character 2": {
+      "name": "Arthur",
+      "label": "Character 2",
+      "description": "Man with grey hair and glasses."
+    },
+    "Character 3": {
+      "name": "Isla",
+      "label": "Character 3",
+      "description": "Young woman with long, light brown hair styled in a single braid down her back."
+    },
+    "Character 4": {
+      "name": "Marco",
+      "label": "Character 4",
+      "description": "Man wearing a maroon T-shirt and a dark suit jacket."
+    },
+    "Character 5": {
+      "name": "Alex",
+      "label": "Character 5",
+      "description": "Person wearing a grey suit, a white scarf, and a dark fedora."
+    },
+    "Character 6": {
+      "name": "Dimitri",
+      "label": "Character 6",
+      "description": "Man with a beard, wearing a grey suit and a tie."
+    },
+    "Character 7": {
+      "name": "Sophie",
+      "label": "Character 7",
+      "description": "Young woman with blonde hair in a half-ponytail."
+    },
+    "Character 8": {
+      "name": "Nadia",
+      "label": "Character 8",
+      "description": "Woman."
+    },
+    "Character 9": {
+      "name": "Julian",
+      "label": "Character 9",
+      "description": "Man with dark hair in a grey suit, white collared shirt, red patterned tie, and grey fedora"
+    },
+    "Character 10": {
+      "name": "Ben",
+      "label": "Character 10",
+      "description": "Man with glasses wearing a black-and-white argyle polo shirt and a lanyard around his neck."
+    },
+    "Location 1": {
+      "name": "The Championship Hall",
+      "label": "Location 1",
+      "description": "A spacious, brightly lit indoor tournament hall with high ceilings and functional overhead lighting, filled with long tables and chairs arranged in neat, orderly rows for competition."
+    },
+    "Location 2": {
+      "name": "The Strategy Room",
+      "label": "Location 2",
+      "description": "Indoor planning room or hideout with a floor lamp."
+    },
+    "Location 3": {
+      "name": "The Command Center",
+      "label": "Location 3",
+      "description": "A crowded indoor control room with banks of computer monitors, complex consoles with keyboards and buttons, and numerous operator chairs."
+    },
+    "Location 4": {
+      "name": "The Yellow Hallway",
+      "label": "Location 4",
+      "description": "Indoor hallway and elevator space with solid yellow walls."
+    },
+    "Object 1": {
+      "name": "the blue fedora",
+      "label": "Object 1",
+      "description": "Blue felt fedora with a pinched crown, medium brim, and a wide grosgrain ribbon band"
+    },
+    "Object 2": {
+      "name": "the maroon t-shirt",
+      "label": "Object 2",
+      "description": "Plain, maroon, short-sleeved T-shirt"
+    },
+    "Object 3": {
+      "name": "the standing floor lamp",
+      "label": "Object 3",
+      "description": "Tall freestanding lamp with a vertical pole, a base, and a light-diffusing shade."
+    },
+    "Object 4": {
+      "name": "the wooden chess set",
+      "label": "Object 4",
+      "description": "A wooden chess set, including a board with alternating light and dark polished wood squares, and a full set of traditional Staunton-style chess pieces carved from contrasting light and dark wood."
+    },
+    "Object 5": {
+      "name": "the tournament chess table",
+      "label": "Object 5",
+      "description": "Standard tournament-style chess table made of polished dark wood with an integrated chessboard surface of alternating light and dark squares and a simple, unadorned border."
+    },
+    "Object 6": {
+      "name": "the giant chess piece silhouettes",
+      "label": "Object 6",
+      "description": "Large, solid black, two-dimensional cutouts shaped like giant chess pieces including a king and a queen."
+    },
+    "Object 7": {
+      "name": "the velvet rope barrier",
+      "label": "Object 7",
+      "description": "Thick, black velvet rope with polished brass clasps, attached to a series of tall, freestanding polished brass stanchions with round weighted bases and ball finials."
+    },
+    "Object 8": {
+      "name": "the black hijab",
+      "label": "Object 8",
+      "description": "Opaque black hijab with a smooth, matte finish"
+    },
+    "Object 9": {
+      "name": "the white ghutra headscarf",
+      "label": "Object 9",
+      "description": "A traditional Arab ghutra, which is a square-shaped men's headscarf made of plain white fabric"
+    },
+    "Object 10": {
+      "name": "the grey fedora",
+      "label": "Object 10",
+      "description": "Grey fedora hat featuring an indented crown, a wraparound brim, and a ribbon band"
+    },
+    "Object 11": {
+      "name": "the championship lanyard",
+      "label": "Object 11",
+      "description": "Dark blue woven fabric lanyard with an attached plastic-sleeved rectangular white badge with \"International Chess Championship\" in black text above a solid black king chess piece graphic"
+    },
+    "Object 12": {
+      "name": "the digital chess clock",
+      "label": "Object 12",
+      "description": "Digital chess clock with a black plastic wedge-shaped casing, two large LCD time displays, and two large rocker-style buttons on top."
+    },
+    "Object 13": {
+      "name": "the argyle polo shirt",
+      "label": "Object 13",
+      "description": "Black-and-white argyle-patterned polo shirt"
+    },
+    "Object 14": {
+      "name": "the dark patterned fedora",
+      "label": "Object 14",
+      "description": "A dark-colored, brimmed hat, possibly a fedora, with a subtle, tonal striped pattern woven into its fabric"
+    },
+    "Object 15": {
+      "name": "the pinstripe blazer",
+      "label": "Object 15",
+      "description": "Dark wool blazer with a subtle pinstripe pattern, notched lapels, and a single-breasted two-button closure."
+    },
+    "Object 16": {
+      "name": "the black tactical suit",
+      "label": "Object 16",
+      "description": "All-black, form-fitting tactical uniform consisting of a long-sleeved top and matching pants, made of a matte, durable fabric with multiple utility straps, pouches, and reinforced panels."
+    },
+    "Object 17": {
+      "name": "the glowing monitor screen",
+      "label": "Object 17",
+      "description": "Luminous computer screen displaying a digital interface."
+    },
+    "Object 18": {
+      "name": "the dark fedora",
+      "label": "Object 18",
+      "description": "Dark fedora with a wraparound brim and ribbon band"
+    }
+  },
+  "_window_shot_ids": [
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0001",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0002",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0003",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0004",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0005",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0006",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0007",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0008",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0009",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0010",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0012",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0013",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0014",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0015",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i60_j68__T120__shot0017"
+  ],
+  "_num_scenes": 10,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Silas",
+    "Character 10": "Ben",
+    "Character 2": "Arthur",
+    "Character 3": "Isla",
+    "Character 4": "Marco",
+    "Character 5": "Alex",
+    "Character 6": "Dimitri",
+    "Character 7": "Sophie",
+    "Character 8": "Nadia",
+    "Character 9": "Julian",
+    "Location 1": "The Championship Hall",
+    "Location 2": "The Strategy Room",
+    "Location 3": "The Command Center",
+    "Location 4": "The Yellow Hallway",
+    "Object 1": "the blue fedora",
+    "Object 10": "the grey fedora",
+    "Object 11": "the championship lanyard",
+    "Object 12": "the digital chess clock",
+    "Object 13": "the argyle polo shirt",
+    "Object 14": "the dark patterned fedora",
+    "Object 15": "the pinstripe blazer",
+    "Object 16": "the black tactical suit",
+    "Object 17": "the glowing monitor screen",
+    "Object 18": "the dark fedora",
+    "Object 2": "the maroon t-shirt",
+    "Object 3": "the standing floor lamp",
+    "Object 4": "the wooden chess set",
+    "Object 5": "the tournament chess table",
+    "Object 6": "the giant chess piece silhouettes",
+    "Object 7": "the velvet rope barrier",
+    "Object 8": "the black hijab",
+    "Object 9": "the white ghutra headscarf"
+  }
+}

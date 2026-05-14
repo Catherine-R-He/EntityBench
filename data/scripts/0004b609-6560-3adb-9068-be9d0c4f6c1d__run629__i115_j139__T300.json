@@ -1,0 +1,371 @@
+{
+  "story_name": "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300",
+  "story_overview": "In a traditional courtyard at night, Lian interacts with Jun, a mysterious man who materializes with a digital glitch effect. As attendants Hui and Lina present different robes, Lian and Jun's conversation reveals his connection to a futuristic avatar creation interface, blurring the lines between their realities.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Lian: Woman with her hair in an elaborate updo, wearing an elegant green and purple noblewoman's robe and an ornate golden headpiece.\nJun: Man with his hair in a topknot secured by the Man's Silver Hair Ornament, wearing a cream-colored outer robe with embroidered trim over a black robe, a purple inner garment, and a white under-layer.\nthe dark wood latticework: Dark wood wall panels, support beams, and geometric latticework screens comprising a traditional interior architectural system.\n\nLow-angle, medium-long shot inside the traditional wooden building, dimly lit at night. Lian, wearing the green and purple noblewoman's robe, walks towards the camera while Jun watches her from the background. Lian stops and presses both of her hands against the dark wood latticework.",
+        "Low-angle long shot in Willow Creek Courtyard at night. Lian, wearing the green and purple robe, walks out onto the courtyard and sits down on the steps.",
+        "Hui: Woman in historical Chinese attire wearing a simple brown attendant's robe.\nthe golden filigree hairpiece: Ornate gold hair ornament with an intricate filigree design.\nthe cratered moon: A large, spherical celestial body with a rocky surface marked by dark grey plains and lighter, heavily cratered highlands.\n\nMedium shot in Willow Creek Courtyard at night, with the chinese character overlay. Lian, wearing the golden filigree hairpiece, stands with her back to the camera, her head tilting up to gaze at the cratered moon. Hui stands silently beside her, holding the light teal robe, and shifts her weight slightly."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Low-angle, medium-long shot inside the traditional wooden building, dimly lit at night. Lian, wearing the green and purple noblewoman's robe, walks towards the camera while Jun watches her from the background. Lian stops and presses both of her hands against the dark wood latticework.",
+        "Low-angle long shot in Willow Creek Courtyard at night. Lian, wearing the green and purple robe, walks out onto the courtyard and sits down on the steps.",
+        "Medium shot in Willow Creek Courtyard at night, with the chinese character overlay. Lian, wearing the golden filigree hairpiece, stands with her back to the camera, her head tilting up to gaze at the cratered moon. Hui stands silently beside her, holding the light teal robe, and shifts her weight slightly."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Medium shot of Lian, wearing the elegant green and purple noblewoman's robe, standing in the dimly lit Willow Creek Courtyard. She looks upward with a worried expression, her lips moving as she speaks, as the chinese character overlay appears."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Lian, wearing the elegant green and purple noblewoman's robe, standing in the dimly lit Willow Creek Courtyard. She looks upward with a worried expression, her lips moving as she speaks, as the chinese character overlay appears."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Over-the-shoulder shot from behind Lian in Willow Creek Courtyard at night. Jun flickers with a digital glitch effect and the chinese character overlay as he materializes in front of her. Solidified, Jun gazes at Lian and opens his mouth to speak."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot from behind Lian in Willow Creek Courtyard at night. Jun flickers with a digital glitch effect and the chinese character overlay as he materializes in front of her. Solidified, Jun gazes at Lian and opens his mouth to speak."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Lian stands before a table where the light teal robe is laid out. She looks up with a shocked expression, her mouth falling slightly open as she gasps."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Lian stands before a table where the light teal robe is laid out. She looks up with a shocked expression, her mouth falling slightly open as she gasps."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Over-the-shoulder shot from behind Lian, wearing the green and purple noblewoman's robe, in Willow Creek Courtyard at night, with the chinese character overlay. She stands opposite Jun, listening intently. Jun looks at her and speaks with a serious expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot from behind Lian, wearing the green and purple noblewoman's robe, in Willow Creek Courtyard at night, with the chinese character overlay. She stands opposite Jun, listening intently. Jun looks at her and speaks with a serious expression."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Close-up of Lian, wearing an elegant green and purple noblewoman's robe, in the dimly lit Willow Creek Courtyard at night, with the chinese character overlay. She has a surprised expression on her face and gestures as she talks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Lian, wearing an elegant green and purple noblewoman's robe, in the dimly lit Willow Creek Courtyard at night, with the chinese character overlay. She has a surprised expression on her face and gestures as she talks."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Lina: Woman with long dark hair wearing a white long-sleeved shirt.\n\nOver-the-shoulder shot from behind Lian in Willow Creek Courtyard at night, with the chinese character overlay on screen. Jun stands opposite her, speaking earnestly. Beside them, Lina watches them, holding up the embroidered pastel robe."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot from behind Lian in Willow Creek Courtyard at night, with the chinese character overlay on screen. Jun stands opposite her, speaking earnestly. Beside them, Lina watches them, holding up the embroidered pastel robe."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "An: Woman wearing a light blue and white traditional dress\nthe white sleeping robes: Long, loose-fitting, traditional white night robes.\nthe holographic interface: Luminous, transparent, and glowing futuristic display or game interface.\nthe blurred flower blossoms: Soft, indistinct shapes of colorful flower blossoms.\n\nAt night in Willow Creek Courtyard, An, wearing the light teal robe, sits on the veranda steps, her eyes tracking the holographic interface floating in the air before her. Jun stands nearby with his back to the camera, shifting his weight slightly, while the white sleeping robes rest on the steps beside him. The blurred flower blossoms are in the foreground."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At night in Willow Creek Courtyard, An, wearing the light teal robe, sits on the veranda steps, her eyes tracking the holographic interface floating in the air before her. Jun stands nearby with his back to the camera, shifting his weight slightly, while the white sleeping robes rest on the steps beside him. The blurred flower blossoms are in the foreground."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "The Avatar Creator: A futuristic character customization interface existing in a solid black, non-diegetic void, composed of a male avatar and selectable options for various colors and styles of traditional Chinese robes.\nClose-up in The Avatar Creator on the holographic interface with the chinese character overlay as Lina cycles through different colors and styles of traditional robes on Jun's avatar."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up in The Avatar Creator on the holographic interface with the chinese character overlay as Lina cycles through different colors and styles of traditional robes on Jun's avatar."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Lian",
+        "Jun"
+      ],
+      "places": [],
+      "objects": [
+        "the dark wood latticework"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Lian"
+      ],
+      "places": [
+        "Willow Creek Courtyard"
+      ],
+      "objects": []
+    },
+    "1:3": {
+      "characters": [
+        "Lian",
+        "Hui"
+      ],
+      "places": [
+        "Willow Creek Courtyard"
+      ],
+      "objects": [
+        "the light teal robe",
+        "the chinese character overlay",
+        "the golden filigree hairpiece",
+        "the cratered moon"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Lian"
+      ],
+      "places": [
+        "Willow Creek Courtyard"
+      ],
+      "objects": [
+        "the chinese character overlay"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Lian",
+        "Jun"
+      ],
+      "places": [
+        "Willow Creek Courtyard"
+      ],
+      "objects": [
+        "the chinese character overlay"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Lian"
+      ],
+      "places": [
+        "Willow Creek Courtyard"
+      ],
+      "objects": [
+        "the light teal robe",
+        "the chinese character overlay"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Lian",
+        "Jun"
+      ],
+      "places": [
+        "Willow Creek Courtyard"
+      ],
+      "objects": [
+        "the chinese character overlay"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Lian"
+      ],
+      "places": [
+        "Willow Creek Courtyard"
+      ],
+      "objects": [
+        "the chinese character overlay"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Lian",
+        "Jun",
+        "Lina"
+      ],
+      "places": [
+        "Willow Creek Courtyard"
+      ],
+      "objects": [
+        "the chinese character overlay",
+        "the embroidered pastel robe"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Jun",
+        "An"
+      ],
+      "places": [
+        "Willow Creek Courtyard"
+      ],
+      "objects": [
+        "the light teal robe",
+        "the white sleeping robes",
+        "the holographic interface",
+        "the blurred flower blossoms"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Jun",
+        "Lina"
+      ],
+      "places": [
+        "The Avatar Creator"
+      ],
+      "objects": [
+        "the chinese character overlay",
+        "the holographic interface"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Lina",
+      "label": "Character 1",
+      "description": "Woman with long dark hair wearing a white long-sleeved shirt."
+    },
+    "Character 2": {
+      "name": "Hui",
+      "label": "Character 2",
+      "description": "Woman in historical Chinese attire wearing a simple brown attendant's robe."
+    },
+    "Character 3": {
+      "name": "Jun",
+      "label": "Character 3",
+      "description": "Man with his hair in a topknot secured by the Man's Silver Hair Ornament, wearing a cream-colored outer robe with embroidered trim over a black robe, a purple inner garment, and a white under-layer."
+    },
+    "Character 4": {
+      "name": "Lian",
+      "label": "Character 4",
+      "description": "Woman with her hair in an elaborate updo, wearing an elegant green and purple noblewoman's robe and an ornate golden headpiece."
+    },
+    "Character 5": {
+      "name": "An",
+      "label": "Character 5",
+      "description": "Woman wearing a light blue and white traditional dress"
+    },
+    "Location 1": {
+      "name": "Willow Creek Courtyard",
+      "label": "Location 1",
+      "description": "An outdoor traditional courtyard adjacent to a traditional wooden building with an exterior veranda and steps"
+    },
+    "Location 2": {
+      "name": "The Avatar Creator",
+      "label": "Location 2",
+      "description": "A futuristic character customization interface existing in a solid black, non-diegetic void, composed of a male avatar and selectable options for various colors and styles of traditional Chinese robes."
+    },
+    "Object 1": {
+      "name": "the chinese character overlay",
+      "label": "Object 1",
+      "description": "Textual overlay of Chinese characters"
+    },
+    "Object 2": {
+      "name": "the dark wood latticework",
+      "label": "Object 2",
+      "description": "Dark wood wall panels, support beams, and geometric latticework screens comprising a traditional interior architectural system."
+    },
+    "Object 3": {
+      "name": "the white sleeping robes",
+      "label": "Object 3",
+      "description": "Long, loose-fitting, traditional white night robes."
+    },
+    "Object 4": {
+      "name": "the light teal robe",
+      "label": "Object 4",
+      "description": "Women's robe in a light green/blue or teal color"
+    },
+    "Object 5": {
+      "name": "the cratered moon",
+      "label": "Object 5",
+      "description": "A large, spherical celestial body with a rocky surface marked by dark grey plains and lighter, heavily cratered highlands."
+    },
+    "Object 6": {
+      "name": "the golden filigree hairpiece",
+      "label": "Object 6",
+      "description": "Ornate gold hair ornament with an intricate filigree design."
+    },
+    "Object 7": {
+      "name": "the embroidered pastel robe",
+      "label": "Object 7",
+      "description": "Traditional Chinese-style robe with a color palette of beige, cream, pink, and purple"
+    },
+    "Object 8": {
+      "name": "the holographic interface",
+      "label": "Object 8",
+      "description": "Luminous, transparent, and glowing futuristic display or game interface."
+    },
+    "Object 9": {
+      "name": "the blurred flower blossoms",
+      "label": "Object 9",
+      "description": "Soft, indistinct shapes of colorful flower blossoms."
+    }
+  },
+  "_window_shot_ids": [
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0059",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0060",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0061",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0062",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0063",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0064",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0065",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0066",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0067",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0068",
+    "0004b609-6560-3adb-9068-be9d0c4f6c1d__run629__i115_j139__T300__shot0069"
+  ],
+  "_num_scenes": 9,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Lina",
+    "Character 2": "Hui",
+    "Character 3": "Jun",
+    "Character 4": "Lian",
+    "Character 5": "An",
+    "Location 1": "Willow Creek Courtyard",
+    "Location 2": "The Avatar Creator",
+    "Object 1": "the chinese character overlay",
+    "Object 2": "the dark wood latticework",
+    "Object 3": "the white sleeping robes",
+    "Object 4": "the light teal robe",
+    "Object 5": "the cratered moon",
+    "Object 6": "the golden filigree hairpiece",
+    "Object 7": "the embroidered pastel robe",
+    "Object 8": "the holographic interface",
+    "Object 9": "the blurred flower blossoms"
+  }
+}

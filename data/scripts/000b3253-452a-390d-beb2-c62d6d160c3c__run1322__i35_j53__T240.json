@@ -1,0 +1,330 @@
+{
+  "story_name": "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240",
+  "story_overview": "On a night train, passengers including Clara, Nolan, and Simon interact, but strange events unfold as a doppelganger of Simon appears. The surreal journey continues with doppelgangers of Nolan and Arthur appearing in other locations. Meanwhile, Alice and Leo run frantically through a forest, and a bruised Clara is seen with Simon on a bus.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Arthur: Older man wearing glasses and a brown jacket\nThe Railway Carriage: Interior of an older passenger train carriage with rows of upholstered seats, a central aisle with patterned carpeting, large side windows with curtains, and overhead metal luggage racks\n\nInside The Railway Carriage, the dark landscape blurs past the windows as the train travels at night. Arthur sits by a window, looking out at the passing darkness as the carriage's interior lights reflect in his glasses.",
+        "Leo: Man wearing glasses, light-colored pants, and dark boots.\nAlice: Woman with short, wavy blonde hair, wearing a grey cardigan over a blue shirt.\nEvan: Man wearing glasses.\nSimon: Man with receding hair and wearing glasses.\nView from behind Leo as he walks down the central aisle of the dimly lit The Railway Carriage at night. Alice, Evan, and Simon are seated, and some turn to watch Leo as he passes.",
+        "Clara: Woman with short brown hair.\nNolan: Man in his late 20s with an athletic build, a short, dark military-style haircut, and a clean-shaven, set jaw, wearing a dark navy blue tactical uniform with a combat shirt, matching cargo pants, a black plate carrier vest with pouches, and black combat boots.\nthe paper coffee cup: White paper coffee cup with a brown corrugated cardboard heat sleeve and a black plastic lid.\nInside The Railway Carriage at night, Clara walks down the aisle holding the paper coffee cup. She stops beside Nolan, who is sitting by the window. Clara hands the paper coffee cup to Nolan, who accepts it.",
+        "Inside The Railway Carriage, Clara sits down at a table next to Simon. Clara smiles as she settles into her seat. Clara holds the paper coffee cup and they start talking to each other.",
+        "Inside The Railway Carriage, Simon sits alone at a table, speaking animatedly to someone just off-screen. He gestures with his hands and laughs as he talks, with a paper coffee cup on the table in front of him."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Railway Carriage, the dark landscape blurs past the windows as the train travels at night. Arthur sits by a window, looking out at the passing darkness as the carriage's interior lights reflect in his glasses.",
+        "View from behind Leo as he walks down the central aisle of the dimly lit The Railway Carriage at night. Alice, Evan, and Simon are seated, and some turn to watch Leo as he passes.",
+        "Inside The Railway Carriage at night, Clara walks down the aisle holding the paper coffee cup. She stops beside Nolan, who is sitting by the window. Clara hands the paper coffee cup to Nolan, who accepts it.",
+        "Inside The Railway Carriage, Clara sits down at a table next to Simon. Clara smiles as she settles into her seat. Clara holds the paper coffee cup and they start talking to each other.",
+        "Inside The Railway Carriage, Simon sits alone at a table, speaking animatedly to someone just off-screen. He gestures with his hands and laughs as he talks, with a paper coffee cup on the table in front of him."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Downtown Sidewalk: A paved city sidewalk with a brick building facade.\nthe tactical assault rifle: Black tactical assault rifles with matte finishes, polymer stocks, and detachable box magazines.\n\nAt Downtown Sidewalk at night, Nolan and Clara stand guard in the foreground, slowly scanning their surroundings, while another soldier patrols the sidewalk in the background. Nolan and the other soldier hold tactical assault rifles."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At Downtown Sidewalk at night, Nolan and Clara stand guard in the foreground, slowly scanning their surroundings, while another soldier patrols the sidewalk in the background. Nolan and the other soldier hold tactical assault rifles."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The City Bus: Interior of a public bus with rows of passenger seats, large side windows, a central aisle, and overhead handrails.\n\nAt night, looking through a window into The City Bus, Clara sleeps with a noticeable bruise on her face, her head resting against the glass. Simon sits awake in the seat next to her, his gaze fixed forward, subtly shifting as the bus moves."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At night, looking through a window into The City Bus, Clara sleeps with a noticeable bruise on her face, her head resting against the glass. Simon sits awake in the seat next to her, his gaze fixed forward, subtly shifting as the bus moves."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Shadowfen Forest: A dense forest of tall, slender trees with a thick overhead canopy, and an uneven ground covered with fallen leaves, dirt, and patches of low green undergrowth.\nthe grey knit sweater: Thick, heavy-knit pullover sweater in a solid grey color.\n\nFrom behind, Alice runs through Shadowfen Forest wearing a grey cardigan, her hair bouncing as she moves.",
+        "Leo's feet in dark boots run hard along a dirt path in Shadowfen Forest. He wears light-colored pants, and the surrounding trees are a motion blur."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "From behind, Alice runs through Shadowfen Forest wearing a grey cardigan, her hair bouncing as she moves.",
+        "Leo's feet in dark boots run hard along a dirt path in Shadowfen Forest. He wears light-colored pants, and the surrounding trees are a motion blur."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "At night, inside The City Bus as it drives. Clara is asleep, her head resting against the window. Simon, wearing the worn glasses, sits beside her. The bus gently sways, causing Clara to stir in her sleep."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At night, inside The City Bus as it drives. Clara is asleep, her head resting against the window. Simon, wearing the worn glasses, sits beside her. The bus gently sways, causing Clara to stir in her sleep."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Parking Garage: A utilitarian indoor parking garage with raw concrete walls, floors, and thick support pillars, and painted lines marking parking bays.\n\nAt night in The Parking Garage, a green car pulls to a stop. Arthur exits from the front passenger door, and Leo gets out from the rear passenger door. A man sits in the driver's seat."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At night in The Parking Garage, a green car pulls to a stop. Arthur exits from the front passenger door, and Leo gets out from the rear passenger door. A man sits in the driver's seat."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Railway Carriage"
+      ],
+      "objects": []
+    },
+    "1:2": {
+      "characters": [
+        "Leo",
+        "Alice",
+        "Evan",
+        "Simon"
+      ],
+      "places": [
+        "The Railway Carriage"
+      ],
+      "objects": []
+    },
+    "1:3": {
+      "characters": [
+        "Clara",
+        "Nolan"
+      ],
+      "places": [
+        "The Railway Carriage"
+      ],
+      "objects": [
+        "the paper coffee cup"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Clara",
+        "Simon"
+      ],
+      "places": [
+        "The Railway Carriage"
+      ],
+      "objects": [
+        "the paper coffee cup"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "The Railway Carriage"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Clara",
+        "Nolan"
+      ],
+      "places": [
+        "Downtown Sidewalk"
+      ],
+      "objects": [
+        "the tactical assault rifle"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Clara",
+        "Simon"
+      ],
+      "places": [
+        "The City Bus"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Alice"
+      ],
+      "places": [
+        "Shadowfen Forest"
+      ],
+      "objects": []
+    },
+    "4:2": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "Shadowfen Forest"
+      ],
+      "objects": []
+    },
+    "5:1": {
+      "characters": [
+        "Clara",
+        "Simon"
+      ],
+      "places": [
+        "The City Bus"
+      ],
+      "objects": [
+        "the worn glasses"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Arthur",
+        "Leo"
+      ],
+      "places": [
+        "The Parking Garage"
+      ],
+      "objects": [
+        "green car"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Clara",
+      "label": "Character 1",
+      "description": "Woman with short brown hair."
+    },
+    "Character 2": {
+      "name": "Simon",
+      "label": "Character 2",
+      "description": "Man with receding hair and wearing glasses."
+    },
+    "Character 3": {
+      "name": "Alice",
+      "label": "Character 3",
+      "description": "Woman with short, wavy blonde hair, wearing a grey cardigan over a blue shirt."
+    },
+    "Character 4": {
+      "name": "Arthur",
+      "label": "Character 4",
+      "description": "Older man wearing glasses and a brown jacket"
+    },
+    "Character 5": {
+      "name": "Leo",
+      "label": "Character 5",
+      "description": "Man wearing glasses, light-colored pants, and dark boots."
+    },
+    "Character 6": {
+      "name": "Evan",
+      "label": "Character 6",
+      "description": "Man wearing glasses."
+    },
+    "Character 7": {
+      "name": "Nolan",
+      "label": "Character 7",
+      "description": "Man in his late 20s with an athletic build, a short, dark military-style haircut, and a clean-shaven, set jaw, wearing a dark navy blue tactical uniform with a combat shirt, matching cargo pants, a black plate carrier vest with pouches, and black combat boots."
+    },
+    "Location 1": {
+      "name": "The City Bus",
+      "label": "Location 1",
+      "description": "Interior of a public bus with rows of passenger seats, large side windows, a central aisle, and overhead handrails."
+    },
+    "Location 2": {
+      "name": "The Railway Carriage",
+      "label": "Location 2",
+      "description": "Interior of an older passenger train carriage with rows of upholstered seats, a central aisle with patterned carpeting, large side windows with curtains, and overhead metal luggage racks"
+    },
+    "Location 3": {
+      "name": "Downtown Sidewalk",
+      "label": "Location 3",
+      "description": "A paved city sidewalk with a brick building facade."
+    },
+    "Location 4": {
+      "name": "Shadowfen Forest",
+      "label": "Location 4",
+      "description": "A dense forest of tall, slender trees with a thick overhead canopy, and an uneven ground covered with fallen leaves, dirt, and patches of low green undergrowth."
+    },
+    "Location 5": {
+      "name": "The Parking Garage",
+      "label": "Location 5",
+      "description": "A utilitarian indoor parking garage with raw concrete walls, floors, and thick support pillars, and painted lines marking parking bays."
+    },
+    "Object 1": {
+      "name": "the worn glasses",
+      "label": "Object 1",
+      "description": "Worn pair of glasses"
+    },
+    "Object 4": {
+      "name": "the paper coffee cup",
+      "label": "Object 4",
+      "description": "White paper coffee cup with a brown corrugated cardboard heat sleeve and a black plastic lid."
+    },
+    "Object 5": {
+      "name": "the tactical assault rifle",
+      "label": "Object 5",
+      "description": "Black tactical assault rifles with matte finishes, polymer stocks, and detachable box magazines."
+    },
+    "Object 6": {
+      "name": "the grey knit sweater",
+      "label": "Object 6",
+      "description": "Thick, heavy-knit pullover sweater in a solid grey color"
+    }
+  },
+  "_window_shot_ids": [
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0007",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0008",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0009",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0010",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0011",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0014",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0016",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0017",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0020",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0021",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i35_j53__T240__shot0022"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Clara",
+    "Character 2": "Simon",
+    "Character 3": "Alice",
+    "Character 4": "Arthur",
+    "Character 5": "Leo",
+    "Character 6": "Evan",
+    "Character 7": "Nolan",
+    "Location 1": "The City Bus",
+    "Location 2": "The Railway Carriage",
+    "Location 3": "Downtown Sidewalk",
+    "Location 4": "Shadowfen Forest",
+    "Location 5": "The Parking Garage",
+    "Object 1": "the worn glasses",
+    "Object 2": "the bus interior",
+    "Object 3": "the train car interior",
+    "Object 4": "the paper coffee cup",
+    "Object 5": "the tactical assault rifle",
+    "Object 6": "the grey knit sweater"
+  }
+}

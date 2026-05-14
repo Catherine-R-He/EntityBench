@@ -1,0 +1,425 @@
+{
+  "story_name": "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240",
+  "story_overview": "Inside a ceremonial tent, a heated argument erupts between Sakura and Midori. As guests like Akiko, Chiyo, and Kenji watch, the confrontation escalates, and Sakura lunges at Midori. Later, the pensive Yumi is seen with a red floral kimono, which appears to be central to the unfolding drama.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Sakura: Woman with dark hair styled in an updo with bangs, wearing a pink kimono featuring a yellow leaf pattern.\nAkiko: Person with long dark hair wearing a maroon kimono with a red and gold pattern over a white garment.\nChiyo: Woman with dark hair styled in a traditional manner, wearing a maroon kimono with a white floral pattern over a visible white undergarment.\nKenji: Man with a traditional topknot hairstyle, wearing a dark purple or maroon kimono with a white pattern on the shoulders.\nMidori: Woman with short dark hair and bangs, wearing a light green kimono with an orange and pink floral pattern.\nThe Ceremonial Tent: A white tent or canopy area with a red carpeted floor.\nthe long banquet table: Long table with a red covering.\n\nInside The Ceremonial Tent, a heated argument between Sakura and Midori escalates. Other guests, including Akiko, Chiyo, and Kenji, watch from their seats at the long banquet table. Sakura lunges toward Midori."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Ceremonial Tent, a heated argument between Sakura and Midori escalates. Other guests, including Akiko, Chiyo, and Kenji, watch from their seats at the long banquet table. Sakura lunges toward Midori."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Yumi: Young woman with long, straight black hair tied back with a simple white ribbon, a pale complexion, and delicate features, wearing a plain dark grey kimono made of matte fabric, fastened with a silver and light grey patterned obi sash.\nThe Sandy Shore: A sandy beach bordering the ocean, with a table set upon the sand.\n\nYumi gets up from the sand and walks toward a table. At the table, Kenji stands up with a concerned expression while Sakura remains seated, watching Yumi approach. In the background, Chiyo, wearing the maroon patterned kimono, crouches by the ocean's edge, gazing at the waves."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Yumi gets up from the sand and walks toward a table. At the table, Kenji stands up with a concerned expression while Sakura remains seated, watching Yumi approach. In the background, Chiyo, wearing the maroon patterned kimono, crouches by the ocean's edge, gazing at the waves."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Garden Pavilion: An outdoor area featuring a traditional Japanese wooden structure.\n\nMedium close-up of Yumi in The Garden Pavilion. Her gaze drifts downward with a somber, pensive expression as she holds the red floral kimono, lightly running her fingers over the fabric. In the background, Sakura watches her silently, her own expression softening with concern."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up of Yumi in The Garden Pavilion. Her gaze drifts downward with a somber, pensive expression as she holds the red floral kimono, lightly running her fingers over the fabric. In the background, Sakura watches her silently, her own expression softening with concern."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The City Proclamation: A white paper document with black calligraphic text reading '德壽 市 22' on a red cloth surface.\nthe calligraphy scroll: Narrow, folded paper document or scroll with black calligraphy.\n\nHigh-angle close-up of The City Proclamation, resting on the red surface of the long banquet table. The sleeve of Midori's kimono enters the frame as her hand rests on the table near the document."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle close-up of The City Proclamation, resting on the red surface of the long banquet table. The sleeve of Midori's kimono enters the frame as her hand rests on the table near the document."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Close-up of Sakura, wearing the pink and yellow kimono, and Chiyo standing together in The Sandy Shore. Sakura looks down and to her right with a concerned expression, her mouth slightly open as she speaks. Chiyo stands beside her, listening intently.",
+        "the red kanzashi ornaments: A set of traditional Japanese kanzashi hair ornaments composed of vibrant red and orange silk flowers with delicate dangling red tassels.\n\nClose-up of Sakura speaking with a concerned expression in The Sandy Shore, wearing the red kanzashi ornaments in her hair. Midori, wearing the green floral kimono, stands beside her, her expression shifting as she listens intently.",
+        "A close-up of Sakura, wearing the pink and yellow kimono, at The Sandy Shore. As Sakura talks, her facial expression transitions from a slight smile to one of pleading concern."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Sakura, wearing the pink and yellow kimono, and Chiyo standing together in The Sandy Shore. Sakura looks down and to her right with a concerned expression, her mouth slightly open as she speaks. Chiyo stands beside her, listening intently.",
+        "Close-up of Sakura speaking with a concerned expression in The Sandy Shore, wearing the red kanzashi ornaments in her hair. Midori, wearing the green floral kimono, stands beside her, her expression shifting as she listens intently.",
+        "A close-up of Sakura, wearing the pink and yellow kimono, at The Sandy Shore. As Sakura talks, her facial expression transitions from a slight smile to one of pleading concern."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Close-up of Chiyo, wearing the maroon patterned kimono, inside The Ceremonial Tent. She speaks with a serious expression on her face."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Chiyo, wearing the maroon patterned kimono, inside The Ceremonial Tent. She speaks with a serious expression on her face."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Close-up of Yumi wearing the plain dark grey kimono at The Garden Pavilion. She is speaking with a neutral and focused expression. In the background, a green field and the dark wooden structure of The Garden Pavilion are blurred."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Yumi wearing the plain dark grey kimono at The Garden Pavilion. She is speaking with a neutral and focused expression. In the background, a green field and the dark wooden structure of The Garden Pavilion are blurred."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Close-up of Midori, wearing the green floral kimono, and Chiyo, her hair adorned with the red kanzashi ornaments, in The Sandy Shore. Midori's gaze drifts off-camera, her expression slowly growing concerned.",
+        "the red silk ribbons: Long, decorative hair ribbons made of a bright red, silky fabric.\n\nSakura looks around the sandy beach with an excited expression, smiling broadly. Chiyo, standing beside her, gazes out at the ocean before turning to look at Sakura."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Midori, wearing the green floral kimono, and Chiyo, her hair adorned with the red kanzashi ornaments, in The Sandy Shore. Midori's gaze drifts off-camera, her expression slowly growing concerned.",
+        "Sakura looks around the sandy beach with an excited expression, smiling broadly. Chiyo, standing beside her, gazes out at the ocean before turning to look at Sakura."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "the traditional tea set: Traditional Japanese tea sets, each comprised of a small, dark-glazed earthenware teapot with a side handle, multiple matching small handleless ceramic cups, all on a rectangular black lacquered tray.\n\nWide shot inside The Ceremonial Tent, with the large white tent visible. In the background, Akiko, Chiyo, and Kenji are seated formally in a row on a raised, red-carpeted platform, observing the foreground action. In the foreground, Midori gestures as she speaks to Yumi, wearing the plain dark grey kimono; they both kneel opposite each other at the long banquet table, which is set up as a low table and holds the traditional tea set."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wide shot inside The Ceremonial Tent, with the large white tent visible. In the background, Akiko, Chiyo, and Kenji are seated formally in a row on a raised, red-carpeted platform, observing the foreground action. In the foreground, Midori gestures as she speaks to Yumi, wearing the plain dark grey kimono; they both kneel opposite each other at the long banquet table, which is set up as a low table and holds the traditional tea set."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Sakura",
+        "Akiko",
+        "Chiyo",
+        "Kenji",
+        "Midori"
+      ],
+      "places": [
+        "The Ceremonial Tent"
+      ],
+      "objects": [
+        "the pink and yellow kimono",
+        "the long banquet table",
+        "the maroon patterned kimono"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Yumi",
+        "Sakura",
+        "Kenji",
+        "Chiyo"
+      ],
+      "places": [
+        "The Sandy Shore"
+      ],
+      "objects": [
+        "the maroon patterned kimono"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Yumi",
+        "Sakura"
+      ],
+      "places": [
+        "The Garden Pavilion"
+      ],
+      "objects": [
+        "the red floral kimono"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Midori"
+      ],
+      "places": [
+        "The City Proclamation"
+      ],
+      "objects": [
+        "the long banquet table"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Sakura",
+        "Chiyo"
+      ],
+      "places": [
+        "The Sandy Shore"
+      ],
+      "objects": [
+        "the pink and yellow kimono"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Sakura",
+        "Midori"
+      ],
+      "places": [
+        "The Sandy Shore"
+      ],
+      "objects": [
+        "the green floral kimono",
+        "the red kanzashi ornaments"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Sakura"
+      ],
+      "places": [
+        "The Sandy Shore"
+      ],
+      "objects": [
+        "the pink and yellow kimono"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Chiyo"
+      ],
+      "places": [
+        "The Ceremonial Tent"
+      ],
+      "objects": [
+        "the maroon patterned kimono"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Yumi"
+      ],
+      "places": [
+        "The Garden Pavilion"
+      ],
+      "objects": []
+    },
+    "8:1": {
+      "characters": [
+        "Midori",
+        "Chiyo"
+      ],
+      "places": [
+        "The Sandy Shore"
+      ],
+      "objects": [
+        "the green floral kimono",
+        "the red kanzashi ornaments"
+      ]
+    },
+    "8:2": {
+      "characters": [
+        "Sakura",
+        "Chiyo"
+      ],
+      "places": [
+        "The Sandy Shore"
+      ],
+      "objects": [
+        "the pink and yellow kimono",
+        "the red silk ribbons"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Yumi",
+        "Akiko",
+        "Chiyo",
+        "Kenji",
+        "Midori"
+      ],
+      "places": [
+        "The Ceremonial Tent"
+      ],
+      "objects": [
+        "the large white tent",
+        "the long banquet table",
+        "the traditional tea set"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 2": {
+      "name": "Yumi",
+      "label": "Character 2",
+      "description": "Young woman with long, straight black hair tied back with a simple white ribbon, a pale complexion, and delicate features, wearing a plain dark grey kimono made of matte fabric, fastened with a silver and light grey patterned obi sash."
+    },
+    "Character 3": {
+      "name": "Akiko",
+      "label": "Character 3",
+      "description": "Person with long dark hair wearing a maroon kimono with a red and gold pattern over a white garment."
+    },
+    "Character 4": {
+      "name": "Chiyo",
+      "label": "Character 4",
+      "description": "Woman with dark hair styled in a traditional manner, wearing a maroon kimono with a white floral pattern over a visible white undergarment."
+    },
+    "Character 5": {
+      "name": "Kenji",
+      "label": "Character 5",
+      "description": "Man with a traditional topknot hairstyle, wearing a dark purple or maroon kimono with a white pattern on the shoulders."
+    },
+    "Character 6": {
+      "name": "Sakura",
+      "label": "Character 6",
+      "description": "Woman with dark hair styled in an updo with bangs, wearing a pink kimono featuring a yellow leaf pattern."
+    },
+    "Character 7": {
+      "name": "Midori",
+      "label": "Character 7",
+      "description": "Woman with short dark hair and bangs, wearing a light green kimono with an orange and pink floral pattern."
+    },
+    "Location 1": {
+      "name": "The Ceremonial Tent",
+      "label": "Location 1",
+      "description": "A white tent or canopy area with a red carpeted floor."
+    },
+    "Location 2": {
+      "name": "The Sandy Shore",
+      "label": "Location 2",
+      "description": "A sandy beach bordering the ocean, with a table set upon the sand."
+    },
+    "Location 3": {
+      "name": "The Garden Pavilion",
+      "label": "Location 3",
+      "description": "An outdoor area featuring a traditional Japanese wooden structure."
+    },
+    "Location 4": {
+      "name": "The City Proclamation",
+      "label": "Location 4",
+      "description": "A white paper document with black calligraphic text reading '德壽 市 22' on a red cloth surface."
+    },
+    "Object 1": {
+      "name": "the calligraphy scroll",
+      "label": "Object 1",
+      "description": "Narrow, folded paper document or scroll with black calligraphy"
+    },
+    "Object 2": {
+      "name": "the maroon patterned kimono",
+      "label": "Object 2",
+      "description": "Maroon traditional kimono with a white pattern"
+    },
+    "Object 3": {
+      "name": "the red floral kimono",
+      "label": "Object 3",
+      "description": "White kimono with a red floral pattern"
+    },
+    "Object 4": {
+      "name": "the dark blue kimono",
+      "label": "Object 4",
+      "description": "Dark blue kimono with white details"
+    },
+    "Object 5": {
+      "name": "the pink and yellow kimono",
+      "label": "Object 5",
+      "description": "Pink kimono with a yellow pattern"
+    },
+    "Object 6": {
+      "name": "the long banquet table",
+      "label": "Object 6",
+      "description": "Long table with a red covering."
+    },
+    "Object 7": {
+      "name": "the green floral kimono",
+      "label": "Object 7",
+      "description": "Light green traditional kimono with an orange floral pattern"
+    },
+    "Object 8": {
+      "name": "the red kanzashi ornaments",
+      "label": "Object 8",
+      "description": "A set of traditional Japanese kanzashi hair ornaments composed of vibrant red and orange silk flowers with delicate dangling red tassels."
+    },
+    "Object 9": {
+      "name": "the red silk ribbons",
+      "label": "Object 9",
+      "description": "Long, decorative hair ribbons made of a bright red, silky fabric."
+    },
+    "Object 10": {
+      "name": "the large white tent",
+      "label": "Object 10",
+      "description": "A large, traditional white fabric tent or canopy structure forming an enclosed interior space"
+    },
+    "Object 11": {
+      "name": "the traditional tea set",
+      "label": "Object 11",
+      "description": "Traditional Japanese tea sets, each comprised of a small, dark-glazed earthenware teapot with a side handle, multiple matching small handleless ceramic cups, all on a rectangular black lacquered tray."
+    }
+  },
+  "_window_shot_ids": [
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0008",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0009",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0010",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0011",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0012",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0013",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0014",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0015",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0016",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0017",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0018",
+    "0009a7a3-8cbb-3b50-990e-3887b975c99c__run1092__i5_j22__T240__shot0019"
+  ],
+  "_num_scenes": 9,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Hana",
+    "Character 2": "Yumi",
+    "Character 3": "Akiko",
+    "Character 4": "Chiyo",
+    "Character 5": "Kenji",
+    "Character 6": "Sakura",
+    "Character 7": "Midori",
+    "Location 1": "The Ceremonial Tent",
+    "Location 2": "The Sandy Shore",
+    "Location 3": "The Garden Pavilion",
+    "Location 4": "The City Proclamation",
+    "Object 1": "the calligraphy scroll",
+    "Object 10": "the large white tent",
+    "Object 11": "the traditional tea set",
+    "Object 2": "the maroon patterned kimono",
+    "Object 3": "the red floral kimono",
+    "Object 4": "the dark blue kimono",
+    "Object 5": "the pink and yellow kimono",
+    "Object 6": "the long banquet table",
+    "Object 7": "the green floral kimono",
+    "Object 8": "the red kanzashi ornaments",
+    "Object 9": "the red silk ribbons"
+  }
+}

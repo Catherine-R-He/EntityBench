@@ -1,0 +1,329 @@
+{
+  "story_name": "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600",
+  "story_overview": "After Kenji retrieves a mysterious envelope, he is found gravely injured in an alley. His friends Mei, Ryan, and Chloe rush to get him to safety, leading to a tense escape in a black sedan. Their destination appears to be The Red Lotus Kitchen, the restaurant where Mei works.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Kenji: Man with short black hair.\nDistrict Alley: Urban street with a paved surface, a concrete sidewalk, a green chain-link fence, and a parked white car.\nthe white envelope: Small, rectangular white paper envelope.\nMei: Woman wearing a pink apron\n\nHigh-angle close-up in District Alley. the white envelope lies on the cracked asphalt. The hand of Kenji enters the frame from above and picks up the white envelope."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle close-up in District Alley. the white envelope lies on the cracked asphalt. The hand of Kenji enters the frame from above and picks up the white envelope."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Ryan: Man with short blond hair wearing a shiny green bomber jacket with red and white letters.\nThe Orange Dragon Stall: A messy and chaotic orange food stall storefront with red graffiti on its exterior.\nthe pink work apron: A pink bib-style work apron with white trim and white straps\n\nMedium close-up on Mei at The Orange Dragon Stall. Wearing the pink work apron, she abruptly stands up with a shocked expression, her mouth falling open as she stares straight ahead. In the background, Kenji and Ryan turn their heads to look at her."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up on Mei at The Orange Dragon Stall. Wearing the pink work apron, she abruptly stands up with a shocked expression, her mouth falling open as she stares straight ahead. In the background, Kenji and Ryan turn their heads to look at her."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Chloe: Woman with red hair.\n\nA bloody Kenji, wearing the black suit over the blood-stained shirt, stumbles onto the sidewalk of District Alley. He clutches his side and walks with difficulty down the street. In the foreground, Chloe stands with her back to the camera, watching him.",
+        "On District Alley, Chloe has a concerned expression as she peeks over the roof of the black sedan. She is looking towards Kenji, who is in the foreground with his back to the camera. Kenji is wearing the blood-stained shirt.",
+        "Over-the-shoulder close-up of Kenji on District Alley. Kenji's face contorts in a pained expression as he breathes heavily, blood spattered on his face and the collar of the blood-stained shirt. He wears the black suit, and the roof of the black sedan is positioned in the background between them."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "A bloody Kenji, wearing the black suit over the blood-stained shirt, stumbles onto the sidewalk of District Alley. He clutches his side and walks with difficulty down the street. In the foreground, Chloe stands with her back to the camera, watching him.",
+        "On District Alley, Chloe has a concerned expression as she peeks over the roof of the black sedan. She is looking towards Kenji, who is in the foreground with his back to the camera. Kenji is wearing the blood-stained shirt.",
+        "Over-the-shoulder close-up of Kenji on District Alley. Kenji's face contorts in a pained expression as he breathes heavily, blood spattered on his face and the collar of the blood-stained shirt. He wears the black suit, and the roof of the black sedan is positioned in the background between them."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Sedan Interior: Interior of a black car featuring a driver's seat and a rearview mirror.\n\nExtreme close-up on the rearview mirror in The Sedan Interior. The mirror reflects the intense and concerned face of Mei. Her eyes dart nervously as she sits in the driver's seat of the black sedan.",
+        "Medium shot in the interior of the black sedan. Ryan sits in the front passenger seat, staring tensely ahead. In the backseat, Kenji is slumped over, breathing raggedly with a pained expression, his face bloody and wearing the blood-stained shirt.",
+        "Kenji, with a bloody wound on his forehead, sits in the back seat wearing the black suit over the blood-stained shirt. He gazes thoughtfully out the window, his expression shifting subtly as daylight streams in and the outside scenery blurs past the black sedan."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Extreme close-up on the rearview mirror in The Sedan Interior. The mirror reflects the intense and concerned face of Mei. Her eyes dart nervously as she sits in the driver's seat of the black sedan.",
+        "Medium shot in the interior of the black sedan. Ryan sits in the front passenger seat, staring tensely ahead. In the backseat, Kenji is slumped over, breathing raggedly with a pained expression, his face bloody and wearing the blood-stained shirt.",
+        "Kenji, with a bloody wound on his forehead, sits in the back seat wearing the black suit over the blood-stained shirt. He gazes thoughtfully out the window, his expression shifting subtly as daylight streams in and the outside scenery blurs past the black sedan."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the black sedan pulls to the curb on District Alley during the day. Kenji, wearing the blood-stained shirt and the black suit, gets out of the rear passenger side, and Ryan exits from the front passenger seat. Kenji, Chloe, and Ryan exchange concerned glances as they look off-screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "the black sedan pulls to the curb on District Alley during the day. Kenji, wearing the blood-stained shirt and the black suit, gets out of the rear passenger side, and Ryan exits from the front passenger seat. Kenji, Chloe, and Ryan exchange concerned glances as they look off-screen."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Red Lotus Kitchen: A functional commercial kitchen in a red-themed Chinese restaurant, featuring a large steel hood over a wok station and stainless steel prep stations.\nthe flaming wok: Large, round-bottomed carbon steel wok with a long handle, a blackened and soot-stained surface, and bright orange flames contained within its bowl.\nthe charcoal suit: A man's two-piece suit in dark charcoal grey, consisting of a suit jacket and matching trousers\nMedium shot in The Red Lotus Kitchen, a busy commercial kitchen. Mei cooks using the flaming wok, while another chef works at a prep station. From the right, Kenji, wearing the charcoal suit, and Ryan rush into the kitchen, looking around urgently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Red Lotus Kitchen, a busy commercial kitchen. Mei cooks using the flaming wok, while another chef works at a prep station. From the right, Kenji, wearing the charcoal suit, and Ryan rush into the kitchen, looking around urgently."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Kenji",
+        "Mei"
+      ],
+      "places": [
+        "District Alley"
+      ],
+      "objects": [
+        "the white envelope"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Kenji",
+        "Ryan",
+        "Mei"
+      ],
+      "places": [
+        "The Orange Dragon Stall"
+      ],
+      "objects": [
+        "the pink work apron"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Chloe",
+        "Kenji"
+      ],
+      "places": [
+        "District Alley"
+      ],
+      "objects": [
+        "the black suit",
+        "the blood-stained shirt"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Kenji",
+        "Chloe"
+      ],
+      "places": [
+        "District Alley"
+      ],
+      "objects": [
+        "the black sedan",
+        "the blood-stained shirt"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Kenji"
+      ],
+      "places": [
+        "District Alley"
+      ],
+      "objects": [
+        "the blood-stained shirt",
+        "the black suit",
+        "the black sedan"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Mei"
+      ],
+      "places": [
+        "The Sedan Interior"
+      ],
+      "objects": [
+        "the black sedan"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Kenji",
+        "Ryan"
+      ],
+      "places": [],
+      "objects": [
+        "the black sedan",
+        "the blood-stained shirt"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Kenji"
+      ],
+      "places": [
+        "The Sedan Interior"
+      ],
+      "objects": [
+        "the black sedan",
+        "the black suit",
+        "the blood-stained shirt"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Kenji",
+        "Chloe",
+        "Ryan"
+      ],
+      "places": [
+        "District Alley"
+      ],
+      "objects": [
+        "the black sedan",
+        "the blood-stained shirt",
+        "the black suit"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Kenji",
+        "Ryan",
+        "Mei"
+      ],
+      "places": [
+        "The Red Lotus Kitchen"
+      ],
+      "objects": [
+        "the flaming wok",
+        "the charcoal suit"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Mei",
+      "label": "Character 1",
+      "description": "Woman wearing a pink apron"
+    },
+    "Character 2": {
+      "name": "Kenji",
+      "label": "Character 2",
+      "description": "Man with short black hair."
+    },
+    "Character 4": {
+      "name": "Ryan",
+      "label": "Character 4",
+      "description": "Man with short blond hair wearing a shiny green bomber jacket with red and white letters."
+    },
+    "Character 5": {
+      "name": "Chloe",
+      "label": "Character 5",
+      "description": "Woman with red hair."
+    },
+    "Location 1": {
+      "name": "District Alley",
+      "label": "Location 1",
+      "description": "Urban street with a paved surface, a concrete sidewalk, a green chain-link fence, and a parked white car."
+    },
+    "Location 2": {
+      "name": "The Orange Dragon Stall",
+      "label": "Location 2",
+      "description": "A messy and chaotic orange food stall storefront with red graffiti on its exterior."
+    },
+    "Location 3": {
+      "name": "The Sedan Interior",
+      "label": "Location 3",
+      "description": "Interior of a black car featuring a driver's seat and a rearview mirror."
+    },
+    "Location 4": {
+      "name": "The Red Lotus Kitchen",
+      "label": "Location 4",
+      "description": "A functional commercial kitchen in a red-themed Chinese restaurant, featuring a large steel hood over a wok station and stainless steel prep stations."
+    },
+    "Object 1": {
+      "name": "the pink work apron",
+      "label": "Object 1",
+      "description": "A pink bib-style work apron with white trim and white straps"
+    },
+    "Object 2": {
+      "name": "the white envelope",
+      "label": "Object 2",
+      "description": "Small, rectangular white paper envelope."
+    },
+    "Object 3": {
+      "name": "the blood-stained shirt",
+      "label": "Object 3",
+      "description": "Men's white button-down dress shirt heavily stained and splattered with red blood"
+    },
+    "Object 4": {
+      "name": "the black suit",
+      "label": "Object 4",
+      "description": "A man's two-piece suit in solid black, consisting of a suit jacket and matching trousers"
+    },
+    "Object 5": {
+      "name": "the black sedan",
+      "label": "Object 5",
+      "description": "Black car with a roof"
+    },
+    "Object 6": {
+      "name": "the charcoal suit",
+      "label": "Object 6",
+      "description": "A man's two-piece suit in dark charcoal grey, consisting of a suit jacket and matching trousers"
+    },
+    "Object 7": {
+      "name": "the flaming wok",
+      "label": "Object 7",
+      "description": "Large, round-bottomed carbon steel wok with a long handle, a blackened and soot-stained surface, and bright orange flames contained within its bowl."
+    }
+  },
+  "_window_shot_ids": [
+    "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600__shot0104",
+    "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600__shot0105",
+    "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600__shot0106",
+    "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600__shot0107",
+    "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600__shot0108",
+    "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600__shot0109",
+    "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600__shot0110",
+    "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600__shot0111",
+    "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600__shot0112",
+    "000bf089-c4cf-37fe-a12d-5916eb7a0b8d__run1404__i170_j220__T600__shot0113"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Mei",
+    "Character 2": "Kenji",
+    "Character 3": "Wei",
+    "Character 4": "Ryan",
+    "Character 5": "Chloe",
+    "Location 1": "District Alley",
+    "Location 2": "The Orange Dragon Stall",
+    "Location 3": "The Sedan Interior",
+    "Location 4": "The Red Lotus Kitchen",
+    "Object 1": "the pink work apron",
+    "Object 2": "the white envelope",
+    "Object 3": "the blood-stained shirt",
+    "Object 4": "the black suit",
+    "Object 5": "the black sedan",
+    "Object 6": "the charcoal suit",
+    "Object 7": "the flaming wok"
+  }
+}

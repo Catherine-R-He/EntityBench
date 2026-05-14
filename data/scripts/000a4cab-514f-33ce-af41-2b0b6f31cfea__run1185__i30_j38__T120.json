@@ -1,0 +1,455 @@
+{
+  "story_name": "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120",
+  "story_overview": "Assassin Ren confronts his target while associate Yuna deals with the aftermath, hiding the body of a man named Yuki in a car trunk. Later, in a high-rise office, Leo and Daichi investigate a computer while Yuki's bloody body lies on the floor nearby, connecting them to the earlier crime.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Leo: Man with short black hair and glasses, wearing a white shirt, a black vest, and a purple necktie.\nThe Skyline Office: Modern high-rise office interior defined by a large window with a clear view of a city skyline filled with skyscrapers.\nthe data report booklet: A staple-bound paper booklet with pages printed with a series of colorful bar charts, line graphs, and data tables.\nthe panoramic office window: Large, modern office picture window with a single, expansive pane of clear glass.\n\nMedium shot of Leo from behind, standing inside The Skyline Office during the day. He holds the data report booklet, flipping a page as he reads. Behind him, a city skyline stretches out beyond the panoramic office window."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Leo from behind, standing inside The Skyline Office during the day. He holds the data report booklet, flipping a page as he reads. Behind him, a city skyline stretches out beyond the panoramic office window."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Ren: Man with dark hair, wearing an assassin's black suit and black gloves.\nYuna: Woman with green eyes and blonde hair pulled back, wearing a brown blazer over a beige turtleneck, a white face mask, and blue gloves.\nThe Inner Room: An indoor room with a doorway.\n\nIn `The Inner Room` at night, `Ren` wearing `the tailored black suit` opens a door and walks inside. In the foreground, `Yuna`'s shoulder partially obscures the shot as she shifts her weight slightly.",
+        "the silenced pistol: Black semi-automatic pistol with a matte finish, fitted with a long, cylindrical sound suppressor on the barrel.\nthe Chinese characters: The Chinese characters '初次见面'.\n\nIn The Inner Room at night, Ren, wearing the tailored black suit, steps into the doorway beside the Chinese characters, a gentle smile spreading across his face. He holds the silenced pistol loosely in his gloved left hand. Across from him, Yuna shifts her stance slightly, watching him.",
+        "Alex: Person wearing a brown jacket and pants.\nthe tailed black object: Large black object with a tail-like appendage.\nthe black tailed shape: Large black object with a tail-like appendage.\n\nAlex leans over the open trunk of the white anime car, gesturing toward the contents inside. Ren stands beside the car and nods, his gaze shifting between the tailed black object and the black tailed shape."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In `The Inner Room` at night, `Ren` wearing `the tailored black suit` opens a door and walks inside. In the foreground, `Yuna`'s shoulder partially obscures the shot as she shifts her weight slightly.",
+        "In The Inner Room at night, Ren, wearing the tailored black suit, steps into the doorway beside the Chinese characters, a gentle smile spreading across his face. He holds the silenced pistol loosely in his gloved left hand. Across from him, Yuna shifts her stance slightly, watching him.",
+        "Alex leans over the open trunk of the white anime car, gesturing toward the contents inside. Ren stands beside the car and nods, his gaze shifting between the tailed black object and the black tailed shape."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Yuki: Man with light-colored hair wearing a white shirt, with blood covering his shirt, body, and the area around his head.\nThe Green Door Garage: Garage interior featuring a green sectional door.\nthe green garage door: Green sectional garage door composed of wide, horizontal rectangular panels with clean black line art.\n\nYuna, wearing the blue gloves and the white face mask, leans over the open trunk of the white anime car and adjusts the tailed black object over the motionless, bloody Yuki inside. The green garage door is in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Yuna, wearing the blue gloves and the white face mask, leans over the open trunk of the white anime car and adjusts the tailed black object over the motionless, bloody Yuki inside. The green garage door is in the background."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Emi: Woman with blonde hair wearing a dark suit.\nThe Snowy Car Interior: The interior of a car's back seat with snow-covered ground visible through a window.\n\nMedium shot from inside The Snowy Car Interior. Emi sits in the back seat, sadly clutching the grey plush blanket around her shoulders and looking out the window. Leo sits beside her, turning his head slightly towards her with a concerned expression. Outside, the ground is completely covered in the blanket of snow."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot from inside The Snowy Car Interior. Emi sits in the back seat, sadly clutching the grey plush blanket around her shoulders and looking out the window. Leo sits beside her, turning his head slightly towards her with a concerned expression. Outside, the ground is completely covered in the blanket of snow."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Yuna stands in front of the solid green door at night. With an annoyed expression, she pulls one of the blue gloves off her hand.",
+        "the white cloth: A solid white, unadorned piece of fabric.\n\nHigh-angle close-up in The Green Door Garage. The white cloth falls from above as Leo, wearing the blue gloves, watches from near the white anime car.",
+        "Daichi: Man with short brown hair and tanned skin, wearing a brown blazer over a white high-collared turtleneck.\nthe white smartphone: A white smartphone with a smooth, glossy white back casing and a small, dark camera lens near the top.\nthe blue toddler sneakers: A small pair of royal blue canvas toddler sneakers with white rubber toe caps, white laces, and white soles.\n\nIn The Green Door Garage, Yuna holds the white smartphone and talks, while Daichi stands beside her, listening intently. Behind them, the trunk of the white anime car is open, revealing the tailed black object and the white cloth inside, with the blue toddler sneakers placed on top of the white cloth.",
+        "Close-up shot of Yuna standing inside The Green Door Garage during the day, with the Chinese characters appearing as a graphic overlay. With a serious expression, she holds the white smartphone on speakerphone, listening to a call and nodding slowly. The large black tail of the tailed black object is on her back."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Yuna stands in front of the solid green door at night. With an annoyed expression, she pulls one of the blue gloves off her hand.",
+        "High-angle close-up in The Green Door Garage. The white cloth falls from above as Leo, wearing the blue gloves, watches from near the white anime car.",
+        "In The Green Door Garage, Yuna holds the white smartphone and talks, while Daichi stands beside her, listening intently. Behind them, the trunk of the white anime car is open, revealing the tailed black object and the white cloth inside, with the blue toddler sneakers placed on top of the white cloth.",
+        "Close-up shot of Yuna standing inside The Green Door Garage during the day, with the Chinese characters appearing as a graphic overlay. With a serious expression, she holds the white smartphone on speakerphone, listening to a call and nodding slowly. The large black tail of the tailed black object is on her back."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "the wire-rimmed glasses: Thin gunmetal wire-rimmed spectacles with rectangular lenses and black plastic temple tips.\nthe office landline phone: Standard office landline phone with a base unit and a handset connected by a coiled cord.\n\nIn The Skyline Office, Leo, wearing the purple tie and vest and the wire-rimmed glasses, sits at a desk, speaking into the office landline phone with a concerned expression as Yuki looks on. Beside him, Daichi, wearing the brown blazer and white turtleneck, stares intently at the computer monitor, his eyes darting across the screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Skyline Office, Leo, wearing the purple tie and vest and the wire-rimmed glasses, sits at a desk, speaking into the office landline phone with a concerned expression as Yuki looks on. Beside him, Daichi, wearing the brown blazer and white turtleneck, stares intently at the computer monitor, his eyes darting across the screen."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Skyline Office"
+      ],
+      "objects": [
+        "the data report booklet",
+        "the panoramic office window"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Ren",
+        "Yuna"
+      ],
+      "places": [
+        "The Inner Room"
+      ],
+      "objects": [
+        "the tailored black suit"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Yuna",
+        "Ren"
+      ],
+      "places": [
+        "The Inner Room"
+      ],
+      "objects": [
+        "the tailored black suit",
+        "the silenced pistol",
+        "the Chinese characters"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Ren",
+        "Alex"
+      ],
+      "places": [],
+      "objects": [
+        "the white anime car",
+        "the tailed black object",
+        "the black tailed shape"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Yuna",
+        "Yuki"
+      ],
+      "places": [
+        "The Green Door Garage"
+      ],
+      "objects": [
+        "the white anime car",
+        "the tailed black object",
+        "the blue gloves",
+        "the white face mask",
+        "the green garage door"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Leo",
+        "Emi"
+      ],
+      "places": [
+        "The Snowy Car Interior"
+      ],
+      "objects": [
+        "the grey plush blanket",
+        "the blanket of snow"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Yuna"
+      ],
+      "places": [
+        "The Green Door Garage"
+      ],
+      "objects": [
+        "the blue gloves",
+        "the white face mask"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Green Door Garage"
+      ],
+      "objects": [
+        "the white anime car",
+        "the blue gloves",
+        "the white cloth"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Yuna",
+        "Daichi"
+      ],
+      "places": [
+        "The Green Door Garage"
+      ],
+      "objects": [
+        "the white anime car",
+        "the tailed black object",
+        "the white cloth",
+        "the white smartphone",
+        "the blue toddler sneakers"
+      ]
+    },
+    "5:4": {
+      "characters": [
+        "Yuna"
+      ],
+      "places": [
+        "The Green Door Garage"
+      ],
+      "objects": [
+        "the tailed black object",
+        "the white smartphone",
+        "the Chinese characters"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Yuki",
+        "Leo",
+        "Daichi"
+      ],
+      "places": [
+        "The Skyline Office"
+      ],
+      "objects": [
+        "the wire-rimmed glasses",
+        "the purple tie and vest",
+        "the office landline phone",
+        "the computer monitor"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Ren",
+      "label": "Character 1",
+      "description": "Man with dark hair, wearing an assassin's black suit and black gloves."
+    },
+    "Character 2": {
+      "name": "Alex",
+      "label": "Character 2",
+      "description": "Person wearing a brown jacket and pants."
+    },
+    "Character 3": {
+      "name": "Yuna",
+      "label": "Character 3",
+      "description": "Woman with green eyes and blonde hair pulled back, wearing a brown blazer over a beige turtleneck, a white face mask, and blue gloves."
+    },
+    "Character 4": {
+      "name": "Emi",
+      "label": "Character 4",
+      "description": "Woman with blonde hair wearing a dark suit."
+    },
+    "Character 5": {
+      "name": "Yuki",
+      "label": "Character 5",
+      "description": "Man with light-colored hair wearing a white shirt, with blood covering his shirt, body, and the area around his head."
+    },
+    "Character 6": {
+      "name": "Daichi",
+      "label": "Character 6",
+      "description": "Man with short brown hair and tanned skin, wearing a brown blazer over a white high-collared turtleneck."
+    },
+    "Character 7": {
+      "name": "Leo",
+      "label": "Character 7",
+      "description": "Man with short black hair and glasses, wearing a white shirt, a black vest, and a purple necktie."
+    },
+    "Location 1": {
+      "name": "The Green Door Garage",
+      "label": "Location 1",
+      "description": "Garage interior featuring a green sectional door."
+    },
+    "Location 2": {
+      "name": "The Skyline Office",
+      "label": "Location 2",
+      "description": "Modern high-rise office interior defined by a large window with a clear view of a city skyline filled with skyscrapers."
+    },
+    "Location 3": {
+      "name": "The Inner Room",
+      "label": "Location 3",
+      "description": "An indoor room with a doorway."
+    },
+    "Location 4": {
+      "name": "The Snowy Car Interior",
+      "label": "Location 4",
+      "description": "The interior of a car's back seat with snow-covered ground visible through a window."
+    },
+    "Object 1": {
+      "name": "the tailored black suit",
+      "label": "Object 1",
+      "description": "Sleek, tailored, all-black suit composed of a jacket and trousers, accompanied by a pair of matching form-fitting black gloves"
+    },
+    "Object 2": {
+      "name": "the silenced pistol",
+      "label": "Object 2",
+      "description": "Black semi-automatic pistol with a matte finish, fitted with a long, cylindrical sound suppressor on the barrel."
+    },
+    "Object 3": {
+      "name": "the purple tie and vest",
+      "label": "Object 3",
+      "description": "A white collared shirt worn under a black vest, with a purple necktie"
+    },
+    "Object 4": {
+      "name": "the data report booklet",
+      "label": "Object 4",
+      "description": "A staple-bound paper booklet with pages printed with a series of colorful bar charts, line graphs, and data tables."
+    },
+    "Object 5": {
+      "name": "the panoramic office window",
+      "label": "Object 5",
+      "description": "Large, modern office picture window with a single, expansive pane of clear glass."
+    },
+    "Object 6": {
+      "name": "the Chinese characters",
+      "label": "Object 6",
+      "description": "The Chinese characters '初次见面'."
+    },
+    "Object 7": {
+      "name": "the tailed black object",
+      "label": "Object 7",
+      "description": "Large black object with a tail-like appendage."
+    },
+    "Object 8": {
+      "name": "the white anime car",
+      "label": "Object 8",
+      "description": "White car with an open trunk"
+    },
+    "Object 9": {
+      "name": "the black tailed shape",
+      "label": "Object 9",
+      "description": "Large black object with a tail-like appendage."
+    },
+    "Object 10": {
+      "name": "the green garage door",
+      "label": "Object 10",
+      "description": "Green sectional garage door composed of wide, horizontal rectangular panels with clean black line art."
+    },
+    "Object 11": {
+      "name": "the blue gloves",
+      "label": "Object 11",
+      "description": "Pair of blue gloves"
+    },
+    "Object 12": {
+      "name": "the white face mask",
+      "label": "Object 12",
+      "description": "A simple, white face mask"
+    },
+    "Object 13": {
+      "name": "the blanket of snow",
+      "label": "Object 13",
+      "description": "A thick, unbroken blanket of white snow"
+    },
+    "Object 14": {
+      "name": "the grey plush blanket",
+      "label": "Object 14",
+      "description": "Plush, solid grey blanket"
+    },
+    "Object 15": {
+      "name": "the white cloth",
+      "label": "Object 15",
+      "description": "A solid white, unadorned piece of fabric."
+    },
+    "Object 16": {
+      "name": "the white smartphone",
+      "label": "Object 16",
+      "description": "A white smartphone with a smooth, glossy white back casing and a small, dark camera lens near the top."
+    },
+    "Object 17": {
+      "name": "the blue toddler sneakers",
+      "label": "Object 17",
+      "description": "A small pair of royal blue canvas toddler sneakers with white rubber toe caps, white laces, and white soles."
+    },
+    "Object 18": {
+      "name": "the computer monitor",
+      "label": "Object 18",
+      "description": "Computer monitor"
+    },
+    "Object 19": {
+      "name": "the office landline phone",
+      "label": "Object 19",
+      "description": "Standard office landline phone with a base unit and a handset connected by a coiled cord."
+    },
+    "Object 20": {
+      "name": "the wire-rimmed glasses",
+      "label": "Object 20",
+      "description": "Thin gunmetal wire-rimmed spectacles with rectangular lenses and black plastic temple tips."
+    },
+    "Object 21": {
+      "name": "the high-collared white jacket",
+      "label": "Object 21",
+      "description": "White jacket with a high collar"
+    }
+  },
+  "_window_shot_ids": [
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0024",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0025",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0026",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0027",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0028",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0029",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0030",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0031",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0032",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0033",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i30_j38__T120__shot0034"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Ren",
+    "Character 2": "Alex",
+    "Character 3": "Yuna",
+    "Character 4": "Emi",
+    "Character 5": "Yuki",
+    "Character 6": "Daichi",
+    "Character 7": "Leo",
+    "Location 1": "The Green Door Garage",
+    "Location 2": "The Skyline Office",
+    "Location 3": "The Inner Room",
+    "Location 4": "The Snowy Car Interior",
+    "Object 1": "the tailored black suit",
+    "Object 10": "the green garage door",
+    "Object 11": "the blue gloves",
+    "Object 12": "the white face mask",
+    "Object 13": "the blanket of snow",
+    "Object 14": "the grey plush blanket",
+    "Object 15": "the white cloth",
+    "Object 16": "the white smartphone",
+    "Object 17": "the blue toddler sneakers",
+    "Object 18": "the computer monitor",
+    "Object 19": "the office landline phone",
+    "Object 2": "the silenced pistol",
+    "Object 20": "the wire-rimmed glasses",
+    "Object 21": "the high-collared white jacket",
+    "Object 3": "the purple tie and vest",
+    "Object 4": "the data report booklet",
+    "Object 5": "the panoramic office window",
+    "Object 6": "the Chinese characters",
+    "Object 7": "the tailed black object",
+    "Object 8": "the white anime car",
+    "Object 9": "the black tailed shape"
+  }
+}

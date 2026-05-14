@@ -1,0 +1,437 @@
+{
+  "story_name": "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600",
+  "story_overview": "Members of a group, including Leo, Clara, and Martin, participate in interviews in The Study and The Portrait Room. In parallel, Ansel and Martin are at The Poolside Patio, showing off features of the house like a retractable screen door while other characters interact nearby.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Leo: Man with short, salt-and-pepper hair and a neatly-trimmed goatee, wearing a solid blue crew-neck t-shirt and the beaded stone necklace.\nThe Portrait Room: An interview room with framed pictures on the wall and a plant.\nthe abstract art prints: A collection of rectangular, abstract art prints in simple, thin, black wooden frames under glass, featuring geometric shapes in muted palettes of blue, grey, and beige.\nthe fiddle leaf fig plant: Large Fiddle Leaf Fig plant with broad, glossy, violin-shaped green leaves sprouting from a slender brown woody trunk, housed in a simple white ceramic cylindrical pot.\nOwen: Man with short dark hair, wearing an unbuttoned grey plaid button-up shirt over a plain white t-shirt\n\nClose-up shot of Leo in The Portrait Room during an interview. He speaks earnestly while looking slightly off-camera. In the background behind him, the abstract art prints hang on the wall and the fiddle leaf fig plant stands in the corner."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot of Leo in The Portrait Room during an interview. He speaks earnestly while looking slightly off-camera. In the background behind him, the abstract art prints hang on the wall and the fiddle leaf fig plant stands in the corner."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Ansel: Man with long, straight dark hair, wearing glasses and a pink polo shirt with thin white and blue stripes.\nThe Poolside Patio: A lush backyard featuring a pool, a red brick patio, green trees, and a round outdoor table.\nthe black poodle: Large Black Poodle with a thick, fluffy, and curly black coat.\n\nAnsel watches as the black poodle walks across the red brick patio in front of him.",
+        "Martin: Man with short, solid grey hair and a goatee, wearing thick-framed glasses and a pink polo shirt with wide, horizontal stripes.\nthe white french doors: A set of white, multi-paned French doors.\nthe swimming pool: Rectangular in-ground swimming pool with clear, light blue water and a brick coping edge.\n\nAnsel opens the white french doors. He and Martin step out onto the brick patio, looking around at the lush backyard and the swimming pool as they talk."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Ansel watches as the black poodle walks across the red brick patio in front of him.",
+        "Ansel opens the white french doors. He and Martin step out onto the brick patio, looking around at the lush backyard and the swimming pool as they talk."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Clara: Woman with shoulder-length brown hair, wearing thick black-rimmed glasses, a pink and white horizontal-striped short-sleeved shirt, and dark blue jeans.\n\nClose-up shot of Leo and Clara sitting side-by-side in The Portrait Room, near the abstract art prints and the fiddle leaf fig plant. Leo speaks earnestly while Clara listens intently next to him.",
+        "A close-up of Leo speaking inside The Portrait Room. In the blurred background, the abstract art prints and the fiddle leaf fig plant are visible."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up shot of Leo and Clara sitting side-by-side in The Portrait Room, near the abstract art prints and the fiddle leaf fig plant. Leo speaks earnestly while Clara listens intently next to him.",
+        "A close-up of Leo speaking inside The Portrait Room. In the blurred background, the abstract art prints and the fiddle leaf fig plant are visible."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "From inside a house, the view moves slowly toward the open white french doors. Through the doorway, Ansel stands on the brick patio in The Poolside Patio, turning his head slightly as he looks out at the sunny backyard."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "From inside a house, the view moves slowly toward the open white french doors. Through the doorway, Ansel stands on the brick patio in The Poolside Patio, turning his head slightly as he looks out at the sunny backyard."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Study: Interview room with a brown leather couch, a fireplace with a mantelpiece, a television on top of the mantelpiece, and white built-in bookshelves framing the fireplace.\nthe brown leather couch: A long couch with a straight back, square arms, and thick seat cushions, all upholstered in uniform brown leather.\nthe walnut console table: Long, narrow rectangular console table made of dark walnut wood with a smooth, polished surface and slender, tapered legs.\nMaya: Woman with long brown hair\nEthan: Young man wearing a plaid shirt\n\nIn The Study, Maya and Ethan sit on the brown leather couch. Maya, wearing the beaded stone necklace, speaks earnestly as Ethan listens. In the background, the walnut console table stands against the wall with the framed family photos arranged on its surface."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Study, Maya and Ethan sit on the brown leather couch. Maya, wearing the beaded stone necklace, speaks earnestly as Ethan listens. In the background, the walnut console table stands against the wall with the framed family photos arranged on its surface."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "the retractable screen door: Retractable screen door system featuring a fine, dark-colored mesh screen, a vertical housing cassette that the screen rolls into, and a matching vertical pull-bar with a handle.\n\nMartin stands inside by the open white french doors, looking out onto The Poolside Patio. He gestures to the retractable screen door installed on the door frame, then pulls the screen across the opening to demonstrate how it works.",
+        "From a shaky, first-person perspective, the view whips quickly from an indoor space out into the sunny The Poolside Patio. Martin stands on the red brick patio amidst lush green foliage and turns toward the camera.",
+        "The camera moves forward from inside a house, passing through the open white french doors and out onto the red brick patio of the sunny The Poolside Patio, with the white french doors visible. Leo stands on the patio, looking towards the camera and smiling.",
+        "the floral armchair: Traditional upholstered armchair with rolled arms and a pleated skirt base, featuring a busy floral pattern of pink and red roses with green leaves on a cream-colored fabric.\n\nLow-angle shot from inside a sunroom. Clara hesitates in the open doorway of the white french doors, her gaze shifting out toward The Poolside Patio where the small dark dog wags its tail. Inside the room, the floral armchair sits in the corner of the room."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Martin stands inside by the open white french doors, looking out onto The Poolside Patio. He gestures to the retractable screen door installed on the door frame, then pulls the screen across the opening to demonstrate how it works.",
+        "From a shaky, first-person perspective, the view whips quickly from an indoor space out into the sunny The Poolside Patio. Martin stands on the red brick patio amidst lush green foliage and turns toward the camera.",
+        "The camera moves forward from inside a house, passing through the open white french doors and out onto the red brick patio of the sunny The Poolside Patio, with the white french doors visible. Leo stands on the patio, looking towards the camera and smiling.",
+        "Low-angle shot from inside a sunroom. Clara hesitates in the open doorway of the white french doors, her gaze shifting out toward The Poolside Patio where the small dark dog wags its tail. Inside the room, the floral armchair sits in the corner of the room."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "the sunflower bouquet: A bouquet of tall sunflowers with large, bright yellow petals, dark brown seed heads, and thick green stems.\n\nLow-angle shot from the perspective of the black poodle sitting on the floor in The Study, its tail wagging slightly. In the background, Maya walks toward a table holding the sunflower bouquet, as Martin, Leo, and Ethan stand near the fireplace talking and gesturing to each other."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle shot from the perspective of the black poodle sitting on the floor in The Study, its tail wagging slightly. In the background, Maya walks toward a table holding the sunflower bouquet, as Martin, Leo, and Ethan stand near the fireplace talking and gesturing to each other."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Portrait Room"
+      ],
+      "objects": [
+        "the abstract art prints",
+        "the fiddle leaf fig plant"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Ansel"
+      ],
+      "places": [
+        "The Poolside Patio"
+      ],
+      "objects": [
+        "the black poodle"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Ansel",
+        "Martin"
+      ],
+      "places": [
+        "The Poolside Patio"
+      ],
+      "objects": [
+        "the white french doors",
+        "the swimming pool"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Clara",
+        "Leo"
+      ],
+      "places": [
+        "The Portrait Room"
+      ],
+      "objects": [
+        "the abstract art prints",
+        "the fiddle leaf fig plant"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Portrait Room"
+      ],
+      "objects": [
+        "the abstract art prints",
+        "the fiddle leaf fig plant"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Ansel"
+      ],
+      "places": [
+        "The Poolside Patio"
+      ],
+      "objects": [
+        "the white french doors"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Maya",
+        "Ethan"
+      ],
+      "places": [
+        "The Study"
+      ],
+      "objects": [
+        "the brown leather couch",
+        "the beaded stone necklace",
+        "the framed family photos",
+        "the walnut console table"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Martin"
+      ],
+      "places": [
+        "The Poolside Patio"
+      ],
+      "objects": [
+        "the white french doors",
+        "the retractable screen door"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Martin"
+      ],
+      "places": [
+        "The Poolside Patio"
+      ],
+      "objects": []
+    },
+    "6:3": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Poolside Patio"
+      ],
+      "objects": [
+        "the white french doors"
+      ]
+    },
+    "6:4": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Poolside Patio"
+      ],
+      "objects": [
+        "the white french doors",
+        "the small dark dog",
+        "the floral armchair"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Martin",
+        "Leo",
+        "Maya",
+        "Ethan"
+      ],
+      "places": [
+        "The Study"
+      ],
+      "objects": [
+        "the black poodle",
+        "the sunflower bouquet"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Man with short, salt-and-pepper hair and a neatly-trimmed goatee, wearing a solid blue crew-neck t-shirt and the beaded stone necklace."
+    },
+    "Character 2": {
+      "name": "Ansel",
+      "label": "Character 2",
+      "description": "Man with long, straight dark hair, wearing glasses and a pink polo shirt with thin white and blue stripes."
+    },
+    "Character 3": {
+      "name": "Martin",
+      "label": "Character 3",
+      "description": "Man with short, solid grey hair and a goatee, wearing thick-framed glasses and a pink polo shirt with wide, horizontal stripes."
+    },
+    "Character 5": {
+      "name": "Clara",
+      "label": "Character 5",
+      "description": "Woman with shoulder-length brown hair, wearing thick black-rimmed glasses, a pink and white horizontal-striped short-sleeved shirt, and dark blue jeans."
+    },
+    "Character 6": {
+      "name": "Ethan",
+      "label": "Character 6",
+      "description": "Young man wearing a plaid shirt"
+    },
+    "Character 7": {
+      "name": "Owen",
+      "label": "Character 7",
+      "description": "Man with short dark hair, wearing an unbuttoned grey plaid button-up shirt over a plain white t-shirt"
+    },
+    "Character 8": {
+      "name": "Maya",
+      "label": "Character 8",
+      "description": "Woman with long brown hair"
+    },
+    "Location 1": {
+      "name": "The Study",
+      "label": "Location 1",
+      "description": "Interview room with a brown leather couch, a fireplace with a mantelpiece, a television on top of the mantelpiece, and white built-in bookshelves framing the fireplace."
+    },
+    "Location 2": {
+      "name": "The Poolside Patio",
+      "label": "Location 2",
+      "description": "A lush backyard featuring a pool, a red brick patio, green trees, and a round outdoor table."
+    },
+    "Location 3": {
+      "name": "The Portrait Room",
+      "label": "Location 3",
+      "description": "An interview room with framed pictures on the wall and a plant."
+    },
+    "Object 1": {
+      "name": "the dark blue jeans",
+      "label": "Object 1",
+      "description": "Pair of dark blue denim jeans"
+    },
+    "Object 2": {
+      "name": "the brown leather couch",
+      "label": "Object 2",
+      "description": "A long couch with a straight back, square arms, and thick seat cushions, all upholstered in uniform brown leather."
+    },
+    "Object 3": {
+      "name": "the pink polo shirt",
+      "label": "Object 3",
+      "description": "Pink collared shirt"
+    },
+    "Object 4": {
+      "name": "the fiddle leaf fig plant",
+      "label": "Object 4",
+      "description": "Large Fiddle Leaf Fig plant with broad, glossy, violin-shaped green leaves sprouting from a slender brown woody trunk, housed in a simple white ceramic cylindrical pot."
+    },
+    "Object 5": {
+      "name": "the abstract art prints",
+      "label": "Object 5",
+      "description": "A collection of rectangular, abstract art prints in simple, thin, black wooden frames under glass, featuring geometric shapes in muted palettes of blue, grey, and beige."
+    },
+    "Object 6": {
+      "name": "the white french doors",
+      "label": "Object 6",
+      "description": "A set of white, multi-paned French doors."
+    },
+    "Object 7": {
+      "name": "the black poodle",
+      "label": "Object 7",
+      "description": "Large Black Poodle with a thick, fluffy, and curly black coat."
+    },
+    "Object 8": {
+      "name": "the framed family photos",
+      "label": "Object 8",
+      "description": "A collection of framed family photographs"
+    },
+    "Object 9": {
+      "name": "the beaded stone necklace",
+      "label": "Object 9",
+      "description": "Single-strand necklace composed of various-sized, polished wooden and amber-colored glass beads, with small, irregularly shaped turquoise stone chips interspersed throughout, featuring a central, smooth, flat, teardrop-shaped river stone pendant"
+    },
+    "Object 10": {
+      "name": "the green long-sleeved shirt",
+      "label": "Object 10",
+      "description": "Green long-sleeved shirt"
+    },
+    "Object 11": {
+      "name": "the swimming pool",
+      "label": "Object 11",
+      "description": "Rectangular in-ground swimming pool with clear, light blue water and a brick coping edge."
+    },
+    "Object 12": {
+      "name": "the green crew-neck shirt",
+      "label": "Object 12",
+      "description": "Woman's plain green short-sleeved crew-neck shirt"
+    },
+    "Object 13": {
+      "name": "the retractable screen door",
+      "label": "Object 13",
+      "description": "Retractable screen door system featuring a fine, dark-colored mesh screen, a vertical housing cassette that the screen rolls into, and a matching vertical pull-bar with a handle."
+    },
+    "Object 14": {
+      "name": "the walnut console table",
+      "label": "Object 14",
+      "description": "Long, narrow rectangular console table made of dark walnut wood with a smooth, polished surface and slender, tapered legs."
+    },
+    "Object 15": {
+      "name": "the small dark dog",
+      "label": "Object 15",
+      "description": "Small dog with dark-colored fur"
+    },
+    "Object 16": {
+      "name": "the floral armchair",
+      "label": "Object 16",
+      "description": "Traditional upholstered armchair with rolled arms and a pleated skirt base, featuring a busy floral pattern of pink and red roses with green leaves on a cream-colored fabric."
+    },
+    "Object 17": {
+      "name": "the sunflower bouquet",
+      "label": "Object 17",
+      "description": "A bouquet of tall sunflowers with large, bright yellow petals, dark brown seed heads, and thick green stems."
+    }
+  },
+  "_window_shot_ids": [
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0150",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0151",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0152",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0153",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0155",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0156",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0157",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0158",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0159",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0160",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0161",
+    "000818d0-2e1a-3c44-a5ac-d171045e1405__run929__i15_j65__T600__shot0162"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Ansel",
+    "Character 3": "Martin",
+    "Character 4": "Sofia",
+    "Character 5": "Clara",
+    "Character 6": "Ethan",
+    "Character 7": "Owen",
+    "Character 8": "Maya",
+    "Location 1": "The Study",
+    "Location 2": "The Poolside Patio",
+    "Location 3": "The Portrait Room",
+    "Object 1": "the dark blue jeans",
+    "Object 10": "the green long-sleeved shirt",
+    "Object 11": "the swimming pool",
+    "Object 12": "the green crew-neck shirt",
+    "Object 13": "the retractable screen door",
+    "Object 14": "the walnut console table",
+    "Object 15": "the small dark dog",
+    "Object 16": "the floral armchair",
+    "Object 17": "the sunflower bouquet",
+    "Object 2": "the brown leather couch",
+    "Object 3": "the pink polo shirt",
+    "Object 4": "the fiddle leaf fig plant",
+    "Object 5": "the abstract art prints",
+    "Object 6": "the white french doors",
+    "Object 7": "the black poodle",
+    "Object 8": "the framed family photos",
+    "Object 9": "the beaded stone necklace"
+  }
+}

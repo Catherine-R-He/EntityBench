@@ -1,0 +1,550 @@
+{
+  "story_name": "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300",
+  "story_overview": "A tense lunch at The Waterfront Bistro ends with Matteo storming off. Later, Julian is secretly given an object by Victor, a transaction spied on by Maya. The story follows these characters through scenic locations, culminating in Matteo's heartfelt reunion with Isabella and Marco having a serious conversation with a watchful Maya.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Julian: Man with glasses, wearing a beige single-breasted suit jacket over a white collared shirt\nMatteo: Man with a slender build, medium-length salt-and-pepper wavy hair, and light stubble on his jawline, wearing a black turtleneck sweater under a beige jacket with thin vertical stripes\nMarco: Man wearing a plain white t-shirt, light beige trousers, and a white sailor cap\nWalter: Older, balding man in a grey shirt\nSimon: Man in a striped shirt\nthe fine dining table setting: Plates of food on white ceramic dishes, accompanied by clear glass wine glasses, silver cutlery, and a green glass wine bottle with a paper label\nthe green wine bottle: Dark green glass wine bottle with a high shoulder, a paper label with gold and cream lettering, and a black foil capsule over the neck\n\nAt The Waterfront Bistro, Julian, Matteo, Marco, and Walter are seated at a table with a yellow tablecloth, eating and conversing, with the fine dining table setting visible. Simon, a waiter in a striped shirt, approaches their table. Julian pours wine from the green wine bottle.",
+        "the black check presenter: A black, rectangular, faux-leather check presenter folder containing a long, white paper receipt with printed text\n\nAt The Waterfront Bistro, Julian, Matteo, Simon, Marco, and Walter are at their table, with the fine dining table setting visible. A waiter places the black check presenter on the yellow tablecloth and walks away. The men pause their conversation to watch the waiter leave before one of them picks up the check presenter."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "At The Waterfront Bistro, Julian, Matteo, Marco, and Walter are seated at a table with a yellow tablecloth, eating and conversing, with the fine dining table setting visible. Simon, a waiter in a striped shirt, approaches their table. Julian pours wine from the green wine bottle.",
+        "At The Waterfront Bistro, Julian, Matteo, Simon, Marco, and Walter are at their table, with the fine dining table setting visible. A waiter places the black check presenter on the yellow tablecloth and walks away. The men pause their conversation to watch the waiter leave before one of them picks up the check presenter."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Victor: Man with a mustache, wearing a tan casual jacket over a dark blue long-sleeved shirt and light-colored trousers\nMaya: Young girl with her hair in a neat top bun, wearing a bright orange sleeveless jumper over a pair of black-and-white horizontally striped pants\nOwen: Man wearing a blue and white vertically striped polo shirt and beige trousers\nthe plaid board shorts: Men's knee-length board shorts with a blue and green plaid pattern and a white drawstring waist\nthe poolside lounge chairs: White resin chaise lounge chairs with a woven pattern of blue vinyl straps across the seat and an adjustable multi-position backrest\n\nAt The Riviera Pool Deck, Victor, wearing the tan jacket, walks over to Owen, who is standing by the swimming pool near the poolside lounge chairs. Maya walks beside Victor. In the background, a person does a handstand at the edge of the pool and splashes into the water."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At The Riviera Pool Deck, Victor, wearing the tan jacket, walks over to Owen, who is standing by the swimming pool near the poolside lounge chairs. Maya walks beside Victor. In the background, a person does a handstand at the edge of the pool and splashes into the water."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "At The Ivy Patio, Victor hands the small miscellaneous object to Julian as Walter and Owen look on. From behind a vine-covered pillar, Maya peeks out and watches the men. After receiving the object, Julian turns to face Maya."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At The Ivy Patio, Victor hands the small miscellaneous object to Julian as Walter and Owen look on. From behind a vine-covered pillar, Maya peeks out and watches the men. After receiving the object, Julian turns to face Maya."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "the colorful striped awning: A large, rectangular fabric awning with wide, vertical, colorful stripes\n\nUnder the colorful striped awning of the busy Waterfront Bistro, patrons eat at tables on a sunny day. Julian is eating at a table with the yellow tablecloth. Nearby, Maya peeks from behind a pillar as Marco watches her. Simon walks through the background.",
+        "At the sunny The Waterfront Bistro, Maya walks across the patio towards a table with the yellow tablecloth where Julian and Walter are seated and eating.",
+        "the tortoiseshell glasses: Classic, slightly rounded square glasses with dark brown and amber tortoiseshell frames, a keyhole bridge, and clear lenses\n\nJulian, wearing the beige suit jacket and the tortoiseshell glasses, dines at a table with the yellow tablecloth. A waiter wearing his white uniform walks past the table."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Under the colorful striped awning of the busy Waterfront Bistro, patrons eat at tables on a sunny day. Julian is eating at a table with the yellow tablecloth. Nearby, Maya peeks from behind a pillar as Marco watches her. Simon walks through the background.",
+        "At the sunny The Waterfront Bistro, Maya walks across the patio towards a table with the yellow tablecloth where Julian and Walter are seated and eating.",
+        "Julian, wearing the beige suit jacket and the tortoiseshell glasses, dines at a table with the yellow tablecloth. A waiter wearing his white uniform walks past the table."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Green Gate Road: A scenic coastal road with a green gate\nOn The Green Gate Road, Victor drives Matteo in a three-wheeled vehicle along the sunny, scenic road. As the three-wheeled vehicle slows down, Matteo quickly gets out and runs across the road towards the solid green gate."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "On The Green Gate Road, Victor drives Matteo in a three-wheeled vehicle along the sunny, scenic road. As the three-wheeled vehicle slows down, Matteo quickly gets out and runs across the road towards the solid green gate."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Isabella: Woman wearing a white sleeveless dress with a colorful fruit and floral pattern\nthe striped beige blazer: Beige single-breasted blazer with thin, evenly-spaced, vertical off-white stripes and notched lapels\nIn The Garden Steps, Isabella descends a curved stone staircase. Matteo, wearing the striped beige blazer, stands at the bottom of the stairs, looking up at her as she walks down.",
+        "In the sunlit The Garden Steps, Isabella descends the curved stone staircase. Matteo waits for her at the bottom, while Julian stands on the patio in the background, observing them. Isabella reaches Matteo, and they stand face to face, smiling as they begin to speak.",
+        "the ornate lamppost: Black metal outdoor lamp post with a tall, fluted pole, a decorative base, and a hexagonal lantern top with glass panes\n\nDaytime medium shot in The Garden Steps, with the ornate lamppost visible. Marco and Maya stand on a curved stone staircase, having a serious conversation. Marco gestures as he talks, while Maya listens intently with her hands in her pockets. A tall, ornate lamppost stands near them.",
+        "In The Garden Steps, Matteo, wearing the black turtleneck sweater and the light beige jacket, talks animatedly to Maya, who turns her head away from him. Walter walks towards them, joining the conversation as the three talk together on the patio.",
+        "Medium shot in The Garden Steps, where Marco and Maya stand together on the patio near the curved stone staircase. Marco wears the white sailor cap and speaks to Maya, who looks up at him, listening intently.",
+        "In The Garden Steps, Matteo, wearing the light beige jacket, stands with Walter and Maya, speaking animatedly before turning to walk away. Maya then picks up a basket from the patio floor and also exits. Walter remains, watching them leave before looking out over the garden."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Garden Steps, Isabella descends a curved stone staircase. Matteo, wearing the striped beige blazer, stands at the bottom of the stairs, looking up at her as she walks down.",
+        "In the sunlit The Garden Steps, Isabella descends the curved stone staircase. Matteo waits for her at the bottom, while Julian stands on the patio in the background, observing them. Isabella reaches Matteo, and they stand face to face, smiling as they begin to speak.",
+        "Daytime medium shot in The Garden Steps, with the ornate lamppost visible. Marco and Maya stand on a curved stone staircase, having a serious conversation. Marco gestures as he talks, while Maya listens intently with her hands in her pockets. A tall, ornate lamppost stands near them.",
+        "In The Garden Steps, Matteo, wearing the black turtleneck sweater and the light beige jacket, talks animatedly to Maya, who turns her head away from him. Walter walks towards them, joining the conversation as the three talk together on the patio.",
+        "Medium shot in The Garden Steps, where Marco and Maya stand together on the patio near the curved stone staircase. Marco wears the white sailor cap and speaks to Maya, who looks up at him, listening intently.",
+        "In The Garden Steps, Matteo, wearing the light beige jacket, stands with Walter and Maya, speaking animatedly before turning to walk away. Maya then picks up a basket from the patio floor and also exits. Walter remains, watching them leave before looking out over the garden."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Matteo gestures with his fork as he speaks to Maya, who smiles and takes a bite of her food. Simon listens while eating, occasionally nodding at what Matteo says."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Matteo gestures with his fork as he speaks to Maya, who smiles and takes a bite of her food. Simon listens while eating, occasionally nodding at what Matteo says."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Julian",
+        "Matteo",
+        "Marco",
+        "Walter",
+        "Simon"
+      ],
+      "places": [
+        "The Waterfront Bistro"
+      ],
+      "objects": [
+        "the yellow tablecloth",
+        "the fine dining table setting",
+        "the green wine bottle"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Julian",
+        "Matteo",
+        "Marco",
+        "Walter",
+        "Simon"
+      ],
+      "places": [
+        "The Waterfront Bistro"
+      ],
+      "objects": [
+        "the yellow tablecloth",
+        "the black check presenter",
+        "the fine dining table setting"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Victor",
+        "Maya",
+        "Owen"
+      ],
+      "places": [
+        "The Riviera Pool Deck"
+      ],
+      "objects": [
+        "the tan jacket",
+        "the poolside lounge chairs"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Julian",
+        "Victor",
+        "Maya",
+        "Walter",
+        "Owen"
+      ],
+      "places": [
+        "The Ivy Patio"
+      ],
+      "objects": [
+        "the small miscellaneous object"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Julian",
+        "Marco",
+        "Maya",
+        "Simon"
+      ],
+      "places": [
+        "The Waterfront Bistro"
+      ],
+      "objects": [
+        "the yellow tablecloth",
+        "the colorful striped awning"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Julian",
+        "Walter",
+        "Maya"
+      ],
+      "places": [
+        "The Waterfront Bistro"
+      ],
+      "objects": [
+        "the yellow tablecloth"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Waterfront Bistro"
+      ],
+      "objects": [
+        "the yellow tablecloth",
+        "the beige suit jacket",
+        "the tortoiseshell glasses",
+        "the white waiter's uniform"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Matteo",
+        "Victor"
+      ],
+      "places": [
+        "The Green Gate Road"
+      ],
+      "objects": [
+        "the three-wheeled vehicle",
+        "the solid green gate"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Matteo",
+        "Isabella"
+      ],
+      "places": [
+        "The Garden Steps"
+      ],
+      "objects": [
+        "the striped beige blazer"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Julian",
+        "Matteo",
+        "Isabella"
+      ],
+      "places": [
+        "The Garden Steps"
+      ],
+      "objects": []
+    },
+    "6:3": {
+      "characters": [
+        "Marco",
+        "Maya"
+      ],
+      "places": [
+        "The Garden Steps"
+      ],
+      "objects": [
+        "the ornate lamppost"
+      ]
+    },
+    "6:4": {
+      "characters": [
+        "Matteo",
+        "Maya",
+        "Walter"
+      ],
+      "places": [
+        "The Garden Steps"
+      ],
+      "objects": [
+        "the black turtleneck sweater",
+        "the light beige jacket"
+      ]
+    },
+    "6:5": {
+      "characters": [
+        "Marco",
+        "Maya"
+      ],
+      "places": [
+        "The Garden Steps"
+      ],
+      "objects": [
+        "the white sailor cap"
+      ]
+    },
+    "6:6": {
+      "characters": [
+        "Matteo",
+        "Maya",
+        "Walter"
+      ],
+      "places": [
+        "The Garden Steps"
+      ],
+      "objects": [
+        "the light beige jacket",
+        "basket"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Matteo",
+        "Maya",
+        "Simon"
+      ],
+      "places": [
+        "The Waterfront Bistro"
+      ],
+      "objects": [
+        "the fine dining table setting",
+        "the yellow tablecloth"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Julian",
+      "label": "Character 1",
+      "description": "Man with glasses, wearing a beige single-breasted suit jacket over a white collared shirt"
+    },
+    "Character 2": {
+      "name": "Matteo",
+      "label": "Character 2",
+      "description": "Man with a slender build, medium-length salt-and-pepper wavy hair, and light stubble on his jawline, wearing a black turtleneck sweater under a beige jacket with thin vertical stripes"
+    },
+    "Character 3": {
+      "name": "Marco",
+      "label": "Character 3",
+      "description": "Man wearing a plain white t-shirt, light beige trousers, and a white sailor cap"
+    },
+    "Character 4": {
+      "name": "Walter",
+      "label": "Character 4",
+      "description": "Older, balding man in a grey shirt"
+    },
+    "Character 5": {
+      "name": "Simon",
+      "label": "Character 5",
+      "description": "Man in a striped shirt"
+    },
+    "Character 6": {
+      "name": "Victor",
+      "label": "Character 6",
+      "description": "Man with a mustache, wearing a tan casual jacket over a dark blue long-sleeved shirt and light-colored trousers"
+    },
+    "Character 7": {
+      "name": "Maya",
+      "label": "Character 7",
+      "description": "Young girl with her hair in a neat top bun, wearing a bright orange sleeveless jumper over a pair of black-and-white horizontally striped pants"
+    },
+    "Character 8": {
+      "name": "Owen",
+      "label": "Character 8",
+      "description": "Man wearing a blue and white vertically striped polo shirt and beige trousers"
+    },
+    "Character 9": {
+      "name": "Isabella",
+      "label": "Character 9",
+      "description": "Woman wearing a white sleeveless dress with a colorful fruit and floral pattern"
+    },
+    "Location 1": {
+      "name": "The Waterfront Bistro",
+      "label": "Location 1",
+      "description": "An outdoor restaurant terrace on a waterfront patio with dining tables and chairs, overlooking a harbor and the buildings of a coastal town"
+    },
+    "Location 2": {
+      "name": "The Riviera Pool Deck",
+      "label": "Location 2",
+      "description": "Expansive outdoor hotel pool area featuring a large rectangular in-ground swimming pool with clear blue water, surrounded by a light-colored concrete patio deck, rows of modern lounge chairs, large canvas umbrellas, and potted tropical plants"
+    },
+    "Location 3": {
+      "name": "The Ivy Patio",
+      "label": "Location 3",
+      "description": "An outdoor patio area featuring a gate and a pillar covered with vines"
+    },
+    "Location 4": {
+      "name": "The Green Gate Road",
+      "label": "Location 4",
+      "description": "A scenic coastal road with a green gate"
+    },
+    "Location 5": {
+      "name": "The Garden Steps",
+      "label": "Location 5",
+      "description": "An outdoor patio and lush garden area featuring a curved stone staircase"
+    },
+    "Object 1": {
+      "name": "the fine dining table setting",
+      "label": "Object 1",
+      "description": "Plates of food on white ceramic dishes, accompanied by clear glass wine glasses, silver cutlery, and a green glass wine bottle with a paper label"
+    },
+    "Object 2": {
+      "name": "the yellow tablecloth",
+      "label": "Object 2",
+      "description": "Outdoor restaurant table draped in a solid yellow tablecloth"
+    },
+    "Object 3": {
+      "name": "the white waiter's uniform",
+      "label": "Object 3",
+      "description": "A waiter's uniform consisting of a crisp white short-waisted jacket over a white collared shirt, matching white trousers, and a long white waist apron"
+    },
+    "Object 4": {
+      "name": "the green wine bottle",
+      "label": "Object 4",
+      "description": "Dark green glass wine bottle with a high shoulder, a paper label with gold and cream lettering, and a black foil capsule over the neck"
+    },
+    "Object 5": {
+      "name": "the black check presenter",
+      "label": "Object 5",
+      "description": "A black, rectangular, faux-leather check presenter folder containing a long, white paper receipt with printed text"
+    },
+    "Object 6": {
+      "name": "the plaid board shorts",
+      "label": "Object 6",
+      "description": "Men's knee-length board shorts with a blue and green plaid pattern and a white drawstring waist"
+    },
+    "Object 7": {
+      "name": "the tan jacket",
+      "label": "Object 7",
+      "description": "Tan-colored jacket"
+    },
+    "Object 8": {
+      "name": "the poolside lounge chairs",
+      "label": "Object 8",
+      "description": "White resin chaise lounge chairs with a woven pattern of blue vinyl straps across the seat and an adjustable multi-position backrest"
+    },
+    "Object 9": {
+      "name": "the small miscellaneous object",
+      "label": "Object 9",
+      "description": "Small, unspecified object"
+    },
+    "Object 10": {
+      "name": "the colorful striped awning",
+      "label": "Object 10",
+      "description": "A large, rectangular fabric awning with wide, vertical, colorful stripes"
+    },
+    "Object 11": {
+      "name": "the tortoiseshell glasses",
+      "label": "Object 11",
+      "description": "Classic, slightly rounded square glasses with dark brown and amber tortoiseshell frames, a keyhole bridge, and clear lenses"
+    },
+    "Object 12": {
+      "name": "the beige suit jacket",
+      "label": "Object 12",
+      "description": "Beige suit jacket"
+    },
+    "Object 13": {
+      "name": "the solid green gate",
+      "label": "Object 13",
+      "description": "A simple gate with a solid green painted finish"
+    },
+    "Object 14": {
+      "name": "the three-wheeled vehicle",
+      "label": "Object 14",
+      "description": "Three-wheeled vehicle"
+    },
+    "Object 15": {
+      "name": "the striped beige blazer",
+      "label": "Object 15",
+      "description": "Beige single-breasted blazer with thin, evenly-spaced, vertical off-white stripes and notched lapels"
+    },
+    "Object 16": {
+      "name": "the black turtleneck sweater",
+      "label": "Object 16",
+      "description": "Solid black long-sleeved shirt with a high, turnover collar"
+    },
+    "Object 17": {
+      "name": "the ornate lamppost",
+      "label": "Object 17",
+      "description": "Black metal outdoor lamp post with a tall, fluted pole, a decorative base, and a hexagonal lantern top with glass panes"
+    },
+    "Object 18": {
+      "name": "the white sailor cap",
+      "label": "Object 18",
+      "description": "Classic white canvas sailor cap with a flat top and short brim."
+    },
+    "Object 19": {
+      "name": "the light beige jacket",
+      "label": "Object 19",
+      "description": "Light beige light jacket"
+    },
+    "Object 20": {
+      "name": "the dark blue shirt",
+      "label": "Object 20",
+      "description": "Solid dark-colored shirt"
+    }
+  },
+  "_window_shot_ids": [
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0001",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0002",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0003",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0005",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0006",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0007",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0008",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0009",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0010",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0011",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0012",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0013",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0014",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0015",
+    "00002522-ca24-3c7f-acd6-982a08b3e038__run34__i0_j23__T300__shot0016"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Julian",
+    "Character 2": "Matteo",
+    "Character 3": "Marco",
+    "Character 4": "Walter",
+    "Character 5": "Simon",
+    "Character 6": "Victor",
+    "Character 7": "Maya",
+    "Character 8": "Owen",
+    "Character 9": "Isabella",
+    "Location 1": "The Waterfront Bistro",
+    "Location 2": "The Riviera Pool Deck",
+    "Location 3": "The Ivy Patio",
+    "Location 4": "The Green Gate Road",
+    "Location 5": "The Garden Steps",
+    "Object 1": "the fine dining table setting",
+    "Object 10": "the colorful striped awning",
+    "Object 11": "the tortoiseshell glasses",
+    "Object 12": "the beige suit jacket",
+    "Object 13": "the solid green gate",
+    "Object 14": "the three-wheeled vehicle",
+    "Object 15": "the striped beige blazer",
+    "Object 16": "the black turtleneck sweater",
+    "Object 17": "the ornate lamppost",
+    "Object 18": "the white sailor cap",
+    "Object 19": "the light beige jacket",
+    "Object 2": "the yellow tablecloth",
+    "Object 20": "the dark blue shirt",
+    "Object 3": "the white waiter's uniform",
+    "Object 4": "the green wine bottle",
+    "Object 5": "the black check presenter",
+    "Object 6": "the plaid board shorts",
+    "Object 7": "the tan jacket",
+    "Object 8": "the poolside lounge chairs",
+    "Object 9": "the small miscellaneous object"
+  }
+}

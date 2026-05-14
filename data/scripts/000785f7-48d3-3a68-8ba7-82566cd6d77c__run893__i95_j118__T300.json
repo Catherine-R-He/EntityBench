@@ -1,0 +1,313 @@
+{
+  "story_name": "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300",
+  "story_overview": "Chloe and Julian conduct a tense exchange, swapping a rolling suitcase for a briefcase on a city street corner. Later, Chloe appears worried while hiding in a garden, and a chase ensues as she and Leo run past Julian and an older woman, Eleanor.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Chloe: Woman in a floral-patterned jacket over a black top.\nJulian: Man with an average build and short dark hair, in a dark blue single-breasted business suit over a white collared shirt.\nGreenwood Park: Outdoor park.\n\nDaytime in Greenwood Park. Chloe walks past Julian, who turns slightly to watch her as she walks away and exits the frame."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Daytime in Greenwood Park. Chloe walks past Julian, who turns slightly to watch her as she walks away and exits the frame."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Leo: Man in a black jacket and blue jeans.\nThe Courtyard Lobby: Spacious and modern hotel lobby interior with large glass doors and a view of a green courtyard.\nWide shot from inside The Courtyard Lobby, looking out. Leo, viewed from behind, pulls the black rolling suitcase as he walks through large glass doors, exiting into a bright green courtyard.",
+        "Inside The Courtyard Lobby, Chloe walks towards the glass doors, pulling the black rolling suitcase behind her. Leo stands with his back to the camera, watching her depart."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Wide shot from inside The Courtyard Lobby, looking out. Leo, viewed from behind, pulls the black rolling suitcase as he walks through large glass doors, exiting into a bright green courtyard.",
+        "Inside The Courtyard Lobby, Chloe walks towards the glass doors, pulling the black rolling suitcase behind her. Leo stands with his back to the camera, watching her depart."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "In Greenwood Park, Chloe, wearing the floral bomber jacket, peeks out from behind a dark pillar with a concerned expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In Greenwood Park, Chloe, wearing the floral bomber jacket, peeks out from behind a dark pillar with a concerned expression."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Oak Street Corner: An outdoor, tree-lined residential city street corner with a paved asphalt road and a concrete curb.\nthe white taxi cab: White sedan-style taxi cab with markings on the side doors and a light fixture on the roof.\n\nOn Oak Street Corner, Julian, wearing the dark business suit, stands next to the black rolling suitcase, looking around expectantly while Chloe shifts her weight beside him. A scooter blurs past in the foreground as the white taxi cab pulls up to the curb in front of them.",
+        "the black hardshell briefcase: Rectangular hard-shell black briefcase with a smooth matte finish, a matching top handle, and two silver metal latches.\n\nOn Oak Street Corner, Julian, wearing the dark business suit, stands on the curb with Chloe, who is holding the black hardshell briefcase. The white taxi cab is stopped on the street next to them as she reaches out to open its rear door.",
+        "On a bright day at Oak Street Corner, Chloe steps out from the back passenger door of the white taxi cab, which is parked alongside the curb."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "On Oak Street Corner, Julian, wearing the dark business suit, stands next to the black rolling suitcase, looking around expectantly while Chloe shifts her weight beside him. A scooter blurs past in the foreground as the white taxi cab pulls up to the curb in front of them.",
+        "On Oak Street Corner, Julian, wearing the dark business suit, stands on the curb with Chloe, who is holding the black hardshell briefcase. The white taxi cab is stopped on the street next to them as she reaches out to open its rear door.",
+        "On a bright day at Oak Street Corner, Chloe steps out from the back passenger door of the white taxi cab, which is parked alongside the curb."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Verdant Garden: Lush outdoor garden with dense, varied green foliage and beds of colorful flowers.\n\nShot from behind Chloe, who wears the floral bomber jacket, as she bends over in The Verdant Garden during the day. The camera focus is slightly soft.",
+        "Close-up on Chloe in The Verdant Garden. Wearing the floral bomber jacket, her expression shifts to pensive and worried as she looks off-screen. Out-of-focus green leaves are in the foreground, partially obscuring the view."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Shot from behind Chloe, who wears the floral bomber jacket, as she bends over in The Verdant Garden during the day. The camera focus is slightly soft.",
+        "Close-up on Chloe in The Verdant Garden. Wearing the floral bomber jacket, her expression shifts to pensive and worried as she looks off-screen. Out-of-focus green leaves are in the foreground, partially obscuring the view."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Eleanor: Older woman with short dark hair, in a black and white patterned blouse.\nOn Oak Street Corner, Eleanor and Julian walk together past the white taxi cab as Chloe and Leo run past them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "On Oak Street Corner, Eleanor and Julian walk together past the white taxi cab as Chloe and Leo run past them."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Chloe",
+        "Julian"
+      ],
+      "places": [
+        "Greenwood Park"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Courtyard Lobby"
+      ],
+      "objects": [
+        "the black rolling suitcase"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Chloe",
+        "Leo"
+      ],
+      "places": [
+        "The Courtyard Lobby"
+      ],
+      "objects": [
+        "the black rolling suitcase"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "Greenwood Park"
+      ],
+      "objects": [
+        "the floral bomber jacket"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Chloe",
+        "Julian"
+      ],
+      "places": [
+        "Oak Street Corner"
+      ],
+      "objects": [
+        "the black rolling suitcase",
+        "the dark business suit",
+        "the white taxi cab"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Chloe",
+        "Julian"
+      ],
+      "places": [
+        "Oak Street Corner"
+      ],
+      "objects": [
+        "the dark business suit",
+        "the black hardshell briefcase",
+        "the white taxi cab"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "Oak Street Corner"
+      ],
+      "objects": [
+        "the white taxi cab"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Verdant Garden"
+      ],
+      "objects": [
+        "the floral bomber jacket"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Verdant Garden"
+      ],
+      "objects": [
+        "the floral bomber jacket"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Chloe",
+        "Leo",
+        "Eleanor",
+        "Julian"
+      ],
+      "places": [
+        "Oak Street Corner"
+      ],
+      "objects": [
+        "the white taxi cab"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Man in a black jacket and blue jeans."
+    },
+    "Character 2": {
+      "name": "Chloe",
+      "label": "Character 2",
+      "description": "Woman in a floral-patterned jacket over a black top."
+    },
+    "Character 3": {
+      "name": "Julian",
+      "label": "Character 3",
+      "description": "Man with an average build and short dark hair, in a dark blue single-breasted business suit over a white collared shirt."
+    },
+    "Character 4": {
+      "name": "Eleanor",
+      "label": "Character 4",
+      "description": "Older woman with short dark hair, in a black and white patterned blouse."
+    },
+    "Location 1": {
+      "name": "Greenwood Park",
+      "label": "Location 1",
+      "description": "Outdoor park."
+    },
+    "Location 2": {
+      "name": "The Courtyard Lobby",
+      "label": "Location 2",
+      "description": "Spacious and modern hotel lobby interior with large glass doors and a view of a green courtyard."
+    },
+    "Location 3": {
+      "name": "Oak Street Corner",
+      "label": "Location 3",
+      "description": "An outdoor, tree-lined residential city street corner with a paved asphalt road and a concrete curb."
+    },
+    "Location 4": {
+      "name": "The Verdant Garden",
+      "label": "Location 4",
+      "description": "Lush outdoor garden with dense, varied green foliage and beds of colorful flowers."
+    },
+    "Object 1": {
+      "name": "the dark business suit",
+      "label": "Object 1",
+      "description": "Dark blue, single-breasted business suit that appears almost black in color"
+    },
+    "Object 2": {
+      "name": "the floral bomber jacket",
+      "label": "Object 2",
+      "description": "Bomber-style jacket with a vibrant, colorful, all-over floral pattern on a dark fabric base, featuring elastic ribbed cuffs and hem"
+    },
+    "Object 3": {
+      "name": "the black rolling suitcase",
+      "label": "Object 3",
+      "description": "Black, upright rolling suitcase with a retractable handle and two wheels"
+    },
+    "Object 4": {
+      "name": "the patterned blouse",
+      "label": "Object 4",
+      "description": "Black and white patterned blouse"
+    },
+    "Object 5": {
+      "name": "the white taxi cab",
+      "label": "Object 5",
+      "description": "White sedan-style taxi cab with markings on the side doors and a light fixture on the roof."
+    },
+    "Object 6": {
+      "name": "the black hardshell briefcase",
+      "label": "Object 6",
+      "description": "Rectangular hard-shell black briefcase with a smooth matte finish, a matching top handle, and two silver metal latches."
+    }
+  },
+  "_window_shot_ids": [
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300__shot0007",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300__shot0008",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300__shot0009",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300__shot0010",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300__shot0011",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300__shot0012",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300__shot0013",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300__shot0014",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300__shot0015",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i95_j118__T300__shot0016"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Chloe",
+    "Character 3": "Julian",
+    "Character 4": "Eleanor",
+    "Location 1": "Greenwood Park",
+    "Location 2": "The Courtyard Lobby",
+    "Location 3": "Oak Street Corner",
+    "Location 4": "The Verdant Garden",
+    "Object 1": "the dark business suit",
+    "Object 2": "the floral bomber jacket",
+    "Object 3": "the black rolling suitcase",
+    "Object 4": "the patterned blouse",
+    "Object 5": "the white taxi cab",
+    "Object 6": "the black hardshell briefcase"
+  }
+}

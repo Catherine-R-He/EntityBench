@@ -1,0 +1,557 @@
+{
+  "story_name": "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120",
+  "story_overview": "In a cluttered study, a tense meeting between Marcus, Sofia, Daniel, Nico, Omar, and Raj escalates when Marcus suddenly draws a pistol on Raj. The group's activities continue across various city locations, including a back-alley kitchen and a convenience store, as they deal with the fallout of the confrontation and a mysterious wooden box.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Marcus: Man with a full, neatly-trimmed brown beard and short brown hair, wearing a dark navy casual blazer over an unbuttoned light-gray collared shirt.\nSofia: Woman with dark hair styled in a ponytail, wearing a white jacket.\nNico: Man in a black and white zip-up tracksuit jacket.\nDaniel: Man wearing a dark blue suit jacket over a white shirt with a subtle pattern.\nRaj: Man in a patterned long-sleeve polo shirt.\nOmar: Man wearing a grey and black striped collared shirt.\nThe Cluttered Study: Office interior with dark wood-paneled walls, featuring a large desk and built-in bookshelves overflowing with stacks of papers, books, and file folders.\nthe black pistol: Modern semi-automatic pistol with a matte black polymer body and a dark metallic steel slide.\n\nIn The Cluttered Study, Marcus, Sofia, Daniel, Nico, Omar, and Raj are gathered around a desk for a tense meeting. As Raj speaks to the group, Marcus abruptly draws the black pistol and aims it directly at him. Nearby, Sofia raises a hand wearing the single glove as the others watch in shock."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Cluttered Study, Marcus, Sofia, Daniel, Nico, Omar, and Raj are gathered around a desk for a tense meeting. As Raj speaks to the group, Marcus abruptly draws the black pistol and aims it directly at him. Nearby, Sofia raises a hand wearing the single glove as the others watch in shock."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Mural Street Corner: Urban street corner featuring the A.B.C. DELI building with a colorful mural on its exterior wall, a red stop sign, a blue public mailbox, and a decorative pink pig statue on the sidewalk.\n\nOn an overcast day at Mural Street Corner, Daniel sits on the sidewalk, leaning against the wall covered by the colorful street mural. He gestures as he speaks to Raj, who stands nearby on the sidewalk next to the pink pig statue, listening."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "On an overcast day at Mural Street Corner, Daniel sits on the sidewalk, leaning against the wall covered by the colorful street mural. He gestures as he speaks to Raj, who stands nearby on the sidewalk next to the pink pig statue, listening."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Isabella: Woman with long dark hair wearing a large fur coat.\nThe Back-Alley Kitchen: A restaurant kitchen with jars on a counter, connected by an open doorway to a garage or back room that houses a car with its trunk open.\nthe steel kitchen counter: Commercial-grade kitchen counter with a flat, metallic surface made of stainless steel.\nthe pink sherpa jacket: Pinkish-tan jacket made from a fuzzy, textured sherpa material.\n\nView from inside The Back-Alley Kitchen, looking through a doorway into the connected garage. The foreground is blurry, showing the blurry glass jars on the steel kitchen counter. In the background, Marcus stands with his back to the camera, next to the car with an open trunk, as Isabella moves up behind him.",
+        "the red fire extinguisher: Standard red cylindrical metal fire extinguisher with a black handle and valve assembly, a small pressure gauge, a short black nozzle, and a white rectangular instruction label.\n\nMedium shot from inside The Back-Alley Kitchen, looking over the steel kitchen counter which holds the blurry glass jars. In the plain interior doorway in the background, Isabella and Daniel watch with concern as Marcus peeks out from behind the doorframe."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "View from inside The Back-Alley Kitchen, looking through a doorway into the connected garage. The foreground is blurry, showing the blurry glass jars on the steel kitchen counter. In the background, Marcus stands with his back to the camera, next to the car with an open trunk, as Isabella moves up behind him.",
+        "Medium shot from inside The Back-Alley Kitchen, looking over the steel kitchen counter which holds the blurry glass jars. In the plain interior doorway in the background, Isabella and Daniel watch with concern as Marcus peeks out from behind the doorframe."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Corner Mart: Convenience store interior with a deli counter and aisles of store shelves fully stocked with various products, including visible packages of Bounty Paper Towels.\nthe cream-colored coat: Fashionable cream-colored coat.\nthe black rolling suitcase: Small, black, hard-shell rolling suitcase of carry-on size, featuring a matte finish with horizontal ribbing, four spinner wheels, and a silver telescoping handle.\nthe stocked store shelves: Standard convenience store shelves fully stocked with various packaged products, including blue and white packages of Bounty Paper Towels.\nthe package of paper towels: A multi-roll package of white paper towels in clear plastic shrink-wrap with prominent blue and green 'Bounty' branding and visible embossed quilted patterns on the rolls\n\nMarcus and Raj stand together in an aisle, looking at the package of paper towels on the stocked store shelves. Raj points to the package and says something to Marcus."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Marcus and Raj stand together in an aisle, looking at the package of paper towels on the stocked store shelves. Raj points to the package and says something to Marcus."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the plain wooden box: A simple rectangular box made of unfinished, light-colored wooden planks with a plain, unadorned surface and a separate flat lid.\n\nIn The Back-Alley Kitchen, Nico places the plain wooden box on the steel kitchen counter as Isabella and Daniel watch from the plain interior doorway in the background. Marcus stands nearby, taking a step closer to observe."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Back-Alley Kitchen, Nico places the plain wooden box on the steel kitchen counter as Isabella and Daniel watch from the plain interior doorway in the background. Marcus stands nearby, taking a step closer to observe."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Inside The Corner Mart, Daniel walks toward Sofia and Isabella. Sofia turns to face Daniel with an intense expression as they begin to speak."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Corner Mart, Daniel walks toward Sofia and Isabella. Sofia turns to face Daniel with an intense expression as they begin to speak."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Medium shot in The Back-Alley Kitchen, framed from behind the steel kitchen counter. In the background, Isabella and Daniel stand together inside the dimly lit plain interior doorway, looking out with concerned expressions and exchanging a worried glance."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Back-Alley Kitchen, framed from behind the steel kitchen counter. In the background, Isabella and Daniel stand together inside the dimly lit plain interior doorway, looking out with concerned expressions and exchanging a worried glance."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Medium close-up of Marcus and Isabella standing in an aisle of The Corner Mart, next to the stocked store shelves. Marcus speaks with a shocked, wide-eyed expression. Isabella stands beside him, her expression shifting to one of concern as she listens."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up of Marcus and Isabella standing in an aisle of The Corner Mart, next to the stocked store shelves. Marcus speaks with a shocked, wide-eyed expression. Isabella stands beside him, her expression shifting to one of concern as she listens."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Medium shot from inside The Back-Alley Kitchen, where Isabella and Daniel cautiously peek their heads out from the plain interior doorway in the background. The foreground is heavily blurred by the out-of-focus steel kitchen counter."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot from inside The Back-Alley Kitchen, where Isabella and Daniel cautiously peek their heads out from the plain interior doorway in the background. The foreground is heavily blurred by the out-of-focus steel kitchen counter."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "A close-up of Marcus inside The Corner Mart. He stands by the stocked store shelves, looking at the package of paper towels. His eyes widen in surprise and his mouth opens slightly, as if he is about to speak.",
+        "He looks down and to the side with a pensive expression, then slowly looks up at Isabella who stands quietly beside him.",
+        "the commercial deli case: Commercial refrigerated deli display case with a curved glass sneeze guard, a stainless steel countertop, and a white base, with metal racks visible through the glass front.\n\nMedium close-up of Isabella standing in an aisle in The Corner Mart. She looks thoughtfully at the stocked store shelves, her eyes pausing on a package of paper towels. In the background, Nico stands near the commercial deli case. Isabella's expression shifts as she prepares to speak.",
+        "A close-up of Isabella standing in an aisle of The Corner Mart. She speaks with a serious expression, shifting her weight slightly. She is wearing the large fur coat. To her side are the stocked store shelves. In the out-of-focus background, the commercial deli case and Daniel are visible."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "A close-up of Marcus inside The Corner Mart. He stands by the stocked store shelves, looking at the package of paper towels. His eyes widen in surprise and his mouth opens slightly, as if he is about to speak.",
+        "He looks down and to the side with a pensive expression, then slowly looks up at Isabella who stands quietly beside him.",
+        "Medium close-up of Isabella standing in an aisle in The Corner Mart. She looks thoughtfully at the stocked store shelves, her eyes pausing on a package of paper towels. In the background, Nico stands near the commercial deli case. Isabella's expression shifts as she prepares to speak.",
+        "A close-up of Isabella standing in an aisle of The Corner Mart. She speaks with a serious expression, shifting her weight slightly. She is wearing the large fur coat. To her side are the stocked store shelves. In the out-of-focus background, the commercial deli case and Daniel are visible."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "The Neighborhood Deli: Small store interior featuring a service counter and a refrigerated display case with handwritten price signs on its surface.\nthe deli service counter: A retail counter with an integrated glass-fronted refrigerated display case that has handwritten price signs on its surface.\n\nMedium shot from inside The Neighborhood Deli. Marcus, wearing the dark navy casual blazer over the light-gray collared shirt with the beige fur coat draped over his arm, walks up to the deli service counter and places the plain wooden box on it."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot from inside The Neighborhood Deli. Marcus, wearing the dark navy casual blazer over the light-gray collared shirt with the beige fur coat draped over his arm, walks up to the deli service counter and places the plain wooden box on it."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Marcus",
+        "Sofia",
+        "Nico",
+        "Daniel",
+        "Raj",
+        "Omar"
+      ],
+      "places": [
+        "The Cluttered Study"
+      ],
+      "objects": [
+        "the single glove",
+        "the black pistol"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Daniel",
+        "Raj"
+      ],
+      "places": [
+        "Mural Street Corner"
+      ],
+      "objects": [
+        "the colorful street mural",
+        "the pink pig statue"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Marcus",
+        "Isabella"
+      ],
+      "places": [
+        "The Back-Alley Kitchen"
+      ],
+      "objects": [
+        "the steel kitchen counter",
+        "the blurry glass jars",
+        "the car with an open trunk"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Marcus",
+        "Isabella",
+        "Daniel"
+      ],
+      "places": [
+        "The Back-Alley Kitchen"
+      ],
+      "objects": [
+        "the steel kitchen counter",
+        "the plain interior doorway",
+        "the blurry glass jars",
+        "the red fire extinguisher"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Marcus",
+        "Raj"
+      ],
+      "places": [
+        "The Corner Mart"
+      ],
+      "objects": [
+        "the stocked store shelves",
+        "the package of paper towels"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Marcus",
+        "Nico",
+        "Isabella",
+        "Daniel"
+      ],
+      "places": [
+        "The Back-Alley Kitchen"
+      ],
+      "objects": [
+        "the steel kitchen counter",
+        "the plain interior doorway",
+        "the plain wooden box"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Isabella",
+        "Sofia",
+        "Daniel"
+      ],
+      "places": [
+        "The Corner Mart"
+      ],
+      "objects": []
+    },
+    "7:1": {
+      "characters": [
+        "Isabella",
+        "Daniel"
+      ],
+      "places": [
+        "The Back-Alley Kitchen"
+      ],
+      "objects": [
+        "the steel kitchen counter",
+        "the plain interior doorway"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Marcus",
+        "Isabella"
+      ],
+      "places": [
+        "The Corner Mart"
+      ],
+      "objects": [
+        "the stocked store shelves"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Isabella",
+        "Daniel"
+      ],
+      "places": [
+        "The Back-Alley Kitchen"
+      ],
+      "objects": [
+        "the plain interior doorway",
+        "the steel kitchen counter"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Corner Mart"
+      ],
+      "objects": [
+        "the stocked store shelves",
+        "the package of paper towels"
+      ]
+    },
+    "10:2": {
+      "characters": [
+        "Isabella"
+      ],
+      "places": [
+        "The Corner Mart"
+      ],
+      "objects": [
+        "the stocked store shelves"
+      ]
+    },
+    "10:3": {
+      "characters": [
+        "Isabella",
+        "Nico"
+      ],
+      "places": [
+        "The Corner Mart"
+      ],
+      "objects": [
+        "the package of paper towels",
+        "the stocked store shelves",
+        "the commercial deli case"
+      ]
+    },
+    "10:4": {
+      "characters": [
+        "Isabella",
+        "Daniel"
+      ],
+      "places": [
+        "The Corner Mart"
+      ],
+      "objects": [
+        "the stocked store shelves",
+        "the commercial deli case"
+      ]
+    },
+    "11:1": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Neighborhood Deli"
+      ],
+      "objects": [
+        "the beige fur coat",
+        "the deli service counter",
+        "the plain wooden box"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Marcus",
+      "label": "Character 1",
+      "description": "Man with a full, neatly-trimmed brown beard and short brown hair, wearing a dark navy casual blazer over an unbuttoned light-gray collared shirt."
+    },
+    "Character 2": {
+      "name": "Sofia",
+      "label": "Character 2",
+      "description": "Woman with dark hair styled in a ponytail, wearing a white jacket."
+    },
+    "Character 3": {
+      "name": "Isabella",
+      "label": "Character 3",
+      "description": "Woman with long dark hair wearing a large fur coat."
+    },
+    "Character 4": {
+      "name": "Daniel",
+      "label": "Character 4",
+      "description": "Man wearing a dark blue suit jacket over a white shirt with a subtle pattern."
+    },
+    "Character 5": {
+      "name": "Nico",
+      "label": "Character 5",
+      "description": "Man in a black and white zip-up tracksuit jacket."
+    },
+    "Character 6": {
+      "name": "Omar",
+      "label": "Character 6",
+      "description": "Man wearing a grey and black striped collared shirt."
+    },
+    "Character 7": {
+      "name": "Raj",
+      "label": "Character 7",
+      "description": "Man in a patterned long-sleeve polo shirt."
+    },
+    "Location 1": {
+      "name": "The Cluttered Study",
+      "label": "Location 1",
+      "description": "Office interior with dark wood-paneled walls, featuring a large desk and built-in bookshelves overflowing with stacks of papers, books, and file folders."
+    },
+    "Location 2": {
+      "name": "Mural Street Corner",
+      "label": "Location 2",
+      "description": "Urban street corner featuring the A.B.C. DELI building with a colorful mural on its exterior wall, a red stop sign, a blue public mailbox, and a decorative pink pig statue on the sidewalk."
+    },
+    "Location 3": {
+      "name": "The Back-Alley Kitchen",
+      "label": "Location 3",
+      "description": "A restaurant kitchen with jars on a counter, connected by an open doorway to a garage or back room that houses a car with its trunk open."
+    },
+    "Location 4": {
+      "name": "The Corner Mart",
+      "label": "Location 4",
+      "description": "Convenience store interior with a deli counter and aisles of store shelves fully stocked with various products, including visible packages of Bounty Paper Towels."
+    },
+    "Location 5": {
+      "name": "The Neighborhood Deli",
+      "label": "Location 5",
+      "description": "Small store interior featuring a service counter and a refrigerated display case with handwritten price signs on its surface."
+    },
+    "Object 1": {
+      "name": "the single glove",
+      "label": "Object 1",
+      "description": "A glove"
+    },
+    "Object 2": {
+      "name": "the black pistol",
+      "label": "Object 2",
+      "description": "Modern semi-automatic pistol with a matte black polymer body and a dark metallic steel slide."
+    },
+    "Object 3": {
+      "name": "the colorful street mural",
+      "label": "Object 3",
+      "description": "Large, vibrant graffiti-style wall mural featuring a collage of abstract shapes and stylized city buildings, rendered in bold shades of electric blue, magenta, and sunny yellow with thick black outlines and a slightly weathered matte finish"
+    },
+    "Object 4": {
+      "name": "the pink pig statue",
+      "label": "Object 4",
+      "description": "A stylized statue of a plump pig painted a glossy, vibrant pink, with large black circular eyes, a wide snout, and a slightly weathered surface with minor scuffs"
+    },
+    "Object 5": {
+      "name": "the steel kitchen counter",
+      "label": "Object 5",
+      "description": "Commercial-grade kitchen counter with a flat, metallic surface made of stainless steel."
+    },
+    "Object 6": {
+      "name": "the blurry glass jars",
+      "label": "Object 6",
+      "description": "A collection of blurry, indistinct jars"
+    },
+    "Object 7": {
+      "name": "the pink sherpa jacket",
+      "label": "Object 7",
+      "description": "Pinkish-tan jacket made from a fuzzy, textured sherpa material"
+    },
+    "Object 8": {
+      "name": "the car with an open trunk",
+      "label": "Object 8",
+      "description": "Car with an open trunk"
+    },
+    "Object 9": {
+      "name": "the plain interior doorway",
+      "label": "Object 9",
+      "description": "A simple interior doorway with a plain surrounding casing"
+    },
+    "Object 10": {
+      "name": "the red fire extinguisher",
+      "label": "Object 10",
+      "description": "Standard red cylindrical metal fire extinguisher with a black handle and valve assembly, a small pressure gauge, a short black nozzle, and a white rectangular instruction label."
+    },
+    "Object 11": {
+      "name": "the cream-colored coat",
+      "label": "Object 11",
+      "description": "Fashionable cream-colored coat"
+    },
+    "Object 12": {
+      "name": "the stocked store shelves",
+      "label": "Object 12",
+      "description": "Standard convenience store shelves fully stocked with various packaged products, including blue and white packages of Bounty Paper Towels."
+    },
+    "Object 13": {
+      "name": "the package of paper towels",
+      "label": "Object 13",
+      "description": "A multi-roll package of white paper towels in clear plastic shrink-wrap with prominent blue and green 'Bounty' branding and visible embossed quilted patterns on the rolls"
+    },
+    "Object 14": {
+      "name": "the black rolling suitcase",
+      "label": "Object 14",
+      "description": "Small, black, hard-shell rolling suitcase of carry-on size, featuring a matte finish with horizontal ribbing, four spinner wheels, and a silver telescoping handle"
+    },
+    "Object 15": {
+      "name": "the commercial deli case",
+      "label": "Object 15",
+      "description": "Commercial refrigerated deli display case with a curved glass sneeze guard, a stainless steel countertop, and a white base, with metal racks visible through the glass front."
+    },
+    "Object 16": {
+      "name": "the deli service counter",
+      "label": "Object 16",
+      "description": "A retail counter with an integrated glass-fronted refrigerated display case that has handwritten price signs on its surface."
+    },
+    "Object 17": {
+      "name": "the beige fur coat",
+      "label": "Object 17",
+      "description": "A distinctive beige fur coat"
+    },
+    "Object 18": {
+      "name": "the plain wooden box",
+      "label": "Object 18",
+      "description": "A simple rectangular box made of unfinished, light-colored wooden planks with a plain, unadorned surface and a separate flat lid."
+    }
+  },
+  "_window_shot_ids": [
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0018",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0019",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0020",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0022",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0023",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0024",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0025",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0026",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0027",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0028",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0029",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0030",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0031",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0032",
+    "000234da-a119-3321-b32d-cb7bc993f0c3__run227__i10_j20__T120__shot0033"
+  ],
+  "_num_scenes": 11,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Marcus",
+    "Character 2": "Sofia",
+    "Character 3": "Isabella",
+    "Character 4": "Daniel",
+    "Character 5": "Nico",
+    "Character 6": "Omar",
+    "Character 7": "Raj",
+    "Location 1": "The Cluttered Study",
+    "Location 2": "Mural Street Corner",
+    "Location 3": "The Back-Alley Kitchen",
+    "Location 4": "The Corner Mart",
+    "Location 5": "The Neighborhood Deli",
+    "Object 1": "the single glove",
+    "Object 10": "the red fire extinguisher",
+    "Object 11": "the cream-colored coat",
+    "Object 12": "the stocked store shelves",
+    "Object 13": "the package of paper towels",
+    "Object 14": "the black rolling suitcase",
+    "Object 15": "the commercial deli case",
+    "Object 16": "the deli service counter",
+    "Object 17": "the beige fur coat",
+    "Object 18": "the plain wooden box",
+    "Object 19": "the refrigerated display case",
+    "Object 2": "the black pistol",
+    "Object 3": "the colorful street mural",
+    "Object 4": "the pink pig statue",
+    "Object 5": "the steel kitchen counter",
+    "Object 6": "the blurry glass jars",
+    "Object 7": "the pink sherpa jacket",
+    "Object 8": "the car with an open trunk",
+    "Object 9": "the plain interior doorway"
+  }
+}

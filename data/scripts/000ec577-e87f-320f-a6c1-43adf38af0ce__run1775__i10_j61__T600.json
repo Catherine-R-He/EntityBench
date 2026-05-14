@@ -1,0 +1,363 @@
+{
+  "story_name": "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600",
+  "story_overview": "In a dimly lit office, Marcus is comforted by his colleague Leo. The story follows Julian, a priest, who becomes entangled in relationships with both Eva and Clara. Tensions rise as Marcus, also connected to Eva, is seen with a reenactment suit, while other characters like Nora and Ryan observe the unfolding drama.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Julian: Man with short dark hair wearing a dark suit and a dark tie over a black clerical shirt with a white collar.\nMarcus: Man with short brown hair, wearing a dark suit, a white collared shirt, and a red patterned tie.\nLeo: Man wearing a dark suit and a tie.\nThe Main Office: Office interior with a window and a framed picture.\n\nClose-up shot in the dimly lit The Main Office. Marcus looks down with a sad expression. Leo, seen from behind, places a comforting hand on Marcus's shoulder, while Julian stands nearby, watching them with a concerned expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot in the dimly lit The Main Office. Marcus looks down with a sad expression. Leo, seen from behind, places a comforting hand on Marcus's shoulder, while Julian stands nearby, watching them with a concerned expression."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Clara: Woman with shoulder-length reddish-brown hair with straight-cut bangs, wearing a brown sleeveless top.\nEva: Woman with long wavy blonde hair, often seen in a simple, light-colored nightgown.\nThe Brick Bedroom: Bedroom with an exposed brick wall.\n\nIn the dimly lit The Brick Bedroom, an over-the-shoulder close-up shows Clara smiling at Eva. Clara then wraps her arms around Eva's neck, and they share a passionate kiss."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Brick Bedroom, an over-the-shoulder close-up shows Clara smiling at Eva. Clara then wraps her arms around Eva's neck, and they share a passionate kiss."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Sunlit Bedroom: Minimalist bedroom with neutral off-white walls and pale hardwood floors, dominated by a large window fitted with sheer white curtains, with a central unmade bed dressed in light-colored linen sheets.\nthe large bedroom window: Large rectangular window with multiple panes, a white-painted casing, and sheer white curtains.\n\nInside The Sunlit Bedroom, Eva sits up in the unmade bed and watches Marcus. Marcus is standing silhouetted in front of the large bedroom window as he picks up the dark reenactment suit jacket."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Sunlit Bedroom, Eva sits up in the unmade bed and watches Marcus. Marcus is standing silhouetted in front of the large bedroom window as he picks up the dark reenactment suit jacket."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Close-up of Clara in the warmly lit The Brick Bedroom at night. She looks up, a contented, happy smile spreading across her face.",
+        "Nora: Young woman with long, reddish-brown hair.\nthe brick wall window: A window set within an interior brick wall, featuring light-colored curtains.\n\nClose-up on Julian in The Brick Bedroom. He looks down with a pensive expression as he speaks. Nora stands in the background, listening intently. In the background, the dark reenactment suit is draped over a chair near the brick wall window.",
+        "the fluffy powder puff: Round, white, fluffy powder puff.\n\nClara, wearing the brown sleeveless top, sits up in bed and dabs her chest with the fluffy powder puff. Eva, sitting on the bed beside her, turns slightly to watch her.",
+        "A close-up of Julian wearing a black suit and black clerical shirt with a white collar in the dimly lit The Brick Bedroom. He stands near the brick wall window with a somber expression, his gaze lowered, before he slowly looks up.",
+        "Isla: Woman with long blonde hair and pensive green eyes.\nthe wrought-iron bed: Queen-size bed with a dark, ornate wrought-iron headboard, rumpled white pillows, and a matching white duvet.\n\nIn the dimly lit The Brick Bedroom, Isla sits up in the wrought-iron bed with a pensive expression, clutching the fluffy powder puff. Beside her, Clara, wearing her brown sleeveless top, watches her."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Clara in the warmly lit The Brick Bedroom at night. She looks up, a contented, happy smile spreading across her face.",
+        "Close-up on Julian in The Brick Bedroom. He looks down with a pensive expression as he speaks. Nora stands in the background, listening intently. In the background, the dark reenactment suit is draped over a chair near the brick wall window.",
+        "Clara, wearing the brown sleeveless top, sits up in bed and dabs her chest with the fluffy powder puff. Eva, sitting on the bed beside her, turns slightly to watch her.",
+        "A close-up of Julian wearing a black suit and black clerical shirt with a white collar in the dimly lit The Brick Bedroom. He stands near the brick wall window with a somber expression, his gaze lowered, before he slowly looks up.",
+        "In the dimly lit The Brick Bedroom, Isla sits up in the wrought-iron bed with a pensive expression, clutching the fluffy powder puff. Beside her, Clara, wearing her brown sleeveless top, watches her."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the lace-trimmed nightgown: A simple, long-sleeved white nightgown with lace trim at the high neck and cuffs.\n\nIn The Sunlit Bedroom, Julian's figure is silhouetted by the bright light coming from the large bedroom window. In the bed, Eva slowly sits up and reaches out a hand to touch Julian's side. Their eyes lock in a steady gaze."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Sunlit Bedroom, Julian's figure is silhouetted by the bright light coming from the large bedroom window. In the bed, Eva slowly sits up and reaches out a hand to touch Julian's side. Their eyes lock in a steady gaze."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Ryan: Young man with brown hair, wearing a dark collared shirt and a backpack.\n\nClose-up in the dimly lit The Brick Bedroom. Clara looks up at Julian and leans in to kiss him. In the background, Ryan watches them, his expression hardening."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up in the dimly lit The Brick Bedroom. Clara looks up at Julian and leans in to kiss him. In the background, Ryan watches them, his expression hardening."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Quiet Hall: Indoor setting.\n\nIn the dimly lit The Quiet Hall, a close-up shows Julian and Leo pulling each other into an embrace, patting each other on the back."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Quiet Hall, a close-up shows Julian and Leo pulling each other into an embrace, patting each other on the back."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Julian",
+        "Marcus",
+        "Leo"
+      ],
+      "places": [
+        "The Main Office"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Clara",
+        "Eva"
+      ],
+      "places": [
+        "The Brick Bedroom"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Marcus",
+        "Eva"
+      ],
+      "places": [
+        "The Sunlit Bedroom"
+      ],
+      "objects": [
+        "the large bedroom window",
+        "the dark reenactment suit"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Brick Bedroom"
+      ],
+      "objects": []
+    },
+    "4:2": {
+      "characters": [
+        "Julian",
+        "Nora"
+      ],
+      "places": [
+        "The Brick Bedroom"
+      ],
+      "objects": [
+        "the dark reenactment suit",
+        "the brick wall window"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Clara",
+        "Eva"
+      ],
+      "places": [
+        "The Brick Bedroom"
+      ],
+      "objects": [
+        "the fluffy powder puff"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Brick Bedroom"
+      ],
+      "objects": [
+        "the brick wall window"
+      ]
+    },
+    "4:5": {
+      "characters": [
+        "Isla",
+        "Clara"
+      ],
+      "places": [
+        "The Brick Bedroom"
+      ],
+      "objects": [
+        "the wrought-iron bed",
+        "the fluffy powder puff"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Julian",
+        "Eva"
+      ],
+      "places": [
+        "The Sunlit Bedroom"
+      ],
+      "objects": [
+        "the large bedroom window",
+        "the lace-trimmed nightgown"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Julian",
+        "Ryan",
+        "Clara"
+      ],
+      "places": [
+        "The Brick Bedroom"
+      ],
+      "objects": []
+    },
+    "7:1": {
+      "characters": [
+        "Julian",
+        "Leo"
+      ],
+      "places": [
+        "The Quiet Hall"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Julian",
+      "label": "Character 1",
+      "description": "Man with short dark hair wearing a dark suit and a dark tie over a black clerical shirt with a white collar."
+    },
+    "Character 2": {
+      "name": "Clara",
+      "label": "Character 2",
+      "description": "Woman with shoulder-length reddish-brown hair with straight-cut bangs, wearing a brown sleeveless top."
+    },
+    "Character 3": {
+      "name": "Nora",
+      "label": "Character 3",
+      "description": "Young woman with long, reddish-brown hair."
+    },
+    "Character 4": {
+      "name": "Eva",
+      "label": "Character 4",
+      "description": "Woman with long wavy blonde hair, often seen in a simple, light-colored nightgown."
+    },
+    "Character 5": {
+      "name": "Marcus",
+      "label": "Character 5",
+      "description": "Man with short brown hair, wearing a dark suit, a white collared shirt, and a red patterned tie."
+    },
+    "Character 6": {
+      "name": "Leo",
+      "label": "Character 6",
+      "description": "Man wearing a dark suit and a tie."
+    },
+    "Character 7": {
+      "name": "Isla",
+      "label": "Character 7",
+      "description": "Woman with long blonde hair and pensive green eyes."
+    },
+    "Character 8": {
+      "name": "Ryan",
+      "label": "Character 8",
+      "description": "Young man with brown hair, wearing a dark collared shirt and a backpack."
+    },
+    "Location 1": {
+      "name": "The Main Office",
+      "label": "Location 1",
+      "description": "Office interior with a window and a framed picture."
+    },
+    "Location 2": {
+      "name": "The Sunlit Bedroom",
+      "label": "Location 2",
+      "description": "Minimalist bedroom with neutral off-white walls and pale hardwood floors, dominated by a large window fitted with sheer white curtains, with a central unmade bed dressed in light-colored linen sheets."
+    },
+    "Location 3": {
+      "name": "The Brick Bedroom",
+      "label": "Location 3",
+      "description": "Bedroom with an exposed brick wall."
+    },
+    "Location 4": {
+      "name": "The Quiet Hall",
+      "label": "Location 4",
+      "description": "Indoor setting."
+    },
+    "Object 1": {
+      "name": "the dark reenactment suit",
+      "label": "Object 1",
+      "description": "Dark-colored man's reenactment suit consisting of a tailored jacket and matching trousers"
+    },
+    "Object 2": {
+      "name": "the large bedroom window",
+      "label": "Object 2",
+      "description": "Large rectangular window with multiple panes, a white-painted casing, and sheer white curtains."
+    },
+    "Object 3": {
+      "name": "the patterned camisole",
+      "label": "Object 3",
+      "description": "Sleeveless camisole top with a visible pattern"
+    },
+    "Object 4": {
+      "name": "the brick wall window",
+      "label": "Object 4",
+      "description": "A window set within an interior brick wall, featuring light-colored curtains."
+    },
+    "Object 5": {
+      "name": "the fluffy powder puff",
+      "label": "Object 5",
+      "description": "Round, white, fluffy powder puff."
+    },
+    "Object 6": {
+      "name": "the wrought-iron bed",
+      "label": "Object 6",
+      "description": "Queen-size bed with a dark, ornate wrought-iron headboard, rumpled white pillows, and a matching white duvet."
+    },
+    "Object 7": {
+      "name": "the lace-trimmed nightgown",
+      "label": "Object 7",
+      "description": "A simple, long-sleeved white nightgown with lace trim at the high neck and cuffs."
+    }
+  },
+  "_window_shot_ids": [
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0006",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0007",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0008",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0009",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0010",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0011",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0012",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0013",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0014",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0015",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i10_j61__T600__shot0016"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Julian",
+    "Character 2": "Clara",
+    "Character 3": "Nora",
+    "Character 4": "Eva",
+    "Character 5": "Marcus",
+    "Character 6": "Leo",
+    "Character 7": "Isla",
+    "Character 8": "Ryan",
+    "Location 1": "The Main Office",
+    "Location 2": "The Sunlit Bedroom",
+    "Location 3": "The Brick Bedroom",
+    "Location 4": "The Quiet Hall",
+    "Object 1": "the dark reenactment suit",
+    "Object 2": "the large bedroom window",
+    "Object 3": "the patterned camisole",
+    "Object 4": "the brick wall window",
+    "Object 5": "the fluffy powder puff",
+    "Object 6": "the wrought-iron bed",
+    "Object 7": "the lace-trimmed nightgown"
+  }
+}

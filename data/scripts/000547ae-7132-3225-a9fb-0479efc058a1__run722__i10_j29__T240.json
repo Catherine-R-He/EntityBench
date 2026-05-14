@@ -1,0 +1,419 @@
+{
+  "story_name": "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240",
+  "story_overview": "At a vintage radio station, producer Arthur oversees engineer Rory as they begin a recording session. In the studio, the talented Esther performs for the executive, Walter. The day continues with Walter holding tense meetings in his office, first with Finn and then with Leo.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Arthur: Man in his 40s with short, combed dark hair and a neatly trimmed mustache, wearing a charcoal pinstripe single-breasted suit, a white dress shirt, and a narrow dark tie.\nRory: Young man in his early 20s with slicked-back dark hair, wearing thick-framed black plastic eyeglasses and a red and blue plaid shirt.\nThe Radio Booth: Retro-style radio control room with wood-paneled walls, a large glass window, a desk, and a vintage-style microphone.\nthe reel-to-reel recorder: Large vintage reel-to-reel tape recorder with a dark wood-grain casing, a silver metal control panel featuring numerous black knobs and switches, two large circular metal reels loaded with thin brown magnetic tape, and a pair of analog VU meters.\n\nMedium shot in The Radio Booth. Rory, wearing the plaid shirt and the black-rimmed eyeglasses, sits in profile at a desk and carefully adjusts the knobs on the reel-to-reel recorder. Arthur stands behind him, leaning forward slightly to watch him work.",
+        "In the dimly lit The Radio Booth, a close-up shows Arthur's hand pressing a button on the reel-to-reel recorder. The reels of the tape recorder begin to spin.",
+        "Close-up side view in The Radio Booth. The large tape reels of the reel-to-reel recorder spin steadily as it records audio. Arthur leans over the reel-to-reel recorder, intently watching it operate."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Radio Booth. Rory, wearing the plaid shirt and the black-rimmed eyeglasses, sits in profile at a desk and carefully adjusts the knobs on the reel-to-reel recorder. Arthur stands behind him, leaning forward slightly to watch him work.",
+        "In the dimly lit The Radio Booth, a close-up shows Arthur's hand pressing a button on the reel-to-reel recorder. The reels of the tape recorder begin to spin.",
+        "Close-up side view in The Radio Booth. The large tape reels of the reel-to-reel recorder spin steadily as it records audio. Arthur leans over the reel-to-reel recorder, intently watching it operate."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Simon: Man wearing a white short-sleeved shirt with large headphones around his neck.\nClara: Woman with dark brown, shoulder-length hair, wearing a beige top and dark pants.\nThe Recording Studio: A music performance studio with retro-themed, poster-lined walls, containing musical instruments including a drum kit and an upright bass.\n\nMedium shot looking through a glass window into The Recording Studio. Simon, with the retro headphones around his neck, leans forward slightly, his eyes narrowed in concentration. Clara stands beside him with her arms crossed, nodding almost imperceptibly as she listens intently.",
+        "Walter: Heavyset man in his 50s with salt-and-pepper hair receding at the temples, wearing a rumpled dark grey suit, a white shirt, and a loosened dark tie.\nEsther: Woman in her 30s with her dark brown hair in an elegant updo, wearing a grey 1950s-style dress with a fitted bodice, full flared skirt, large black buttons, and a modest neckline.\nthe upright bass: Large wooden upright bass with a dark, polished varnish, a violin-shaped body with f-holes, a long fretless neck, and a carved scroll headstock.\nthe drum kit: A multi-piece percussion set including a large bass drum, a snare drum, several tom-toms, and various metallic cymbals with their metal hardware.\nthe vintage music posters: A collection of rectangular, vintage paper music posters of varying sizes, featuring faded color and black-and-white graphics of musicians and bands with bold typography, some with creased corners and worn edges.\nthe studio condenser microphone: Large vintage studio condenser microphone with a cylindrical silver metallic body, a wide, round wire-mesh grille head, and suspended in a black circular shock mount cradle\n\nInside The Recording Studio, Esther, wearing the grey 1950s dress, gestures with her hands as she performs into the studio condenser microphone. Walter stands nearby, nodding slightly as he watches her. The studio is arranged with the upright bass, the drum kit, and walls covered in the vintage music posters.",
+        "Medium close-up in The Recording Studio. Esther, wearing the grey 1950s dress with large black buttons, stands at the studio condenser microphone and turns her head slightly to give a confident smile. In the background, Walter observes her, and the upright bass rests against the wall, which is covered in the vintage music posters."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot looking through a glass window into The Recording Studio. Simon, with the retro headphones around his neck, leans forward slightly, his eyes narrowed in concentration. Clara stands beside him with her arms crossed, nodding almost imperceptibly as she listens intently.",
+        "Inside The Recording Studio, Esther, wearing the grey 1950s dress, gestures with her hands as she performs into the studio condenser microphone. Walter stands nearby, nodding slightly as he watches her. The studio is arranged with the upright bass, the drum kit, and walls covered in the vintage music posters.",
+        "Medium close-up in The Recording Studio. Esther, wearing the grey 1950s dress with large black buttons, stands at the studio condenser microphone and turns her head slightly to give a confident smile. In the background, Walter observes her, and the upright bass rests against the wall, which is covered in the vintage music posters."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Beatrice: Woman.\nthe vintage booth microphone: Large, vintage-style radio booth microphone with a rectangular, polished chrome body, a wide front grille, and a sturdy, dark metal desktop mount with a circular base.\nthe Nat King Cole poster: Rectangular, vintage-style paper poster featuring a black-and-white portrait of the singer Nat King Cole, with his name printed in bold typography.\n\nMedium shot from behind a glass pane, looking into The Radio Booth. Simon, wearing the retro headphones, sits at the desk and speaks animatedly into the vintage booth microphone. Beatrice stands nearby, watching him, a small smile playing on her lips as the Nat King Cole poster hangs on the wall in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot from behind a glass pane, looking into The Radio Booth. Simon, wearing the retro headphones, sits at the desk and speaks animatedly into the vintage booth microphone. Beatrice stands nearby, watching him, a small smile playing on her lips as the Nat King Cole poster hangs on the wall in the background."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Broadcast Tower: Large multi-story building with a concrete facade, numerous windows, and two tower-like structures on the roof.\nDaytime, low-angle exterior shot of The Broadcast Tower. The view moves smoothly across the building's upper floors, where Beatrice is visible in one of the windows, set against a clear blue sky."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Daytime, low-angle exterior shot of The Broadcast Tower. The view moves smoothly across the building's upper floors, where Beatrice is visible in one of the windows, set against a clear blue sky."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Finn: Younger man with a slim build and short, slightly messy blond hair, wearing a short-sleeve button-up shirt with a brown and orange mid-century geometric pattern, and dark brown trousers.\nThe Producer's Office: Mid-century style office interior featuring a bookshelf and a vintage radio.\nthe silver thermos: Sleek, silver-colored metal thermos with a cylindrical body and a matching screw-on cap.\nthe leather strap wristwatch: Mid-century style men's analog wristwatch with a round, polished silver case, a simple white dial with thin hands, and a worn dark brown leather strap.\nthe mid-century bookshelf: Tall, dark wood Mid-century modern bookshelf with multiple shelves filled with an assortment of hardcover books in various colors and sizes.\nthe tabletop radio: Vintage mid-century tabletop radio with a rectangular dark wood veneer case, a light-colored fabric speaker grille on the side, a horizontal analogue tuning dial, and several round control knobs.\n\nInside the dimly lit The Producer's Office, Walter places the silver thermos on a surface just out of frame. Finn stands near the mid-century bookshelf and the tabletop radio, watching him and shifting his weight slightly. Walter then looks down at his wrist to check the time on the leather strap wristwatch.",
+        "Leo: Young man with a nervous energy, short blond hair, wearing a light blue polo shirt and dark trousers.\nthe executive wood desk: Large mid-century executive desk with a dark, polished wood-grain surface, a rectangular top, and clean lines with slender, tapered legs.\nthe ceramic coffee cups: Thick-walled, off-white ceramic coffee cups of a classic mid-century diner style, each with a C-shaped handle and a thin dark green band around the outer rim.\nthe black rotary telephone: Vintage mid-century rotary telephone with a glossy black plastic body, a circular front dial with finger holes, and a heavy matching handset resting in a cradle, connected by a coiled black cord.\n\nWalter sits behind the executive wood desk and gestures while speaking to Leo, who stands opposite him, listening intently. Rory stands nearby, shifting his gaze between the two speakers. On the desk between them are the black rotary telephone and a pair of the ceramic coffee cups."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside the dimly lit The Producer's Office, Walter places the silver thermos on a surface just out of frame. Finn stands near the mid-century bookshelf and the tabletop radio, watching him and shifting his weight slightly. Walter then looks down at his wrist to check the time on the leather strap wristwatch.",
+        "Walter sits behind the executive wood desk and gestures while speaking to Leo, who stands opposite him, listening intently. Rory stands nearby, shifting his gaze between the two speakers. On the desk between them are the black rotary telephone and a pair of the ceramic coffee cups."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Arthur",
+        "Rory"
+      ],
+      "places": [
+        "The Radio Booth"
+      ],
+      "objects": [
+        "the reel-to-reel recorder",
+        "the plaid shirt",
+        "the black-rimmed eyeglasses"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Radio Booth"
+      ],
+      "objects": [
+        "the reel-to-reel recorder"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Radio Booth"
+      ],
+      "objects": [
+        "the reel-to-reel recorder"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Simon",
+        "Clara"
+      ],
+      "places": [
+        "The Recording Studio"
+      ],
+      "objects": [
+        "the retro headphones"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Walter",
+        "Esther"
+      ],
+      "places": [
+        "The Recording Studio"
+      ],
+      "objects": [
+        "the studio condenser microphone",
+        "the grey 1950s dress",
+        "the upright bass",
+        "the drum kit",
+        "the vintage music posters"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Walter",
+        "Esther"
+      ],
+      "places": [
+        "The Recording Studio"
+      ],
+      "objects": [
+        "the studio condenser microphone",
+        "the grey 1950s dress",
+        "the upright bass",
+        "the vintage music posters"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Beatrice",
+        "Simon"
+      ],
+      "places": [
+        "The Radio Booth"
+      ],
+      "objects": [
+        "the retro headphones",
+        "the vintage booth microphone",
+        "the Nat King Cole poster"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Beatrice"
+      ],
+      "places": [
+        "The Broadcast Tower"
+      ],
+      "objects": []
+    },
+    "5:1": {
+      "characters": [
+        "Walter",
+        "Finn"
+      ],
+      "places": [
+        "The Producer's Office"
+      ],
+      "objects": [
+        "the silver thermos",
+        "the leather strap wristwatch",
+        "the mid-century bookshelf",
+        "the tabletop radio"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Walter",
+        "Leo",
+        "Rory"
+      ],
+      "places": [
+        "The Producer's Office"
+      ],
+      "objects": [
+        "the executive wood desk",
+        "the ceramic coffee cups",
+        "the black rotary telephone"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Young man with a nervous energy, short blond hair, wearing a light blue polo shirt and dark trousers."
+    },
+    "Character 2": {
+      "name": "Finn",
+      "label": "Character 2",
+      "description": "Younger man with a slim build and short, slightly messy blond hair, wearing a short-sleeve button-up shirt with a brown and orange mid-century geometric pattern, and dark brown trousers."
+    },
+    "Character 3": {
+      "name": "Arthur",
+      "label": "Character 3",
+      "description": "Man in his 40s with short, combed dark hair and a neatly trimmed mustache, wearing a charcoal pinstripe single-breasted suit, a white dress shirt, and a narrow dark tie."
+    },
+    "Character 4": {
+      "name": "Clara",
+      "label": "Character 4",
+      "description": "Woman with dark brown, shoulder-length hair, wearing a beige top and dark pants."
+    },
+    "Character 5": {
+      "name": "Walter",
+      "label": "Character 5",
+      "description": "Heavyset man in his 50s with salt-and-pepper hair receding at the temples, wearing a rumpled dark grey suit, a white shirt, and a loosened dark tie."
+    },
+    "Character 6": {
+      "name": "Beatrice",
+      "label": "Character 6",
+      "description": "Woman."
+    },
+    "Character 7": {
+      "name": "Rory",
+      "label": "Character 7",
+      "description": "Young man in his early 20s with slicked-back dark hair, wearing thick-framed black plastic eyeglasses and a red and blue plaid shirt."
+    },
+    "Character 8": {
+      "name": "Esther",
+      "label": "Character 8",
+      "description": "Woman in her 30s with her dark brown hair in an elegant updo, wearing a grey 1950s-style dress with a fitted bodice, full flared skirt, large black buttons, and a modest neckline."
+    },
+    "Character 9": {
+      "name": "Simon",
+      "label": "Character 9",
+      "description": "Man wearing a white short-sleeved shirt with large headphones around his neck."
+    },
+    "Location 1": {
+      "name": "The Radio Booth",
+      "label": "Location 1",
+      "description": "Retro-style radio control room with wood-paneled walls, a large glass window, a desk, and a vintage-style microphone."
+    },
+    "Location 2": {
+      "name": "The Recording Studio",
+      "label": "Location 2",
+      "description": "A music performance studio with retro-themed, poster-lined walls, containing musical instruments including a drum kit and an upright bass."
+    },
+    "Location 3": {
+      "name": "The Broadcast Tower",
+      "label": "Location 3",
+      "description": "Large multi-story building with a concrete facade, numerous windows, and two tower-like structures on the roof."
+    },
+    "Location 4": {
+      "name": "The Producer's Office",
+      "label": "Location 4",
+      "description": "Mid-century style office interior featuring a bookshelf and a vintage radio."
+    },
+    "Object 1": {
+      "name": "the vintage booth microphone",
+      "label": "Object 1",
+      "description": "Large, vintage-style radio booth microphone with a rectangular, polished chrome body, a wide front grille, and a sturdy, dark metal desktop mount with a circular base."
+    },
+    "Object 2": {
+      "name": "the retro headphones",
+      "label": "Object 2",
+      "description": "Large, retro-style over-ear headphones with bulky, circular, black padded earcups and a thin, adjustable metal headband"
+    },
+    "Object 3": {
+      "name": "the reel-to-reel recorder",
+      "label": "Object 3",
+      "description": "Large vintage reel-to-reel tape recorder with a dark wood-grain casing, a silver metal control panel featuring numerous black knobs and switches, two large circular metal reels loaded with thin brown magnetic tape, and a pair of analog VU meters."
+    },
+    "Object 4": {
+      "name": "the studio condenser microphone",
+      "label": "Object 4",
+      "description": "Large vintage studio condenser microphone with a cylindrical silver metallic body, a wide, round wire-mesh grille head, and suspended in a black circular shock mount cradle"
+    },
+    "Object 5": {
+      "name": "the vintage music posters",
+      "label": "Object 5",
+      "description": "A collection of rectangular, vintage paper music posters of varying sizes, featuring faded color and black-and-white graphics of musicians and bands with bold typography, some with creased corners and worn edges."
+    },
+    "Object 6": {
+      "name": "the upright bass",
+      "label": "Object 6",
+      "description": "Large wooden upright bass with a dark, polished varnish, a violin-shaped body with f-holes, a long fretless neck, and a carved scroll headstock."
+    },
+    "Object 7": {
+      "name": "the drum kit",
+      "label": "Object 7",
+      "description": "A multi-piece percussion set including a large bass drum, a snare drum, several tom-toms, and various metallic cymbals with their metal hardware."
+    },
+    "Object 8": {
+      "name": "the Nat King Cole poster",
+      "label": "Object 8",
+      "description": "Rectangular, vintage-style paper poster featuring a black-and-white portrait of the singer Nat King Cole, with his name printed in bold typography."
+    },
+    "Object 9": {
+      "name": "the plaid shirt",
+      "label": "Object 9",
+      "description": "Plaid-patterned shirt"
+    },
+    "Object 10": {
+      "name": "the black-rimmed eyeglasses",
+      "label": "Object 10",
+      "description": "Thick-framed black plastic eyeglasses with large, slightly squared clear lenses"
+    },
+    "Object 11": {
+      "name": "the grey 1950s dress",
+      "label": "Object 11",
+      "description": "Grey 1950s-style dress with a fitted bodice, full flared skirt, and a modest neckline"
+    },
+    "Object 12": {
+      "name": "the mid-century bookshelf",
+      "label": "Object 12",
+      "description": "Tall, dark wood Mid-century modern bookshelf with multiple shelves filled with an assortment of hardcover books in various colors and sizes."
+    },
+    "Object 13": {
+      "name": "the tabletop radio",
+      "label": "Object 13",
+      "description": "Vintage mid-century tabletop radio with a rectangular dark wood veneer case, a light-colored fabric speaker grille on the side, a horizontal analogue tuning dial, and several round control knobs."
+    },
+    "Object 14": {
+      "name": "the silver thermos",
+      "label": "Object 14",
+      "description": "Sleek, silver-colored metal thermos with a cylindrical body and a matching screw-on cap."
+    },
+    "Object 15": {
+      "name": "the leather strap wristwatch",
+      "label": "Object 15",
+      "description": "Mid-century style men's analog wristwatch with a round, polished silver case, a simple white dial with thin hands, and a worn dark brown leather strap."
+    },
+    "Object 16": {
+      "name": "the black rotary telephone",
+      "label": "Object 16",
+      "description": "Vintage mid-century rotary telephone with a glossy black plastic body, a circular front dial with finger holes, and a heavy matching handset resting in a cradle, connected by a coiled black cord."
+    },
+    "Object 17": {
+      "name": "the ceramic coffee cups",
+      "label": "Object 17",
+      "description": "Thick-walled, off-white ceramic coffee cups of a classic mid-century diner style, each with a C-shaped handle and a thin dark green band around the outer rim."
+    },
+    "Object 18": {
+      "name": "the executive wood desk",
+      "label": "Object 18",
+      "description": "Large mid-century executive desk with a dark, polished wood-grain surface, a rectangular top, and clean lines with slender, tapered legs."
+    }
+  },
+  "_window_shot_ids": [
+    "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240__shot0038",
+    "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240__shot0040",
+    "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240__shot0041",
+    "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240__shot0042",
+    "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240__shot0043",
+    "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240__shot0044",
+    "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240__shot0045",
+    "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240__shot0046",
+    "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240__shot0047",
+    "000547ae-7132-3225-a9fb-0479efc058a1__run722__i10_j29__T240__shot0048"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Finn",
+    "Character 3": "Arthur",
+    "Character 4": "Clara",
+    "Character 5": "Walter",
+    "Character 6": "Beatrice",
+    "Character 7": "Rory",
+    "Character 8": "Esther",
+    "Character 9": "Simon",
+    "Location 1": "The Radio Booth",
+    "Location 2": "The Recording Studio",
+    "Location 3": "The Broadcast Tower",
+    "Location 4": "The Producer's Office",
+    "Object 1": "the vintage booth microphone",
+    "Object 10": "the black-rimmed eyeglasses",
+    "Object 11": "the grey 1950s dress",
+    "Object 12": "the mid-century bookshelf",
+    "Object 13": "the tabletop radio",
+    "Object 14": "the silver thermos",
+    "Object 15": "the leather strap wristwatch",
+    "Object 16": "the black rotary telephone",
+    "Object 17": "the ceramic coffee cups",
+    "Object 18": "the executive wood desk",
+    "Object 2": "the retro headphones",
+    "Object 3": "the reel-to-reel recorder",
+    "Object 4": "the studio condenser microphone",
+    "Object 5": "the vintage music posters",
+    "Object 6": "the upright bass",
+    "Object 7": "the drum kit",
+    "Object 8": "the Nat King Cole poster",
+    "Object 9": "the plaid shirt"
+  }
+}

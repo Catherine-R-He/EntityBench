@@ -1,0 +1,386 @@
+{
+  "story_name": "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120",
+  "story_overview": "With a serious expression, Arun is featured in the Press Room, recognizable by a white mark on his forehead. The story follows a series of tense meetings as Rajesh watches Arun leave a hazy red chamber, and Vikram and Kiran later meet with Arun at a family home. The men eventually gather for a series of intense conversations in the Press Room.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "The Press Room: Indoor interview setting with dark, featureless walls and a screen featuring a 'PARI MATCH' logo.\nRajesh: Middle-aged man wearing glasses and a plain light-colored collared shirt\n\nClose-up of Rajesh in The Press Room, illuminated by warm, reddish light. Wearing the black-rimmed glasses and with the white forehead mark prominent on his forehead, Rajesh looks forward, his expression slowly becoming serious and concerned."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Rajesh in The Press Room, illuminated by warm, reddish light. Wearing the black-rimmed glasses and with the white forehead mark prominent on his forehead, Rajesh looks forward, his expression slowly becoming serious and concerned."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Red Chamber: Interior room with solid red walls, a shrine hanging on one wall, a 'PARI MATCH' logo, and a hazy, smoky atmosphere.\nthe ornate wooden shrine: Ornate, rectangular shrine of carved dark wood with gold leaf accents and a recessed red velvet backing.\nArun: Older man with a white patch of skin discoloration on his forehead, wearing glasses and a light-colored, blue-patterned collared shirt\n\nIn the hazy, red-lit The Red Chamber, Rajesh watches from the foreground near the ornate wooden shrine with a concerned expression. In the background, a worried Arun turns and walks out of the frame."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the hazy, red-lit The Red Chamber, Rajesh watches from the foreground near the ornate wooden shrine with a concerned expression. In the background, a worried Arun turns and walks out of the frame."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Vikram: Man with a red mark on his forehead, wearing glasses and a red patterned top.\nKiran: Man wearing a light blue jacket over a white t-shirt.\nThe Family Home: Interior of a room in a house.\n\nVikram, Arun, and Kiran walk into the room together. Vikram, wearing the thick black glasses, is talking animatedly while Arun, wearing the patterned blue shirt, listens attentively. Kiran, wearing the light blue jacket and the white t-shirt, walks slightly behind them, looking around."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Vikram, Arun, and Kiran walk into the room together. Vikram, wearing the thick black glasses, is talking animatedly while Arun, wearing the patterned blue shirt, listens attentively. Kiran, wearing the light blue jacket and the white t-shirt, walks slightly behind them, looking around."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Priya: Woman wearing a white top.\n\nRajesh is in The Press Room, with the light grey jacket visible. He has a concerned and startled expression on his face as he looks over at Priya. He suddenly turns his head from right to left."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Rajesh is in The Press Room, with the light grey jacket visible. He has a concerned and startled expression on his face as he looks over at Priya. He suddenly turns his head from right to left."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Living Room: Living room interior containing a blue sofa and a suitcase.\nthe room service meal: A meal on a dark wood rectangular serving tray with brass handles, consisting of a layered club sandwich cut diagonally with frilled toothpicks, a small white ceramic bowl of red grapes, and a tall glass of orange juice with an orange slice on the rim.\nthe gray hardshell suitcase: Dark gray hardshell roller suitcase with a ribbed texture, a black telescoping handle, and four spinner wheels.\n\nInterior shot of The Living Room with the gray hardshell suitcase in the background. Vikram, seated on the blue sofa, looks up as Priya walks from the background towards him, holding the room service meal.",
+        "Rohan: Younger man with dark curly hair and glasses.\n\nIn The Living Room, Arun, wearing the patterned blue shirt and glasses, places the room service meal on a coffee table and sits down. Across from him, Rohan, wearing glasses, gestures with his hands as they talk animatedly."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Interior shot of The Living Room with the gray hardshell suitcase in the background. Vikram, seated on the blue sofa, looks up as Priya walks from the background towards him, holding the room service meal.",
+        "In The Living Room, Arun, wearing the patterned blue shirt and glasses, places the room service meal on a coffee table and sits down. Across from him, Rohan, wearing glasses, gestures with his hands as they talk animatedly."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Over-the-shoulder shot in The Press Room, looking past Rajesh. Kiran, wearing the light blue jacket and the white t-shirt, sits across from him. Kiran smiles as he talks.",
+        "Over-the-shoulder close-up in The Press Room, looking past the shoulder of Vikram, wearing the thick black glasses. A man, wearing the patterned blue shirt, sits opposite him, speaking with an earnest expression.",
+        "Sanjay: Older man wearing glasses and a white and yellow traditional wrap.\n\nClose-up shot in The Press Room. Rajesh, Vikram, wearing the thick black glasses, and Sanjay sit together, listening intently to an off-screen speaker and occasionally nodding.",
+        "Over-the-shoulder close-up shot in The Press Room. Rajesh, wearing the thick black glasses, is in focus, speaking intently. In the foreground, the back of Kiran's head and shoulders are visible as he listens.",
+        "A close over-the-shoulder view of Vikram inside the warmly lit The Press Room, focusing on Arun as he talks. Arun wears the patterned blue shirt."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot in The Press Room, looking past Rajesh. Kiran, wearing the light blue jacket and the white t-shirt, sits across from him. Kiran smiles as he talks.",
+        "Over-the-shoulder close-up in The Press Room, looking past the shoulder of Vikram, wearing the thick black glasses. A man, wearing the patterned blue shirt, sits opposite him, speaking with an earnest expression.",
+        "Close-up shot in The Press Room. Rajesh, Vikram, wearing the thick black glasses, and Sanjay sit together, listening intently to an off-screen speaker and occasionally nodding.",
+        "Over-the-shoulder close-up shot in The Press Room. Rajesh, wearing the thick black glasses, is in focus, speaking intently. In the foreground, the back of Kiran's head and shoulders are visible as he listens.",
+        "A close over-the-shoulder view of Vikram inside the warmly lit The Press Room, focusing on Arun as he talks. Arun wears the patterned blue shirt."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Rajesh"
+      ],
+      "places": [
+        "The Press Room"
+      ],
+      "objects": [
+        "the black-rimmed glasses",
+        "the white forehead mark"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Rajesh",
+        "Arun"
+      ],
+      "places": [
+        "The Red Chamber"
+      ],
+      "objects": [
+        "the ornate wooden shrine"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Vikram",
+        "Arun",
+        "Kiran"
+      ],
+      "places": [
+        "The Family Home"
+      ],
+      "objects": [
+        "the patterned blue shirt",
+        "the thick black glasses",
+        "the light blue jacket",
+        "the white t-shirt"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Rajesh",
+        "Priya"
+      ],
+      "places": [
+        "The Press Room"
+      ],
+      "objects": [
+        "the light grey jacket"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Vikram",
+        "Priya"
+      ],
+      "places": [
+        "The Living Room"
+      ],
+      "objects": [
+        "the room service meal",
+        "the gray hardshell suitcase"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Arun",
+        "Rohan"
+      ],
+      "places": [
+        "The Living Room"
+      ],
+      "objects": [
+        "the patterned blue shirt",
+        "the room service meal"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Rajesh",
+        "Kiran"
+      ],
+      "places": [
+        "The Press Room"
+      ],
+      "objects": [
+        "the light blue jacket",
+        "the white t-shirt"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Vikram"
+      ],
+      "places": [
+        "The Press Room"
+      ],
+      "objects": [
+        "the thick black glasses",
+        "the patterned blue shirt"
+      ]
+    },
+    "6:3": {
+      "characters": [
+        "Rajesh",
+        "Vikram",
+        "Sanjay"
+      ],
+      "places": [
+        "The Press Room"
+      ],
+      "objects": [
+        "the thick black glasses"
+      ]
+    },
+    "6:4": {
+      "characters": [
+        "Rajesh",
+        "Kiran"
+      ],
+      "places": [
+        "The Press Room"
+      ],
+      "objects": [
+        "the thick black glasses"
+      ]
+    },
+    "6:5": {
+      "characters": [
+        "Vikram",
+        "Arun"
+      ],
+      "places": [
+        "The Press Room"
+      ],
+      "objects": [
+        "the patterned blue shirt"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Rajesh",
+      "label": "Character 1",
+      "description": "Middle-aged man wearing glasses and a plain light-colored collared shirt"
+    },
+    "Character 2": {
+      "name": "Vikram",
+      "label": "Character 2",
+      "description": "Man with a red mark on his forehead, wearing glasses and a red patterned top."
+    },
+    "Character 3": {
+      "name": "Arun",
+      "label": "Character 3",
+      "description": "Older man with a white patch of skin discoloration on his forehead, wearing glasses and a light-colored, blue-patterned collared shirt"
+    },
+    "Character 4": {
+      "name": "Priya",
+      "label": "Character 4",
+      "description": "Woman wearing a white top."
+    },
+    "Character 5": {
+      "name": "Rohan",
+      "label": "Character 5",
+      "description": "Younger man with dark curly hair and glasses."
+    },
+    "Character 6": {
+      "name": "Sanjay",
+      "label": "Character 6",
+      "description": "Older man wearing glasses and a white and yellow traditional wrap."
+    },
+    "Character 7": {
+      "name": "Kiran",
+      "label": "Character 7",
+      "description": "Man wearing a light blue jacket over a white t-shirt."
+    },
+    "Location 1": {
+      "name": "The Press Room",
+      "label": "Location 1",
+      "description": "Indoor interview setting with dark, featureless walls and a screen featuring a 'PARI MATCH' logo."
+    },
+    "Location 2": {
+      "name": "The Red Chamber",
+      "label": "Location 2",
+      "description": "Interior room with solid red walls, a shrine hanging on one wall, a 'PARI MATCH' logo, and a hazy, smoky atmosphere."
+    },
+    "Location 3": {
+      "name": "The Family Home",
+      "label": "Location 3",
+      "description": "Interior of a room in a house."
+    },
+    "Location 4": {
+      "name": "The Living Room",
+      "label": "Location 4",
+      "description": "Living room interior containing a blue sofa and a suitcase."
+    },
+    "Object 1": {
+      "name": "the black-rimmed glasses",
+      "label": "Object 1",
+      "description": "Black-rimmed eyeglasses"
+    },
+    "Object 2": {
+      "name": "the ornate wooden shrine",
+      "label": "Object 2",
+      "description": "Ornate, rectangular shrine of carved dark wood with gold leaf accents and a recessed red velvet backing."
+    },
+    "Object 3": {
+      "name": "the white forehead mark",
+      "label": "Object 3",
+      "description": "A stark white patch of skin discoloration of an undefined shape"
+    },
+    "Object 4": {
+      "name": "the white t-shirt",
+      "label": "Object 4",
+      "description": "Plain white crewneck t-shirt"
+    },
+    "Object 5": {
+      "name": "the light blue jacket",
+      "label": "Object 5",
+      "description": "Light blue jacket worn over a white t-shirt"
+    },
+    "Object 6": {
+      "name": "the patterned blue shirt",
+      "label": "Object 6",
+      "description": "Blue short-sleeved button-up shirt with a fine, repeating all-over pattern"
+    },
+    "Object 7": {
+      "name": "the thick black glasses",
+      "label": "Object 7",
+      "description": "Glasses with thick, rectangular, black plastic frames and clear lenses"
+    },
+    "Object 8": {
+      "name": "the light grey jacket",
+      "label": "Object 8",
+      "description": "Light grey jacket"
+    },
+    "Object 9": {
+      "name": "the room service meal",
+      "label": "Object 9",
+      "description": "A meal on a dark wood rectangular serving tray with brass handles, consisting of a layered club sandwich cut diagonally with frilled toothpicks, a small white ceramic bowl of red grapes, and a tall glass of orange juice with an orange slice on the rim."
+    },
+    "Object 10": {
+      "name": "the gray hardshell suitcase",
+      "label": "Object 10",
+      "description": "Dark gray hardshell roller suitcase with a ribbed texture, a black telescoping handle, and four spinner wheels."
+    },
+    "Object 11": {
+      "name": "the red patterned shirt",
+      "label": "Object 11",
+      "description": "Red and blue patterned shirt"
+    }
+  },
+  "_window_shot_ids": [
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0015",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0016",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0017",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0018",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0022",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0023",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0024",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0025",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0027",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0028",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run793__i55_j64__T120__shot0029"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Rajesh",
+    "Character 2": "Vikram",
+    "Character 3": "Arun",
+    "Character 4": "Priya",
+    "Character 5": "Rohan",
+    "Character 6": "Sanjay",
+    "Character 7": "Kiran",
+    "Location 1": "The Press Room",
+    "Location 2": "The Red Chamber",
+    "Location 3": "The Family Home",
+    "Location 4": "The Living Room",
+    "Object 1": "the black-rimmed glasses",
+    "Object 10": "the gray hardshell suitcase",
+    "Object 11": "the red patterned shirt",
+    "Object 2": "the ornate wooden shrine",
+    "Object 3": "the white forehead mark",
+    "Object 4": "the white t-shirt",
+    "Object 5": "the light blue jacket",
+    "Object 6": "the patterned blue shirt",
+    "Object 7": "the thick black glasses",
+    "Object 8": "the light grey jacket",
+    "Object 9": "the room service meal"
+  }
+}

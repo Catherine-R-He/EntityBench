@@ -1,0 +1,521 @@
+{
+  "story_name": "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180",
+  "story_overview": "In a darkroom, Arthur murders Clara as Silas watches. The story then fractures into a surreal narrative showing a living Clara in various states of distress, alongside bizarre confrontations involving Arthur, Silas, and Julian in a residence hall, culminating in a panicked escape.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Silas: Shirtless, bald man with a white beard and dark pants.\nThe Yellow Darkroom: A bathroom/darkroom with yellow tiled walls, a single hanging bare bulb fixture, and photographic materials hanging to dry.\n\nIn The Yellow Darkroom, an extreme close-up on Silas's face. He stares intently, his eyes wide with fear and trembling slightly. The scene is dimly lit with a warm, reddish glow, creating a tense and suspenseful atmosphere.",
+        "Clara: Woman with curly reddish-brown hair wearing a light-colored blouse and an orange skirt.\n\nExtreme close-up in The Yellow Darkroom under warm, dim lighting. An unseen hand uses the simple utility knife to slice across the neck of Clara. Blood pours from the deep wound, splattering onto the red plastic sheet below. Clara's hand, wearing the gold wedding band, twitches once before resting motionless near the injury.",
+        "Arthur: Man with grey hair wearing a brown patterned dressing gown over a light blue collared shirt.\nthe developing photographs: A series of damp, glossy, black-and-white photographic prints suspended by small clips.\nthe stained darkroom workbench: Long, rectangular darkroom workbench with a dark, waterproof laminate surface showing chemical stains and wear.\n\nIn The Yellow Darkroom, Clara, with the blood spatter on her neck, collapses to the floor beside the red plastic sheet and lies motionless. Arthur steps past her body and walks to the stained darkroom workbench. He ignores Clara and begins examining the developing photographs."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Yellow Darkroom, an extreme close-up on Silas's face. He stares intently, his eyes wide with fear and trembling slightly. The scene is dimly lit with a warm, reddish glow, creating a tense and suspenseful atmosphere.",
+        "Extreme close-up in The Yellow Darkroom under warm, dim lighting. An unseen hand uses the simple utility knife to slice across the neck of Clara. Blood pours from the deep wound, splattering onto the red plastic sheet below. Clara's hand, wearing the gold wedding band, twitches once before resting motionless near the injury.",
+        "In The Yellow Darkroom, Clara, with the blood spatter on her neck, collapses to the floor beside the red plastic sheet and lies motionless. Arthur steps past her body and walks to the stained darkroom workbench. He ignores Clara and begins examining the developing photographs."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Spartan Bedroom: A simply furnished bedroom with white walls, a mirror, and a small cabinet.\nthe striped monokini: One-piece monokini swimsuit patterned with multi-colored stripes.\nthe wood-framed mirror: Rectangular mirror with a simple, thin wooden border.\nthe small wooden cabinet: Small, simple wooden cabinet with a light-colored natural finish, a flat rectangular top, a single small drawer over a single cabinet door, and a round wooden knob on each.\n\nClara enters the room. She closes the door behind her, stands before the wood-framed mirror over the small wooden cabinet, and pulls down the top of her blouse."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Clara enters the room. She closes the door behind her, stands before the wood-framed mirror over the small wooden cabinet, and pulls down the top of her blouse."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Study Hallway: A hallway with an adjoining room containing a desk.\nthe blood-stained desk: A standard wooden desk with a light-colored finish, its surface marked by numerous splatters, drips, and smears of dark red blood.\n\nIn the hallway of The Study Hallway, Clara walks forward, holding the simple utility knife, wearing a light-colored blouse and an orange skirt. In the adjoining room behind her, the blood-stained desk is covered in the blood spatter. A red plastic sheet lies crumpled on the floor nearby.",
+        "In The Study Hallway, Clara falls to the floor and writhes in distress. A figure completely obscured by the red plastic sheet walks past, stepping over her and the white cotton briefs. Clara struggles onto her hands and knees, pushes herself to her feet, and stumbles away."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In the hallway of The Study Hallway, Clara walks forward, holding the simple utility knife, wearing a light-colored blouse and an orange skirt. In the adjoining room behind her, the blood-stained desk is covered in the blood spatter. A red plastic sheet lies crumpled on the floor nearby.",
+        "In The Study Hallway, Clara falls to the floor and writhes in distress. A figure completely obscured by the red plastic sheet walks past, stepping over her and the white cotton briefs. Clara struggles onto her hands and knees, pushes herself to her feet, and stumbles away."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Void Space: A nondescript space featuring a wall of unspecified material and color.\n\nClose-up of Clara in the dimly lit The Void Space. She peeks from behind a wall, her expression shifting to abject terror as her eyes widen and her mouth falls open in shock."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Clara in the dimly lit The Void Space. She peeks from behind a wall, her expression shifting to abject terror as her eyes widen and her mouth falls open in shock."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "High-angle shot in The Yellow Darkroom. Clara lies dead on the floor, wearing a light-colored blouse and an orange skirt. Fresh splatters of the blood spatter cover a wound on her neck. The developing photographs are scattered on the floor next to her body. The single bare bulb hanging from the ceiling sways gently, causing the light and shadows to shift across the scene."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle shot in The Yellow Darkroom. Clara lies dead on the floor, wearing a light-colored blouse and an orange skirt. Fresh splatters of the blood spatter cover a wound on her neck. The developing photographs are scattered on the floor next to her body. The single bare bulb hanging from the ceiling sways gently, causing the light and shadows to shift across the scene."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Close-up on Clara's face, her features contorted in terror as she screams. She peeks out from behind the edge of a wall in the dimly lit The Void Space."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Clara's face, her features contorted in terror as she screams. She peeks out from behind the edge of a wall in the dimly lit The Void Space."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Crimson Bedroom: A bedroom with a red and white color scheme, containing a bed and a hook on the wall with a set of clothes on it.\nthe bed with red pillows: A bed with a white duvet, white sheets, and bright red decorative pillows.\nthe set of men's clothes: A set of men's clothing, consisting of a shirt and a pair of trousers.\n\nIn The Crimson Bedroom, Silas wakes up startled in the bed with red pillows. He gets out of bed and rushes across the bedroom to grab the shirt from the set of men's clothes hanging on a hook on the wall."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Crimson Bedroom, Silas wakes up startled in the bed with red pillows. He gets out of bed and rushes across the bedroom to grab the shirt from the set of men's clothes hanging on a hook on the wall."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "The Residence Hall: A residence hallway with white walls, a red carpet runner, several closed doors, decorative wall sconces, red curtains, and a large potted plant.\nthe potted palm plant: Large potted plant with lush, dark green palm fronds, housed in a simple, cylindrical, dark gray ceramic pot.\nthe antique brass sconce: Antique brass wall sconce with a circular decorative mounting plate, a simple curved arm, and an upward-facing, frosted white glass, bell-shaped shade.\nStatic, eye-level shot looking down the length of The Residence Hall, with the antique brass sconce visible. Clara, wearing a light-colored blouse and an orange skirt, walks slowly from the far end of the hall toward the camera, her bare feet on the red carpet runner. The hallway is illuminated by the glow of the antique brass wall sconces, and the potted palm plant stands in the background.",
+        "Julian: Man wearing a colorful patterned robe.\n\nIn The Residence Hall, Arthur bursts out of a room on the left, speaking with an urgent expression. Julian, wearing the colorful patterned robe, follows close behind him as they move down the red carpet runner.",
+        "In the hallway of The Residence Hall, Arthur grips the arm of a frightened Clara in a doorway. Julian, wearing the colorful patterned robe, storms out of another room, looking furious. Julian stops and angrily confronts Arthur and Clara in the doorway."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Static, eye-level shot looking down the length of The Residence Hall, with the antique brass sconce visible. Clara, wearing a light-colored blouse and an orange skirt, walks slowly from the far end of the hall toward the camera, her bare feet on the red carpet runner. The hallway is illuminated by the glow of the antique brass wall sconces, and the potted palm plant stands in the background.",
+        "In The Residence Hall, Arthur bursts out of a room on the left, speaking with an urgent expression. Julian, wearing the colorful patterned robe, follows close behind him as they move down the red carpet runner.",
+        "In the hallway of The Residence Hall, Arthur grips the arm of a frightened Clara in a doorway. Julian, wearing the colorful patterned robe, storms out of another room, looking furious. Julian stops and angrily confronts Arthur and Clara in the doorway."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "The Regent Hotel Lobby: Interior of a hotel lobby featuring a reception desk and a flight of stairs.\nthe grand staircase: Wide, grand staircase with polished dark wood steps, a plush crimson carpet runner down the center, and an ornate dark wood banister with polished brass spindles.\n\nAt night in The Regent Hotel Lobby, Clara, Silas, and Arthur are part of a group of people running down the grand staircase in a panic. They join another small group at the bottom, and together they all look upwards, their expressions shifting to shock and fear.",
+        "the tropical print shirt: Short-sleeved, collared button-up shirt with a vibrant, dense pattern of multi-colored tropical flowers and foliage.\n\nOver-the-shoulder close-up from behind Clara. Silas speaks to Clara with a serious expression. Julian stands nearby, observing the conversation."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "At night in The Regent Hotel Lobby, Clara, Silas, and Arthur are part of a group of people running down the grand staircase in a panic. They join another small group at the bottom, and together they all look upwards, their expressions shifting to shock and fear.",
+        "Over-the-shoulder close-up from behind Clara. Silas speaks to Clara with a serious expression. Julian stands nearby, observing the conversation."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Yellow Darkroom"
+      ],
+      "objects": []
+    },
+    "1:2": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Yellow Darkroom"
+      ],
+      "objects": [
+        "the red plastic sheet",
+        "the simple utility knife",
+        "the gold wedding band"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Clara",
+        "Arthur"
+      ],
+      "places": [
+        "The Yellow Darkroom"
+      ],
+      "objects": [
+        "the blood spatter",
+        "the red plastic sheet",
+        "the developing photographs",
+        "the stained darkroom workbench"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Spartan Bedroom"
+      ],
+      "objects": [
+        "the wood-framed mirror",
+        "the small wooden cabinet"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Study Hallway"
+      ],
+      "objects": [
+        "the blood-stained desk",
+        "the blood spatter",
+        "the simple utility knife",
+        "the red plastic sheet"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Study Hallway"
+      ],
+      "objects": [
+        "the white cotton briefs",
+        "the red plastic sheet"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Void Space"
+      ],
+      "objects": []
+    },
+    "5:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Yellow Darkroom"
+      ],
+      "objects": [
+        "the blood spatter",
+        "the developing photographs"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Void Space"
+      ],
+      "objects": []
+    },
+    "7:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Crimson Bedroom"
+      ],
+      "objects": [
+        "the bed with red pillows",
+        "the set of men's clothes"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Residence Hall"
+      ],
+      "objects": [
+        "the red carpet runner",
+        "the potted palm plant",
+        "the antique brass sconce"
+      ]
+    },
+    "8:2": {
+      "characters": [
+        "Julian",
+        "Arthur"
+      ],
+      "places": [
+        "The Residence Hall"
+      ],
+      "objects": [
+        "the red carpet runner",
+        "the colorful patterned robe"
+      ]
+    },
+    "8:3": {
+      "characters": [
+        "Clara",
+        "Julian",
+        "Arthur"
+      ],
+      "places": [
+        "The Residence Hall"
+      ],
+      "objects": [
+        "the colorful patterned robe"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Clara",
+        "Silas",
+        "Arthur"
+      ],
+      "places": [
+        "The Regent Hotel Lobby"
+      ],
+      "objects": [
+        "the grand staircase"
+      ]
+    },
+    "9:2": {
+      "characters": [
+        "Clara",
+        "Julian",
+        "Silas"
+      ],
+      "places": [],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Clara",
+      "label": "Character 1",
+      "description": "Woman with curly reddish-brown hair wearing a light-colored blouse and an orange skirt."
+    },
+    "Character 2": {
+      "name": "Silas",
+      "label": "Character 2",
+      "description": "Shirtless, bald man with a white beard and dark pants."
+    },
+    "Character 3": {
+      "name": "Arthur",
+      "label": "Character 3",
+      "description": "Man with grey hair wearing a brown patterned dressing gown over a light blue collared shirt."
+    },
+    "Character 4": {
+      "name": "Julian",
+      "label": "Character 4",
+      "description": "Man wearing a colorful patterned robe."
+    },
+    "Location 1": {
+      "name": "The Yellow Darkroom",
+      "label": "Location 1",
+      "description": "A bathroom/darkroom with yellow tiled walls, a single hanging bare bulb fixture, and photographic materials hanging to dry."
+    },
+    "Location 2": {
+      "name": "The Spartan Bedroom",
+      "label": "Location 2",
+      "description": "A simply furnished bedroom with white walls, a mirror, and a small cabinet."
+    },
+    "Location 3": {
+      "name": "The Study Hallway",
+      "label": "Location 3",
+      "description": "A hallway with an adjoining room containing a desk."
+    },
+    "Location 4": {
+      "name": "The Void Space",
+      "label": "Location 4",
+      "description": "A nondescript space featuring a wall of unspecified material and color."
+    },
+    "Location 5": {
+      "name": "The Crimson Bedroom",
+      "label": "Location 5",
+      "description": "A bedroom with a red and white color scheme, containing a bed and a hook on the wall with a set of clothes on it."
+    },
+    "Location 6": {
+      "name": "The Residence Hall",
+      "label": "Location 6",
+      "description": "A residence hallway with white walls, a red carpet runner, several closed doors, decorative wall sconces, red curtains, and a large potted plant."
+    },
+    "Location 7": {
+      "name": "The Regent Hotel Lobby",
+      "label": "Location 7",
+      "description": "Interior of a hotel lobby featuring a reception desk and a flight of stairs."
+    },
+    "Object 1": {
+      "name": "the black lingerie slip",
+      "label": "Object 1",
+      "description": "Dark black lingerie slip"
+    },
+    "Object 2": {
+      "name": "the developing photographs",
+      "label": "Object 2",
+      "description": "A series of damp, glossy, black-and-white photographic prints suspended by small clips."
+    },
+    "Object 3": {
+      "name": "the red plastic sheet",
+      "label": "Object 3",
+      "description": "A large, shapeless covering made from a sheet of red plastic"
+    },
+    "Object 4": {
+      "name": "the simple utility knife",
+      "label": "Object 4",
+      "description": "Simple knife with a metallic blade and a plain handle"
+    },
+    "Object 5": {
+      "name": "the blood spatter",
+      "label": "Object 5",
+      "description": "Fresh, wet, red liquid blood in a pattern of small droplets and splatters"
+    },
+    "Object 6": {
+      "name": "the gold wedding band",
+      "label": "Object 6",
+      "description": "A ring"
+    },
+    "Object 7": {
+      "name": "the stained darkroom workbench",
+      "label": "Object 7",
+      "description": "Long, rectangular darkroom workbench with a dark, waterproof laminate surface showing chemical stains and wear."
+    },
+    "Object 8": {
+      "name": "the striped monokini",
+      "label": "Object 8",
+      "description": "One-piece monokini swimsuit patterned with multi-colored stripes"
+    },
+    "Object 9": {
+      "name": "the wood-framed mirror",
+      "label": "Object 9",
+      "description": "Rectangular mirror with a simple, thin wooden border."
+    },
+    "Object 10": {
+      "name": "the small wooden cabinet",
+      "label": "Object 10",
+      "description": "Small, simple wooden cabinet with a light-colored natural finish, a flat rectangular top, a single small drawer over a single cabinet door, and a round wooden knob on each."
+    },
+    "Object 11": {
+      "name": "the white cotton briefs",
+      "label": "Object 11",
+      "description": "Plain white women's underwear briefs"
+    },
+    "Object 12": {
+      "name": "the blood-stained desk",
+      "label": "Object 12",
+      "description": "A standard wooden desk with a light-colored finish, its surface marked by numerous splatters, drips, and smears of dark red blood."
+    },
+    "Object 13": {
+      "name": "the set of men's clothes",
+      "label": "Object 13",
+      "description": "A set of men's clothing, consisting of a shirt and a pair of trousers."
+    },
+    "Object 14": {
+      "name": "the bed with red pillows",
+      "label": "Object 14",
+      "description": "A bed with a white duvet, white sheets, and bright red decorative pillows."
+    },
+    "Object 15": {
+      "name": "the red carpet runner",
+      "label": "Object 15",
+      "description": "Long, narrow, solid red carpet runner"
+    },
+    "Object 16": {
+      "name": "the potted palm plant",
+      "label": "Object 16",
+      "description": "Large potted plant with lush, dark green palm fronds, housed in a simple, cylindrical, dark gray ceramic pot."
+    },
+    "Object 17": {
+      "name": "the antique brass sconce",
+      "label": "Object 17",
+      "description": "Antique brass wall sconce with a circular decorative mounting plate, a simple curved arm, and an upward-facing, frosted white glass, bell-shaped shade."
+    },
+    "Object 18": {
+      "name": "the colorful patterned robe",
+      "label": "Object 18",
+      "description": "A robe featuring a vibrant, multi-colored pattern"
+    },
+    "Object 19": {
+      "name": "the grand staircase",
+      "label": "Object 19",
+      "description": "Wide, grand staircase with polished dark wood steps, a plush crimson carpet runner down the center, and an ornate dark wood banister with polished brass spindles."
+    },
+    "Object 20": {
+      "name": "the tropical print shirt",
+      "label": "Object 20",
+      "description": "Short-sleeved, collared button-up shirt with a vibrant, dense pattern of multi-colored tropical flowers and foliage"
+    }
+  },
+  "_window_shot_ids": [
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0005",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0006",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0008",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0009",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0010",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0011",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0012",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0013",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0014",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0015",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0016",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0017",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0018",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0019",
+    "00031e93-cf1a-30ed-97d1-fed61261cb9f__run354__i90_j105__T180__shot0020"
+  ],
+  "_num_scenes": 9,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Clara",
+    "Character 2": "Silas",
+    "Character 3": "Arthur",
+    "Character 4": "Julian",
+    "Location 1": "The Yellow Darkroom",
+    "Location 2": "The Spartan Bedroom",
+    "Location 3": "The Study Hallway",
+    "Location 4": "The Void Space",
+    "Location 5": "The Crimson Bedroom",
+    "Location 6": "The Residence Hall",
+    "Location 7": "The Regent Hotel Lobby",
+    "Object 1": "the black lingerie slip",
+    "Object 10": "the small wooden cabinet",
+    "Object 11": "the white cotton briefs",
+    "Object 12": "the blood-stained desk",
+    "Object 13": "the set of men's clothes",
+    "Object 14": "the bed with red pillows",
+    "Object 15": "the red carpet runner",
+    "Object 16": "the potted palm plant",
+    "Object 17": "the antique brass sconce",
+    "Object 18": "the colorful patterned robe",
+    "Object 19": "the grand staircase",
+    "Object 2": "the developing photographs",
+    "Object 20": "the tropical print shirt",
+    "Object 3": "the red plastic sheet",
+    "Object 4": "the simple utility knife",
+    "Object 5": "the blood spatter",
+    "Object 6": "the gold wedding band",
+    "Object 7": "the stained darkroom workbench",
+    "Object 8": "the striped monokini",
+    "Object 9": "the wood-framed mirror"
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "story_name": "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240",
+  "story_overview": "Held captive in a concrete facility, the monstrous Morag is at the center of a dark drama. A series of intense encounters unfolds between Zara, Silas, Viktor, and Morgan, marked by intimacy, terror, and a mysterious, glitchy green light that haunts them.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Morag: Monstrous humanoid woman with a muscular build and dark, shaggy hair.\nThe Concrete Chamber: Utilitarian industrial facility interior with bare concrete surfaces and unadorned metal fixtures.\nthe large containment cage: Large, black metal containment cage constructed of metal bars.\n\nInside The Concrete Chamber, the monstrous Morag grips the bars of the large containment cage with both hands, rattling them as she stares forward menacingly.",
+        "Zara: Woman with dark curly hair with light streaks.\nSilas: Young man with sharp features and intense eyes, often wearing dark fingerless gloves.\n\nClose-up on the sad face of Zara as a single tear rolls down her cheek. She tightly clasps the gloved hand of Silas at the edge of the frame.",
+        "The Void: An abstract and ambiguous dark space with no discernible features, architecture, or boundaries.\n\nExtreme close-up on the neutral faces of Silas and Zara in The Void. He looks off-camera to the right as a hazy, bright white light flares across the shot, partially obscuring him."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Concrete Chamber, the monstrous Morag grips the bars of the large containment cage with both hands, rattling them as she stares forward menacingly.",
+        "Close-up on the sad face of Zara as a single tear rolls down her cheek. She tightly clasps the gloved hand of Silas at the edge of the frame.",
+        "Extreme close-up on the neutral faces of Silas and Zara in The Void. He looks off-camera to the right as a hazy, bright white light flares across the shot, partially obscuring him."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Morgan: Man with short blond hair and a lean build.\nThe Blue Corridor: A dark, moody corridor with a pervasive blue color cast on all surfaces.\nAnja: Woman with dark hair, wearing a large grey and white fur-collared coat\n\nClose shot of Morgan and Silas in The Blue Corridor. They are shirtless and stand face-to-face, leaning in to kiss until their lips are almost touching."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close shot of Morgan and Silas in The Blue Corridor. They are shirtless and stand face-to-face, leaning in to kiss until their lips are almost touching."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Sasha: Woman with long, light-colored hair, wearing a tight black suit.\nViktor: Man with long dark hair, wearing a dark tactical vest.\nThe Open Expanse: A vast, desolate, and flat landscape at night under a starless, black sky. The profound darkness obscures almost all detail, creating silhouettes of any figures present.\n\nExtreme close-up of Viktor and Sasha kissing intimately in The Open Expanse. Their figures are in near-silhouette against the darkness, with only the faint outlines of their faces visible as they embrace.",
+        "From a low angle, an extreme close-up on the out-of-focus face of Silas, lying down in The Void, his eyes fluttering weakly. Shaky camera motion creates a disorienting and intense atmosphere."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Extreme close-up of Viktor and Sasha kissing intimately in The Open Expanse. Their figures are in near-silhouette against the darkness, with only the faint outlines of their faces visible as they embrace.",
+        "From a low angle, an extreme close-up on the out-of-focus face of Silas, lying down in The Void, his eyes fluttering weakly. Shaky camera motion creates a disorienting and intense atmosphere."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "the tattered, blood-stained gown: Tattered, blood-stained white gown.\n\nExtreme close-up on the terrified, wide-eyed face of Silas. He's in The Blue Corridor, illuminated by a green flickering light. His gaze drops down to the tattered, blood-stained gown lying on the floor in front of him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up on the terrified, wide-eyed face of Silas. He's in The Blue Corridor, illuminated by a green flickering light. His gaze drops down to the tattered, blood-stained gown lying on the floor in front of him."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "In an extreme close-up within The Void, Silas's face fills the frame, his eyes wide with terror as the green flickering light flashes across his features, creating a glitch-like distortion."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In an extreme close-up within The Void, Silas's face fills the frame, his eyes wide with terror as the green flickering light flashes across his features, creating a glitch-like distortion."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Blurry close-up of Morag sitting inside The Car Interior at night. The car is dimly lit, casting deep shadows across her face as she stares forward, her expression hardening.",
+        "Caleb: Man with a shaved head and a stern expression.\n\nIn The Void, a heavily blurred and distorted close-up on Caleb's head and shoulders renders him as a ghostly, blue-tinted image. His head drifts slowly, almost imperceptibly, his stern expression unwavering, creating a dreamlike and disorienting effect."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Blurry close-up of Morag sitting inside The Car Interior at night. The car is dimly lit, casting deep shadows across her face as she stares forward, her expression hardening.",
+        "In The Void, a heavily blurred and distorted close-up on Caleb's head and shoulders renders him as a ghostly, blue-tinted image. His head drifts slowly, almost imperceptibly, his stern expression unwavering, creating a dreamlike and disorienting effect."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Extreme close-up in The Blue Corridor. Zara's hand, emerging from a light-colored sleeve with a distinct bloody mark on its back, reaches out. Silas's hand slowly emerges from deep shadows, reaching toward hers."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up in The Blue Corridor. Zara's hand, emerging from a light-colored sleeve with a distinct bloody mark on its back, reaches out. Silas's hand slowly emerges from deep shadows, reaching toward hers."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Low-angle shot from inside the large containment cage within The Concrete Chamber, looking past the back of Morag towards Zara, who kneels on the floor and looks up. Through the thick bars, Viktor stands outside as a dark silhouette, slowly turning his head."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle shot from inside the large containment cage within The Concrete Chamber, looking past the back of Morag towards Zara, who kneels on the floor and looks up. Through the thick bars, Viktor stands outside as a dark silhouette, slowly turning his head."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Morag"
+      ],
+      "places": [
+        "The Concrete Chamber"
+      ],
+      "objects": [
+        "the large containment cage"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Zara",
+        "Silas"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "1:3": {
+      "characters": [
+        "Zara",
+        "Silas"
+      ],
+      "places": [
+        "The Void"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Morgan",
+        "Silas"
+      ],
+      "places": [
+        "The Blue Corridor"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Viktor",
+        "Sasha"
+      ],
+      "places": [
+        "The Open Expanse"
+      ],
+      "objects": []
+    },
+    "3:2": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Void"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Blue Corridor"
+      ],
+      "objects": [
+        "the tattered, blood-stained gown",
+        "the green flickering light"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Void"
+      ],
+      "objects": [
+        "the green flickering light"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Morag"
+      ],
+      "places": [
+        "The Car Interior"
+      ],
+      "objects": []
+    },
+    "6:2": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Void"
+      ],
+      "objects": []
+    },
+    "7:1": {
+      "characters": [
+        "Zara",
+        "Silas"
+      ],
+      "places": [
+        "The Blue Corridor"
+      ],
+      "objects": []
+    },
+    "8:1": {
+      "characters": [
+        "Zara",
+        "Morag",
+        "Viktor"
+      ],
+      "places": [
+        "The Concrete Chamber"
+      ],
+      "objects": [
+        "the large containment cage"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Sasha",
+      "label": "Character 1",
+      "description": "Woman with long, light-colored hair, wearing a tight black suit."
+    },
+    "Character 2": {
+      "name": "Zara",
+      "label": "Character 2",
+      "description": "Woman with dark curly hair with light streaks."
+    },
+    "Character 3": {
+      "name": "Anja",
+      "label": "Character 3",
+      "description": "Woman with dark hair, wearing a large grey and white fur-collared coat"
+    },
+    "Character 4": {
+      "name": "Morgan",
+      "label": "Character 4",
+      "description": "Man with short blond hair and a lean build."
+    },
+    "Character 5": {
+      "name": "Viktor",
+      "label": "Character 5",
+      "description": "Man with long dark hair, wearing a dark tactical vest."
+    },
+    "Character 6": {
+      "name": "Caleb",
+      "label": "Character 6",
+      "description": "Man with a shaved head and a stern expression."
+    },
+    "Character 7": {
+      "name": "Morag",
+      "label": "Character 7",
+      "description": "Monstrous humanoid woman with a muscular build and dark, shaggy hair."
+    },
+    "Character 8": {
+      "name": "Silas",
+      "label": "Character 8",
+      "description": "Young man with sharp features and intense eyes, often wearing dark fingerless gloves."
+    },
+    "Location 1": {
+      "name": "The Concrete Chamber",
+      "label": "Location 1",
+      "description": "Utilitarian industrial facility interior with bare concrete surfaces and unadorned metal fixtures."
+    },
+    "Location 3": {
+      "name": "The Void",
+      "label": "Location 3",
+      "description": "An abstract and ambiguous dark space with no discernible features, architecture, or boundaries."
+    },
+    "Location 4": {
+      "name": "The Blue Corridor",
+      "label": "Location 4",
+      "description": "A dark, moody corridor with a pervasive blue color cast on all surfaces."
+    },
+    "Location 5": {
+      "name": "The Open Expanse",
+      "label": "Location 5",
+      "description": "A vast, desolate, and flat landscape at night under a starless, black sky. The profound darkness obscures almost all detail, creating silhouettes of any figures present."
+    },
+    "Location 6": {
+      "name": "The Car Interior",
+      "label": "Location 6",
+      "description": "Interior of a car"
+    },
+    "Object 1": {
+      "name": "the large containment cage",
+      "label": "Object 1",
+      "description": "Large, black metal containment cage constructed of metal bars."
+    },
+    "Object 2": {
+      "name": "the green flickering light",
+      "label": "Object 2",
+      "description": "An intense, flashing and flickering greenish illumination"
+    },
+    "Object 3": {
+      "name": "the tattered, blood-stained gown",
+      "label": "Object 3",
+      "description": "Tattered, blood-stained white gown."
+    }
+  },
+  "_window_shot_ids": [
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0033",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0034",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0036",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0037",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0038",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0039",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0041",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0042",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0043",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0045",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0046",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i55_j74__T240__shot0048"
+  ],
+  "_num_scenes": 8,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Sasha",
+    "Character 2": "Zara",
+    "Character 3": "Anja",
+    "Character 4": "Morgan",
+    "Character 5": "Viktor",
+    "Character 6": "Caleb",
+    "Character 7": "Morag",
+    "Character 8": "Silas",
+    "Location 1": "The Concrete Chamber",
+    "Location 2": "The Holding Cell",
+    "Location 3": "The Void",
+    "Location 4": "The Blue Corridor",
+    "Location 5": "The Open Expanse",
+    "Location 6": "The Car Interior",
+    "Object 1": "the large containment cage",
+    "Object 2": "the green flickering light",
+    "Object 3": "the tattered, blood-stained gown",
+    "Object 4": "the car interior",
+    "Object 5": "the heavy-barred cage"
+  }
+}

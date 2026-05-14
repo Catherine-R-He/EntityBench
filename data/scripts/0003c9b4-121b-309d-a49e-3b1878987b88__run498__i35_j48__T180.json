@@ -1,0 +1,376 @@
+{
+  "story_name": "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180",
+  "story_overview": "In a doctor's office, Gabriela reacts with shock during a tense conversation with Marcus and Evan. The story then moves to a busy hospital hallway, where Dr. Chloe manages a situation involving a patient, Riley, while navigating intense interactions with her colleagues.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Evan: Male doctor wearing a white coat over blue scrubs with a stethoscope worn around his neck.\nMarcus: Bald man wearing a black leather jacket.\nGabriela: Woman with dark, curly hair, wearing a white blazer over a dark top.\nAll Saints Doctor's Office: A cluttered doctor's office interior at All Saints Hospital, containing an office desk, a coat rack, and a doorway.\nthe cluttered side desk: Wooden office desk with a cluttered surface covered with disorganized stacks of papers, files, medical books, and various office supplies.\nthe packed medical bookshelf: Large, dark wood, multi-shelved office bookshelf densely packed with thick, hardcover medical textbooks with multicolored spines.\nthe stack of medical textbooks: A collection of hardcover medical textbooks, with one book featuring 'Mayo Clinic' on its spine.\n\nOver-the-shoulder shot in All Saints Doctor's Office, focusing on Gabriela. She sits at the cluttered side desk and looks up with an expression of wide-eyed shock. In the foreground, Marcus raises his hand in a stopping gesture, while Evan stands beside him, looking on with concern. In the background, medical textbooks, including the stack of medical textbooks, fill the packed medical bookshelf."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot in All Saints Doctor's Office, focusing on Gabriela. She sits at the cluttered side desk and looks up with an expression of wide-eyed shock. In the foreground, Marcus raises his hand in a stopping gesture, while Evan stands beside him, looking on with concern. In the background, medical textbooks, including the stack of medical textbooks, fill the packed medical bookshelf."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "the cluttered wooden desk: Large, dark wood office desk with a cluttered surface covered in scattered patient files in manila folders, stacks of medical journals, loose papers, prescription pads, a desktop computer monitor, a keyboard, and a green banker's lamp.\nthe solid red necktie: Solid red necktie made of a smooth fabric with a slight sheen.\nthe black stethoscope: Standard medical stethoscope with flexible black rubber tubing, polished stainless steel binaurals, and a dual-head chestpiece.\nthe hospital office phone: Modern black plastic office phone with a base, a keypad, a handset, and a small digital display screen that reads 'all saints hospital'.\n\nIn `All Saints Doctor's Office`, `Evan` sits at `the cluttered wooden desk`, wearing `the white lab coat` over blue medical scrubs with `the black stethoscope` around his neck. He speaks with animated enthusiasm, gesturing widely with his hands as the screen of `the hospital office phone` on the desk glows with the text 'ALL SAINTS HOSPITAL'.",
+        "Over-the-shoulder shot in All Saints Doctor's Office, filmed from behind another person. Evan sits at the cluttered wooden desk, looking up from his desk and speaking directly forward."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In `All Saints Doctor's Office`, `Evan` sits at `the cluttered wooden desk`, wearing `the white lab coat` over blue medical scrubs with `the black stethoscope` around his neck. He speaks with animated enthusiasm, gesturing widely with his hands as the screen of `the hospital office phone` on the desk glows with the text 'ALL SAINTS HOSPITAL'.",
+        "Over-the-shoulder shot in All Saints Doctor's Office, filmed from behind another person. Evan sits at the cluttered wooden desk, looking up from his desk and speaking directly forward."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Over-the-shoulder shot from the perspective of the seated Marcus, looking across the laminate office desk at Evan. Evan stands up from his chair."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot from the perspective of the seated Marcus, looking across the laminate office desk at Evan. Evan stands up from his chair."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Chloe: Woman with short blonde hair, wearing blue scrubs and a stethoscope worn around her neck.\nAlex: Person wearing a white coat over a dark blue short-sleeved shirt, possibly scrubs.\nAll Saints Hospital Hallway: Sterile indoor hospital hallway with polished linoleum floors, pale-colored walls, a wall-mounted handrail, an alcove, directional signage, and a patient gurney.\nthe stack of hospital blankets: A stack of neatly folded, white cotton-blend hospital blankets, each with a thin blue horizontal stripe near the edge.\n\nInside the busy All Saints Hospital Hallway, Chloe walks towards the camera. In the background, Alex stands next to the hospital gurney with the stack of hospital blankets on it, looking down the hallway.",
+        "the blue scrubs uniform: Blue medical scrubs uniform consisting of a loose-fitting, short-sleeved V-neck top and matching drawstring pants.\nthe patient medical charts: Several loose, rectangular sheets of standard white paper with black printed text and lines, appearing to be medical forms or patient charts.\nIn the busy All Saints Hospital Hallway, Chloe walks forward, carrying the stack of hospital blankets and the patient medical charts, with the blue scrubs uniform visible. A man wearing the grey men's suit walks past her in the opposite direction. In the background, Evan pushes the hospital gurney down the hall.",
+        "the striped navy necktie: Navy blue silk necktie with a subtle, repeating diagonal silver stripe pattern.\n\nIn All Saints Hospital Hallway, Evan, wearing the striped navy necktie, speaks earnestly to Chloe, who stands with her back to the camera, listening and nodding slightly. In the background, Alex, wearing a white coat over a dark blue shirt, pushes the hospital gurney down the hallway.",
+        "Riley: Woman wearing a blue beanie, a plaid shirt over a grey hoodie, and a red shirt underneath.\n\nIn All Saints Hospital Hallway, Chloe stands holding the stack of hospital blankets and the patient medical charts, speaking with a concerned expression. In the background, Riley lies on the hospital gurney, watching Chloe. The small religious statue sits in an alcove in the wall.",
+        "In the bustling All Saints Hospital Hallway, Marcus speaks with an exasperated expression to Chloe, gesturing emphatically with his hands open. Chloe has her back to the camera, listening and shifting her weight. Riley stands beside Marcus, glancing between the two of them. Nearby, Evan watches the exchange and slowly shakes his head. The hospital gurney sits empty in the background.",
+        "In All Saints Hospital Hallway, Chloe stands with a concerned expression, holding the patient medical charts while speaking to someone just off-screen. Gabriela stands beside her, nodding as she listens. In the background, Marcus walks down the hallway, passing by the hospital gurney, upon which rests the stack of hospital blankets and the small religious statue."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Inside the busy All Saints Hospital Hallway, Chloe walks towards the camera. In the background, Alex stands next to the hospital gurney with the stack of hospital blankets on it, looking down the hallway.",
+        "In the busy All Saints Hospital Hallway, Chloe walks forward, carrying the stack of hospital blankets and the patient medical charts, with the blue scrubs uniform visible. A man wearing the grey men's suit walks past her in the opposite direction. In the background, Evan pushes the hospital gurney down the hall.",
+        "In All Saints Hospital Hallway, Evan, wearing the striped navy necktie, speaks earnestly to Chloe, who stands with her back to the camera, listening and nodding slightly. In the background, Alex, wearing a white coat over a dark blue shirt, pushes the hospital gurney down the hallway.",
+        "In All Saints Hospital Hallway, Chloe stands holding the stack of hospital blankets and the patient medical charts, speaking with a concerned expression. In the background, Riley lies on the hospital gurney, watching Chloe. The small religious statue sits in an alcove in the wall.",
+        "In the bustling All Saints Hospital Hallway, Marcus speaks with an exasperated expression to Chloe, gesturing emphatically with his hands open. Chloe has her back to the camera, listening and shifting her weight. Riley stands beside Marcus, glancing between the two of them. Nearby, Evan watches the exchange and slowly shakes his head. The hospital gurney sits empty in the background.",
+        "In All Saints Hospital Hallway, Chloe stands with a concerned expression, holding the patient medical charts while speaking to someone just off-screen. Gabriela stands beside her, nodding as she listens. In the background, Marcus walks down the hallway, passing by the hospital gurney, upon which rests the stack of hospital blankets and the small religious statue."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Evan",
+        "Marcus",
+        "Gabriela"
+      ],
+      "places": [
+        "All Saints Doctor's Office"
+      ],
+      "objects": [
+        "the cluttered side desk",
+        "the packed medical bookshelf",
+        "the stack of medical textbooks"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Evan"
+      ],
+      "places": [
+        "All Saints Doctor's Office"
+      ],
+      "objects": [
+        "the cluttered wooden desk",
+        "the white lab coat",
+        "the black stethoscope",
+        "the hospital office phone"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Evan"
+      ],
+      "places": [
+        "All Saints Doctor's Office"
+      ],
+      "objects": [
+        "the cluttered wooden desk"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Evan",
+        "Marcus"
+      ],
+      "places": [
+        "All Saints Doctor's Office"
+      ],
+      "objects": [
+        "the laminate office desk"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Chloe",
+        "Alex"
+      ],
+      "places": [
+        "All Saints Hospital Hallway"
+      ],
+      "objects": [
+        "the stack of hospital blankets",
+        "the hospital gurney"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Evan",
+        "Chloe"
+      ],
+      "places": [
+        "All Saints Hospital Hallway"
+      ],
+      "objects": [
+        "the blue scrubs uniform",
+        "the stack of hospital blankets",
+        "the patient medical charts",
+        "the grey men's suit",
+        "the hospital gurney"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Evan",
+        "Chloe",
+        "Alex"
+      ],
+      "places": [
+        "All Saints Hospital Hallway"
+      ],
+      "objects": [
+        "the striped navy necktie",
+        "the hospital gurney"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Chloe",
+        "Riley"
+      ],
+      "places": [
+        "All Saints Hospital Hallway"
+      ],
+      "objects": [
+        "the patient medical charts",
+        "the stack of hospital blankets",
+        "the hospital gurney",
+        "the small religious statue"
+      ]
+    },
+    "4:5": {
+      "characters": [
+        "Evan",
+        "Chloe",
+        "Riley",
+        "Marcus"
+      ],
+      "places": [
+        "All Saints Hospital Hallway"
+      ],
+      "objects": [
+        "the hospital gurney"
+      ]
+    },
+    "4:6": {
+      "characters": [
+        "Chloe",
+        "Marcus",
+        "Gabriela"
+      ],
+      "places": [
+        "All Saints Hospital Hallway"
+      ],
+      "objects": [
+        "the patient medical charts",
+        "the stack of hospital blankets",
+        "the small religious statue",
+        "the hospital gurney"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Chloe",
+      "label": "Character 1",
+      "description": "Woman with short blonde hair, wearing blue scrubs and a stethoscope worn around her neck."
+    },
+    "Character 2": {
+      "name": "Marcus",
+      "label": "Character 2",
+      "description": "Bald man wearing a black leather jacket."
+    },
+    "Character 3": {
+      "name": "Riley",
+      "label": "Character 3",
+      "description": "Woman wearing a blue beanie, a plaid shirt over a grey hoodie, and a red shirt underneath."
+    },
+    "Character 4": {
+      "name": "Evan",
+      "label": "Character 4",
+      "description": "Male doctor wearing a white coat over blue scrubs with a stethoscope worn around his neck."
+    },
+    "Character 5": {
+      "name": "Gabriela",
+      "label": "Character 5",
+      "description": "Woman with dark, curly hair, wearing a white blazer over a dark top."
+    },
+    "Character 6": {
+      "name": "Alex",
+      "label": "Character 6",
+      "description": "Person wearing a white coat over a dark blue short-sleeved shirt, possibly scrubs."
+    },
+    "Location 1": {
+      "name": "All Saints Doctor's Office",
+      "label": "Location 1",
+      "description": "A cluttered doctor's office interior at All Saints Hospital, containing an office desk, a coat rack, and a doorway."
+    },
+    "Location 2": {
+      "name": "All Saints Hospital Hallway",
+      "label": "Location 2",
+      "description": "Sterile indoor hospital hallway with polished linoleum floors, pale-colored walls, a wall-mounted handrail, an alcove, directional signage, and a patient gurney."
+    },
+    "Object 1": {
+      "name": "the white lab coat",
+      "label": "Object 1",
+      "description": "Knee-length, stark white cotton doctor's lab coat with a notched lapel, a button-front closure, a single patch pocket on the chest, and two larger patch pockets at the hips"
+    },
+    "Object 2": {
+      "name": "the cluttered wooden desk",
+      "label": "Object 2",
+      "description": "Large, dark wood office desk with a cluttered surface covered in scattered patient files in manila folders, stacks of medical journals, loose papers, prescription pads, a desktop computer monitor, a keyboard, and a green banker's lamp."
+    },
+    "Object 3": {
+      "name": "the hospital office phone",
+      "label": "Object 3",
+      "description": "Modern black plastic office phone with a base, a keypad, a handset, and a small digital display screen that reads 'all saints hospital'."
+    },
+    "Object 4": {
+      "name": "the black stethoscope",
+      "label": "Object 4",
+      "description": "Standard medical stethoscope with flexible black rubber tubing, polished stainless steel binaurals, and a dual-head chestpiece."
+    },
+    "Object 5": {
+      "name": "the stack of medical textbooks",
+      "label": "Object 5",
+      "description": "A collection of hardcover medical textbooks, with one book featuring 'Mayo Clinic' on its spine."
+    },
+    "Object 6": {
+      "name": "the packed medical bookshelf",
+      "label": "Object 6",
+      "description": "Large, dark wood, multi-shelved office bookshelf densely packed with thick, hardcover medical textbooks with multicolored spines."
+    },
+    "Object 7": {
+      "name": "the cluttered side desk",
+      "label": "Object 7",
+      "description": "Wooden office desk with a cluttered surface covered with disorganized stacks of papers, files, medical books, and various office supplies."
+    },
+    "Object 8": {
+      "name": "the solid red necktie",
+      "label": "Object 8",
+      "description": "Solid red necktie made of a smooth fabric with a slight sheen"
+    },
+    "Object 9": {
+      "name": "the laminate office desk",
+      "label": "Object 9",
+      "description": "Institutional-style office desk with a rectangular, light wood-grain laminate surface and a plain gray metal base with legs"
+    },
+    "Object 10": {
+      "name": "the hospital gurney",
+      "label": "Object 10",
+      "description": "Standard hospital gurney with a silver-colored metal structure, a thin dark blue vinyl mattress pad, collapsible metal side rails, and black caster wheels"
+    },
+    "Object 11": {
+      "name": "the stack of hospital blankets",
+      "label": "Object 11",
+      "description": "A stack of neatly folded, white cotton-blend hospital blankets, each with a thin blue horizontal stripe near the edge."
+    },
+    "Object 12": {
+      "name": "the grey men's suit",
+      "label": "Object 12",
+      "description": "A man's suit consisting of a grey jacket and matching grey trousers"
+    },
+    "Object 13": {
+      "name": "the blue scrubs uniform",
+      "label": "Object 13",
+      "description": "Blue medical scrubs uniform consisting of a loose-fitting, short-sleeved V-neck top and matching drawstring pants."
+    },
+    "Object 14": {
+      "name": "the patient medical charts",
+      "label": "Object 14",
+      "description": "Several loose, rectangular sheets of standard white paper with black printed text and lines, appearing to be medical forms or patient charts."
+    },
+    "Object 15": {
+      "name": "the striped navy necktie",
+      "label": "Object 15",
+      "description": "Navy blue silk necktie with a subtle, repeating diagonal silver stripe pattern."
+    },
+    "Object 16": {
+      "name": "the small religious statue",
+      "label": "Object 16",
+      "description": "Religious statue"
+    }
+  },
+  "_window_shot_ids": [
+    "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180__shot0027",
+    "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180__shot0028",
+    "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180__shot0030",
+    "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180__shot0031",
+    "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180__shot0032",
+    "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180__shot0033",
+    "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180__shot0034",
+    "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180__shot0035",
+    "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180__shot0036",
+    "0003c9b4-121b-309d-a49e-3b1878987b88__run498__i35_j48__T180__shot0037"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Chloe",
+    "Character 2": "Marcus",
+    "Character 3": "Riley",
+    "Character 4": "Evan",
+    "Character 5": "Gabriela",
+    "Character 6": "Alex",
+    "Location 1": "All Saints Doctor's Office",
+    "Location 2": "All Saints Hospital Hallway",
+    "Object 1": "the white lab coat",
+    "Object 10": "the hospital gurney",
+    "Object 11": "the stack of hospital blankets",
+    "Object 12": "the grey men's suit",
+    "Object 13": "the blue scrubs uniform",
+    "Object 14": "the patient medical charts",
+    "Object 15": "the striped navy necktie",
+    "Object 16": "the small religious statue",
+    "Object 2": "the cluttered wooden desk",
+    "Object 3": "the hospital office phone",
+    "Object 4": "the black stethoscope",
+    "Object 5": "the stack of medical textbooks",
+    "Object 6": "the packed medical bookshelf",
+    "Object 7": "the cluttered side desk",
+    "Object 8": "the solid red necktie",
+    "Object 9": "the laminate office desk"
+  }
+}

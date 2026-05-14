@@ -1,0 +1,490 @@
+{
+  "story_name": "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180",
+  "story_overview": "Julian, a man with a gaunt face, investigates mysteries originating in his gothic study. His search takes him to a dusty attic where he uncovers strange objects like a dead raven and a skull, aided by the enigmatic Alex. Julian also interacts with Marco, a man with a tattooed hand, over a mysterious painting and a box of old papers.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Julian: Man with a gaunt face, prominent cheekbones, intense dark eyes, and slightly disheveled dark wavy hair, wearing a fitted black waistcoat over a white collared shirt with the top button undone and sleeves rolled to his forearms.\nThe Gothic Study: An ornate study/library with bookshelves, a mantelpiece, an ornate mirror, and ornate, skeletal candle holders containing red candles.\nthe ornate writing desk: Large, ornate writing desk made of dark polished wood, featuring carved legs and drawers with brass pulls.\nthe blank leather-bound book: Thick, large, hardbound book with a plain dark leather cover and blank pages.\nthe black fountain pen: Fountain pen with a glossy black body, a gold-colored clip and band, and a fine gold nib.\nthe green banker's lamp: Classic banker's lamp with a polished brass base and a curved, emerald green glass shade illuminated from within.\nthe skeletal candle holders: Tall, lit red candles in ornate, skeletal holders.\n\nIn the dimly lit The Gothic Study, Julian, wearing the white shirt and black vest, sits at the ornate writing desk. He leans forward under the green glow of the green banker's lamp, writing in the blank leather-bound book with the black fountain pen. After a moment, he pauses and looks thoughtfully down at the page while the skeletal candle holders flicker softly in the foreground.",
+        "Marco: Man with a tattooed hand.\nClose-up on Marco's hand as it slides open a drawer of the ornate writing desk. The hand lifts the photograph of the woman in red out of the drawer and holds it up.",
+        "the dark green mug: Dark green ceramic mug with a glossy finish and a simple C-shaped handle.\nthe floor-to-ceiling bookshelves: Ornate, floor-to-ceiling dark wood bookshelves with decorative molding, filled with densely packed rows of hardcover and leather-bound books in various colors.\n\nIn The Gothic Study, Julian, wearing the white shirt and black vest, stands beside the ornate writing desk, on which sits the illuminated green banker's lamp and the black fountain pen. He picks up the dark green mug from the desk, turns, and walks towards the floor-to-ceiling bookshelves in the background."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Gothic Study, Julian, wearing the white shirt and black vest, sits at the ornate writing desk. He leans forward under the green glow of the green banker's lamp, writing in the blank leather-bound book with the black fountain pen. After a moment, he pauses and looks thoughtfully down at the page while the skeletal candle holders flicker softly in the foreground.",
+        "Close-up on Marco's hand as it slides open a drawer of the ornate writing desk. The hand lifts the photograph of the woman in red out of the drawer and holds it up.",
+        "In The Gothic Study, Julian, wearing the white shirt and black vest, stands beside the ornate writing desk, on which sits the illuminated green banker's lamp and the black fountain pen. He picks up the dark green mug from the desk, turns, and walks towards the floor-to-ceiling bookshelves in the background."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Coldwater Kitchen: Kitchen interior with a sink and a tap.\n\nJulian holds skeletal candle holders under a running tap in the sink, turning them over in his hands to wash them. He shifts his weight, revealing he is wearing the white shirt and black vest and the circular pendant necklace. A copper kettle sits on the counter nearby."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Julian holds skeletal candle holders under a running tap in the sink, turning them over in his hands to wash them. He shifts his weight, revealing he is wearing the white shirt and black vest and the circular pendant necklace. A copper kettle sits on the counter nearby."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Low-angle close-up of Julian in the dark The Gothic Study. Julian looks upward, his face contorted in a strained and intense expression as his eyes roll back into his head."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle close-up of Julian in the dark The Gothic Study. Julian looks upward, his face contorted in a strained and intense expression as his eyes roll back into his head."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Dusty Attic: A rustic, dusty, and cluttered attic or basement space.\nthe red pillar candle: A thick, cylindrical pillar candle made of solid red wax with a single lit wick and a bright flame at its top.\n\nAt night, inside The Dusty Attic, Julian walks from the background toward the camera, ending in a medium close-up. Julian holds the red pillar candle, and its warm, flickering light illuminates his face and the dusty, cluttered surroundings.",
+        "the vintage gas mask: Weathered, vintage gas mask made of dark, cracked rubber with two large, circular glass eyepieces in tarnished metal rims and a cylindrical filter canister attached below the mouth area.\n\nIn the foreground, the vintage gas mask rests on a dusty surface inside the cluttered The Dusty Attic at night. In the background, Julian, wearing the white shirt and black vest, cautiously walks through the space, holding the lit red pillar candle which illuminates the room.",
+        "Julian stands in the dark The Dusty Attic. He holds the red pillar candle, which is the sole light source, casting flickering shadows on the walls and illuminating his face. He cautiously looks around before reaching out of frame for something unseen.",
+        "Julian slowly crouches down over the dead raven, which lies still on the dark wooden floor with its wings spread out."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "At night, inside The Dusty Attic, Julian walks from the background toward the camera, ending in a medium close-up. Julian holds the red pillar candle, and its warm, flickering light illuminates his face and the dusty, cluttered surroundings.",
+        "In the foreground, the vintage gas mask rests on a dusty surface inside the cluttered The Dusty Attic at night. In the background, Julian, wearing the white shirt and black vest, cautiously walks through the space, holding the lit red pillar candle which illuminates the room.",
+        "Julian stands in the dark The Dusty Attic. He holds the red pillar candle, which is the sole light source, casting flickering shadows on the walls and illuminating his face. He cautiously looks around before reaching out of frame for something unseen.",
+        "Julian slowly crouches down over the dead raven, which lies still on the dark wooden floor with its wings spread out."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Sedan Interior: Interior of a standard sedan with dark gray fabric seats, a black plastic dashboard and center console, and rubber floor mats.\n\nLow-angle close-up of Julian sitting inside The Sedan Interior at night. His worried and anxious expression deepens and he glances nervously toward something just out of frame. Faint ambient light from outside the car casts soft highlights on his face and the car interior."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle close-up of Julian sitting inside The Sedan Interior at night. His worried and anxious expression deepens and he glances nervously toward something just out of frame. Faint ambient light from outside the car casts soft highlights on his face and the car interior."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Close-up in The Dusty Attic on Julian's face in profile, his expression intensely focused. The flickering flame of the nearby red pillar candle illuminates Julian as he reaches his arm deep into a hole in a rustic wall, pushing aside exposed insulation."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up in The Dusty Attic on Julian's face in profile, his expression intensely focused. The flickering flame of the nearby red pillar candle illuminates Julian as he reaches his arm deep into a hole in a rustic wall, pushing aside exposed insulation."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Unseen Room: An unspecified interior space with no distinguishing features visible.\n\nHe stares intently down at something out of frame, his eyes narrowing slightly with worry and focus. The dim, low-key lighting casts deep shadows across his features."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "He stares intently down at something out of frame, his eyes narrowing slightly with worry and focus. The dim, low-key lighting casts deep shadows across his features."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "the painting of three figures: Rectangular painting with a wooden border depicting three figures in a dark, moody style.\nIn The Gothic Study, candlelit by the skeletal candle holders, Julian turns around with a serious expression, holding the painting of three figures. He presents the painting, and Marco's tattooed hand reaches into the shot to take it from him.",
+        "the human skull: A bone-colored human skull with empty eye sockets.\n\nInside The Gothic Study, Julian pushes himself up from the floor, rising to his feet. He stands before a large fireplace and looks down at the human skull resting within the hearth."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The Gothic Study, candlelit by the skeletal candle holders, Julian turns around with a serious expression, holding the painting of three figures. He presents the painting, and Marco's tattooed hand reaches into the shot to take it from him.",
+        "Inside The Gothic Study, Julian pushes himself up from the floor, rising to his feet. He stands before a large fireplace and looks down at the human skull resting within the hearth."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "the box of old papers: Open cardboard box filled with a collection of loose, yellowed, and aged papers and drawings.\nAlex: Person of indeterminate gender, age, and appearance\n\nThe hands of Julian sift carefully through the loose, yellowed papers contained in the box of old papers. Alex stands nearby, leaning in slightly to look down into the box."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "The hands of Julian sift carefully through the loose, yellowed papers contained in the box of old papers. Alex stands nearby, leaning in slightly to look down into the box."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Gothic Study"
+      ],
+      "objects": [
+        "the ornate writing desk",
+        "the white shirt and black vest",
+        "the blank leather-bound book",
+        "the black fountain pen",
+        "the green banker's lamp",
+        "the skeletal candle holders"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [],
+      "objects": [
+        "the ornate writing desk",
+        "the photograph of the woman in red"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Gothic Study"
+      ],
+      "objects": [
+        "the white shirt and black vest",
+        "the dark green mug",
+        "the ornate writing desk",
+        "the floor-to-ceiling bookshelves",
+        "the black fountain pen",
+        "the green banker's lamp"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Coldwater Kitchen"
+      ],
+      "objects": [
+        "the copper kettle",
+        "the white shirt and black vest",
+        "the circular pendant necklace",
+        "the skeletal candle holders"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Gothic Study"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Dusty Attic"
+      ],
+      "objects": [
+        "the red pillar candle"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Dusty Attic"
+      ],
+      "objects": [
+        "the white shirt and black vest",
+        "the vintage gas mask",
+        "the red pillar candle"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Dusty Attic"
+      ],
+      "objects": [
+        "the red pillar candle"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Dusty Attic"
+      ],
+      "objects": [
+        "the dead raven"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Sedan Interior"
+      ],
+      "objects": [
+        "the car interior"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Dusty Attic"
+      ],
+      "objects": [
+        "the red pillar candle"
+      ]
+    },
+    "7:1": {
+      "characters": [],
+      "places": [
+        "The Unseen Room"
+      ],
+      "objects": []
+    },
+    "8:1": {
+      "characters": [
+        "Julian",
+        "Marco"
+      ],
+      "places": [
+        "The Gothic Study"
+      ],
+      "objects": [
+        "the skeletal candle holders",
+        "the painting of three figures"
+      ]
+    },
+    "8:2": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Gothic Study"
+      ],
+      "objects": [
+        "the human skull"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Julian",
+        "Alex"
+      ],
+      "places": [
+        "The Dusty Attic"
+      ],
+      "objects": [
+        "the box of old papers"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Julian",
+      "label": "Character 1",
+      "description": "Man with a gaunt face, prominent cheekbones, intense dark eyes, and slightly disheveled dark wavy hair, wearing a fitted black waistcoat over a white collared shirt with the top button undone and sleeves rolled to his forearms."
+    },
+    "Character 2": {
+      "name": "Marco",
+      "label": "Character 2",
+      "description": "Man with a tattooed hand."
+    },
+    "Character 4": {
+      "name": "Alex",
+      "label": "Character 4",
+      "description": "Person of indeterminate gender, age, and appearance"
+    },
+    "Location 1": {
+      "name": "The Gothic Study",
+      "label": "Location 1",
+      "description": "An ornate study/library with bookshelves, a mantelpiece, an ornate mirror, and ornate, skeletal candle holders containing red candles."
+    },
+    "Location 2": {
+      "name": "The Coldwater Kitchen",
+      "label": "Location 2",
+      "description": "Kitchen interior with a sink and a tap."
+    },
+    "Location 3": {
+      "name": "The Dusty Attic",
+      "label": "Location 3",
+      "description": "A rustic, dusty, and cluttered attic or basement space."
+    },
+    "Location 4": {
+      "name": "The Sedan Interior",
+      "label": "Location 4",
+      "description": "Interior of a standard sedan with dark gray fabric seats, a black plastic dashboard and center console, and rubber floor mats."
+    },
+    "Location 5": {
+      "name": "The Unseen Room",
+      "label": "Location 5",
+      "description": "An unspecified interior space with no distinguishing features visible."
+    },
+    "Object 1": {
+      "name": "the skeletal candle holders",
+      "label": "Object 1",
+      "description": "Tall, lit red candles in ornate, skeletal holders."
+    },
+    "Object 2": {
+      "name": "the white shirt and black vest",
+      "label": "Object 2",
+      "description": "A white shirt paired with a dark black vest"
+    },
+    "Object 3": {
+      "name": "the blank leather-bound book",
+      "label": "Object 3",
+      "description": "Thick, large, hardbound book with a plain dark leather cover and blank pages."
+    },
+    "Object 4": {
+      "name": "the ornate writing desk",
+      "label": "Object 4",
+      "description": "Large, ornate writing desk made of dark polished wood, featuring carved legs and drawers with brass pulls."
+    },
+    "Object 5": {
+      "name": "the green banker's lamp",
+      "label": "Object 5",
+      "description": "Classic banker's lamp with a polished brass base and a curved, emerald green glass shade illuminated from within."
+    },
+    "Object 6": {
+      "name": "the black fountain pen",
+      "label": "Object 6",
+      "description": "Fountain pen with a glossy black body, a gold-colored clip and band, and a fine gold nib."
+    },
+    "Object 7": {
+      "name": "the photograph of the woman in red",
+      "label": "Object 7",
+      "description": "Photograph of a woman in a red dress"
+    },
+    "Object 8": {
+      "name": "the floor-to-ceiling bookshelves",
+      "label": "Object 8",
+      "description": "Ornate, floor-to-ceiling dark wood bookshelves with decorative molding, filled with densely packed rows of hardcover and leather-bound books in various colors."
+    },
+    "Object 9": {
+      "name": "the dark green mug",
+      "label": "Object 9",
+      "description": "Dark green ceramic mug with a glossy finish and a simple C-shaped handle."
+    },
+    "Object 10": {
+      "name": "the circular pendant necklace",
+      "label": "Object 10",
+      "description": "Necklace with a circular pendant"
+    },
+    "Object 11": {
+      "name": "the copper kettle",
+      "label": "Object 11",
+      "description": "A copper-colored kettle"
+    },
+    "Object 12": {
+      "name": "the red pillar candle",
+      "label": "Object 12",
+      "description": "A thick, cylindrical pillar candle made of solid red wax with a single lit wick and a bright flame at its top."
+    },
+    "Object 13": {
+      "name": "the vintage gas mask",
+      "label": "Object 13",
+      "description": "Weathered, vintage gas mask made of dark, cracked rubber with two large, circular glass eyepieces in tarnished metal rims and a cylindrical filter canister attached below the mouth area."
+    },
+    "Object 14": {
+      "name": "the dead raven",
+      "label": "Object 14",
+      "description": "Dead black raven with its wings spread out"
+    },
+    "Object 15": {
+      "name": "the car interior",
+      "label": "Object 15",
+      "description": "Vehicle interior"
+    },
+    "Object 16": {
+      "name": "the painting of three figures",
+      "label": "Object 16",
+      "description": "Rectangular painting with a wooden border depicting three figures in a dark, moody style."
+    },
+    "Object 17": {
+      "name": "the human skull",
+      "label": "Object 17",
+      "description": "A bone-colored human skull with empty eye sockets."
+    },
+    "Object 18": {
+      "name": "the box of old papers",
+      "label": "Object 18",
+      "description": "Open cardboard box filled with a collection of loose, yellowed, and aged papers and drawings."
+    }
+  },
+  "_window_shot_ids": [
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0005",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0006",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0007",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0008",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0009",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0010",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0011",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0012",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0013",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0014",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0015",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0016",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0017",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0018",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run323__i0_j14__T180__shot0019"
+  ],
+  "_num_scenes": 9,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Julian",
+    "Character 2": "Marco",
+    "Character 3": "Leo",
+    "Character 4": "Alex",
+    "Location 1": "The Gothic Study",
+    "Location 2": "The Coldwater Kitchen",
+    "Location 3": "The Dusty Attic",
+    "Location 4": "The Sedan Interior",
+    "Location 5": "The Unseen Room",
+    "Object 1": "the skeletal candle holders",
+    "Object 10": "the circular pendant necklace",
+    "Object 11": "the copper kettle",
+    "Object 12": "the red pillar candle",
+    "Object 13": "the vintage gas mask",
+    "Object 14": "the dead raven",
+    "Object 15": "the car interior",
+    "Object 16": "the painting of three figures",
+    "Object 17": "the human skull",
+    "Object 18": "the box of old papers",
+    "Object 2": "the white shirt and black vest",
+    "Object 3": "the blank leather-bound book",
+    "Object 4": "the ornate writing desk",
+    "Object 5": "the green banker's lamp",
+    "Object 6": "the black fountain pen",
+    "Object 7": "the photograph of the woman in red",
+    "Object 8": "the floor-to-ceiling bookshelves",
+    "Object 9": "the dark green mug"
+  }
+}

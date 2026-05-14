@@ -1,0 +1,360 @@
+{
+  "story_name": "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420",
+  "story_overview": "On a misty night at Cliffside Pass, Kazuo stops his truck to check on Ren, a motorcyclist. A tense conversation ensues involving a cracked helmet and a bloody phone, culminating in a crash that leaves Ren standing by a wrecked white car.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Ren: Figure wearing a dark, matte black, high-collared tactical motorcycle suit and a red full-face motorcycle helmet with a dark visor.\nKazuo: Older man with gray hair, wearing a green jacket over a white shirt and a grey cap/beanie.\nCliffside Pass: A winding road cut into the side of a dark, rocky mountain cliffside.\nthe Chinese text message: On-screen digital text composed of Chinese language characters.\n\nThe Chinese text message is an overlay. On a misty night, on the winding road of Cliffside Pass, Kazuo turns to look at Ren with a concerned expression. The large red truck is parked nearby against the rock wall.",
+        "With the Chinese text message on screen, Ren raises a hand to touch the cracked surface of their red helmet.",
+        "Kazuo stands in front of the red truck and speaks with a concerned expression. Ren, viewed from behind, tilts her head as she listens.",
+        "Animated, eye-level close-up of Ren wearing the red helmet against a dark background with the Chinese text message on screen. Ren's hand, covered by the black motorcycle glove, slowly reaches up to touch the side of their helmet.",
+        "the bloody flip phone: Open white flip phone stained with blood.\n\nKazuo, wearing the green jacket, stands in front of the red truck, speaking into the bloody flip phone he holds to his ear. Facing him, Ren, wearing her red motorcycle helmet and dark brown tactical motorcycle suit, stands with her back to the camera."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "The Chinese text message is an overlay. On a misty night, on the winding road of Cliffside Pass, Kazuo turns to look at Ren with a concerned expression. The large red truck is parked nearby against the rock wall.",
+        "With the Chinese text message on screen, Ren raises a hand to touch the cracked surface of their red helmet.",
+        "Kazuo stands in front of the red truck and speaks with a concerned expression. Ren, viewed from behind, tilts her head as she listens.",
+        "Animated, eye-level close-up of Ren wearing the red helmet against a dark background with the Chinese text message on screen. Ren's hand, covered by the black motorcycle glove, slowly reaches up to touch the side of their helmet.",
+        "Kazuo, wearing the green jacket, stands in front of the red truck, speaking into the bloody flip phone he holds to his ear. Facing him, Ren, wearing her red motorcycle helmet and dark brown tactical motorcycle suit, stands with her back to the camera."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The White Void: A stark white, seamless, and featureless non-diegetic void.\n\nRen, wearing the red motorcycle helmet and the dark brown tactical motorcycle suit, stands in place, slowly turning her head to the side."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Ren, wearing the red motorcycle helmet and the dark brown tactical motorcycle suit, stands in place, slowly turning her head to the side."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Wide shot of Cliffside Pass at nighttime under a dark, cloudy sky. A line of trees runs along the top of the cliff. Ren stands alone in the middle of the winding road, slowly turning her head to survey the area."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wide shot of Cliffside Pass at nighttime under a dark, cloudy sky. A line of trees runs along the top of the cliff. Ren stands alone in the middle of the winding road, slowly turning her head to survey the area."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Concrete Floor: A surface of dark concrete flooring.\n\nHigh-angle close-up shot of the bloody flip phone as it is dropped by Ren. The phone tumbles through the air and clatters onto the concrete of The Concrete Floor, landing open with blood smeared across its screen and keypad."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle close-up shot of the bloody flip phone as it is dropped by Ren. The phone tumbles through the air and clatters onto the concrete of The Concrete Floor, landing open with blood smeared across its screen and keypad."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Car Interior: Dark vehicle interior.\nAt night, from a low angle inside the footwell of The Car Interior, an extreme close-up shows the foot of Ren, wearing the dark shoe, pressing down on the metal pedal.",
+        "Close-up profile shot of Ren sitting next to Kazuo inside The Car Interior at night. With her helmet's visor lifted, a single tear rolls down her cheek, tracing a path through the streaks of blood on her face as she stares downward with a distressed expression."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "At night, from a low angle inside the footwell of The Car Interior, an extreme close-up shows the foot of Ren, wearing the dark shoe, pressing down on the metal pedal.",
+        "Close-up profile shot of Ren sitting next to Kazuo inside The Car Interior at night. With her helmet's visor lifted, a single tear rolls down her cheek, tracing a path through the streaks of blood on her face as she stares downward with a distressed expression."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Wreckage Site: A wooded forest area defined by a crash, with wreckage and debris scattered amongst the trees.\nthe wrecked white car: Wrecked, overturned white car with a heavily damaged chassis and a license plate that reads 'JF 789KD'.\n\nHigh-angle shot at night in The Wreckage Site. The wrecked white car lies overturned on the dirt ground amidst scattered debris and trees. Ren stands beside the wreckage, slowly tilting her head as she looks down at the heavily damaged vehicle."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle shot at night in The Wreckage Site. The wrecked white car lies overturned on the dirt ground amidst scattered debris and trees. Ren stands beside the wreckage, slowly tilting her head as she looks down at the heavily damaged vehicle."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Ren",
+        "Kazuo"
+      ],
+      "places": [
+        "Cliffside Pass"
+      ],
+      "objects": [
+        "the red truck",
+        "the Chinese text message"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Ren"
+      ],
+      "places": [],
+      "objects": [
+        "the Chinese text message"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Ren",
+        "Kazuo"
+      ],
+      "places": [
+        "Cliffside Pass"
+      ],
+      "objects": [
+        "the green jacket",
+        "the grey beanie",
+        "the red truck",
+        "the Chinese text message"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Ren"
+      ],
+      "places": [],
+      "objects": [
+        "the black motorcycle glove",
+        "the Chinese text message"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Kazuo",
+        "Ren"
+      ],
+      "places": [],
+      "objects": [
+        "the green jacket",
+        "the bloody flip phone",
+        "the red truck"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Ren"
+      ],
+      "places": [
+        "The White Void"
+      ],
+      "objects": [
+        "the red motorcycle helmet",
+        "the Chinese text message"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Ren"
+      ],
+      "places": [
+        "Cliffside Pass"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Ren"
+      ],
+      "places": [
+        "The Concrete Floor"
+      ],
+      "objects": [
+        "the bloody flip phone"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Ren"
+      ],
+      "places": [
+        "The Car Interior"
+      ],
+      "objects": [
+        "the dark shoe",
+        "the metal pedal"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Kazuo",
+        "Ren"
+      ],
+      "places": [
+        "The Car Interior"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Ren"
+      ],
+      "places": [
+        "The Wreckage Site"
+      ],
+      "objects": [
+        "the wrecked white car"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Kazuo",
+      "label": "Character 1",
+      "description": "Older man with gray hair, wearing a green jacket over a white shirt and a grey cap/beanie."
+    },
+    "Character 2": {
+      "name": "Ren",
+      "label": "Character 2",
+      "description": "Figure wearing a dark, matte black, high-collared tactical motorcycle suit and a red full-face motorcycle helmet with a dark visor."
+    },
+    "Location 1": {
+      "name": "The Wreckage Site",
+      "label": "Location 1",
+      "description": "A wooded forest area defined by a crash, with wreckage and debris scattered amongst the trees."
+    },
+    "Location 2": {
+      "name": "Cliffside Pass",
+      "label": "Location 2",
+      "description": "A winding road cut into the side of a dark, rocky mountain cliffside."
+    },
+    "Location 3": {
+      "name": "The Car Interior",
+      "label": "Location 3",
+      "description": "Dark vehicle interior."
+    },
+    "Location 4": {
+      "name": "The White Void",
+      "label": "Location 4",
+      "description": "A stark white, seamless, and featureless non-diegetic void."
+    },
+    "Location 5": {
+      "name": "The Concrete Floor",
+      "label": "Location 5",
+      "description": "A surface of dark concrete flooring."
+    },
+    "Object 1": {
+      "name": "the Chinese text message",
+      "label": "Object 1",
+      "description": "On-screen digital text composed of Chinese language characters."
+    },
+    "Object 2": {
+      "name": "the grey beanie",
+      "label": "Object 2",
+      "description": "Grey beanie"
+    },
+    "Object 3": {
+      "name": "the green jacket",
+      "label": "Object 3",
+      "description": "Simple green jacket with a zip-up front and a standard collar"
+    },
+    "Object 4": {
+      "name": "the tactical motorcycle suit",
+      "label": "Object 4",
+      "description": "Full-body tactical motorcycle suit in a dark, matte black material with integrated armored sections"
+    },
+    "Object 5": {
+      "name": "the cracked helmet",
+      "label": "Object 5",
+      "description": "Dark black motorcycle helmet with a cracked surface"
+    },
+    "Object 6": {
+      "name": "the red truck",
+      "label": "Object 6",
+      "description": "Large red truck"
+    },
+    "Object 7": {
+      "name": "the black motorcycle glove",
+      "label": "Object 7",
+      "description": "Black motorcycle glove"
+    },
+    "Object 8": {
+      "name": "the bloody flip phone",
+      "label": "Object 8",
+      "description": "Open white flip phone stained with blood."
+    },
+    "Object 9": {
+      "name": "the cloth bandana",
+      "label": "Object 9",
+      "description": "A cloth bandana"
+    },
+    "Object 10": {
+      "name": "the red motorcycle helmet",
+      "label": "Object 10",
+      "description": "Full-face motorcycle helmet with a solid red shell and a dark tinted visor"
+    },
+    "Object 11": {
+      "name": "the dark shoe",
+      "label": "Object 11",
+      "description": "Dark-colored shoe"
+    },
+    "Object 12": {
+      "name": "the metal pedal",
+      "label": "Object 12",
+      "description": "Metal car pedal"
+    },
+    "Object 13": {
+      "name": "the wrecked white car",
+      "label": "Object 13",
+      "description": "Wrecked, overturned white car with a heavily damaged chassis and a license plate that reads 'JF 789KD'."
+    }
+  },
+  "_window_shot_ids": [
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0005",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0006",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0007",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0008",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0009",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0010",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0011",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0012",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0014",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0015",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1187__i0_j33__T420__shot0016"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Kazuo",
+    "Character 2": "Ren",
+    "Character 3": "Sabine",
+    "Character 4": "Viktor",
+    "Location 1": "The Wreckage Site",
+    "Location 2": "Cliffside Pass",
+    "Location 3": "The Car Interior",
+    "Location 4": "The White Void",
+    "Location 5": "The Concrete Floor",
+    "Object 1": "the Chinese text message",
+    "Object 10": "the red motorcycle helmet",
+    "Object 11": "the dark shoe",
+    "Object 12": "the metal pedal",
+    "Object 13": "the wrecked white car",
+    "Object 2": "the grey beanie",
+    "Object 3": "the green jacket",
+    "Object 4": "the tactical motorcycle suit",
+    "Object 5": "the cracked helmet",
+    "Object 6": "the red truck",
+    "Object 7": "the black motorcycle glove",
+    "Object 8": "the bloody flip phone",
+    "Object 9": "the cloth bandana"
+  }
+}

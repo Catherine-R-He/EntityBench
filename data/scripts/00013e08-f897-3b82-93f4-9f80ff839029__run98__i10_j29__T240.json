@@ -1,0 +1,1397 @@
+{
+  "story_name": "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240",
+  "story_overview": "A birthday party for Leo, attended by his friends Simon and Felix, takes a sinister turn. The celebration is interrupted by the appearance of a guard, Alex, and mysterious glowing earpieces worn by several characters. The festive atmosphere dissolves into chaos and violence, with characters like Silas and Felix being restrained as the party spirals out of control.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Leo: Young man wearing a dark green shirt with white and yellow horizontal stripes.\nSimon: Young man with short black hair and glasses, wearing a striped sweater.\nThe Party Room: Recreation/party room with a ping pong table, a party room table, and colorful party balloons.\nthe festive balloons: A group of colorful, inflated latex party balloons, primarily in shades of orange and green.\nthe banquet table: Long, rectangular banquet table with a white plastic top and folding metal legs.\nthe birthday cake: Round, frosted party cake with colorful sprinkles and decorative piping along the edges, topped with multiple thin, lit birthday candles with small yellow flames.\n\nLow-angle view of a birthday celebration in The Party Room, which is decorated with the festive balloons. Leo looks up with a grin from his seat at the banquet table as his friend, Simon, leans in from behind it, presenting the birthday cake and smiling.",
+        "Felix: Young man with dark hair, wearing a green t-shirt and black pants.\nthe lemon soda can: Standard 12-ounce aluminum beverage can with a predominantly white and yellow label featuring black text and graphics of lemons.\n\nIn the dimly lit Party Room, a birthday cake with lit candles and a lemon soda can sit on the banquet table. Simon stands nearby, watching as Felix leans in and blows out the candles."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Low-angle view of a birthday celebration in The Party Room, which is decorated with the festive balloons. Leo looks up with a grin from his seat at the banquet table as his friend, Simon, leans in from behind it, presenting the birthday cake and smiling.",
+        "In the dimly lit Party Room, a birthday cake with lit candles and a lemon soda can sit on the banquet table. Simon stands nearby, watching as Felix leans in and blows out the candles."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Toby: Young boy wearing a small electronic device with a glowing red light on his right earlobe.\nThe Manager's Office: Indoor office space with a window and a table.\nthe veneer office table: Large, rectangular office table with a dark brown wood veneer finish and a smooth, slightly reflective surface.\n\nToby sits at the veneer office table in The Manager's Office, wearing the glowing earpiece. He has an anxious expression, his eyes darting around nervously.",
+        "Close-up profile shot of Simon, wearing the striped sweater, sitting at a table in The Manager's Office. His gaze shifts down and to the side, his expression growing more pensive, as the glowing earpiece in his right ear begins to pulse with a subtle red light."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Toby sits at the veneer office table in The Manager's Office, wearing the glowing earpiece. He has an anxious expression, his eyes darting around nervously.",
+        "Close-up profile shot of Simon, wearing the striped sweater, sitting at a table in The Manager's Office. His gaze shifts down and to the side, his expression growing more pensive, as the glowing earpiece in his right ear begins to pulse with a subtle red light."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Silas: Man with a blurry side profile and a strap over his shoulder.\n\nSilas is seen in profile, talking. In the blurred background of The Party Room, Leo and Toby sit together at the banquet table, chatting quietly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Silas is seen in profile, talking. In the blurred background of The Party Room, Leo and Toby sit together at the banquet table, chatting quietly."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "His gaze shifts off to the side, his expression becoming very concentrated as the red light from the glowing earpiece pulses."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "His gaze shifts off to the side, his expression becoming very concentrated as the red light from the glowing earpiece pulses."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Close profile shot of Toby in The Party Room. His expression shifts to surprise, his mouth opening as he begins to speak. The banquet table is visible in the background.",
+        "Marcus: Man with a beard, wearing a dark jacket\n\nIn The Party Room, Toby and Leo sit across from each other at the banquet table. Toby speaks earnestly while Leo, wearing the dark green hoodie over the striped t-shirt, listens intently. In the background, Marcus looks around the room, observing the party. On the table between Leo and Toby sits the birthday cake and the cup of soda.",
+        "the pink plastic fork (Object 11): Bright pink disposable plastic fork with four tines.\n\nClose-up over-the-shoulder shot from Leo's perspective, looking at Toby in The Party Room. Toby sits at the banquet table, smiles, and then uses the pink plastic fork to eat a piece of the birthday cake."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close profile shot of Toby in The Party Room. His expression shifts to surprise, his mouth opening as he begins to speak. The banquet table is visible in the background.",
+        "In The Party Room, Toby and Leo sit across from each other at the banquet table. Toby speaks earnestly while Leo, wearing the dark green hoodie over the striped t-shirt, listens intently. In the background, Marcus looks around the room, observing the party. On the table between Leo and Toby sits the birthday cake and the cup of soda.",
+        "Close-up over-the-shoulder shot from Leo's perspective, looking at Toby in The Party Room. Toby sits at the banquet table, smiles, and then uses the pink plastic fork to eat a piece of the birthday cake."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Nadia: Woman with long, dark brown hair, wearing a black jacket and a colorful party hat\n\nMedium close-up of Nadia celebrating in The Vending Hallway. Wearing the polka dot party hat, she brings the striped party horn to her lips and gives it a celebratory toot. In the background, Marcus smiles while giving a double thumbs-up."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up of Nadia celebrating in The Vending Hallway. Wearing the polka dot party hat, she brings the striped party horn to her lips and gives it a celebratory toot. In the background, Marcus smiles while giving a double thumbs-up."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "A medium close-up shot focuses on Felix and Simon in the brightly lit The Party Room, which is decorated with the festive balloons. Felix frowns with concern. Beside him, Simon tightens his grip on the red party cup, his expression also worried as they both stare at something off-screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A medium close-up shot focuses on Felix and Simon in the brightly lit The Party Room, which is decorated with the festive balloons. Felix frowns with concern. Beside him, Simon tightens his grip on the red party cup, his expression also worried as they both stare at something off-screen."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Alex: Person with a shaved head wearing a solid grey, utilitarian-style guard uniform\n\nClose-up on Nadia, who wears the polka dot party hat and offers a pensive smile. In the blurry background of The Vending Hallway, Silas and Marcus murmur to each other near the vending machine, which is decorated with the festive balloons. Alex stands nearby, slowly scanning the scene."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Nadia, who wears the polka dot party hat and offers a pensive smile. In the blurry background of The Vending Hallway, Silas and Marcus murmur to each other near the vending machine, which is decorated with the festive balloons. Alex stands nearby, slowly scanning the scene."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Felix stands and speaks with a concerned expression, gesturing with his hands. Toby stands opposite him, listening intently and nodding slowly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Felix stands and speaks with a concerned expression, gesturing with his hands. Toby stands opposite him, listening intently and nodding slowly."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "In The Vending Hallway, the expression of Nadia, who is wearing the polka dot party hat and the black blazer, shifts from a slight smile to one of complete shock. In the midground, Toby smirks directly at her. In the background, Alex stands guard beside the vending machine and the festive balloons, his eyes scanning the area."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Vending Hallway, the expression of Nadia, who is wearing the polka dot party hat and the black blazer, shifts from a slight smile to one of complete shock. In the midground, Toby smirks directly at her. In the background, Alex stands guard beside the vending machine and the festive balloons, his eyes scanning the area."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "A close-up on Felix, who smiles and glances off-camera. He is standing in The Party Room, which is decorated with the festive balloons. In the soft-focus background, Leo and Alex are mingling."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A close-up on Felix, who smiles and glances off-camera. He is standing in The Party Room, which is decorated with the festive balloons. In the soft-focus background, Leo and Alex are mingling."
+      ]
+    },
+    {
+      "scene_num": 12,
+      "video_prompts": [
+        "Medium shot of Nadia, wearing the polka dot party hat, standing in The Vending Hallway and giving a small smile to the camera. Behind her, Marcus smirks. In the background, Alex shifts their weight while standing near the vending machine and the festive balloons, as Silas walks past."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Nadia, wearing the polka dot party hat, standing in The Vending Hallway and giving a small smile to the camera. Behind her, Marcus smirks. In the background, Alex shifts their weight while standing near the vending machine and the festive balloons, as Silas walks past."
+      ]
+    },
+    {
+      "scene_num": 13,
+      "video_prompts": [
+        "In a close-up, Felix speaks with a concerned expression on his face. He is inside The Party Room, which is decorated with the festive balloons. In the background, Leo and Nadia are visible but out of focus talking to each other."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a close-up, Felix speaks with a concerned expression on his face. He is inside The Party Room, which is decorated with the festive balloons. In the background, Leo and Nadia are visible but out of focus talking to each other."
+      ]
+    },
+    {
+      "scene_num": 14,
+      "video_prompts": [
+        "The Green Room: A sparse institutional room with plain green walls and a table, characterized by a monochromatic green color palette.\n\nClose-up of Toby, wearing the glowing earpiece, inside the dim, green-lit The Green Room. He looks off-screen, his concerned expression deepening slightly. In the background, Leo, wearing the dark green hoodie, and Alex sit at a table.",
+        "In a medium close-up profile shot, Simon sits inside The Green Room. Wearing the glowing earpiece, they lean forward slightly, their expression of intense focus deepening as they listen."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Toby, wearing the glowing earpiece, inside the dim, green-lit The Green Room. He looks off-screen, his concerned expression deepening slightly. In the background, Leo, wearing the dark green hoodie, and Alex sit at a table.",
+        "In a medium close-up profile shot, Simon sits inside The Green Room. Wearing the glowing earpiece, they lean forward slightly, their expression of intense focus deepening as they listen."
+      ]
+    },
+    {
+      "scene_num": 15,
+      "video_prompts": [
+        "Side view in The Vending Hallway. Alex walks quickly down the hallway with a focused expression. Nadia, wearing the polka dot party hat, follows closely behind, looking to the side with an expression of concern.",
+        "Medium close-up on the side profile of Silas as he walks quickly from left to right. Nadia follows closely behind him. The background streaks with motion blur as they move.",
+        "Seen from behind, Simon, Silas, and Nadia walk together down the daylit Vending Hallway."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Side view in The Vending Hallway. Alex walks quickly down the hallway with a focused expression. Nadia, wearing the polka dot party hat, follows closely behind, looking to the side with an expression of concern.",
+        "Medium close-up on the side profile of Silas as he walks quickly from left to right. Nadia follows closely behind him. The background streaks with motion blur as they move.",
+        "Seen from behind, Simon, Silas, and Nadia walk together down the daylit Vending Hallway."
+      ]
+    },
+    {
+      "scene_num": 16,
+      "video_prompts": [
+        "A chaotic party is happening in The Party Room, filled with the festive balloons. Alex frantically chases Silas through the crowd as Toby watches in alarm. The two men grab the plastic folding chairs and swing them at each other. To escape, Silas leaps onto the banquet table, landing precariously beside the birthday cake.",
+        "Inside the dimly lit The Party Room, Silas and Nadia stand together, looking around at the chaotic party. A person holding a phone runs through the background, passing a table with two pink cocktails. In the foreground, the back of another person's orange-striped shirt is partially visible."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "A chaotic party is happening in The Party Room, filled with the festive balloons. Alex frantically chases Silas through the crowd as Toby watches in alarm. The two men grab the plastic folding chairs and swing them at each other. To escape, Silas leaps onto the banquet table, landing precariously beside the birthday cake.",
+        "Inside the dimly lit The Party Room, Silas and Nadia stand together, looking around at the chaotic party. A person holding a phone runs through the background, passing a table with two pink cocktails. In the foreground, the back of another person's orange-striped shirt is partially visible."
+      ]
+    },
+    {
+      "scene_num": 17,
+      "video_prompts": [
+        "In The Manager's Office, Silas, Toby, and Simon stand side-by-side in front of a large, sunlit window. Toby stands between Silas and Simon. All three characters slowly look upward and off-camera, their expressions shifting to awe and surprise."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Manager's Office, Silas, Toby, and Simon stand side-by-side in front of a large, sunlit window. Toby stands between Silas and Simon. All three characters slowly look upward and off-camera, their expressions shifting to awe and surprise."
+      ]
+    },
+    {
+      "scene_num": 18,
+      "video_prompts": [
+        "Medium shot in The Party Room. Nadia, wearing the polka dot party hat, yells with a distressed expression while looking on. Nearby, Alex freezes in shock. Silas, seen from behind, suddenly collapses onto the floor amidst a clutter of the festive balloons.",
+        "the green ping-pong table (Object 18): Standard green ping-pong table with a white net across the middle, white boundary lines, and foldable metal legs.\nthe glitching TV (Object 19): An older, boxy television set with a dark casing, its screen filled with a distorted, glitching pattern of colorful static.\n\nIn the dimly lit The Party Room, Toby runs with urgency from behind a pillar. In the background, the green ping-pong table and the glitching TV are visible.",
+        "the 'CONGRATULATIONS' banner (Object 20): Long white plastic party banner with the word 'CONGRATULATIONS' printed in large, multi-colored block letters, surrounded by printed confetti graphics.\n\nA chaotic scene in The Party Room, which is decorated with the festive balloons and the 'CONGRATULATIONS' banner. In the foreground, Simon dives across the scene. In the middle of the room, Felix runs forward, while Nadia ducks for cover behind the green ping-pong table on the left."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Party Room. Nadia, wearing the polka dot party hat, yells with a distressed expression while looking on. Nearby, Alex freezes in shock. Silas, seen from behind, suddenly collapses onto the floor amidst a clutter of the festive balloons.",
+        "In the dimly lit The Party Room, Toby runs with urgency from behind a pillar. In the background, the green ping-pong table and the glitching TV are visible.",
+        "A chaotic scene in The Party Room, which is decorated with the festive balloons and the 'CONGRATULATIONS' banner. In the foreground, Simon dives across the scene. In the middle of the room, Felix runs forward, while Nadia ducks for cover behind the green ping-pong table on the left."
+      ]
+    },
+    {
+      "scene_num": 19,
+      "video_prompts": [
+        "In a tense, low-angle close-up shot inside The Green Room, Leo and Toby are in a violent struggle, their hands grappling frantically for control of the security device near a door."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a tense, low-angle close-up shot inside The Green Room, Leo and Toby are in a violent struggle, their hands grappling frantically for control of the security device near a door."
+      ]
+    },
+    {
+      "scene_num": 20,
+      "video_prompts": [
+        "In The Vending Hallway, Silas violently shoves Felix against the wall. Simon stands nearby, watching in shock. A short distance away, Alex observes the confrontation for a moment before starting to move towards them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Vending Hallway, Silas violently shoves Felix against the wall. Simon stands nearby, watching in shock. A short distance away, Alex observes the confrontation for a moment before starting to move towards them."
+      ]
+    },
+    {
+      "scene_num": 21,
+      "video_prompts": [
+        "Low-angle medium shot in The Green Room. Felix and Simon forcefully restrain a struggling Toby, pinning him against a closed door."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle medium shot in The Green Room. Felix and Simon forcefully restrain a struggling Toby, pinning him against a closed door."
+      ]
+    },
+    {
+      "scene_num": 22,
+      "video_prompts": [
+        "A shaky, first-person view moves through the bustling party in The Party Room. Alex walks directly past the camera. In the background, Leo talks animatedly, while Simon stands in the foreground near the festive balloons, his eyes scanning the scene."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A shaky, first-person view moves through the bustling party in The Party Room. Alex walks directly past the camera. In the background, Leo talks animatedly, while Simon stands in the foreground near the festive balloons, his eyes scanning the scene."
+      ]
+    },
+    {
+      "scene_num": 23,
+      "video_prompts": [
+        "Inside The Green Room, Alex, wearing the guard uniform, and Marcus forcefully restrain Felix, each holding one of his arms as he struggles against them. Nearby, Toby watches the struggle, his expression filled with concern."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Green Room, Alex, wearing the guard uniform, and Marcus forcefully restrain Felix, each holding one of his arms as he struggles against them. Nearby, Toby watches the struggle, his expression filled with concern."
+      ]
+    },
+    {
+      "scene_num": 24,
+      "video_prompts": [
+        "Medium close-up in The Party Room at night, with Toby nearby. In the foreground, Silas's eyes widen as he stares intently off-screen, his mouth falling open in reaction. Behind him, Simon's intense expression tightens as he watches. Both characters wear a glowing earpiece in one ear, and colorful party balloons (the festive balloons) are visible in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up in The Party Room at night, with Toby nearby. In the foreground, Silas's eyes widen as he stares intently off-screen, his mouth falling open in reaction. Behind him, Simon's intense expression tightens as he watches. Both characters wear a glowing earpiece in one ear, and colorful party balloons (the festive balloons) are visible in the background."
+      ]
+    },
+    {
+      "scene_num": 25,
+      "video_prompts": [
+        "A low-angle, unstable view inside the dimly lit The Green Room. Felix and another guard wearing the guard uniform forcefully restrain Leo. Leo thrashes violently between the two as they struggle to hold him. In the background, Toby looks down at the struggle."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A low-angle, unstable view inside the dimly lit The Green Room. Felix and another guard wearing the guard uniform forcefully restrain Leo. Leo thrashes violently between the two as they struggle to hold him. In the background, Toby looks down at the struggle."
+      ]
+    },
+    {
+      "scene_num": 26,
+      "video_prompts": [
+        "Inside The Party Room, Silas and Alex struggle with each other, falling to the floor among the festive balloons.",
+        "Close-up on the face of Simon. His eyes widen and his mouth falls open in an expression of shock and awe as he stares off-screen.",
+        "In The Party Room, Silas stands behind Toby and playfully covers his eyes with his hands. Toby reacts with a surprised expression. In the background, Marcus watches them and smiles. The green ping-pong table is on the left side of the room, which is decorated with the festive balloons."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Party Room, Silas and Alex struggle with each other, falling to the floor among the festive balloons.",
+        "Close-up on the face of Simon. His eyes widen and his mouth falls open in an expression of shock and awe as he stares off-screen.",
+        "In The Party Room, Silas stands behind Toby and playfully covers his eyes with his hands. Toby reacts with a surprised expression. In the background, Marcus watches them and smiles. The green ping-pong table is on the left side of the room, which is decorated with the festive balloons."
+      ]
+    },
+    {
+      "scene_num": 27,
+      "video_prompts": [
+        "In a chaotic, close-up scene inside The Green Room, Felix, Alex, and Leo struggle to apprehend Silas, forcing his arms behind his back. Silas has a shocked expression as he is manhandled. In the background, the stained green vinyl sofa is visible."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a chaotic, close-up scene inside The Green Room, Felix, Alex, and Leo struggle to apprehend Silas, forcing his arms behind his back. Silas has a shocked expression as he is manhandled. In the background, the stained green vinyl sofa is visible."
+      ]
+    },
+    {
+      "scene_num": 28,
+      "video_prompts": [
+        "Close-up in The Party Room. In the foreground, Toby's expression grows intense and serious as he watches something off-screen. Behind him, Leo slowly brings a hand to his mouth, looking on pensively, and Simon shifts his weight, also watching intently.",
+        "Medium shot in The Party Room, which is decorated with the festive balloons and the 'CONGRATULATIONS' banner. Felix and Alex struggle against each other. Nearby, Toby, Marcus, and Nadia watch the confrontation, shifting uneasily. Silas hurries past the scene in the background."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up in The Party Room. In the foreground, Toby's expression grows intense and serious as he watches something off-screen. Behind him, Leo slowly brings a hand to his mouth, looking on pensively, and Simon shifts his weight, also watching intently.",
+        "Medium shot in The Party Room, which is decorated with the festive balloons and the 'CONGRATULATIONS' banner. Felix and Alex struggle against each other. Nearby, Toby, Marcus, and Nadia watch the confrontation, shifting uneasily. Silas hurries past the scene in the background."
+      ]
+    },
+    {
+      "scene_num": 29,
+      "video_prompts": [
+        "Inside The Green Room, Alex and Felix forcefully restrain Leo, who struggles against their grip."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Green Room, Alex and Felix forcefully restrain Leo, who struggles against their grip."
+      ]
+    },
+    {
+      "scene_num": 30,
+      "video_prompts": [
+        "In The Party Room, Silas and Marcus struggle on the floor, pinning down Felix. The plaid shirt is on the floor nearby. In the background, under the 'CONGRATULATIONS' banner and near the festive balloons, Toby and Nadia watch the confrontation, shifting nervously."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Party Room, Silas and Marcus struggle on the floor, pinning down Felix. The plaid shirt is on the floor nearby. In the background, under the 'CONGRATULATIONS' banner and near the festive balloons, Toby and Nadia watch the confrontation, shifting nervously."
+      ]
+    },
+    {
+      "scene_num": 31,
+      "video_prompts": [
+        "Low-angle medium shot in the green-tinted hallway of The Vending Hallway. Alex struggles to lift a distressed Simon. Simon yells and thrashes violently, fighting against Alex's grip as Alex tries to haul him down the corridor."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle medium shot in the green-tinted hallway of The Vending Hallway. Alex struggles to lift a distressed Simon. Simon yells and thrashes violently, fighting against Alex's grip as Alex tries to haul him down the corridor."
+      ]
+    },
+    {
+      "scene_num": 32,
+      "video_prompts": [
+        "Felix stands with a neutral expression in The Party Room, then slowly turns his head to look at Toby, who stands beside him. In the background, the festive balloons hang in the room.",
+        "In the festive The Party Room, Nadia, wearing the polka dot party hat and the black blazer, spreads her arms wide with a big smile, with the festive balloons visible. In the background, Marcus watches the scene, smiling. Felix, wearing the plain green t-shirt, and Leo run quickly across the foreground, creating a motion blur as they pass.",
+        "Medium shot of Nadia, wearing the polka dot party hat and the black blazer, smiling and glancing around the festive The Party Room, which is decorated with the festive balloons. In the background, Leo walks past the 'TOKENS' and 'PIZZA' sign."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Felix stands with a neutral expression in The Party Room, then slowly turns his head to look at Toby, who stands beside him. In the background, the festive balloons hang in the room.",
+        "In the festive The Party Room, Nadia, wearing the polka dot party hat and the black blazer, spreads her arms wide with a big smile, with the festive balloons visible. In the background, Marcus watches the scene, smiling. Felix, wearing the plain green t-shirt, and Leo run quickly across the foreground, creating a motion blur as they pass.",
+        "Medium shot of Nadia, wearing the polka dot party hat and the black blazer, smiling and glancing around the festive The Party Room, which is decorated with the festive balloons. In the background, Leo walks past the 'TOKENS' and 'PIZZA' sign."
+      ]
+    },
+    {
+      "scene_num": 33,
+      "video_prompts": [
+        "Low-angle shot of two unnamed guards dragging Simon, who has bound hands, down the hallway of The Vending Hallway. Nadia walks alongside them with a neutral expression. In the background, Toby and Alex watch the group pass."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle shot of two unnamed guards dragging Simon, who has bound hands, down the hallway of The Vending Hallway. Nadia walks alongside them with a neutral expression. In the background, Toby and Alex watch the group pass."
+      ]
+    },
+    {
+      "scene_num": 34,
+      "video_prompts": [
+        "Inside The Party Room, Silas, Simon, and Toby stand together. Silas clings to the arm of Simon, who is on the left, while Toby stands to their right. All three of them look with focused attention toward the right, off-screen, their eyes tracking something unseen. The room is decorated with the festive balloons, and the green ping-pong table is visible in the background.",
+        "Inside The Party Room, decorated with the festive balloons, Simon stands in the foreground, seen in profile. He narrows his eyes as he looks intently toward the right. Behind him and out of focus, Toby, wearing a glowing earpiece, also stares in the same direction."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Party Room, Silas, Simon, and Toby stand together. Silas clings to the arm of Simon, who is on the left, while Toby stands to their right. All three of them look with focused attention toward the right, off-screen, their eyes tracking something unseen. The room is decorated with the festive balloons, and the green ping-pong table is visible in the background.",
+        "Inside The Party Room, decorated with the festive balloons, Simon stands in the foreground, seen in profile. He narrows his eyes as he looks intently toward the right. Behind him and out of focus, Toby, wearing a glowing earpiece, also stares in the same direction."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Leo",
+        "Simon"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the banquet table",
+        "the birthday cake"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Felix",
+        "Simon"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the birthday cake",
+        "the lemon soda can",
+        "the banquet table"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Toby"
+      ],
+      "places": [
+        "The Manager's Office"
+      ],
+      "objects": [
+        "the veneer office table",
+        "the glowing earpiece"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "The Manager's Office"
+      ],
+      "objects": [
+        "the glowing earpiece"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Toby",
+        "Silas",
+        "Leo"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the banquet table"
+      ]
+    },
+    "4:1": {
+      "characters": [],
+      "places": [
+        "The Manager's Office"
+      ],
+      "objects": [
+        "the glowing earpiece"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Toby"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the banquet table"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Toby",
+        "Leo",
+        "Marcus"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the banquet table",
+        "the dark green hoodie",
+        "the striped t-shirt",
+        "the birthday cake",
+        "the cup of soda"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Toby",
+        "Leo"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the banquet table",
+        "the birthday cake",
+        "the pink plastic fork"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Nadia",
+        "Marcus"
+      ],
+      "places": [
+        "The Vending Hallway"
+      ],
+      "objects": [
+        "the polka dot party hat",
+        "the striped party horn"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Felix",
+        "Simon"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the red party cup",
+        "the festive balloons"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Nadia",
+        "Marcus"
+      ],
+      "places": [
+        "The Vending Hallway"
+      ],
+      "objects": [
+        "the polka dot party hat",
+        "the vending machine",
+        "the festive balloons"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Toby",
+        "Felix"
+      ],
+      "places": [
+        "The Modern Apartment"
+      ],
+      "objects": [
+        "the plaid shirt",
+        "the festive balloons"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Toby",
+        "Alex",
+        "Nadia"
+      ],
+      "places": [
+        "The Vending Hallway"
+      ],
+      "objects": [
+        "the polka dot party hat",
+        "the black blazer",
+        "the vending machine",
+        "the festive balloons"
+      ]
+    },
+    "11:1": {
+      "characters": [
+        "Alex",
+        "Felix",
+        "Leo"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons"
+      ]
+    },
+    "12:1": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Nadia",
+        "Marcus"
+      ],
+      "places": [
+        "The Vending Hallway"
+      ],
+      "objects": [
+        "the polka dot party hat",
+        "the vending machine",
+        "the festive balloons"
+      ]
+    },
+    "13:1": {
+      "characters": [
+        "Felix",
+        "Leo",
+        "Nadia"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons"
+      ]
+    },
+    "14:1": {
+      "characters": [
+        "Toby",
+        "Alex",
+        "Leo"
+      ],
+      "places": [
+        "The Green Room"
+      ],
+      "objects": [
+        "the dark green hoodie",
+        "the glowing earpiece"
+      ]
+    },
+    "14:2": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [
+        "The Green Room"
+      ],
+      "objects": [
+        "the glowing earpiece"
+      ]
+    },
+    "15:1": {
+      "characters": [
+        "Alex",
+        "Nadia"
+      ],
+      "places": [
+        "The Vending Hallway"
+      ],
+      "objects": [
+        "the polka dot party hat"
+      ]
+    },
+    "15:2": {
+      "characters": [
+        "Silas",
+        "Nadia"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "15:3": {
+      "characters": [
+        "Silas",
+        "Simon",
+        "Nadia"
+      ],
+      "places": [
+        "The Vending Hallway"
+      ],
+      "objects": []
+    },
+    "16:1": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Toby"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the birthday cake",
+        "the plastic folding chairs",
+        "the banquet table"
+      ]
+    },
+    "16:2": {
+      "characters": [
+        "Silas",
+        "Nadia"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "pink cocktails"
+      ]
+    },
+    "17:1": {
+      "characters": [
+        "Silas",
+        "Simon",
+        "Toby"
+      ],
+      "places": [
+        "The Manager's Office"
+      ],
+      "objects": []
+    },
+    "18:1": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Nadia"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the polka dot party hat",
+        "the festive balloons"
+      ]
+    },
+    "18:2": {
+      "characters": [
+        "Toby"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the green ping-pong table",
+        "the glitching TV"
+      ]
+    },
+    "18:3": {
+      "characters": [
+        "Felix",
+        "Simon",
+        "Nadia"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the green ping-pong table",
+        "the 'CONGRATULATIONS' banner"
+      ]
+    },
+    "19:1": {
+      "characters": [
+        "Toby",
+        "Leo"
+      ],
+      "places": [
+        "The Green Room"
+      ],
+      "objects": [
+        "the security device"
+      ]
+    },
+    "20:1": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Felix",
+        "Simon"
+      ],
+      "places": [
+        "The Vending Hallway"
+      ],
+      "objects": []
+    },
+    "21:1": {
+      "characters": [
+        "Toby",
+        "Felix",
+        "Simon"
+      ],
+      "places": [
+        "The Green Room"
+      ],
+      "objects": []
+    },
+    "22:1": {
+      "characters": [
+        "Alex",
+        "Leo",
+        "Simon"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons"
+      ]
+    },
+    "23:1": {
+      "characters": [
+        "Toby",
+        "Alex",
+        "Felix",
+        "Marcus"
+      ],
+      "places": [
+        "The Green Room"
+      ],
+      "objects": [
+        "the guard uniform"
+      ]
+    },
+    "24:1": {
+      "characters": [
+        "Toby",
+        "Silas",
+        "Simon"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the glowing earpiece"
+      ]
+    },
+    "25:1": {
+      "characters": [
+        "Toby",
+        "Felix",
+        "Leo"
+      ],
+      "places": [
+        "The Green Room"
+      ],
+      "objects": [
+        "the guard uniform"
+      ]
+    },
+    "26:1": {
+      "characters": [
+        "Silas",
+        "Alex"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the guard uniform"
+      ]
+    },
+    "26:2": {
+      "characters": [
+        "Simon"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "26:3": {
+      "characters": [
+        "Toby",
+        "Silas",
+        "Marcus"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the green ping-pong table"
+      ]
+    },
+    "27:1": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Felix",
+        "Leo"
+      ],
+      "places": [
+        "The Green Room"
+      ],
+      "objects": [
+        "stained green vinyl sofa"
+      ]
+    },
+    "28:1": {
+      "characters": [
+        "Toby",
+        "Leo",
+        "Simon"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the glowing earpiece"
+      ]
+    },
+    "28:2": {
+      "characters": [
+        "Toby",
+        "Silas",
+        "Alex",
+        "Felix",
+        "Nadia",
+        "Marcus"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the 'CONGRATULATIONS' banner"
+      ]
+    },
+    "29:1": {
+      "characters": [
+        "Alex",
+        "Felix",
+        "Leo"
+      ],
+      "places": [
+        "The Green Room"
+      ],
+      "objects": []
+    },
+    "30:1": {
+      "characters": [
+        "Toby",
+        "Silas",
+        "Felix",
+        "Nadia",
+        "Marcus"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the 'CONGRATULATIONS' banner",
+        "the plaid shirt"
+      ]
+    },
+    "31:1": {
+      "characters": [
+        "Alex",
+        "Simon"
+      ],
+      "places": [
+        "The Vending Hallway"
+      ],
+      "objects": []
+    },
+    "32:1": {
+      "characters": [
+        "Toby",
+        "Felix"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons"
+      ]
+    },
+    "32:2": {
+      "characters": [
+        "Felix",
+        "Leo",
+        "Nadia",
+        "Marcus"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the black blazer",
+        "the polka dot party hat",
+        "the plain green t-shirt"
+      ]
+    },
+    "32:3": {
+      "characters": [
+        "Leo",
+        "Nadia"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the black blazer",
+        "the polka dot party hat",
+        "the festive balloons",
+        "the 'TOKENS' and 'PIZZA' sign"
+      ]
+    },
+    "33:1": {
+      "characters": [
+        "Toby",
+        "Alex",
+        "Nadia",
+        "Simon"
+      ],
+      "places": [
+        "The Vending Hallway"
+      ],
+      "objects": []
+    },
+    "34:1": {
+      "characters": [
+        "Silas",
+        "Simon",
+        "Toby"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the green ping-pong table"
+      ]
+    },
+    "34:2": {
+      "characters": [
+        "Toby",
+        "Simon"
+      ],
+      "places": [
+        "The Party Room"
+      ],
+      "objects": [
+        "the festive balloons",
+        "the glowing earpiece"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Young man wearing a dark green shirt with white and yellow horizontal stripes."
+    },
+    "Character 2": {
+      "name": "Simon",
+      "label": "Character 2",
+      "description": "Young man with short black hair and glasses, wearing a striped sweater."
+    },
+    "Character 3": {
+      "name": "Felix",
+      "label": "Character 3",
+      "description": "Young man with dark hair, wearing a green t-shirt and black pants."
+    },
+    "Character 4": {
+      "name": "Toby",
+      "label": "Character 4",
+      "description": "Young boy wearing a small electronic device with a glowing red light on his right earlobe."
+    },
+    "Character 5": {
+      "name": "Silas",
+      "label": "Character 5",
+      "description": "Man with a blurry side profile and a strap over his shoulder."
+    },
+    "Character 6": {
+      "name": "Marcus",
+      "label": "Character 6",
+      "description": "Man with a beard, wearing a dark jacket"
+    },
+    "Character 7": {
+      "name": "Nadia",
+      "label": "Character 7",
+      "description": "Woman with long, dark brown hair, wearing a black jacket and a colorful party hat"
+    },
+    "Character 8": {
+      "name": "Alex",
+      "label": "Character 8",
+      "description": "Person with a shaved head wearing a solid grey, utilitarian-style guard uniform"
+    },
+    "Location 1": {
+      "name": "The Party Room",
+      "label": "Location 1",
+      "description": "Recreation/party room with a ping pong table, a party room table, and colorful party balloons."
+    },
+    "Location 2": {
+      "name": "The Manager's Office",
+      "label": "Location 2",
+      "description": "Indoor office space with a window and a table."
+    },
+    "Location 3": {
+      "name": "The Vending Hallway",
+      "label": "Location 3",
+      "description": "Building hallway containing a vending machine decorated with balloons"
+    },
+    "Location 4": {
+      "name": "The Modern Apartment",
+      "label": "Location 4",
+      "description": "Interior of a modern apartment with large windows and a green party balloon"
+    },
+    "Location 5": {
+      "name": "The Green Room",
+      "label": "Location 5",
+      "description": "A sparse institutional room with plain green walls and a table, characterized by a monochromatic green color palette."
+    },
+    "Object 1": {
+      "name": "the festive balloons",
+      "label": "Object 1",
+      "description": "A group of colorful, inflated latex party balloons, primarily in shades of orange and green."
+    },
+    "Object 2": {
+      "name": "the banquet table",
+      "label": "Object 2",
+      "description": "Long, rectangular banquet table with a white plastic top and folding metal legs."
+    },
+    "Object 3": {
+      "name": "the birthday cake",
+      "label": "Object 3",
+      "description": "Round, frosted party cake with colorful sprinkles and decorative piping along the edges, topped with multiple thin, lit birthday candles with small yellow flames."
+    },
+    "Object 4": {
+      "name": "the red party cup",
+      "label": "Object 4",
+      "description": "Bright red disposable plastic party cup with a tapered shape, a wide rolled rim, horizontal ridges around its body, and a white interior"
+    },
+    "Object 5": {
+      "name": "the lemon soda can",
+      "label": "Object 5",
+      "description": "Standard 12-ounce aluminum beverage can with a predominantly white and yellow label featuring black text and graphics of lemons."
+    },
+    "Object 6": {
+      "name": "the glowing earpiece",
+      "label": "Object 6",
+      "description": "Small, glowing red earpiece"
+    },
+    "Object 7": {
+      "name": "the veneer office table",
+      "label": "Object 7",
+      "description": "Large, rectangular office table with a dark brown wood veneer finish and a smooth, slightly reflective surface."
+    },
+    "Object 8": {
+      "name": "the striped t-shirt",
+      "label": "Object 8",
+      "description": "A short-sleeved t-shirt with a horizontal stripe pattern"
+    },
+    "Object 9": {
+      "name": "the dark green hoodie",
+      "label": "Object 9",
+      "description": "Dark green hoodie"
+    },
+    "Object 10": {
+      "name": "the cup of soda",
+      "label": "Object 10",
+      "description": "Clear disposable plastic cup containing a dark carbonated beverage with ice cubes"
+    },
+    "Object 11": {
+      "name": "the pink plastic fork",
+      "label": "Object 11",
+      "description": "Bright pink disposable plastic fork with four tines"
+    },
+    "Object 12": {
+      "name": "the polka dot party hat",
+      "label": "Object 12",
+      "description": "Cone-shaped paper party hat with a pattern of multi-colored polka dots, a small pom-pom at the tip, and a thin elastic chin strap"
+    },
+    "Object 13": {
+      "name": "the vending machine",
+      "label": "Object 13",
+      "description": "Vending machine"
+    },
+    "Object 14": {
+      "name": "the striped party horn",
+      "label": "Object 14",
+      "description": "Colorful party horn with a plastic mouthpiece and a tightly coiled paper tube decorated with festive stripes and confetti patterns"
+    },
+    "Object 15": {
+      "name": "the plaid shirt",
+      "label": "Object 15",
+      "description": "Black and white plaid shirt"
+    },
+    "Object 16": {
+      "name": "the black blazer",
+      "label": "Object 16",
+      "description": "Black blazer-style top"
+    },
+    "Object 17": {
+      "name": "the plastic folding chairs",
+      "label": "Object 17",
+      "description": "Simple, lightweight folding chairs with tubular metal frames and hard plastic seats and backrests"
+    },
+    "Object 18": {
+      "name": "the green ping-pong table",
+      "label": "Object 18",
+      "description": "Standard green ping-pong table with a white net across the middle, white boundary lines, and foldable metal legs"
+    },
+    "Object 19": {
+      "name": "the glitching TV",
+      "label": "Object 19",
+      "description": "An older, boxy television set with a dark casing, its screen filled with a distorted, glitching pattern of colorful static"
+    },
+    "Object 20": {
+      "name": "the 'CONGRATULATIONS' banner",
+      "label": "Object 20",
+      "description": "Long white plastic party banner with the word 'CONGRATULATIONS' printed in large, multi-colored block letters, surrounded by printed confetti graphics"
+    },
+    "Object 21": {
+      "name": "the security device",
+      "label": "Object 21",
+      "description": "Handgun or Taser"
+    },
+    "Object 22": {
+      "name": "the guard uniform",
+      "label": "Object 22",
+      "description": "A solid grey, utilitarian-style guard uniform"
+    },
+    "Object 23": {
+      "name": "the stained vinyl sofa",
+      "label": "Object 23",
+      "description": "A boxy, institutional-style two-seater sofa with faded, mustard-yellow vinyl upholstery and visible stains on the seat cushions"
+    },
+    "Object 24": {
+      "name": "the 'TOKENS' and 'PIZZA' sign",
+      "label": "Object 24",
+      "description": "Sign advertising 'TOKENS' and 'PIZZA'"
+    }
+  },
+  "_window_shot_ids": [
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0001",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0002",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0004",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0005",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0006",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0007",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0008",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0009",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0010",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0011",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0012",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0013",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0014",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0015",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0016",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0017",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0018",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0019",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0020",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0021",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0022",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0023",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0024",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0025",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0026",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0027",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0028",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0029",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0030",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0031",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0032",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0033",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0034",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0035",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0036",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0037",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0038",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0039",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0041",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0042",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0044",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0045",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0046",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0047",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0048",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0049",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0050",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0051",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0052",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i10_j29__T240__shot0053"
+  ],
+  "_num_scenes": 34,
+  "_num_shots": 50,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Simon",
+    "Character 3": "Felix",
+    "Character 4": "Toby",
+    "Character 5": "Silas",
+    "Character 6": "Marcus",
+    "Character 7": "Nadia",
+    "Character 8": "Alex",
+    "Location 1": "The Party Room",
+    "Location 2": "The Manager's Office",
+    "Location 3": "The Vending Hallway",
+    "Location 4": "The Modern Apartment",
+    "Location 5": "The Green Room",
+    "Object 1": "the festive balloons",
+    "Object 10": "the cup of soda",
+    "Object 11": "the pink plastic fork",
+    "Object 12": "the polka dot party hat",
+    "Object 13": "the vending machine",
+    "Object 14": "the striped party horn",
+    "Object 15": "the plaid shirt",
+    "Object 16": "the black blazer",
+    "Object 17": "the plastic folding chairs",
+    "Object 18": "the green ping-pong table",
+    "Object 19": "the glitching TV",
+    "Object 2": "the banquet table",
+    "Object 20": "the 'CONGRATULATIONS' banner",
+    "Object 21": "the security device",
+    "Object 22": "the guard uniform",
+    "Object 23": "the stained vinyl sofa",
+    "Object 24": "the 'TOKENS' and 'PIZZA' sign",
+    "Object 3": "the birthday cake",
+    "Object 4": "the red party cup",
+    "Object 5": "the lemon soda can",
+    "Object 6": "the glowing earpiece",
+    "Object 7": "the veneer office table",
+    "Object 8": "the striped t-shirt",
+    "Object 9": "the dark green hoodie"
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "story_name": "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120",
+  "story_overview": "The story begins with Fiona filling out a medical history form. In an archive office, a concerned Arthur receives a mysterious note from Wei. The investigation moves to a bustling market where Anika, Arthur, and Darius navigate the crowds. The intrigue builds in the archive office through a series of tense interactions between Mei, Wei, Anika, and Darius, culminating with Arthur examining colorful skeins of yarn in a weaver's workshop.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Fiona: Young woman with long curly red hair falling past her shoulders, fair skin with light freckles, wearing a fitted sage-green vintage A-line dress with a Peter Pan collar and short puffed sleeves, a thin brown leather belt at the waist, and brown lace-up ankle boots.\nthe medical history form: White paper form with black printed lines and fields, featuring the handwritten black ink numbers '6432' and the Chinese characters '母病史'.\n\nExtreme close-up from a high angle on the hand of Fiona writing on the medical history form. The hand writes the numbers '6432' and the Chinese characters '母病史' onto the medical history form in one of the blank fields."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up from a high angle on the hand of Fiona writing on the medical history form. The hand writes the numbers '6432' and the Chinese characters '母病史' onto the medical history form in one of the blank fields."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Arthur: Man in a white shirt and a brown vest.\nThe Archive Office: Indoor office or study complex.\nthe tweed waistcoat: Brown tweed waistcoat with a V-neck, a single row of dark buttons, two small welt pockets, and a dark satin back with an adjustable cinch strap.\nthe paisley necktie: Silk necktie with a repeating small-scale paisley pattern in shades of brown, dark orange, and olive green.\n\nA close-up profile shot of Arthur speaking with a concerned expression inside The Archive Office. He wears the white dress shirt, the tweed waistcoat, and the paisley necktie.",
+        "Wei: East Asian man with short dark hair, wearing a white turtleneck under a dark traditional jacket.\nInside The Archive Office, a close-up profile view of Wei wearing the white turtleneck sweater. He is speaking with a worried and concerned expression.",
+        "A medium shot of Arthur in profile inside The Archive Office. Arthur is wearing the white dress shirt and the tweed waistcoat. His brow furrows with concern as he stares at something just off-screen.",
+        "the folded note: Small rectangular piece of white paper, folded into a smaller rectangle, with several lines of hasty, handwritten black ink script and visible crease marks.\n\nIn The Archive Office, Wei, wearing the white turtleneck sweater, stands facing Arthur and speaks earnestly. Wei then turns and walks out of frame. Arthur, wearing the white dress shirt and the tweed waistcoat, remains standing alone, lowering his gaze to the folded note held in his hand."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "A close-up profile shot of Arthur speaking with a concerned expression inside The Archive Office. He wears the white dress shirt, the tweed waistcoat, and the paisley necktie.",
+        "Inside The Archive Office, a close-up profile view of Wei wearing the white turtleneck sweater. He is speaking with a worried and concerned expression.",
+        "A medium shot of Arthur in profile inside The Archive Office. Arthur is wearing the white dress shirt and the tweed waistcoat. His brow furrows with concern as he stares at something just off-screen.",
+        "In The Archive Office, Wei, wearing the white turtleneck sweater, stands facing Arthur and speaks earnestly. Wei then turns and walks out of frame. Arthur, wearing the white dress shirt and the tweed waistcoat, remains standing alone, lowering his gaze to the folded note held in his hand."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Anika: Woman wearing a patterned coat over a brown plaid tunic, a light-colored scarf, and a blue hat.\nDarius: Man with a shaved head wearing a dark, patterned blazer over a button-down shirt and a dark-colored man's vest.\nThe Spice Market: Dense outdoor street market with numerous vendor booths and a food stall.\nthe chunky cream scarf: Thick, cream-colored, chunky-knit scarf with fringed ends.\nthe noodle stall: Food stall with a weathered wooden body, a large metal cooktop surface, and a red-and-white striped canvas awning.\nAnika, wearing the blue cloche hat, the houndstooth coat, and the chunky cream scarf, walks with a concerned expression through the bustling crowd in The Spice Market. In the background, steam rises from the noodle stall. Arthur, Darius, and Wei move among the other shoppers in the busy market.",
+        "the rusted iron gate: Tall, black wrought-iron gate composed of slender, parallel vertical bars, showing some signs of wear with patches of light rust and peeling paint.\n\nIn The Spice Market, Anika stands on a city street, viewed through the bars of the rusted iron gate during the day. Anika wears the houndstooth coat, the blue cloche hat, and the chunky cream scarf. She slowly lowers her gaze, her expression turning somber.",
+        "the dark suit: Dark-colored suit jacket with matching trousers.\n\nMedium shot from behind the bars of the rusted iron gate, looking out onto the bustling street market of The Spice Market. Anika, wearing the houndstooth coat and the blue cloche hat, walks from left to right, flanked by Arthur and Darius."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Anika, wearing the blue cloche hat, the houndstooth coat, and the chunky cream scarf, walks with a concerned expression through the bustling crowd in The Spice Market. In the background, steam rises from the noodle stall. Arthur, Darius, and Wei move among the other shoppers in the busy market.",
+        "In The Spice Market, Anika stands on a city street, viewed through the bars of the rusted iron gate during the day. Anika wears the houndstooth coat, the blue cloche hat, and the chunky cream scarf. She slowly lowers her gaze, her expression turning somber.",
+        "Medium shot from behind the bars of the rusted iron gate, looking out onto the bustling street market of The Spice Market. Anika, wearing the houndstooth coat and the blue cloche hat, walks from left to right, flanked by Arthur and Darius."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Train Compartment: Interior of a train car with a window and a hanging white chain.\n\nClose-up in The Train Compartment. Anika, wearing the blue cloche hat and a patterned coat, gazes out the train car window, her expression shifting to show concern. Wei's faint reflection is cast upon the window glass as a white chain hangs in the foreground."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up in The Train Compartment. Anika, wearing the blue cloche hat and a patterned coat, gazes out the train car window, her expression shifting to show concern. Wei's faint reflection is cast upon the window glass as a white chain hangs in the foreground."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the leather office chair: High-backed black leather executive office chair with a padded seat and backrest, fixed armrests, and a silver-colored metal swivel base with five casters.\nthe stacks of books: Several vertical stacks of books.\nthe dark wood cabinet: Low, wide wooden office cabinet with a dark, polished finish, featuring two solid panel doors with small, simple brass knobs.\n\nArthur sits in the leather office chair, wearing the white dress shirt, the paisley necktie, and the tweed waistcoat. With a pensive expression, he slowly turns the red knitted gloves over in his hands, his thumb tracing the fabric. In the background, the stacks of books rest on top of the dark wood cabinet.",
+        "the two-button grey suit: Man's two-piece suit in a solid medium grey fabric, featuring a single-breasted jacket with two buttons and notch lapels, and matching flat-front trousers.\n\nMedium close-up in The Archive Office. With a serious expression, Arthur stands up and puts on the jacket of the two-button grey suit, smoothing the fabric. Fiona stands in the background, watching him.",
+        "the textured leather satchel: Brown leather satchel with a textured surface.\nHigh-angle close-up of Wei's arm reaching down to pick up the red knitted gloves from Anika. The gloves rest on top of the textured leather satchel.",
+        "Close-up on the hands of Arthur as he carefully examines the red knitted gloves. The camera tilts up to his face, revealing a serious and thoughtful expression.",
+        "Mei: Woman with styled, dark hair, wearing a traditional patterned cheongsam and a pair of light green earrings.\nthe modern leather sofa: Modern black leather sofa with a low back, button-tufted seat and back cushions, and a polished chrome metal base with slim legs.\nthe cup of tea: Amber-colored tea in a white ceramic teacup on a matching saucer.\n\nIn The Archive Office, Wei sits on the modern leather sofa and watches with a neutral expression as Darius carefully serves the cup of tea. Mei stands nearby, her head tilting slightly as she observes the interaction.",
+        "Wei stands, holding the ball of blue yarn as he speaks to Mei, who sits on a couch, leaning forward slightly as she listens intently. In the background between them, Anika stands and watches the exchange, her gaze shifting between them.",
+        "Close-up of Mei, wearing the fuzzy blue coat, in The Archive Office. She sits, pointing her finger forward at Anika, who is wearing the patterned scarf, while speaking with an angry and accusatory expression.",
+        "In The Archive Office, Mei speaks with a persuasive expression while Anika listens intently, holding the traditional Chinese jacket. In the background, the blurry framed photo hangs on the wall.",
+        "Mei, wearing the fuzzy blue coat and the jade-green earrings, speaks with a serious expression to Fiona. Fiona, wearing the patterned scarf, stands opposite her, listening intently.",
+        "Anika looks down at the traditional Chinese jacket she is holding, her expression twisting in distress and pain. In the background, the blurry framed photo hangs on the wall.",
+        "A close-up on Mei in The Archive Office. She sits opposite Anika, wearing the fuzzy blue coat and the jade-green earrings, and speaks with a serious expression.",
+        "In The Archive Office, a close view of Darius speaking with a pleading expression. Anika watches from the background."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Arthur sits in the leather office chair, wearing the white dress shirt, the paisley necktie, and the tweed waistcoat. With a pensive expression, he slowly turns the red knitted gloves over in his hands, his thumb tracing the fabric. In the background, the stacks of books rest on top of the dark wood cabinet.",
+        "Medium close-up in The Archive Office. With a serious expression, Arthur stands up and puts on the jacket of the two-button grey suit, smoothing the fabric. Fiona stands in the background, watching him.",
+        "High-angle close-up of Wei's arm reaching down to pick up the red knitted gloves from Anika. The gloves rest on top of the textured leather satchel.",
+        "Close-up on the hands of Arthur as he carefully examines the red knitted gloves. The camera tilts up to his face, revealing a serious and thoughtful expression.",
+        "In The Archive Office, Wei sits on the modern leather sofa and watches with a neutral expression as Darius carefully serves the cup of tea. Mei stands nearby, her head tilting slightly as she observes the interaction.",
+        "Wei stands, holding the ball of blue yarn as he speaks to Mei, who sits on a couch, leaning forward slightly as she listens intently. In the background between them, Anika stands and watches the exchange, her gaze shifting between them.",
+        "Close-up of Mei, wearing the fuzzy blue coat, in The Archive Office. She sits, pointing her finger forward at Anika, who is wearing the patterned scarf, while speaking with an angry and accusatory expression.",
+        "In The Archive Office, Mei speaks with a persuasive expression while Anika listens intently, holding the traditional Chinese jacket. In the background, the blurry framed photo hangs on the wall.",
+        "Mei, wearing the fuzzy blue coat and the jade-green earrings, speaks with a serious expression to Fiona. Fiona, wearing the patterned scarf, stands opposite her, listening intently.",
+        "Anika looks down at the traditional Chinese jacket she is holding, her expression twisting in distress and pain. In the background, the blurry framed photo hangs on the wall.",
+        "A close-up on Mei in The Archive Office. She sits opposite Anika, wearing the fuzzy blue coat and the jade-green earrings, and speaks with a serious expression.",
+        "In The Archive Office, a close view of Darius speaking with a pleading expression. Anika watches from the background."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Weaver's Workshop: Indoor workshop containing a table with organized rows of colorful skeins of yarn.\nthe colorful skeins of yarn: Skeins of thick, fibrous yarn in a variety of vibrant colors, wound into oblong loops.\nthe wooden workshop table: A simple, utilitarian workshop table made of light-colored wood with a plain, flat top showing some scuffs and scratches from use.\n\nHe stares down with an intense expression, his hands gently brushing across rows of the colorful skeins of yarn that are laid out on the wooden workshop table. Anika stands beside him, leaning in slightly to observe his actions."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "He stares down with an intense expression, his hands gently brushing across rows of the colorful skeins of yarn that are laid out on the wooden workshop table. Anika stands beside him, leaning in slightly to observe his actions."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [],
+      "objects": [
+        "the medical history form"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the white dress shirt",
+        "the tweed waistcoat",
+        "the paisley necktie"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Wei"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the white turtleneck sweater"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the white dress shirt",
+        "the tweed waistcoat"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Wei",
+        "Arthur"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the white turtleneck sweater",
+        "the white dress shirt",
+        "the tweed waistcoat",
+        "the folded note"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Wei",
+        "Anika",
+        "Arthur",
+        "Darius"
+      ],
+      "places": [
+        "The Spice Market"
+      ],
+      "objects": [
+        "the houndstooth coat",
+        "the chunky cream scarf",
+        "the blue cloche hat",
+        "the noodle stall"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Anika"
+      ],
+      "places": [
+        "The Spice Market"
+      ],
+      "objects": [
+        "the blue cloche hat",
+        "the houndstooth coat",
+        "the chunky cream scarf",
+        "the rusted iron gate"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Arthur",
+        "Anika",
+        "Darius"
+      ],
+      "places": [
+        "The Spice Market"
+      ],
+      "objects": [
+        "the rusted iron gate",
+        "the blue cloche hat",
+        "the houndstooth coat"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Anika",
+        "Wei"
+      ],
+      "places": [
+        "The Train Compartment"
+      ],
+      "objects": [
+        "the blue cloche hat"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the leather office chair",
+        "the white dress shirt",
+        "the tweed waistcoat",
+        "the paisley necktie",
+        "the red knitted gloves",
+        "the stacks of books",
+        "the dark wood cabinet"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Arthur",
+        "Fiona"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the two-button grey suit"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Wei",
+        "Anika"
+      ],
+      "places": [],
+      "objects": [
+        "the red knitted gloves",
+        "the textured leather satchel"
+      ]
+    },
+    "5:4": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the red knitted gloves"
+      ]
+    },
+    "5:5": {
+      "characters": [
+        "Mei",
+        "Wei",
+        "Darius"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the modern leather sofa",
+        "the cup of tea"
+      ]
+    },
+    "5:6": {
+      "characters": [
+        "Mei",
+        "Wei",
+        "Anika"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the ball of blue yarn"
+      ]
+    },
+    "5:7": {
+      "characters": [
+        "Mei",
+        "Anika"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the fuzzy blue coat",
+        "the patterned scarf"
+      ]
+    },
+    "5:8": {
+      "characters": [
+        "Anika",
+        "Mei"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the traditional Chinese jacket",
+        "the blurry framed photo"
+      ]
+    },
+    "5:9": {
+      "characters": [
+        "Mei",
+        "Fiona"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the fuzzy blue coat",
+        "the patterned scarf",
+        "the jade-green earrings"
+      ]
+    },
+    "5:10": {
+      "characters": [
+        "Anika"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the traditional Chinese jacket",
+        "the blurry framed photo"
+      ]
+    },
+    "5:11": {
+      "characters": [
+        "Mei",
+        "Anika"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": [
+        "the fuzzy blue coat",
+        "the jade-green earrings"
+      ]
+    },
+    "5:12": {
+      "characters": [
+        "Anika",
+        "Darius"
+      ],
+      "places": [
+        "The Archive Office"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Anika"
+      ],
+      "places": [
+        "The Weaver's Workshop"
+      ],
+      "objects": [
+        "the colorful skeins of yarn",
+        "the wooden workshop table"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Mei",
+      "label": "Character 1",
+      "description": "Woman with styled, dark hair, wearing a traditional patterned cheongsam and a pair of light green earrings."
+    },
+    "Character 2": {
+      "name": "Fiona",
+      "label": "Character 2",
+      "description": "Young woman with long curly red hair falling past her shoulders, fair skin with light freckles, wearing a fitted sage-green vintage A-line dress with a Peter Pan collar and short puffed sleeves, a thin brown leather belt at the waist, and brown lace-up ankle boots."
+    },
+    "Character 3": {
+      "name": "Arthur",
+      "label": "Character 3",
+      "description": "Man in a white shirt and a brown vest."
+    },
+    "Character 4": {
+      "name": "Darius",
+      "label": "Character 4",
+      "description": "Man with a shaved head wearing a dark, patterned blazer over a button-down shirt and a dark-colored man's vest."
+    },
+    "Character 5": {
+      "name": "Wei",
+      "label": "Character 5",
+      "description": "East Asian man with short dark hair, wearing a white turtleneck under a dark traditional jacket."
+    },
+    "Character 6": {
+      "name": "Anika",
+      "label": "Character 6",
+      "description": "Woman wearing a patterned coat over a brown plaid tunic, a light-colored scarf, and a blue hat."
+    },
+    "Location 1": {
+      "name": "The Archive Office",
+      "label": "Location 1",
+      "description": "Indoor office or study complex."
+    },
+    "Location 2": {
+      "name": "The Spice Market",
+      "label": "Location 2",
+      "description": "Dense outdoor street market with numerous vendor booths and a food stall."
+    },
+    "Location 3": {
+      "name": "The Train Compartment",
+      "label": "Location 3",
+      "description": "Interior of a train car with a window and a hanging white chain."
+    },
+    "Location 4": {
+      "name": "The Weaver's Workshop",
+      "label": "Location 4",
+      "description": "Indoor workshop containing a table with organized rows of colorful skeins of yarn."
+    },
+    "Object 1": {
+      "name": "the jade-green earrings",
+      "label": "Object 1",
+      "description": "Pair of earrings with shades of green, light green, and blue"
+    },
+    "Object 2": {
+      "name": "the folded note",
+      "label": "Object 2",
+      "description": "Small rectangular piece of white paper, folded into a smaller rectangle, with several lines of hasty, handwritten black ink script and visible crease marks."
+    },
+    "Object 3": {
+      "name": "the tweed waistcoat",
+      "label": "Object 3",
+      "description": "Brown tweed waistcoat with a V-neck, a single row of dark buttons, two small welt pockets, and a dark satin back with an adjustable cinch strap."
+    },
+    "Object 4": {
+      "name": "the white turtleneck sweater",
+      "label": "Object 4",
+      "description": "A long-sleeved white turtleneck sweater with a high, folded-over collar"
+    },
+    "Object 5": {
+      "name": "the medical history form",
+      "label": "Object 5",
+      "description": "White paper form with black printed lines and fields, featuring the handwritten black ink numbers '6432' and the Chinese characters '母病史'."
+    },
+    "Object 6": {
+      "name": "the white dress shirt",
+      "label": "Object 6",
+      "description": "White long-sleeved man's dress shirt with a pointed collar"
+    },
+    "Object 7": {
+      "name": "the paisley necktie",
+      "label": "Object 7",
+      "description": "Silk necktie with a repeating small-scale paisley pattern in shades of brown, dark orange, and olive green."
+    },
+    "Object 8": {
+      "name": "the blue cloche hat",
+      "label": "Object 8",
+      "description": "Navy blue wool felt cloche hat with a bell-shaped crown, a short downturned brim, and a matching grosgrain ribbon band around the base"
+    },
+    "Object 9": {
+      "name": "the houndstooth coat",
+      "label": "Object 9",
+      "description": "Woman's knee-length, double-breasted coat in a black and white houndstooth pattern, featuring wide notched lapels and a matching fabric belt"
+    },
+    "Object 10": {
+      "name": "the chunky cream scarf",
+      "label": "Object 10",
+      "description": "Thick, cream-colored, chunky-knit scarf with fringed ends."
+    },
+    "Object 11": {
+      "name": "the noodle stall",
+      "label": "Object 11",
+      "description": "Food stall with a weathered wooden body, a large metal cooktop surface, and a red-and-white striped canvas awning."
+    },
+    "Object 12": {
+      "name": "the rusted iron gate",
+      "label": "Object 12",
+      "description": "Tall, black wrought-iron gate composed of slender, parallel vertical bars, showing some signs of wear with patches of light rust and peeling paint."
+    },
+    "Object 13": {
+      "name": "the dark suit",
+      "label": "Object 13",
+      "description": "Dark-colored suit jacket with matching trousers"
+    },
+    "Object 14": {
+      "name": "the solid grey suit",
+      "label": "Object 14",
+      "description": "Man's suit consisting of a solid grey jacket and matching trousers"
+    },
+    "Object 15": {
+      "name": "the woman's grey coat",
+      "label": "Object 15",
+      "description": "Woman's grey coat"
+    },
+    "Object 16": {
+      "name": "the red knitted gloves",
+      "label": "Object 16",
+      "description": "Pair of red knitted gloves"
+    },
+    "Object 17": {
+      "name": "the dark wood cabinet",
+      "label": "Object 17",
+      "description": "Low, wide wooden office cabinet with a dark, polished finish, featuring two solid panel doors with small, simple brass knobs."
+    },
+    "Object 18": {
+      "name": "the leather office chair",
+      "label": "Object 18",
+      "description": "High-backed black leather executive office chair with a padded seat and backrest, fixed armrests, and a silver-colored metal swivel base with five casters."
+    },
+    "Object 19": {
+      "name": "the stacks of books",
+      "label": "Object 19",
+      "description": "Several vertical stacks of books."
+    },
+    "Object 20": {
+      "name": "the two-button grey suit",
+      "label": "Object 20",
+      "description": "Man's two-piece suit in a solid medium grey fabric, featuring a single-breasted jacket with two buttons and notch lapels, and matching flat-front trousers."
+    },
+    "Object 21": {
+      "name": "the textured leather satchel",
+      "label": "Object 21",
+      "description": "Brown leather satchel with a textured surface."
+    },
+    "Object 22": {
+      "name": "the traditional Chinese jacket",
+      "label": "Object 22",
+      "description": "Dark, patterned, traditional Chinese-style jacket with a mandarin collar and frog closures"
+    },
+    "Object 23": {
+      "name": "the modern leather sofa",
+      "label": "Object 23",
+      "description": "Modern black leather sofa with a low back, button-tufted seat and back cushions, and a polished chrome metal base with slim legs."
+    },
+    "Object 24": {
+      "name": "the cup of tea",
+      "label": "Object 24",
+      "description": "Amber-colored tea in a white ceramic teacup on a matching saucer."
+    },
+    "Object 25": {
+      "name": "the ball of blue yarn",
+      "label": "Object 25",
+      "description": "A spherical ball composed of wound strands of soft, blue-colored yarn"
+    },
+    "Object 26": {
+      "name": "the fuzzy blue coat",
+      "label": "Object 26",
+      "description": "Blue coat with a fuzzy pile texture"
+    },
+    "Object 27": {
+      "name": "the patterned scarf",
+      "label": "Object 27",
+      "description": "Patterned scarf"
+    },
+    "Object 28": {
+      "name": "the blurry framed photo",
+      "label": "Object 28",
+      "description": "A framed picture containing a blurry and unrecognizable image"
+    },
+    "Object 29": {
+      "name": "the colorful skeins of yarn",
+      "label": "Object 29",
+      "description": "Skeins of thick, fibrous yarn in a variety of vibrant colors, wound into oblong loops."
+    },
+    "Object 30": {
+      "name": "the wooden workshop table",
+      "label": "Object 30",
+      "description": "A simple, utilitarian workshop table made of light-colored wood with a plain, flat top showing some scuffs and scratches from use."
+    }
+  },
+  "_window_shot_ids": [
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0005",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0006",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0007",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0008",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0009",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0010",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0011",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0012",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0013",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0014",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0015",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0016",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0017",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0018",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0019",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0020",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0021",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0022",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0023",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0024",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0025",
+    "00030a3e-3328-3cda-95bb-e4faf34e8b1b__run338__i25_j34__T120__shot0026"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 22,
+  "_name_map": {
+    "Character 1": "Mei",
+    "Character 2": "Fiona",
+    "Character 3": "Arthur",
+    "Character 4": "Darius",
+    "Character 5": "Wei",
+    "Character 6": "Anika",
+    "Location 1": "The Archive Office",
+    "Location 2": "The Spice Market",
+    "Location 3": "The Train Compartment",
+    "Location 4": "The Weaver's Workshop",
+    "Object 1": "the jade-green earrings",
+    "Object 2": "the folded note",
+    "Object 3": "the tweed waistcoat",
+    "Object 4": "the white turtleneck sweater",
+    "Object 5": "the medical history form",
+    "Object 6": "the white dress shirt",
+    "Object 7": "the paisley necktie",
+    "Object 8": "the blue cloche hat",
+    "Object 9": "the houndstooth coat",
+    "Object 10": "the chunky cream scarf",
+    "Object 11": "the noodle stall",
+    "Object 12": "the rusted iron gate",
+    "Object 13": "the dark suit",
+    "Object 14": "the solid grey suit",
+    "Object 15": "the woman's grey coat",
+    "Object 16": "the red knitted gloves",
+    "Object 17": "the dark wood cabinet",
+    "Object 18": "the leather office chair",
+    "Object 19": "the stacks of books",
+    "Object 20": "the two-button grey suit",
+    "Object 21": "the textured leather satchel",
+    "Object 22": "the traditional Chinese jacket",
+    "Object 23": "the modern leather sofa",
+    "Object 24": "the cup of tea",
+    "Object 25": "the ball of blue yarn",
+    "Object 26": "the fuzzy blue coat",
+    "Object 27": "the patterned scarf",
+    "Object 28": "the blurry framed photo",
+    "Object 29": "the colorful skeins of yarn",
+    "Object 30": "the wooden workshop table"
+  }
+}

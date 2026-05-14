@@ -1,0 +1,384 @@
+{
+  "story_name": "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240",
+  "story_overview": "Marcus and Clara have a serious conversation on a cobblestone street at night. Later, a troubled Marcus takes a somber phone call in a cluttered apartment where Alex was resting. The story escalates as Alex runs through the city and Marcus rushes to a hospital to meet a concerned Chloe, culminating in an emotional hug between them in an office.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Marcus: Man with graying dark hair, wearing a beige jacket over the dark blue shirt and dark trousers.\nClara: Woman with shoulder-length brown hair, wearing a black jumpsuit.\nLeo: Man with dark hair, wearing a tan jacket over a white t-shirt, dark pants, and sneakers\nthe dark blue shirt: Dark blue man's shirt belonging to Marcus.\n\nOn the Cobblestone Street, Marcus, Clara, and Leo walk side-by-side. Marcus, wearing the beige jacket and the dark blue shirt, walks with his hands in his pockets, looking down at the ground as he speaks. Clara, wearing the black jumpsuit, looks intently at Marcus, listening as they walk.",
+        "Chloe: Visibly pregnant woman with blonde hair, wearing a dark blue long-sleeved top and dark gray pants.\n\nOn the Cobblestone Street, Marcus, Clara, wearing the black jumpsuit, and Chloe walk together toward the camera. Marcus, wearing the beige jacket, has his hands in his pockets as he talks to Clara, who listens intently. Chloe walks alongside them.",
+        "On the Cobblestone Street at night, a medium shot follows the talking Marcus, wearing the beige jacket, and the attentively listening Clara, wearing the black jumpsuit, as they walk together.",
+        "Mr. Hall: A disheveled older man in a wrinkled shirt has heavy bags under his weary eyes.\n\nClara, wearing the black jumpsuit, and Marcus stand together, facing Mr. Hall. Clara's expression grows concerned as Mr. Hall slowly looks up at them with tired eyes."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "On the Cobblestone Street, Marcus, Clara, and Leo walk side-by-side. Marcus, wearing the beige jacket and the dark blue shirt, walks with his hands in his pockets, looking down at the ground as he speaks. Clara, wearing the black jumpsuit, looks intently at Marcus, listening as they walk.",
+        "On the Cobblestone Street, Marcus, Clara, wearing the black jumpsuit, and Chloe walk together toward the camera. Marcus, wearing the beige jacket, has his hands in his pockets as he talks to Clara, who listens intently. Chloe walks alongside them.",
+        "On the Cobblestone Street at night, a medium shot follows the talking Marcus, wearing the beige jacket, and the attentively listening Clara, wearing the black jumpsuit, as they walk together.",
+        "Clara, wearing the black jumpsuit, and Marcus stand together, facing Mr. Hall. Clara's expression grows concerned as Mr. Hall slowly looks up at them with tired eyes."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Stone Corridor: Narrow interior corridor with walls, an arched ceiling, and a floor all constructed from fitted stone blocks.\n\nIn a medium close-up, Marcus stands in the dimly lit The Stone Corridor at night. He has a pensive expression and slowly looks around, surveying his surroundings.",
+        "Medium shot of Marcus, wearing a beige jacket over his blue button-front shirt, leaning against a large stone wall in the dimly lit The Stone Corridor at night. Marcus has a troubled, angry expression. He looks down in thought, then slowly lifts his gaze."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In a medium close-up, Marcus stands in the dimly lit The Stone Corridor at night. He has a pensive expression and slowly looks around, surveying his surroundings.",
+        "Medium shot of Marcus, wearing a beige jacket over his blue button-front shirt, leaning against a large stone wall in the dimly lit The Stone Corridor at night. Marcus has a troubled, angry expression. He looks down in thought, then slowly lifts his gaze."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Alex: Young adult with androgynous features and short, messy brown hair, wearing a simple gray hoodie and jeans.\nThe Cluttered Apartment: Interior of a cluttered apartment room featuring a wooden desk covered in scattered papers, stacked books, overflowing ashtrays, and a black vintage rotary telephone. A couch is also in the room.\nthe cluttered wooden desk: Wooden desk covered in scattered papers, stacked books, overflowing ashtrays, and a black vintage rotary telephone\nthe vintage rotary phone: Vintage black rotary telephone with a glossy bakelite body, a classic handset, and a coiled cord\nIn the dimly lit The Cluttered Apartment, the vintage rotary phone and the glass of dark liquid rest on the cluttered wooden desk. On a couch in the room, Alex lies still before abruptly sitting bolt upright.",
+        "Inside The Cluttered Apartment, Marcus moves towards the cluttered wooden desk. The view tightens on Marcus as he picks up the receiver for the vintage rotary phone and listens, his face showing a somber expression."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Cluttered Apartment, the vintage rotary phone and the glass of dark liquid rest on the cluttered wooden desk. On a couch in the room, Alex lies still before abruptly sitting bolt upright.",
+        "Inside The Cluttered Apartment, Marcus moves towards the cluttered wooden desk. The view tightens on Marcus as he picks up the receiver for the vintage rotary phone and listens, his face showing a somber expression."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Low-angle static shot, partially obscured by the front grille of the black Volkswagen. On a European city sidewalk, Alex and Marcus run toward the camera. In the background is a storefront with a 'DRYCLEANERS' sign."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle static shot, partially obscured by the front grille of the black Volkswagen. On a European city sidewalk, Alex and Marcus run toward the camera. In the background is a storefront with a 'DRYCLEANERS' sign."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Hospital Corridor: A sterile hospital hallway with a strong teal color palette, featuring polished floors, a wall-mounted handrail, and a series of identical doors leading to patient rooms.\nthe nurses' station desk: A long, modern nurses' station reception desk with a light-colored wood or laminate finish, featuring a high front counter and a lower integrated work surface.\nthe tortoiseshell glasses: Modern women's eyeglasses with thin, rectangular, tortoiseshell-patterned plastic frames and clear lenses\nIn the sterile The Hospital Corridor, Chloe, wearing the tortoiseshell glasses, walks with her arms crossed and a concerned expression on her face. Marcus walks purposefully toward her from the opposite end of the corridor, passing the nurses' station desk."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the sterile The Hospital Corridor, Chloe, wearing the tortoiseshell glasses, walks with her arms crossed and a concerned expression on her face. Marcus walks purposefully toward her from the opposite end of the corridor, passing the nurses' station desk."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Executive Office: Indoor office with dark wood-paneled walls, a large executive desk, a high-backed leather chair, and built-in bookshelves.\n\nInside the dimly lit The Executive Office, Marcus embraces Chloe in a tight, emotional hug. Marcus's face shows his shock, while Chloe's back is turned to the camera. To the right, Alex watches from the background, shifting slightly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside the dimly lit The Executive Office, Marcus embraces Chloe in a tight, emotional hug. Marcus's face shows his shock, while Chloe's back is turned to the camera. To the right, Alex watches from the background, shifting slightly."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Marcus",
+        "Clara",
+        "Leo"
+      ],
+      "places": [
+        "Cobblestone Street"
+      ],
+      "objects": [
+        "the beige jacket",
+        "the dark blue shirt",
+        "the black jumpsuit"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Chloe",
+        "Marcus",
+        "Clara"
+      ],
+      "places": [
+        "Cobblestone Street"
+      ],
+      "objects": [
+        "the beige jacket",
+        "the black jumpsuit"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Marcus",
+        "Clara"
+      ],
+      "places": [
+        "Cobblestone Street"
+      ],
+      "objects": [
+        "the beige jacket",
+        "the black jumpsuit"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Marcus",
+        "Clara",
+        "Mr. Hall"
+      ],
+      "places": [],
+      "objects": [
+        "the black jumpsuit"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Stone Corridor"
+      ],
+      "objects": [
+        "the tan jacket",
+        "the blue button-front shirt"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Stone Corridor"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The Cluttered Apartment"
+      ],
+      "objects": [
+        "the cluttered wooden desk",
+        "the vintage rotary phone",
+        "the glass of dark liquid"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Cluttered Apartment"
+      ],
+      "objects": [
+        "the vintage rotary phone",
+        "the cluttered wooden desk"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Marcus",
+        "Alex"
+      ],
+      "places": [],
+      "objects": [
+        "the black Volkswagen"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Marcus",
+        "Chloe"
+      ],
+      "places": [
+        "The Hospital Corridor"
+      ],
+      "objects": [
+        "the tortoiseshell glasses",
+        "the nurses' station desk"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Marcus",
+        "Alex",
+        "Chloe"
+      ],
+      "places": [
+        "The Executive Office"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Man with dark hair, wearing a tan jacket over a white t-shirt, dark pants, and sneakers"
+    },
+    "Character 2": {
+      "name": "Clara",
+      "label": "Character 2",
+      "description": "Woman with shoulder-length brown hair, wearing a black jumpsuit."
+    },
+    "Character 3": {
+      "name": "Chloe",
+      "label": "Character 3",
+      "description": "Visibly pregnant woman with blonde hair, wearing a dark blue long-sleeved top and dark gray pants."
+    },
+    "Character 4": {
+      "name": "Marcus",
+      "label": "Character 4",
+      "description": "Man with graying dark hair, wearing a beige jacket over the dark blue shirt and dark trousers."
+    },
+    "Character 5": {
+      "name": "Alex",
+      "label": "Character 5",
+      "description": "Young adult with androgynous features and short, messy brown hair, wearing a simple gray hoodie and jeans."
+    },
+    "Location 1": {
+      "name": "The Main Hall",
+      "label": "Location 1",
+      "description": "Middle-aged tall man with short salt-and-pepper hair, tired eyes, and a five o'clock shadow, wearing a rumpled dark blue suit, a loosened red tie, and scuffed brown oxford shoes"
+    },
+    "Location 2": {
+      "name": "The Stone Corridor",
+      "label": "Location 2",
+      "description": "Narrow interior corridor with walls, an arched ceiling, and a floor all constructed from fitted stone blocks."
+    },
+    "Location 3": {
+      "name": "The Cluttered Apartment",
+      "label": "Location 3",
+      "description": "Interior of a cluttered apartment room featuring a wooden desk covered in scattered papers, stacked books, overflowing ashtrays, and a black vintage rotary telephone. A couch is also in the room."
+    },
+    "Location 4": {
+      "name": "The Hospital Corridor",
+      "label": "Location 4",
+      "description": "A sterile hospital hallway with a strong teal color palette, featuring polished floors, a wall-mounted handrail, and a series of identical doors leading to patient rooms."
+    },
+    "Location 5": {
+      "name": "The Executive Office",
+      "label": "Location 5",
+      "description": "Indoor office with dark wood-paneled walls, a large executive desk, a high-backed leather chair, and built-in bookshelves."
+    },
+    "Object 1": {
+      "name": "the black jumpsuit",
+      "label": "Object 1",
+      "description": "Long, dark black dress or jumpsuit"
+    },
+    "Object 2": {
+      "name": "the beige jacket",
+      "label": "Object 2",
+      "description": "Man's light-colored beige or tan jacket"
+    },
+    "Object 3": {
+      "name": "the dark blue shirt",
+      "label": "Object 3",
+      "description": "Dark blue man's shirt belonging to Marcus."
+    },
+    "Object 4": {
+      "name": "the wrought-iron lamppost",
+      "label": "Object 4",
+      "description": "Ornate, black wrought-iron lampposts with multi-paned glass lanterns emitting a warm, yellow-orange glow"
+    },
+    "Object 5": {
+      "name": "the tan jacket",
+      "label": "Object 5",
+      "description": "Man's light beige jacket worn over a blue shirt"
+    },
+    "Object 6": {
+      "name": "the blue button-front shirt",
+      "label": "Object 6",
+      "description": "Dark blue, long-sleeved, collared button-front shirt made of cotton"
+    },
+    "Object 7": {
+      "name": "the vintage rotary phone",
+      "label": "Object 7",
+      "description": "Vintage black rotary telephone with a glossy bakelite body, a classic handset, and a coiled cord"
+    },
+    "Object 8": {
+      "name": "the cluttered wooden desk",
+      "label": "Object 8",
+      "description": "Wooden desk covered in scattered papers, stacked books, overflowing ashtrays, and a black vintage rotary telephone"
+    },
+    "Object 9": {
+      "name": "the glass of dark liquid",
+      "label": "Object 9",
+      "description": "A glass containing a dark liquid"
+    },
+    "Object 10": {
+      "name": "the black Volkswagen",
+      "label": "Object 10",
+      "description": "Black Volkswagen car with a prominent front grille"
+    },
+    "Object 11": {
+      "name": "the nurses' station desk",
+      "label": "Object 11",
+      "description": "A long, modern nurses' station reception desk with a light-colored wood or laminate finish, featuring a high front counter and a lower integrated work surface."
+    },
+    "Object 12": {
+      "name": "the tortoiseshell glasses",
+      "label": "Object 12",
+      "description": "Modern women's eyeglasses with thin, rectangular, tortoiseshell-patterned plastic frames and clear lenses"
+    },
+    "Gen_Mr. Hall": {
+      "name": "Mr. Hall",
+      "label": "Gen_Mr. Hall",
+      "description": "A disheveled older man in a wrinkled shirt has heavy bags under his weary eyes."
+    }
+  },
+  "_window_shot_ids": [
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0004",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0005",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0006",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0007",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0008",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0009",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0010",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0011",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0012",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0013",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i80_j100__T240__shot0014"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Clara",
+    "Character 3": "Chloe",
+    "Character 4": "Marcus",
+    "Character 5": "Alex",
+    "Location 1": "The Main Hall",
+    "Location 2": "The Stone Corridor",
+    "Location 3": "The Cluttered Apartment",
+    "Location 4": "The Hospital Corridor",
+    "Location 5": "The Executive Office",
+    "Object 1": "the black jumpsuit",
+    "Object 10": "the black Volkswagen",
+    "Object 11": "the nurses' station desk",
+    "Object 12": "the tortoiseshell glasses",
+    "Object 2": "the beige jacket",
+    "Object 3": "the dark blue shirt",
+    "Object 4": "the wrought-iron lamppost",
+    "Object 5": "the tan jacket",
+    "Object 6": "the blue button-front shirt",
+    "Object 7": "the vintage rotary phone",
+    "Object 8": "the cluttered wooden desk",
+    "Object 9": "the glass of dark liquid"
+  }
+}

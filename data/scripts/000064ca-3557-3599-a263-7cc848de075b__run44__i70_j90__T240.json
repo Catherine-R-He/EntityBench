@@ -1,0 +1,1366 @@
+{
+  "story_name": "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240",
+  "story_overview": "In a high-tech world of meta-humans, Marcus struggles with a recent trauma inside a containment cell, supported by his friend Leo. Meanwhile, Julian, Chloe, and the rest of their team operate from a command center, investigating threats that escalate from a mysterious energy attack in a government plaza to a tense confrontation in an abandoned warehouse.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Marcus: Man wearing a grey Henley shirt.\nLeo: Young man with short dark curly hair, wearing a dark blue sweater.\nThe Containment Cell: Interior of a cell featuring gray, textured, patterned walls.\nMedium close-up in The Containment Cell. Marcus sits on the floor, leaning against the wall with a tearful expression as he talks. Leo, wearing the dark blue sweater, sits on the floor beside him, listening with a look of concern."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up in The Containment Cell. Marcus sits on the floor, leaning against the wall with a tearful expression as he talks. Leo, wearing the dark blue sweater, sits on the floor beside him, listening with a look of concern."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Julian: Man wearing a blazer over a white t-shirt and a necklace.\nAlex: Person wearing a dark long-sleeved shirt.\nThe Command Center: A high-tech indoor laboratory and control room with dark, sleek surfaces, featuring a large, glowing computer screen displaying a police file with a mugshot and a digital map with a highlighted location, surrounded by banks of servers and smaller workstation monitors.\nthe glowing circuit panel: Large, rectangular wall panel with a smooth, dark metallic surface, illuminated from within by a complex network of thin, brightly glowing cyan-blue lines forming intricate geometric circuits.\n\nIn The Command Center, Julian stands in front of the glowing circuit panel, gesturing toward it as he speaks with a serious and concerned expression. Alex stands nearby, listening intently and nodding slowly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Command Center, Julian stands in front of the glowing circuit panel, gesturing toward it as he speaks with a serious and concerned expression. Alex stands nearby, listening intently and nodding slowly."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Medium shot in The Containment Cell. With a distressed expression, Julian, wearing the beaded necklace and the dark grey blazer, slides down the textured wall to sit on the floor.",
+        "Caleb: Man with blonde hair, wearing a black zip-up hoodie over a t-shirt\n\nMedium shot of Marcus inside The Containment Cell, sitting on the floor next to Caleb, with the dark blue sweater lying on the floor beside them. Marcus has a somber expression as he leans his head back against the gray, patterned wall and slowly looks upwards.",
+        "Medium close-up of Julian with a somber expression as he talks. He is sitting on the floor inside The Containment Cell, leaning against the wall.",
+        "Nico: Man wearing a brown quilted bomber jacket over a grey t-shirt and a silver chain necklace.\n\nMedium close-up in The Containment Cell of Nico sitting on the floor, leaning against the textured wall. He talks with a pensive, serious expression while Caleb, wearing a black zip-up hoodie over a t-shirt, stands over him, listening.",
+        "In The Containment Cell, Marcus sits on the floor, leaning against the patterned wall with a pensive expression, his gaze shifting. Julian stands nearby, slowly crossing his arms as he looks down at Marcus.",
+        "Nico sits against the gray, patterned wall and speaks with a concerned expression. Julian is in the cell with him, listening intently and occasionally nodding.",
+        "Marcus, wearing the dark blue sweater, sits on the floor of The Containment Cell, leaning his back against the wall with his arms crossed as Alex sits beside him. His face is sad, and tears well up in his eyes as his gaze drifts off-camera.",
+        "Julian stands in The Containment Cell, looking around with a tense expression.",
+        "the evidence board: A rectangular board of an unspecified color and material, its surface covered with handwritten text, symbols, or diagrams.\n\nProfile close-up of Leo, wearing the dark blue sweater, in The Containment Cell. He sits with his eyes closed, breathing slowly in deep concentration. In the soft-focus background, Alex looks over the evidence board that leans against the wall.",
+        "Close-up profile shot of Julian talking with a serious expression inside The Containment Cell. He is wearing the dark grey blazer and the beaded necklace against his skin.",
+        "Close-up profile shot of Leo, wearing the dark blue sweater, sitting in The Containment Cell. His expression is pensive, his hands clasped in front of him. He slowly lowers his gaze to the evidence board, which is propped against the wall in front of him.",
+        "A close-up profile shot of Leo talking with a serious expression. Leo is wearing the dark grey blazer and the beaded necklace. The background is the dark, out-of-focus interior of The Containment Cell.",
+        "Leo, wearing the dark blue sweater, sits on the floor, leaning back against the wall. His shoulders slump as he lets out a quiet, weary sigh. Nico takes a small step closer, his expression softening with concern as he looks down at him.",
+        "Close-up of Julian, wearing the beaded necklace and the dark grey blazer and the white t-shirt, seated inside The Containment Cell. He listens with a pensive expression that slowly shifts into a subtle smile.",
+        "Medium close-up of Marcus and Caleb sitting on the floor in The Containment Cell. Marcus leans back against the textured wall, his face showing a sad and contemplative expression."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Containment Cell. With a distressed expression, Julian, wearing the beaded necklace and the dark grey blazer, slides down the textured wall to sit on the floor.",
+        "Medium shot of Marcus inside The Containment Cell, sitting on the floor next to Caleb, with the dark blue sweater lying on the floor beside them. Marcus has a somber expression as he leans his head back against the gray, patterned wall and slowly looks upwards.",
+        "Medium close-up of Julian with a somber expression as he talks. He is sitting on the floor inside The Containment Cell, leaning against the wall.",
+        "Medium close-up in The Containment Cell of Nico sitting on the floor, leaning against the textured wall. He talks with a pensive, serious expression while Caleb, wearing a black zip-up hoodie over a t-shirt, stands over him, listening.",
+        "In The Containment Cell, Marcus sits on the floor, leaning against the patterned wall with a pensive expression, his gaze shifting. Julian stands nearby, slowly crossing his arms as he looks down at Marcus.",
+        "Nico sits against the gray, patterned wall and speaks with a concerned expression. Julian is in the cell with him, listening intently and occasionally nodding.",
+        "Marcus, wearing the dark blue sweater, sits on the floor of The Containment Cell, leaning his back against the wall with his arms crossed as Alex sits beside him. His face is sad, and tears well up in his eyes as his gaze drifts off-camera.",
+        "Julian stands in The Containment Cell, looking around with a tense expression.",
+        "Profile close-up of Leo, wearing the dark blue sweater, in The Containment Cell. He sits with his eyes closed, breathing slowly in deep concentration. In the soft-focus background, Alex looks over the evidence board that leans against the wall.",
+        "Close-up profile shot of Julian talking with a serious expression inside The Containment Cell. He is wearing the dark grey blazer and the beaded necklace against his skin.",
+        "Close-up profile shot of Leo, wearing the dark blue sweater, sitting in The Containment Cell. His expression is pensive, his hands clasped in front of him. He slowly lowers his gaze to the evidence board, which is propped against the wall in front of him.",
+        "A close-up profile shot of Leo talking with a serious expression. Leo is wearing the dark grey blazer and the beaded necklace. The background is the dark, out-of-focus interior of The Containment Cell.",
+        "Leo, wearing the dark blue sweater, sits on the floor, leaning back against the wall. His shoulders slump as he lets out a quiet, weary sigh. Nico takes a small step closer, his expression softening with concern as he looks down at him.",
+        "Close-up of Julian, wearing the beaded necklace and the dark grey blazer and the white t-shirt, seated inside The Containment Cell. He listens with a pensive expression that slowly shifts into a subtle smile.",
+        "Medium close-up of Marcus and Caleb sitting on the floor in The Containment Cell. Marcus leans back against the textured wall, his face showing a sad and contemplative expression."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Daniel: Man.\nChloe: Woman with long, light brown hair, wearing a dark sweater layered over a white collared shirt.\nthe main computer screen: Large, glowing computer screen with a futuristic design, displaying a graphical user interface that includes a digital map, a text file, and a photographic image.\nthe police file screen: Large, glowing computer screen displaying a digital CCPD police file interface which includes a person's mugshot and a digital map with a highlighted location.\nClose-up on Chloe in The Command Center as she speaks with a concerned expression. Behind her, Daniel and Alex watch intently. The focus shifts from Chloe to the main computer screen, which glows brightly, displaying a police file and a highlighted map."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Chloe in The Command Center as she speaks with a concerned expression. Behind her, Daniel and Alex watch intently. The focus shifts from Chloe to the main computer screen, which glows brightly, displaying a police file and a highlighted map."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Riley: Person wearing a 'META-HUMAN TASK FORCE' uniform of black tactical gear with a tan quilted jacket.\nThe City Diner: Interior of a restaurant.\nthe tactical rifle: Large, black tactical assault rifle.\n\nIn The City Diner, Riley, wearing the task force uniform, cautiously moves forward while aiming the tactical rifle. Caleb and Julian follow closely behind, anxiously scanning the room."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The City Diner, Riley, wearing the task force uniform, cautiously moves forward while aiming the tactical rifle. Caleb and Julian follow closely behind, anxiously scanning the room."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Police Precinct: Interior of a police office with desks, office chairs, and filing cabinets, featuring a large collection of documents, files, and books on various surfaces.\nthe stack of case files: A stack of manila case file folders with typed labels and colored tabs, intermixed with loose white paper documents covered in dense black text.\nthe black overcoat and cap: A knee-length, single-breasted black overcoat made of a heavy fabric, paired with a matching black flat cap\nInside The Police Precinct, Julian walks forward while reading a document from the stack of case files. Nico follows closely behind Julian, speaking with an urgent expression. As they move through the office, Marcus, wearing the black overcoat and cap, walks past them in the opposite direction.",
+        "Casey: Person with short-cropped hair, wearing a grey utility jacket\n\nNico walks through the bustling, sunlit Police Precinct, his expression focused as he reads from the stack of case files in his hands. Marcus walks alongside him, while in the background, Leo, Julian, Caleb, and Casey work at their desks. The black overcoat and cap hangs on the back of a nearby chair."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Police Precinct, Julian walks forward while reading a document from the stack of case files. Nico follows closely behind Julian, speaking with an urgent expression. As they move through the office, Marcus, wearing the black overcoat and cap, walks past them in the opposite direction.",
+        "Nico walks through the bustling, sunlit Police Precinct, his expression focused as he reads from the stack of case files in his hands. Marcus walks alongside him, while in the background, Leo, Julian, Caleb, and Casey work at their desks. The black overcoat and cap hangs on the back of a nearby chair."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Government Plaza: Grand art deco government building lobby with polished marble floors and a large, intricate golden mural adorning a wall.\n\nCaleb stands with his back to the camera, slowly tilting his head up to gaze at the golden wall mural covering the wall. Daniel and Riley stand on either side of him, also looking toward the mural, before Daniel turns his head slightly to look at Caleb.",
+        "The swirling green energy appears and attacks Daniel from behind, swirling violently around his neck. Daniel gasps and looks up in shock, while Marcus and Julian recoil in horror nearby.",
+        "High-angle wide shot of The Government Plaza. In the center of the lobby, Julian stands rigidly as a beam of the swirling green energy projects from his forehead, pulsing as it hits the polished floor. In the background, Riley watches intently from a doorway while Marcus, Leo, and Nico stand nearby, shifting their weight and looking on with concern; the golden wall mural is prominent on the far wall.",
+        "Leo stands against a solid black background, bracing himself slightly as the electrical energy arcs flash and spark intensely with bright yellow and orange energy that crackles and branches out around him."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Caleb stands with his back to the camera, slowly tilting his head up to gaze at the golden wall mural covering the wall. Daniel and Riley stand on either side of him, also looking toward the mural, before Daniel turns his head slightly to look at Caleb.",
+        "The swirling green energy appears and attacks Daniel from behind, swirling violently around his neck. Daniel gasps and looks up in shock, while Marcus and Julian recoil in horror nearby.",
+        "High-angle wide shot of The Government Plaza. In the center of the lobby, Julian stands rigidly as a beam of the swirling green energy projects from his forehead, pulsing as it hits the polished floor. In the background, Riley watches intently from a doorway while Marcus, Leo, and Nico stand nearby, shifting their weight and looking on with concern; the golden wall mural is prominent on the far wall.",
+        "Leo stands against a solid black background, bracing himself slightly as the electrical energy arcs flash and spark intensely with bright yellow and orange energy that crackles and branches out around him."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "the standard office desk: Rectangular office desk with a light gray laminate surface, a dark gray metal base and legs, and a black plastic grommet for cable management.\n\nIn The Police Precinct at night, Daniel, Marcus, and Casey stand together at the standard office desk, leaning over to review the stack of case files. Nearby, Riley stands watch with arms crossed, slowly turning their head to scan the room. In the background, Alex and Caleb work at other desks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Police Precinct at night, Daniel, Marcus, and Casey stand together at the standard office desk, leaning over to review the stack of case files. Nearby, Riley stands watch with arms crossed, slowly turning their head to scan the room. In the background, Alex and Caleb work at other desks."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "the green power lantern: A metallic green lantern, similar in shape to a classic railroad lantern with a handle on top, emitting a bright green glow from a central circular lens embossed with a stylized lantern symbol.\n\nOver-the-shoulder shot in The Government Plaza. Marcus forcefully walks Leo across the marble floor in a headlock. In his free hand, Marcus holds the green power lantern, which casts a bright green light across the lobby. In the background, Riley, Julian, and Alex stand near a doorway, watching the scene intently.",
+        "Daniel leans over Marcus's shoulder, speaking with a menacing expression. Marcus looks forward, his expression growing more concerned as the swirling green energy emanates from his shoulder. Caleb stands nearby, his gaze shifting between Daniel and Marcus."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot in The Government Plaza. Marcus forcefully walks Leo across the marble floor in a headlock. In his free hand, Marcus holds the green power lantern, which casts a bright green light across the lobby. In the background, Riley, Julian, and Alex stand near a doorway, watching the scene intently.",
+        "Daniel leans over Marcus's shoulder, speaking with a menacing expression. Marcus looks forward, his expression growing more concerned as the swirling green energy emanates from his shoulder. Caleb stands nearby, his gaze shifting between Daniel and Marcus."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "In The Command Center, Alex, Nico, and Casey are gathered around a console looking at the main computer screen. Alex leans over the console, talking and gesturing, while Nico and Casey look on.",
+        "the modern light fixture: A modern, minimalist L-shaped light fixture with a slim border, a flat panel, and a soft, continuous, even glow.\n\nClose-up of Chloe, wearing the dark sweater layered over a white collared shirt, in The Command Center. She speaks with a surprised and concerned expression on her face. In the background, Leo, wearing the dark blue blazer, is visible, and the modern light fixture casts a soft glow.",
+        "the holographic console: Large, angled control console with a sleek, dark metallic casing and a smooth, illuminated surface displaying glowing blue holographic readouts and complex data streams across its touch-sensitive interface.\n\nInside The Command Center at night, Nico leans over the holographic console, speaking seriously to Julian, who stands with his back to the camera and nods slightly. Caleb stands behind them, his arms crossed as he listens to the conversation with a concerned expression. Alex stands nearby, their eyes scanning the data on a large screen."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Command Center, Alex, Nico, and Casey are gathered around a console looking at the main computer screen. Alex leans over the console, talking and gesturing, while Nico and Casey look on.",
+        "Close-up of Chloe, wearing the dark sweater layered over a white collared shirt, in The Command Center. She speaks with a surprised and concerned expression on her face. In the background, Leo, wearing the dark blue blazer, is visible, and the modern light fixture casts a soft glow.",
+        "Inside The Command Center at night, Nico leans over the holographic console, speaking seriously to Julian, who stands with his back to the camera and nods slightly. Caleb stands behind them, his arms crossed as he listens to the conversation with a concerned expression. Alex stands nearby, their eyes scanning the data on a large screen."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "The Office Hallway: Indoor hallway featuring a door with a brass doorknob.\nthe brass office door: Brass door with a textured surface and a matching round brass doorknob.\nMedium close-up of Daniel with a conflicted expression in The Office Hallway. Daniel faces the brass office door, raises his hand toward it, hesitates, and then slowly clenches his hand into a tight fist."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up of Daniel with a conflicted expression in The Office Hallway. Daniel faces the brass office door, raises his hand toward it, hesitates, and then slowly clenches his hand into a tight fist."
+      ]
+    },
+    {
+      "scene_num": 12,
+      "video_prompts": [
+        "The Abandoned Warehouse: Indoor room with dark, textured walls of peeling paint or exposed brick, a dusty concrete or wood floor, and a single bare lightbulb fixture hanging from the ceiling.\n\nMedium close-up of Nico inside The Abandoned Warehouse. Nico wears the brown quilted jacket over the grey t-shirt. A faint, knowing smile forms on his face as he turns to look just off-camera.",
+        "The Stranger: A tall figure in a dusty trench coat, face hidden beneath a wide-brimmed hat.\n\nOver the shoulder of Chloe, she, Marcus, and Riley react as The Stranger walks through an open doorway into The Abandoned Warehouse.",
+        "In a medium shot, Nico is inside The Abandoned Warehouse. He opens his eyes, and a slight, contented smile forms on his face as he looks directly forward."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium close-up of Nico inside The Abandoned Warehouse. Nico wears the brown quilted jacket over the grey t-shirt. A faint, knowing smile forms on his face as he turns to look just off-camera.",
+        "Over the shoulder of Chloe, she, Marcus, and Riley react as The Stranger walks through an open doorway into The Abandoned Warehouse.",
+        "In a medium shot, Nico is inside The Abandoned Warehouse. He opens his eyes, and a slight, contented smile forms on his face as he looks directly forward."
+      ]
+    },
+    {
+      "scene_num": 13,
+      "video_prompts": [
+        "Over-the-shoulder medium shot from behind Riley, who is wearing the tan quilted jacket. Riley is in The Office Hallway, facing Chloe. Chloe stands in a doorway and has a serious expression while talking."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder medium shot from behind Riley, who is wearing the tan quilted jacket. Riley is in The Office Hallway, facing Chloe. Chloe stands in a doorway and has a serious expression while talking."
+      ]
+    },
+    {
+      "scene_num": 14,
+      "video_prompts": [
+        "Medium close-up of Nico, wearing the brown quilted jacket and the silver chain necklace, standing in The Abandoned Warehouse as a subtle smile forms on his face. Stripes of bright light from an off-screen source are cast across his face and chest. Casey stands slightly behind him, looking toward him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up of Nico, wearing the brown quilted jacket and the silver chain necklace, standing in The Abandoned Warehouse as a subtle smile forms on his face. Stripes of bright light from an off-screen source are cast across his face and chest. Casey stands slightly behind him, looking toward him."
+      ]
+    },
+    {
+      "scene_num": 15,
+      "video_prompts": [
+        "The Apartment Bedroom: Dark bedroom interior.\n\nInside the dark Apartment Bedroom, Julian sits on the floor with his back turned, his head bowed. Riley walks away from the frame. Chloe follows Riley, speaking with animated hand gestures as she walks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside the dark Apartment Bedroom, Julian sits on the floor with his back turned, his head bowed. Riley walks away from the frame. Chloe follows Riley, speaking with animated hand gestures as she walks."
+      ]
+    },
+    {
+      "scene_num": 16,
+      "video_prompts": [
+        "the worn fingerless glove: Black leather fingerless glove, worn and scuffed, with circular cutouts over the knuckles and a metal buckle on the wrist strap.\n\nClose-up on Riley's hand, wearing the worn fingerless glove, as it grips and turns the doorknob of the brass office door in the dim hallway of The Office Hallway. The door begins to swing open as Daniel stands just behind Riley."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Riley's hand, wearing the worn fingerless glove, as it grips and turns the doorknob of the brass office door in the dim hallway of The Office Hallway. The door begins to swing open as Daniel stands just behind Riley."
+      ]
+    },
+    {
+      "scene_num": 17,
+      "video_prompts": [
+        "the robotic gauntlet: A full-forearm robotic gauntlet made of weathered gunmetal gray steel plates over a black carbon fiber chassis, with exposed hydraulic pistons, articulated fingers, reinforced knuckles, and glowing blue energy conduits between the segments.\n\nInside The Office Hallway, Nico, wearing the robotic gauntlet on one hand, turns to Chloe and smirks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Office Hallway, Nico, wearing the robotic gauntlet on one hand, turns to Chloe and smirks."
+      ]
+    },
+    {
+      "scene_num": 18,
+      "video_prompts": [
+        "In The Police Precinct, Chloe turns slightly and smiles warmly beside the standard office desk. The stack of case files sits on the desk, while the plain brown jacket is draped over a nearby chair. Sunlight streams through window blinds, casting distinct striped shadows on the wall behind her."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Police Precinct, Chloe turns slightly and smiles warmly beside the standard office desk. The stack of case files sits on the desk, while the plain brown jacket is draped over a nearby chair. Sunlight streams through window blinds, casting distinct striped shadows on the wall behind her."
+      ]
+    },
+    {
+      "scene_num": 19,
+      "video_prompts": [
+        "Nico shifts his weight slightly and his faint smile widens as he looks towards the camera. Behind him, Daniel slowly turns his head to look away from the camera.",
+        "Close-up in The Abandoned Warehouse on Daniel, who speaks with a serious expression on his face. Leo stands across from him, listening intently and slowly nodding.",
+        "A close-up of Nico in The Abandoned Warehouse. He is wearing the brown quilted jacket over the grey t-shirt and the silver chain necklace. Nico tilts his head slightly as his small smile fades into a neutral expression, his lips slightly parted as if about to speak.",
+        "Close-up of Daniel in The Abandoned Warehouse. He looks off-screen with a concerned expression, reacting to something he is listening to. Casey stands slightly behind him, watching. A single warm light source casts soft shadows on the textured wall behind them."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Nico shifts his weight slightly and his faint smile widens as he looks towards the camera. Behind him, Daniel slowly turns his head to look away from the camera.",
+        "Close-up in The Abandoned Warehouse on Daniel, who speaks with a serious expression on his face. Leo stands across from him, listening intently and slowly nodding.",
+        "A close-up of Nico in The Abandoned Warehouse. He is wearing the brown quilted jacket over the grey t-shirt and the silver chain necklace. Nico tilts his head slightly as his small smile fades into a neutral expression, his lips slightly parted as if about to speak.",
+        "Close-up of Daniel in The Abandoned Warehouse. He looks off-screen with a concerned expression, reacting to something he is listening to. Casey stands slightly behind him, watching. A single warm light source casts soft shadows on the textured wall behind them."
+      ]
+    },
+    {
+      "scene_num": 20,
+      "video_prompts": [
+        "the white pillow: A rectangular pillow with a plain, wrinkled white cotton case.\nIn the dimly lit The Apartment Bedroom, Daniel and Julian are locked in a chaotic, violent struggle. Julian is thrown backward onto a bed. High-angle close-up on Julian's distressed face as he lies on his back on the white pillow."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Apartment Bedroom, Daniel and Julian are locked in a chaotic, violent struggle. Julian is thrown backward onto a bed. High-angle close-up on Julian's distressed face as he lies on his back on the white pillow."
+      ]
+    },
+    {
+      "scene_num": 21,
+      "video_prompts": [
+        "Close-up from a low angle in The Abandoned Warehouse. Nico grimaces in pain as Leo's hand aggressively grips the collar of the brown quilted jacket, yanking it tight."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up from a low angle in The Abandoned Warehouse. Nico grimaces in pain as Leo's hand aggressively grips the collar of the brown quilted jacket, yanking it tight."
+      ]
+    },
+    {
+      "scene_num": 22,
+      "video_prompts": [
+        "Daniel struggles on his back, his head on the white pillow, as Julian leans over him from out of frame, choking him with his hands in tan leather gloves."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Daniel struggles on his back, his head on the white pillow, as Julian leans over him from out of frame, choking him with his hands in tan leather gloves."
+      ]
+    },
+    {
+      "scene_num": 23,
+      "video_prompts": [
+        "A low-angle close-up of Nico inside The Abandoned Warehouse. Nico wears the brown quilted jacket. He has a confident smirk on his face as he talks, gesturing towards his own chest with his thumb."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A low-angle close-up of Nico inside The Abandoned Warehouse. Nico wears the brown quilted jacket. He has a confident smirk on his face as he talks, gesturing towards his own chest with his thumb."
+      ]
+    },
+    {
+      "scene_num": 24,
+      "video_prompts": [
+        "the unmade bed: A bed with rumpled, plain white sheets and a single white pillow.\n\nHigh-angle close-up of a terrified Daniel struggling on his back on the unmade bed inside The Apartment Bedroom. He is held down by the hands of an unseen person wearing the tan leather gloves."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle close-up of a terrified Daniel struggling on his back on the unmade bed inside The Apartment Bedroom. He is held down by the hands of an unseen person wearing the tan leather gloves."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Marcus",
+        "Leo"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark blue sweater"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Julian",
+        "Alex"
+      ],
+      "places": [
+        "The Command Center"
+      ],
+      "objects": [
+        "the glowing circuit panel"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark grey blazer",
+        "the beaded necklace"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Marcus",
+        "Caleb"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark blue sweater"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark grey blazer",
+        "the white t-shirt",
+        "the beaded necklace"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Nico",
+        "Caleb"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": []
+    },
+    "3:5": {
+      "characters": [
+        "Julian",
+        "Marcus"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": []
+    },
+    "3:6": {
+      "characters": [
+        "Nico",
+        "Julian"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": []
+    },
+    "3:7": {
+      "characters": [
+        "Marcus",
+        "Alex"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark blue sweater"
+      ]
+    },
+    "3:8": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark grey blazer",
+        "the white t-shirt",
+        "the beaded necklace"
+      ]
+    },
+    "3:9": {
+      "characters": [
+        "Leo",
+        "Alex"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark blue sweater",
+        "the evidence board"
+      ]
+    },
+    "3:10": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark grey blazer",
+        "the beaded necklace"
+      ]
+    },
+    "3:11": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark blue sweater",
+        "the evidence board"
+      ]
+    },
+    "3:12": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark grey blazer",
+        "the beaded necklace"
+      ]
+    },
+    "3:13": {
+      "characters": [
+        "Nico",
+        "Leo"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark blue sweater"
+      ]
+    },
+    "3:14": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": [
+        "the dark grey blazer",
+        "the white t-shirt",
+        "the beaded necklace"
+      ]
+    },
+    "3:15": {
+      "characters": [
+        "Marcus",
+        "Caleb"
+      ],
+      "places": [
+        "The Containment Cell"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Daniel",
+        "Alex",
+        "Chloe"
+      ],
+      "places": [
+        "The Command Center"
+      ],
+      "objects": [
+        "the main computer screen"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Riley",
+        "Caleb",
+        "Julian"
+      ],
+      "places": [
+        "The City Diner"
+      ],
+      "objects": [
+        "the task force uniform",
+        "the tactical rifle"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Nico",
+        "Julian",
+        "Marcus"
+      ],
+      "places": [
+        "The Police Precinct"
+      ],
+      "objects": [
+        "the black overcoat and cap",
+        "the stack of case files"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Nico",
+        "Julian",
+        "Marcus",
+        "Leo",
+        "Caleb",
+        "Casey"
+      ],
+      "places": [
+        "The Police Precinct"
+      ],
+      "objects": [
+        "the black overcoat and cap",
+        "the stack of case files"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Daniel",
+        "Riley",
+        "Caleb"
+      ],
+      "places": [
+        "The Government Plaza"
+      ],
+      "objects": [
+        "the golden wall mural"
+      ]
+    },
+    "7:2": {
+      "characters": [
+        "Daniel",
+        "Marcus",
+        "Julian"
+      ],
+      "places": [
+        "The Government Plaza"
+      ],
+      "objects": [
+        "the swirling green energy"
+      ]
+    },
+    "7:3": {
+      "characters": [
+        "Nico",
+        "Julian",
+        "Marcus",
+        "Leo",
+        "Riley"
+      ],
+      "places": [
+        "The Government Plaza"
+      ],
+      "objects": [
+        "the swirling green energy",
+        "the golden wall mural"
+      ]
+    },
+    "7:4": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [],
+      "objects": [
+        "the electrical energy arcs"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Daniel",
+        "Marcus",
+        "Riley",
+        "Caleb",
+        "Alex",
+        "Casey"
+      ],
+      "places": [
+        "The Police Precinct"
+      ],
+      "objects": [
+        "the standard office desk",
+        "the stack of case files"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Marcus",
+        "Leo",
+        "Riley",
+        "Julian",
+        "Alex"
+      ],
+      "places": [
+        "The Government Plaza"
+      ],
+      "objects": [
+        "the green power lantern"
+      ]
+    },
+    "9:2": {
+      "characters": [
+        "Daniel",
+        "Marcus",
+        "Caleb"
+      ],
+      "places": [
+        "The Government Plaza"
+      ],
+      "objects": [
+        "the swirling green energy"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Nico",
+        "Alex",
+        "Casey"
+      ],
+      "places": [
+        "The Command Center"
+      ],
+      "objects": [
+        "the main computer screen"
+      ]
+    },
+    "10:2": {
+      "characters": [
+        "Chloe",
+        "Leo"
+      ],
+      "places": [
+        "The Command Center"
+      ],
+      "objects": [
+        "the dark blue blazer",
+        "the white collared shirt",
+        "the modern light fixture"
+      ]
+    },
+    "10:3": {
+      "characters": [
+        "Nico",
+        "Julian",
+        "Caleb",
+        "Alex"
+      ],
+      "places": [
+        "The Command Center"
+      ],
+      "objects": [
+        "the holographic console"
+      ]
+    },
+    "11:1": {
+      "characters": [
+        "Daniel"
+      ],
+      "places": [
+        "The Office Hallway"
+      ],
+      "objects": [
+        "the brass office door"
+      ]
+    },
+    "12:1": {
+      "characters": [
+        "Nico"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": [
+        "the brown quilted jacket",
+        "the grey t-shirt"
+      ]
+    },
+    "12:2": {
+      "characters": [
+        "Marcus",
+        "Riley",
+        "Chloe",
+        "The Stranger"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": []
+    },
+    "12:3": {
+      "characters": [
+        "Nico"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": [
+        "the brown quilted jacket",
+        "the grey t-shirt"
+      ]
+    },
+    "13:1": {
+      "characters": [
+        "Riley",
+        "Chloe"
+      ],
+      "places": [
+        "The Office Hallway"
+      ],
+      "objects": [
+        "the tan quilted jacket"
+      ]
+    },
+    "14:1": {
+      "characters": [
+        "Nico",
+        "Casey"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": [
+        "the brown quilted jacket",
+        "the silver chain necklace"
+      ]
+    },
+    "15:1": {
+      "characters": [
+        "Riley",
+        "Julian",
+        "Chloe"
+      ],
+      "places": [
+        "The Apartment Bedroom"
+      ],
+      "objects": []
+    },
+    "16:1": {
+      "characters": [
+        "Daniel",
+        "Riley"
+      ],
+      "places": [
+        "The Office Hallway"
+      ],
+      "objects": [
+        "the worn fingerless glove",
+        "the brass office door"
+      ]
+    },
+    "17:1": {
+      "characters": [
+        "Nico",
+        "Chloe"
+      ],
+      "places": [
+        "The Office Hallway"
+      ],
+      "objects": [
+        "the robotic gauntlet"
+      ]
+    },
+    "18:1": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Police Precinct"
+      ],
+      "objects": [
+        "the plain brown jacket",
+        "the stack of case files",
+        "the standard office desk"
+      ]
+    },
+    "19:1": {
+      "characters": [
+        "Nico",
+        "Daniel"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": [
+        "the brown quilted jacket",
+        "the grey t-shirt",
+        "the silver chain necklace"
+      ]
+    },
+    "19:2": {
+      "characters": [
+        "Daniel",
+        "Leo"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": []
+    },
+    "19:3": {
+      "characters": [
+        "Nico"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": [
+        "the brown quilted jacket",
+        "the grey t-shirt",
+        "the silver chain necklace"
+      ]
+    },
+    "19:4": {
+      "characters": [
+        "Daniel",
+        "Casey"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": []
+    },
+    "20:1": {
+      "characters": [
+        "Daniel",
+        "Julian"
+      ],
+      "places": [
+        "The Apartment Bedroom"
+      ],
+      "objects": [
+        "the white pillow"
+      ]
+    },
+    "21:1": {
+      "characters": [
+        "Nico",
+        "Leo"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": [
+        "the brown quilted jacket"
+      ]
+    },
+    "22:1": {
+      "characters": [
+        "Daniel",
+        "Julian"
+      ],
+      "places": [
+        "The Apartment Bedroom"
+      ],
+      "objects": [
+        "the white pillow",
+        "the tan leather gloves"
+      ]
+    },
+    "23:1": {
+      "characters": [
+        "Nico"
+      ],
+      "places": [
+        "The Abandoned Warehouse"
+      ],
+      "objects": [
+        "the brown quilted jacket"
+      ]
+    },
+    "24:1": {
+      "characters": [
+        "Daniel"
+      ],
+      "places": [
+        "The Apartment Bedroom"
+      ],
+      "objects": [
+        "the unmade bed",
+        "the tan leather gloves"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Marcus",
+      "label": "Character 1",
+      "description": "Man wearing a grey Henley shirt."
+    },
+    "Character 2": {
+      "name": "Leo",
+      "label": "Character 2",
+      "description": "Young man with short dark curly hair, wearing a dark blue sweater."
+    },
+    "Character 3": {
+      "name": "Julian",
+      "label": "Character 3",
+      "description": "Man wearing a blazer over a white t-shirt and a necklace."
+    },
+    "Character 4": {
+      "name": "Alex",
+      "label": "Character 4",
+      "description": "Person wearing a dark long-sleeved shirt."
+    },
+    "Character 5": {
+      "name": "Caleb",
+      "label": "Character 5",
+      "description": "Man with blonde hair, wearing a black zip-up hoodie over a t-shirt"
+    },
+    "Character 6": {
+      "name": "Nico",
+      "label": "Character 6",
+      "description": "Man wearing a brown quilted bomber jacket over a grey t-shirt and a silver chain necklace."
+    },
+    "Character 7": {
+      "name": "Daniel",
+      "label": "Character 7",
+      "description": "Man."
+    },
+    "Character 8": {
+      "name": "Chloe",
+      "label": "Character 8",
+      "description": "Woman with long, light brown hair, wearing a dark sweater layered over a white collared shirt."
+    },
+    "Character 9": {
+      "name": "Riley",
+      "label": "Character 9",
+      "description": "Person wearing a 'META-HUMAN TASK FORCE' uniform of black tactical gear with a tan quilted jacket."
+    },
+    "Character 10": {
+      "name": "Casey",
+      "label": "Character 10",
+      "description": "Person with short-cropped hair, wearing a grey utility jacket"
+    },
+    "Location 1": {
+      "name": "The Containment Cell",
+      "label": "Location 1",
+      "description": "Interior of a cell featuring gray, textured, patterned walls."
+    },
+    "Location 2": {
+      "name": "The Command Center",
+      "label": "Location 2",
+      "description": "A high-tech indoor laboratory and control room with dark, sleek surfaces, featuring a large, glowing computer screen displaying a police file with a mugshot and a digital map with a highlighted location, surrounded by banks of servers and smaller workstation monitors."
+    },
+    "Location 3": {
+      "name": "The City Diner",
+      "label": "Location 3",
+      "description": "Interior of a restaurant."
+    },
+    "Location 4": {
+      "name": "The Police Precinct",
+      "label": "Location 4",
+      "description": "Interior of a police office with desks, office chairs, and filing cabinets, featuring a large collection of documents, files, and books on various surfaces."
+    },
+    "Location 5": {
+      "name": "The Government Plaza",
+      "label": "Location 5",
+      "description": "Grand art deco government building lobby with polished marble floors and a large, intricate golden mural adorning a wall."
+    },
+    "Location 6": {
+      "name": "The Office Hallway",
+      "label": "Location 6",
+      "description": "Indoor hallway featuring a door with a brass doorknob."
+    },
+    "Location 7": {
+      "name": "The Abandoned Warehouse",
+      "label": "Location 7",
+      "description": "Indoor room with dark, textured walls of peeling paint or exposed brick, a dusty concrete or wood floor, and a single bare lightbulb fixture hanging from the ceiling."
+    },
+    "Location 8": {
+      "name": "The Apartment Bedroom",
+      "label": "Location 8",
+      "description": "Dark bedroom interior."
+    },
+    "Object 1": {
+      "name": "the dark blue sweater",
+      "label": "Object 1",
+      "description": "Dark blue long-sleeved knit sweater"
+    },
+    "Object 2": {
+      "name": "the glowing circuit panel",
+      "label": "Object 2",
+      "description": "Large, rectangular wall panel with a smooth, dark metallic surface, illuminated from within by a complex network of thin, brightly glowing cyan-blue lines forming intricate geometric circuits."
+    },
+    "Object 3": {
+      "name": "the dark grey blazer",
+      "label": "Object 3",
+      "description": "Dark grey blazer-style jacket"
+    },
+    "Object 4": {
+      "name": "the beaded necklace",
+      "label": "Object 4",
+      "description": "Brown beaded necklace"
+    },
+    "Object 5": {
+      "name": "the white t-shirt",
+      "label": "Object 5",
+      "description": "Plain white crew neck t-shirt"
+    },
+    "Object 6": {
+      "name": "the evidence board",
+      "label": "Object 6",
+      "description": "A rectangular board of an unspecified color and material, its surface covered with handwritten text, symbols, or diagrams."
+    },
+    "Object 7": {
+      "name": "the main computer screen",
+      "label": "Object 7",
+      "description": "Large, glowing computer screen with a futuristic design, displaying a graphical user interface that includes a digital map, a text file, and a photographic image."
+    },
+    "Object 8": {
+      "name": "the police file screen",
+      "label": "Object 8",
+      "description": "Large, glowing computer screen displaying a digital CCPD police file interface which includes a person's mugshot and a digital map with a highlighted location"
+    },
+    "Object 9": {
+      "name": "the task force uniform",
+      "label": "Object 9",
+      "description": "Black tactical gear including a heavy-duty vest with multiple pouches and webbing over a long-sleeved shirt, with a 'META-HUMAN TASK FORCE' patch on the shoulder"
+    },
+    "Object 10": {
+      "name": "the tactical rifle",
+      "label": "Object 10",
+      "description": "Large, black tactical assault rifle."
+    },
+    "Object 11": {
+      "name": "the stack of case files",
+      "label": "Object 11",
+      "description": "A stack of manila case file folders with typed labels and colored tabs, intermixed with loose white paper documents covered in dense black text."
+    },
+    "Object 12": {
+      "name": "the black overcoat and cap",
+      "label": "Object 12",
+      "description": "A knee-length, single-breasted black overcoat made of a heavy fabric, paired with a matching black flat cap"
+    },
+    "Object 13": {
+      "name": "the golden wall mural",
+      "label": "Object 13",
+      "description": "Large, intricate golden wall mural"
+    },
+    "Object 14": {
+      "name": "the swirling green energy",
+      "label": "Object 14",
+      "description": "Glowing, swirling green energy effect"
+    },
+    "Object 15": {
+      "name": "the electrical energy arcs",
+      "label": "Object 15",
+      "description": "Abstract formation of luminous, branching electrical arcs and scattered sparks in bright yellow and orange"
+    },
+    "Object 16": {
+      "name": "the standard office desk",
+      "label": "Object 16",
+      "description": "Rectangular office desk with a light gray laminate surface, a dark gray metal base and legs, and a black plastic grommet for cable management."
+    },
+    "Object 17": {
+      "name": "the green power lantern",
+      "label": "Object 17",
+      "description": "A metallic green lantern, similar in shape to a classic railroad lantern with a handle on top, emitting a bright green glow from a central circular lens embossed with a stylized lantern symbol."
+    },
+    "Object 18": {
+      "name": "the modern light fixture",
+      "label": "Object 18",
+      "description": "A modern, minimalist L-shaped light fixture with a slim border, a flat panel, and a soft, continuous, even glow."
+    },
+    "Object 19": {
+      "name": "the dark blue blazer",
+      "label": "Object 19",
+      "description": "Dark blue blazer"
+    },
+    "Object 20": {
+      "name": "the white collared shirt",
+      "label": "Object 20",
+      "description": "White collared button-up dress shirt"
+    },
+    "Object 21": {
+      "name": "the holographic console",
+      "label": "Object 21",
+      "description": "Large, angled control console with a sleek, dark metallic casing and a smooth, illuminated surface displaying glowing blue holographic readouts and complex data streams across its touch-sensitive interface."
+    },
+    "Object 22": {
+      "name": "the brass office door",
+      "label": "Object 22",
+      "description": "Brass door with a textured surface and a matching round brass doorknob."
+    },
+    "Object 23": {
+      "name": "the brown quilted jacket",
+      "label": "Object 23",
+      "description": "Brown quilted jacket"
+    },
+    "Object 24": {
+      "name": "the grey t-shirt",
+      "label": "Object 24",
+      "description": "Grey short-sleeved crewneck T-shirt"
+    },
+    "Object 25": {
+      "name": "the plain brown jacket",
+      "label": "Object 25",
+      "description": "Plain brown jacket"
+    },
+    "Object 26": {
+      "name": "the tan quilted jacket",
+      "label": "Object 26",
+      "description": "Tan, diamond-quilted jacket with a smooth texture"
+    },
+    "Object 27": {
+      "name": "the silver chain necklace",
+      "label": "Object 27",
+      "description": "Thin silver chain necklace"
+    },
+    "Object 28": {
+      "name": "the worn fingerless glove",
+      "label": "Object 28",
+      "description": "Black leather fingerless glove, worn and scuffed, with circular cutouts over the knuckles and a metal buckle on the wrist strap."
+    },
+    "Object 29": {
+      "name": "the robotic gauntlet",
+      "label": "Object 29",
+      "description": "A full-forearm robotic gauntlet made of weathered gunmetal gray steel plates over a black carbon fiber chassis, with exposed hydraulic pistons, articulated fingers, reinforced knuckles, and glowing blue energy conduits between the segments."
+    },
+    "Object 30": {
+      "name": "the antique wall sconce",
+      "label": "Object 30",
+      "description": "Wall-mounted sconce with a dark, wrought-iron fixture, a circular decorative backplate, and a single curved arm with an upward-facing, bell-shaped frosted glass shade"
+    },
+    "Object 31": {
+      "name": "the white pillow",
+      "label": "Object 31",
+      "description": "A rectangular pillow with a plain, wrinkled white cotton case."
+    },
+    "Object 32": {
+      "name": "the tan leather gloves",
+      "label": "Object 32",
+      "description": "A pair of brown-tan gloves"
+    },
+    "Object 33": {
+      "name": "the unmade bed",
+      "label": "Object 33",
+      "description": "A bed with rumpled, plain white sheets and a single white pillow."
+    },
+    "Gen_The Stranger": {
+      "name": "The Stranger",
+      "label": "Gen_The Stranger",
+      "description": "A tall figure in a dusty trench coat, face hidden beneath a wide-brimmed hat."
+    }
+  },
+  "_window_shot_ids": [
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0001",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0002",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0003",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0004",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0005",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0006",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0007",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0008",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0009",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0010",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0011",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0012",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0013",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0014",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0015",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0016",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0017",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0018",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0019",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0020",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0021",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0022",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0024",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0025",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0026",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0027",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0028",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0029",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0030",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0031",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0032",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0033",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0034",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0035",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0036",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0037",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0038",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0039",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0040",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0041",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0042",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0043",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0044",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0045",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0046",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0047",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0048",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0049",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0050",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i70_j90__T240__shot0051"
+  ],
+  "_num_scenes": 24,
+  "_num_shots": 50,
+  "_name_map": {
+    "Character 1": "Marcus",
+    "Character 10": "Casey",
+    "Character 2": "Leo",
+    "Character 3": "Julian",
+    "Character 4": "Alex",
+    "Character 5": "Caleb",
+    "Character 6": "Nico",
+    "Character 7": "Daniel",
+    "Character 8": "Chloe",
+    "Character 9": "Riley",
+    "Location 1": "The Containment Cell",
+    "Location 2": "The Command Center",
+    "Location 3": "The City Diner",
+    "Location 4": "The Police Precinct",
+    "Location 5": "The Government Plaza",
+    "Location 6": "The Office Hallway",
+    "Location 7": "The Abandoned Warehouse",
+    "Location 8": "The Apartment Bedroom",
+    "Object 1": "the dark blue sweater",
+    "Object 10": "the tactical rifle",
+    "Object 11": "the stack of case files",
+    "Object 12": "the black overcoat and cap",
+    "Object 13": "the golden wall mural",
+    "Object 14": "the swirling green energy",
+    "Object 15": "the electrical energy arcs",
+    "Object 16": "the standard office desk",
+    "Object 17": "the green power lantern",
+    "Object 18": "the modern light fixture",
+    "Object 19": "the dark blue blazer",
+    "Object 2": "the glowing circuit panel",
+    "Object 20": "the white collared shirt",
+    "Object 21": "the holographic console",
+    "Object 22": "the brass office door",
+    "Object 23": "the brown quilted jacket",
+    "Object 24": "the grey t-shirt",
+    "Object 25": "the plain brown jacket",
+    "Object 26": "the tan quilted jacket",
+    "Object 27": "the silver chain necklace",
+    "Object 28": "the worn fingerless glove",
+    "Object 29": "the robotic gauntlet",
+    "Object 3": "the dark grey blazer",
+    "Object 30": "the antique wall sconce",
+    "Object 31": "the white pillow",
+    "Object 32": "the tan leather gloves",
+    "Object 33": "the unmade bed",
+    "Object 4": "the beaded necklace",
+    "Object 5": "the white t-shirt",
+    "Object 6": "the evidence board",
+    "Object 7": "the main computer screen",
+    "Object 8": "the police file screen",
+    "Object 9": "the task force uniform"
+  }
+}

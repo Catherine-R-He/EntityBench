@@ -1,0 +1,413 @@
+{
+  "story_name": "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120",
+  "story_overview": "An injured Viktor is hunted through various locations, from dark tunnels to a concrete garage, by figures like Silas, Roman, and Leo. Watched from afar by a concerned Julian, the chase intensifies, leading to Viktor's dramatic fall from a building. He is briefly seen as a silhouette in a barred cell before being mysteriously pulled into darkness.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Viktor: Man with a cut on his forehead and a bruise on his face, wearing a white blood-stained button-down shirt and dark pants.\nJulian: Man wearing a white button-down shirt with contrasting black buttons.\nthe beige trench coat: Light beige, double-breasted man's trench coat with wide lapels, a matching fabric belt, and buttoned cuff straps.\nClose-up at night of Julian wearing the beige trench coat. He speaks to Viktor with a concerned expression on his face against a dark, blurry background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up at night of Julian wearing the beige trench coat. He speaks to Viktor with a concerned expression on his face against a dark, blurry background."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Quarry Tunnels: Underground complex consisting of spaces with rough-hewn, jagged, natural rock walls, ceilings, and uneven stone floors.\nthe caged industrial light: A circular, rust-stained metal industrial light fixture with a protective wire cage around a single bare bulb.\n\nClose-up of Viktor, wearing the blood-stained shirt, in the rough-hewn passages of The Quarry Tunnels. He looks sharply over his shoulder, his face filled with alarm. The caged industrial light hangs from the rock ceiling above and behind him, casting long, dramatic shadows."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Viktor, wearing the blood-stained shirt, in the rough-hewn passages of The Quarry Tunnels. He looks sharply over his shoulder, his face filled with alarm. The caged industrial light hangs from the rock ceiling above and behind him, casting long, dramatic shadows."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Silas: Bald man with a goatee wearing a light-colored trench coat over a suit.\nWarehouse District: Outdoor city street with a car present.\nthe dark sedan: Modern, dark-colored four-door sedan of a generic make with standard headlights and minor scuffs on the bodywork.\n\nAt night in Warehouse District, Silas runs urgently across the city street and onto the sidewalk. Viktor stands beside the dark sedan, which is parked at the curb, turning his head to watch Silas approach."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At night in Warehouse District, Silas runs urgently across the city street and onto the sidewalk. Viktor stands beside the dark sedan, which is parked at the curb, turning his head to watch Silas approach."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Concrete Garage: Utilitarian indoor parking garage with a raw concrete construction, thick support pillars, and various parked cars including a blue convertible.\nViktor runs urgently through The Concrete Garage, his motion tracked as he passes the blue convertible. The garage is filled with concrete pillars and other parked cars under stark lighting.",
+        "Roman: Bald man with a rugged face, wearing a simple white long-sleeved shirt.\nthe gray windbreaker: Light gray nylon windbreaker jacket with a full-length front zipper, elastic cuffs, and a simple high collar.\nthe dark athletic pants: Dark-colored, tapered-leg athletic pants made from a synthetic, flexible fabric.\n\nFirst-person perspective from the shaky handheld camera, showing a frantic pursuit through The Concrete Garage at night. Roman, wearing the gray windbreaker and the dark athletic pants, and Viktor sprint away from the camera, weaving between concrete pillars. The fast motion blurs the background, which is filled with the rows of parked cars.",
+        "Leo: Man wearing a white button-up shirt.\n\nIn The Concrete Garage, Silas, wearing the dark suit and trench coat, runs frantically forward, slowing to a brisk, anxious walk as he scans the parking garage. Leo watches from the background near a concrete pillar, subtly shifting his weight.",
+        "Medium close-up of Viktor, wearing the white blood-stained button-down shirt and the plain grey jacket, walking through the dimly lit The Concrete Garage, which is bathed in a cool blue light. He moves with purpose past the thick concrete pillars of the parking garage.",
+        "In a shaky, handheld shot, Viktor, now wearing the beige trench coat, walks with a serious expression through the starkly lit The Concrete Garage. He walks directly towards the handheld camera before moving past it and out of the frame.",
+        "the black van: A large, commercial-style van with a solid black exterior.\nthe industrial metal gate: Large, dark grey industrial metal gate with vertical bars and a solid rectangular border.\nRear view following Roman as he walks through the dimly lit The Concrete Garage. He moves past parked cars, including the black van, walking towards the industrial metal gate in the distance."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Viktor runs urgently through The Concrete Garage, his motion tracked as he passes the blue convertible. The garage is filled with concrete pillars and other parked cars under stark lighting.",
+        "First-person perspective from the shaky handheld camera, showing a frantic pursuit through The Concrete Garage at night. Roman, wearing the gray windbreaker and the dark athletic pants, and Viktor sprint away from the camera, weaving between concrete pillars. The fast motion blurs the background, which is filled with the rows of parked cars.",
+        "In The Concrete Garage, Silas, wearing the dark suit and trench coat, runs frantically forward, slowing to a brisk, anxious walk as he scans the parking garage. Leo watches from the background near a concrete pillar, subtly shifting his weight.",
+        "Medium close-up of Viktor, wearing the white blood-stained button-down shirt and the plain grey jacket, walking through the dimly lit The Concrete Garage, which is bathed in a cool blue light. He moves with purpose past the thick concrete pillars of the parking garage.",
+        "In a shaky, handheld shot, Viktor, now wearing the beige trench coat, walks with a serious expression through the starkly lit The Concrete Garage. He walks directly towards the handheld camera before moving past it and out of the frame.",
+        "Rear view following Roman as he walks through the dimly lit The Concrete Garage. He moves past parked cars, including the black van, walking towards the industrial metal gate in the distance."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Industrial Yard: Outdoor area featuring a fence.\n\nAt The Industrial Yard at night, a high-angle shot looks down through a fence. The body of Viktor is briefly seen falling quickly through the frame.",
+        "The Holding Cell: Interior room of a building with a single barred window.\nthe single barred window: A single rectangular window with thick, vertical iron bars, glowing brightly with light from within.\n\nLow-angle shot from The Industrial Yard at night, looking up at a building. The single barred window is brightly lit. Inside The Holding Cell, the dark silhouette of Viktor stands and gestures."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "At The Industrial Yard at night, a high-angle shot looks down through a fence. The body of Viktor is briefly seen falling quickly through the frame.",
+        "Low-angle shot from The Industrial Yard at night, looking up at a building. The single barred window is brightly lit. Inside The Holding Cell, the dark silhouette of Viktor stands and gestures."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "In the dark, blue-tinted The Quarry Tunnels, Viktor, wearing the blood-stained shirt, stares upward with a terrified expression. He is abruptly and violently pulled down, disappearing into the pitch-black shadows below."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dark, blue-tinted The Quarry Tunnels, Viktor, wearing the blood-stained shirt, stares upward with a terrified expression. He is abruptly and violently pulled down, disappearing into the pitch-black shadows below."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Viktor",
+        "Julian"
+      ],
+      "places": [],
+      "objects": [
+        "the beige trench coat"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Viktor"
+      ],
+      "places": [
+        "The Quarry Tunnels"
+      ],
+      "objects": [
+        "the blood-stained shirt",
+        "the caged industrial light"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Silas",
+        "Viktor"
+      ],
+      "places": [
+        "Warehouse District"
+      ],
+      "objects": [
+        "the dark sedan"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Viktor"
+      ],
+      "places": [
+        "The Concrete Garage"
+      ],
+      "objects": [
+        "the blue convertible"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Viktor",
+        "Roman"
+      ],
+      "places": [
+        "The Concrete Garage"
+      ],
+      "objects": [
+        "the gray windbreaker",
+        "the dark athletic pants",
+        "the rows of parked cars",
+        "the handheld camera"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Silas",
+        "Leo"
+      ],
+      "places": [
+        "The Concrete Garage"
+      ],
+      "objects": [
+        "the dark suit and trench coat"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Viktor"
+      ],
+      "places": [
+        "The Concrete Garage"
+      ],
+      "objects": [
+        "the plain grey jacket"
+      ]
+    },
+    "4:5": {
+      "characters": [
+        "Viktor"
+      ],
+      "places": [
+        "The Concrete Garage"
+      ],
+      "objects": [
+        "the beige trench coat",
+        "the handheld camera"
+      ]
+    },
+    "4:6": {
+      "characters": [
+        "Roman"
+      ],
+      "places": [
+        "The Concrete Garage"
+      ],
+      "objects": [
+        "the black van",
+        "the industrial metal gate"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Viktor"
+      ],
+      "places": [
+        "The Industrial Yard"
+      ],
+      "objects": []
+    },
+    "5:2": {
+      "characters": [
+        "Viktor"
+      ],
+      "places": [
+        "The Industrial Yard",
+        "The Holding Cell"
+      ],
+      "objects": [
+        "the single barred window"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Viktor"
+      ],
+      "places": [
+        "The Quarry Tunnels"
+      ],
+      "objects": [
+        "the blood-stained shirt"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Man wearing a white button-up shirt."
+    },
+    "Character 2": {
+      "name": "Viktor",
+      "label": "Character 2",
+      "description": "Man with a cut on his forehead and a bruise on his face, wearing a white blood-stained button-down shirt and dark pants."
+    },
+    "Character 3": {
+      "name": "Julian",
+      "label": "Character 3",
+      "description": "Man wearing a white button-down shirt with contrasting black buttons."
+    },
+    "Character 4": {
+      "name": "Silas",
+      "label": "Character 4",
+      "description": "Bald man with a goatee wearing a light-colored trench coat over a suit."
+    },
+    "Character 5": {
+      "name": "Roman",
+      "label": "Character 5",
+      "description": "Bald man with a rugged face, wearing a simple white long-sleeved shirt."
+    },
+    "Location 1": {
+      "name": "Warehouse District",
+      "label": "Location 1",
+      "description": "Outdoor city street with a car present."
+    },
+    "Location 2": {
+      "name": "The Quarry Tunnels",
+      "label": "Location 2",
+      "description": "Underground complex consisting of spaces with rough-hewn, jagged, natural rock walls, ceilings, and uneven stone floors."
+    },
+    "Location 3": {
+      "name": "The Concrete Garage",
+      "label": "Location 3",
+      "description": "Utilitarian indoor parking garage with a raw concrete construction, thick support pillars, and various parked cars including a blue convertible."
+    },
+    "Location 4": {
+      "name": "The Industrial Yard",
+      "label": "Location 4",
+      "description": "Outdoor area featuring a fence."
+    },
+    "Location 5": {
+      "name": "The Holding Cell",
+      "label": "Location 5",
+      "description": "Interior room of a building with a single barred window."
+    },
+    "Object 1": {
+      "name": "the blood-stained shirt",
+      "label": "Object 1",
+      "description": "A man's light-colored white shirt with blood stains"
+    },
+    "Object 2": {
+      "name": "the dark sedan",
+      "label": "Object 2",
+      "description": "Modern, dark-colored four-door sedan of a generic make with standard headlights and minor scuffs on the bodywork."
+    },
+    "Object 3": {
+      "name": "the beige trench coat",
+      "label": "Object 3",
+      "description": "Light beige, double-breasted man's trench coat with wide lapels, a matching fabric belt, and buttoned cuff straps."
+    },
+    "Object 4": {
+      "name": "the caged industrial light",
+      "label": "Object 4",
+      "description": "A circular, rust-stained metal industrial light fixture with a protective wire cage around a single bare bulb."
+    },
+    "Object 5": {
+      "name": "the blue convertible",
+      "label": "Object 5",
+      "description": "Blue convertible car"
+    },
+    "Object 6": {
+      "name": "the dark athletic pants",
+      "label": "Object 6",
+      "description": "Dark-colored, tapered-leg athletic pants made from a synthetic, flexible fabric."
+    },
+    "Object 7": {
+      "name": "the handheld camera",
+      "label": "Object 7",
+      "description": "Handheld video camera"
+    },
+    "Object 8": {
+      "name": "the gray windbreaker",
+      "label": "Object 8",
+      "description": "Light gray nylon windbreaker jacket with a full-length front zipper, elastic cuffs, and a simple high collar."
+    },
+    "Object 9": {
+      "name": "the rows of parked cars",
+      "label": "Object 9",
+      "description": "Multiple rows of blurry, indistinct cars of various shapes and sizes"
+    },
+    "Object 10": {
+      "name": "the classic tan trench coat",
+      "label": "Object 10",
+      "description": "Classic tan trench coat with a double-breasted front, wide notched lapels, shoulder epaulets, and a matching belted waist"
+    },
+    "Object 11": {
+      "name": "the dark suit and trench coat",
+      "label": "Object 11",
+      "description": "A dark, single-breasted suit jacket and matching trousers, worn over a white dress shirt and a loosened dark tie, all underneath a classic tan trench coat"
+    },
+    "Object 12": {
+      "name": "the blue button-down shirt",
+      "label": "Object 12",
+      "description": "Blue long-sleeved button-front shirt with a pointed collar"
+    },
+    "Object 13": {
+      "name": "the plain grey jacket",
+      "label": "Object 13",
+      "description": "Plain grey men's jacket"
+    },
+    "Object 14": {
+      "name": "the industrial metal gate",
+      "label": "Object 14",
+      "description": "Large, dark grey industrial metal gate with vertical bars and a solid rectangular border."
+    },
+    "Object 15": {
+      "name": "the black van",
+      "label": "Object 15",
+      "description": "A large, commercial-style van with a solid black exterior."
+    },
+    "Object 16": {
+      "name": "the single barred window",
+      "label": "Object 16",
+      "description": "A single rectangular window with thick, vertical iron bars, glowing brightly with light from within."
+    }
+  },
+  "_window_shot_ids": [
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0037",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0038",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0039",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0040",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0041",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0042",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0043",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0044",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0045",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0046",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0047",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run719__i35_j44__T120__shot0048"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Viktor",
+    "Character 3": "Julian",
+    "Character 4": "Silas",
+    "Character 5": "Roman",
+    "Location 1": "Warehouse District",
+    "Location 2": "The Quarry Tunnels",
+    "Location 3": "The Concrete Garage",
+    "Location 4": "The Industrial Yard",
+    "Location 5": "The Holding Cell",
+    "Object 1": "the blood-stained shirt",
+    "Object 10": "the classic tan trench coat",
+    "Object 11": "the dark suit and trench coat",
+    "Object 12": "the blue button-down shirt",
+    "Object 13": "the plain grey jacket",
+    "Object 14": "the industrial metal gate",
+    "Object 15": "the black van",
+    "Object 16": "the single barred window",
+    "Object 2": "the dark sedan",
+    "Object 3": "the beige trench coat",
+    "Object 4": "the caged industrial light",
+    "Object 5": "the blue convertible",
+    "Object 6": "the dark athletic pants",
+    "Object 7": "the handheld camera",
+    "Object 8": "the gray windbreaker",
+    "Object 9": "the rows of parked cars"
+  }
+}

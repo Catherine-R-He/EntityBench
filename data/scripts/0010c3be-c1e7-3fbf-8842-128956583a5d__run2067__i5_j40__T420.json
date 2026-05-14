@@ -1,0 +1,341 @@
+{
+  "story_name": "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420",
+  "story_overview": "At The Caravan Meadow, Julian is puzzled by his tablet when he's confronted by a concerned Penelope and Isabelle. Julian's confusion continues as he finds himself in a series of strange locations, from a chroma studio to a cow pasture with Winston, and a stone cloister with Leo and Felix.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Julian: Man with light brown hair and a neat short beard, wearing a beige suit jacket with a black bow tie.\nThe Caravan Meadow: A grassy field featuring a vintage yellow caravan, a folding chair, sections of a small white picket fence, and boots repurposed as flower pots.\nthe folding chair: Folding outdoor task chair.\nthe vintage yellow caravan: Vintage yellow and white caravan with a quirky interior featuring green artificial turf on the floor and seats, several potted plants, and a cardboard sign on the wall reading 'ANYTHING IS POSSIBLE'.\nthe sleek electronic tablet: Sleek, black, rectangular electronic tablet.\nClaire: Woman with straight, shoulder-length blonde hair, wearing a dark blue suit jacket and matching trousers over a white crew-neck top\n\nIn The Caravan Meadow, Julian, wearing the black bow tie, the beige suit, and a white dress shirt, sits on the folding chair near the vintage yellow caravan, holding the sleek electronic tablet on his lap. He looks up to his right with a puzzled expression at Claire.",
+        "Penelope: Woman with long brown hair, wearing a bright pink blazer and matching pink headband over a pink shirt.\nMedium shot of Penelope, wearing the pink blazer and headband, in The Caravan Meadow. She stands next to the vintage yellow caravan with her hands on her hips, speaking with a concerned expression.",
+        "Isabelle: Woman with long brown hair, wearing a black leather jacket layered over a pink sweater and a white collared shirt.\n\nIn The Caravan Meadow, Isabelle leans against the doorframe of the vintage yellow caravan, with the pink blazer and headband visible inside. Nearby, Julian, wearing the black bow tie and the beige suit, sits on the folding chair and scrolls through the sleek electronic tablet resting in his lap.",
+        "Wide daytime shot in The Caravan Meadow. Penelope, wearing the pink blazer and headband, stands in front of the vintage yellow caravan, gesturing as she speaks. Isabelle stands nearby, listening and nodding.",
+        "Medium shot of Penelope, wearing the pink blazer and headband, standing in The Caravan Meadow in front of the vintage yellow caravan. She holds a piece of paper and speaks with a serious expression, gesturing as she talks.",
+        "Medium shot of Julian, wearing the black bow tie and the beige suit, in The Caravan Meadow during the day. He sits on the folding chair next to the vintage yellow caravan, holding the sleek electronic tablet in his hands. He frowns at the screen with a puzzled expression, then slowly looks up and away from the camera."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Caravan Meadow, Julian, wearing the black bow tie, the beige suit, and a white dress shirt, sits on the folding chair near the vintage yellow caravan, holding the sleek electronic tablet on his lap. He looks up to his right with a puzzled expression at Claire.",
+        "Medium shot of Penelope, wearing the pink blazer and headband, in The Caravan Meadow. She stands next to the vintage yellow caravan with her hands on her hips, speaking with a concerned expression.",
+        "In The Caravan Meadow, Isabelle leans against the doorframe of the vintage yellow caravan, with the pink blazer and headband visible inside. Nearby, Julian, wearing the black bow tie and the beige suit, sits on the folding chair and scrolls through the sleek electronic tablet resting in his lap.",
+        "Wide daytime shot in The Caravan Meadow. Penelope, wearing the pink blazer and headband, stands in front of the vintage yellow caravan, gesturing as she speaks. Isabelle stands nearby, listening and nodding.",
+        "Medium shot of Penelope, wearing the pink blazer and headband, standing in The Caravan Meadow in front of the vintage yellow caravan. She holds a piece of paper and speaks with a serious expression, gesturing as she talks.",
+        "Medium shot of Julian, wearing the black bow tie and the beige suit, in The Caravan Meadow during the day. He sits on the folding chair next to the vintage yellow caravan, holding the sleek electronic tablet in his hands. He frowns at the screen with a puzzled expression, then slowly looks up and away from the camera."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Chroma Studio: An indoor studio space featuring a large, uniform wall or backdrop of vibrant, saturated chroma key green.\n\nMedium shot of Julian standing in The Chroma Studio. Julian, wearing the black bow tie, looks directly at the camera and gives a short, serious nod, with the large green screen behind him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Julian standing in The Chroma Studio. Julian, wearing the black bow tie, looks directly at the camera and gives a short, serious nod, with the large green screen behind him."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Winston: Tall, large-built man with short dark hair, wearing thick rectangular black-framed glasses, a black suit jacket over a white dress shirt, and matching black trousers.\nThe Cow Pasture: Green, grassy field containing a small calf statue and a black and white cow.\n\nJulian, wearing the black bow tie, leans down to get a closer look at a small calf statue. Winston stands beside him, observing with a slight smile. A black and white cow grazes in the grass behind them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Julian, wearing the black bow tie, leans down to get a closer look at a small calf statue. Winston stands beside him, observing with a slight smile. A black and white cow grazes in the grass behind them."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Leo: Person with face paint on, wearing a red shirt, red shorts, and a light blue bucket hat.\nThe Stone Cloister: Outdoor cloister featuring a stone-paved walkway bordered by a series of repeating carved stone columns on one side and a solid stone wall on the other.\n\nIn The Stone Cloister, Julian, wearing the black bow tie and the beige suit, stands on the stone-paved walkway, slowly turning his head as he looks around with a confused expression. Leo stands nearby, watching Julian with a curious tilt of his head.",
+        "Felix: Man in a beige blazer, white shirt, and black trousers, wearing a small grey hat.\n\nFelix and Winston stand together on the stone-paved walkway. Winston is wearing the white dress shirt. Felix slowly turns his head forward, his expression neutral. Winston shifts his weight beside him, looking slightly to the side."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The Stone Cloister, Julian, wearing the black bow tie and the beige suit, stands on the stone-paved walkway, slowly turning his head as he looks around with a confused expression. Leo stands nearby, watching Julian with a curious tilt of his head.",
+        "Felix and Winston stand together on the stone-paved walkway. Winston is wearing the white dress shirt. Felix slowly turns his head forward, his expression neutral. Winston shifts his weight beside him, looking slightly to the side."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Julian",
+        "Claire"
+      ],
+      "places": [
+        "The Caravan Meadow"
+      ],
+      "objects": [
+        "the folding chair",
+        "the vintage yellow caravan",
+        "the beige suit",
+        "the white dress shirt",
+        "the black bow tie",
+        "the sleek electronic tablet"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Penelope"
+      ],
+      "places": [
+        "The Caravan Meadow"
+      ],
+      "objects": [
+        "the vintage yellow caravan",
+        "the pink blazer and headband"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Isabelle",
+        "Julian"
+      ],
+      "places": [
+        "The Caravan Meadow"
+      ],
+      "objects": [
+        "the pink blazer and headband",
+        "the vintage yellow caravan",
+        "the beige suit",
+        "the black bow tie",
+        "the folding chair",
+        "the sleek electronic tablet"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Isabelle",
+        "Penelope"
+      ],
+      "places": [
+        "The Caravan Meadow"
+      ],
+      "objects": [
+        "the pink blazer and headband",
+        "the vintage yellow caravan"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Penelope"
+      ],
+      "places": [
+        "The Caravan Meadow"
+      ],
+      "objects": [
+        "the vintage yellow caravan",
+        "the pink blazer and headband"
+      ]
+    },
+    "1:6": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Caravan Meadow"
+      ],
+      "objects": [
+        "the folding chair",
+        "the vintage yellow caravan",
+        "the beige suit",
+        "the black bow tie",
+        "the sleek electronic tablet"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Chroma Studio"
+      ],
+      "objects": [
+        "the black bow tie",
+        "the large green screen"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Julian",
+        "Winston"
+      ],
+      "places": [
+        "The Cow Pasture"
+      ],
+      "objects": [
+        "the black bow tie"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Julian",
+        "Leo"
+      ],
+      "places": [
+        "The Stone Cloister"
+      ],
+      "objects": [
+        "the beige suit",
+        "the black bow tie"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Winston",
+        "Felix"
+      ],
+      "places": [
+        "The Stone Cloister"
+      ],
+      "objects": [
+        "the white dress shirt"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Person with face paint on, wearing a red shirt, red shorts, and a light blue bucket hat."
+    },
+    "Character 2": {
+      "name": "Isabelle",
+      "label": "Character 2",
+      "description": "Woman with long brown hair, wearing a black leather jacket layered over a pink sweater and a white collared shirt."
+    },
+    "Character 3": {
+      "name": "Penelope",
+      "label": "Character 3",
+      "description": "Woman with long brown hair, wearing a bright pink blazer and matching pink headband over a pink shirt."
+    },
+    "Character 4": {
+      "name": "Julian",
+      "label": "Character 4",
+      "description": "Man with light brown hair and a neat short beard, wearing a beige suit jacket with a black bow tie."
+    },
+    "Character 5": {
+      "name": "Felix",
+      "label": "Character 5",
+      "description": "Man in a beige blazer, white shirt, and black trousers, wearing a small grey hat."
+    },
+    "Character 6": {
+      "name": "Winston",
+      "label": "Character 6",
+      "description": "Tall, large-built man with short dark hair, wearing thick rectangular black-framed glasses, a black suit jacket over a white dress shirt, and matching black trousers."
+    },
+    "Character 7": {
+      "name": "Claire",
+      "label": "Character 7",
+      "description": "Woman with straight, shoulder-length blonde hair, wearing a dark blue suit jacket and matching trousers over a white crew-neck top"
+    },
+    "Location 1": {
+      "name": "The Caravan Meadow",
+      "label": "Location 1",
+      "description": "A grassy field featuring a vintage yellow caravan, a folding chair, sections of a small white picket fence, and boots repurposed as flower pots."
+    },
+    "Location 2": {
+      "name": "The Chroma Studio",
+      "label": "Location 2",
+      "description": "An indoor studio space featuring a large, uniform wall or backdrop of vibrant, saturated chroma key green."
+    },
+    "Location 3": {
+      "name": "The Cow Pasture",
+      "label": "Location 3",
+      "description": "Green, grassy field containing a small calf statue and a black and white cow."
+    },
+    "Location 4": {
+      "name": "The Stone Cloister",
+      "label": "Location 4",
+      "description": "Outdoor cloister featuring a stone-paved walkway bordered by a series of repeating carved stone columns on one side and a solid stone wall on the other."
+    },
+    "Object 1": {
+      "name": "the vintage yellow caravan",
+      "label": "Object 1",
+      "description": "Vintage yellow and white caravan with a quirky interior featuring green artificial turf on the floor and seats, several potted plants, and a cardboard sign on the wall reading 'ANYTHING IS POSSIBLE'."
+    },
+    "Object 2": {
+      "name": "the sleek electronic tablet",
+      "label": "Object 2",
+      "description": "Sleek, black, rectangular electronic tablet."
+    },
+    "Object 3": {
+      "name": "the black bow tie",
+      "label": "Object 3",
+      "description": "A pre-tied black fabric bow tie in a classic butterfly shape with a smooth, slightly shiny finish"
+    },
+    "Object 4": {
+      "name": "the beige suit",
+      "label": "Object 4",
+      "description": "Light beige two-piece suit"
+    },
+    "Object 5": {
+      "name": "the white dress shirt",
+      "label": "Object 5",
+      "description": "Crisp white formal button-down dress shirt with a pointed collar"
+    },
+    "Object 6": {
+      "name": "the folding chair",
+      "label": "Object 6",
+      "description": "Folding outdoor task chair."
+    },
+    "Object 7": {
+      "name": "the pink blazer and headband",
+      "label": "Object 7",
+      "description": "Bright pink blazer and a matching pink headband"
+    },
+    "Object 8": {
+      "name": "the large green screen",
+      "label": "Object 8",
+      "description": "A large, seamless green screen with a non-reflective, matte surface and a uniform bright green color"
+    }
+  },
+  "_window_shot_ids": [
+    "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420__shot0027",
+    "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420__shot0028",
+    "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420__shot0029",
+    "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420__shot0030",
+    "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420__shot0031",
+    "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420__shot0032",
+    "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420__shot0033",
+    "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420__shot0034",
+    "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420__shot0035",
+    "0010c3be-c1e7-3fbf-8842-128956583a5d__run2067__i5_j40__T420__shot0036"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Isabelle",
+    "Character 3": "Penelope",
+    "Character 4": "Julian",
+    "Character 5": "Felix",
+    "Character 6": "Winston",
+    "Character 7": "Claire",
+    "Location 1": "The Caravan Meadow",
+    "Location 2": "The Chroma Studio",
+    "Location 3": "The Cow Pasture",
+    "Location 4": "The Stone Cloister",
+    "Object 1": "the vintage yellow caravan",
+    "Object 2": "the sleek electronic tablet",
+    "Object 3": "the black bow tie",
+    "Object 4": "the beige suit",
+    "Object 5": "the white dress shirt",
+    "Object 6": "the folding chair",
+    "Object 7": "the pink blazer and headband",
+    "Object 8": "the large green screen"
+  }
+}

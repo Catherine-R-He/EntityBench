@@ -1,0 +1,392 @@
+{
+  "story_name": "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240",
+  "story_overview": "In a traditional Chinese study, Meilin speaks with animation while Feng discusses a mysterious orange paper. The story shifts to an apothecary where Liang, Suyin, and Jing are involved in serious conversations, focusing on a traditional hardcover book that Jing and Suyin study intently under Feng's watchful eye.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Feng: Middle-aged man with a mustache, wearing a gray traditional tunic and a dark green traditional jacket.\nArthur: Middle-aged man wearing a light-colored suit jacket with a matching waistcoat and a dark tie.\nThe Scholar's Study: Indoor traditional Chinese reading room with dark wood architectural elements and an intricate latticed window screen.\nthe blue and white porcelain vase: Large blue and white porcelain vase.\n\nIn The Scholar's Study, a medium shot shows Feng speaking animatedly to Arthur, gesturing for emphasis as they converse. In the background, the blue and white porcelain vase rests on a cabinet."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Scholar's Study, a medium shot shows Feng speaking animatedly to Arthur, gesturing for emphasis as they converse. In the background, the blue and white porcelain vase rests on a cabinet."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "the bright orange paper: Small, rectangular piece of bright orange paper.\nthe ornate wooden cabinet: Tall, ornate wooden cabinet made of dark, polished wood, featuring intricate carvings across its doors and body and decorative metal hardware.\nthe ornate mantel clock: Vintage, ornate mantel clock with a dark polished wood casing, an arched top, and intricate carved scrollwork, featuring a white face with black Roman numerals, delicate gold hands, and a glass-paneled front with a visible brass pendulum.\nthe green jade sculpture: Small, polished green jade sculpture.\n\nFeng sits in a wooden chair in The Scholar's Study. He holds the bright orange paper and speaks with a serious expression. Behind him, the ornate wooden cabinet stands against the wall, with the ornate mantel clock and the green jade sculpture resting on top of it.",
+        "the white chinese characters: Horizontally-aligned lines of white, digitally-rendered Chinese characters with a thin black outline for contrast.\nMedium shot of Feng, wearing the grey traditional tunic, sitting in The Scholar's Study with his arms crossed, speaking to Arthur with a questioning expression, with the white chinese characters visible. In the background, the ornate mantel clock and the green jade sculpture are displayed on the ornate wooden cabinet."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Feng sits in a wooden chair in The Scholar's Study. He holds the bright orange paper and speaks with a serious expression. Behind him, the ornate wooden cabinet stands against the wall, with the ornate mantel clock and the green jade sculpture resting on top of it.",
+        "Medium shot of Feng, wearing the grey traditional tunic, sitting in The Scholar's Study with his arms crossed, speaking to Arthur with a questioning expression, with the white chinese characters visible. In the background, the ornate mantel clock and the green jade sculpture are displayed on the ornate wooden cabinet."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Liang: East Asian man with short black hair, wearing a light brown or beige suit jacket over a white collared shirt.\nThe Old Apothecary: Vintage-style indoor office and apothecary containing a large, dark wooden apothecary cabinet with numerous small, locked compartments.\nthe dark wood apothecary cabinet: Large, vintage-style, dark wooden apothecary cabinet featuring many small, locked compartments.\nthe vintage brass lamp: Ornate, vintage-style table lamp with a dark, tarnished brass base and a bell-shaped glass shade containing a warm, glowing filament.\n\nMedium shot in The Old Apothecary. Feng smiles as he talks to Liang, who is wearing the light beige suit. Standing across from Feng, Liang listens intently, nodding slightly as the white chinese characters appear on screen. The room is warmly lit by the vintage brass lamp, with the dark wood apothecary cabinet visible in the background.",
+        "Jing: Young woman with her hair styled in two braids, wearing large round glasses and a traditional beige and pink outfit.\nthe large potted plant: Large indoor plant with broad, waxy, dark green leaves and a woody stem, housed in a simple, large, dark ceramic pot.\nthe stack of gift boxes: A stack of several wrapped gift boxes.\n\nIn The Old Apothecary, Arthur speaks with a serious expression to Jing. He is flanked by the large potted plant on one side and the stack of gift boxes on the other, with the dark wood apothecary cabinet in the background. A visual overlay of white chinese characters is present on screen."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Old Apothecary. Feng smiles as he talks to Liang, who is wearing the light beige suit. Standing across from Feng, Liang listens intently, nodding slightly as the white chinese characters appear on screen. The room is warmly lit by the vintage brass lamp, with the dark wood apothecary cabinet visible in the background.",
+        "In The Old Apothecary, Arthur speaks with a serious expression to Jing. He is flanked by the large potted plant on one side and the stack of gift boxes on the other, with the dark wood apothecary cabinet in the background. A visual overlay of white chinese characters is present on screen."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Suyin: Woman with her hair styled in a traditional updo, wearing a pink traditional outfit with a high collar.\nthe traditional hardcover book: Large, traditional-style hardcover book.\n\nJing sits at a table, holding the traditional hardcover book and wearing the large round glasses. She looks up from the book and speaks to Suyin, who stands nearby and listens attentively."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Jing sits at a table, holding the traditional hardcover book and wearing the large round glasses. She looks up from the book and speaks to Suyin, who stands nearby and listens attentively."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Close-up in The Old Apothecary of Liang, wearing the light beige suit, speaking with a serious expression, with the white chinese characters visible. Suyin stands beside him, listening intently. In the background, the lit vintage brass lamp casts a warm glow over the dark wood apothecary cabinet.",
+        "Inside The Old Apothecary, Liang, wearing the light beige suit, sits at a desk and speaks earnestly, with the white chinese characters visible. Suyin stands across from him, nodding slightly as she listens with a focused expression. In the background, the lit vintage brass lamp casts a warm glow on the dark wood of the dark wood apothecary cabinet.",
+        "Meilin: East Asian woman with dark hair styled in an updo, wearing a traditional red robe with a high collar and a yellow sash worn around her waist.\n\nMedium close-up in The Old Apothecary. Arthur sits with a pensive expression, positioned between the stack of gift boxes on one side and the large potted plant on the other. Meilin takes a small step closer, looking toward Arthur with a concerned expression as the dark wood apothecary cabinet fills the background, with white chinese characters superimposed over the shot."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up in The Old Apothecary of Liang, wearing the light beige suit, speaking with a serious expression, with the white chinese characters visible. Suyin stands beside him, listening intently. In the background, the lit vintage brass lamp casts a warm glow over the dark wood apothecary cabinet.",
+        "Inside The Old Apothecary, Liang, wearing the light beige suit, sits at a desk and speaks earnestly, with the white chinese characters visible. Suyin stands across from him, nodding slightly as she listens with a focused expression. In the background, the lit vintage brass lamp casts a warm glow on the dark wood of the dark wood apothecary cabinet.",
+        "Medium close-up in The Old Apothecary. Arthur sits with a pensive expression, positioned between the stack of gift boxes on one side and the large potted plant on the other. Meilin takes a small step closer, looking toward Arthur with a concerned expression as the dark wood apothecary cabinet fills the background, with white chinese characters superimposed over the shot."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "In The Scholar's Study, Jing, wearing the large round glasses, sits at a wooden table, her eyes scanning the pages of the traditional hardcover book. Feng stands beside her, leaning in slightly with a concerned expression. The decorative wooden lattice screen is visible in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Scholar's Study, Jing, wearing the large round glasses, sits at a wooden table, her eyes scanning the pages of the traditional hardcover book. Feng stands beside her, leaning in slightly with a concerned expression. The decorative wooden lattice screen is visible in the background."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Feng",
+        "Arthur"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the blue and white porcelain vase"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Feng"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the bright orange paper",
+        "the ornate wooden cabinet",
+        "the ornate mantel clock",
+        "the green jade sculpture"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Arthur",
+        "Feng"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the grey traditional tunic",
+        "the ornate wooden cabinet",
+        "the ornate mantel clock",
+        "the green jade sculpture",
+        "the white chinese characters"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Liang",
+        "Feng"
+      ],
+      "places": [
+        "The Old Apothecary"
+      ],
+      "objects": [
+        "the light beige suit",
+        "the dark wood apothecary cabinet",
+        "the vintage brass lamp",
+        "the white chinese characters"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Arthur",
+        "Jing"
+      ],
+      "places": [
+        "The Old Apothecary"
+      ],
+      "objects": [
+        "the large potted plant",
+        "the stack of gift boxes",
+        "the dark wood apothecary cabinet"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Suyin",
+        "Jing"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the large round glasses",
+        "the traditional hardcover book",
+        "the wooden lattice screen"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Liang",
+        "Suyin"
+      ],
+      "places": [
+        "The Old Apothecary"
+      ],
+      "objects": [
+        "the light beige suit",
+        "the dark wood apothecary cabinet",
+        "the vintage brass lamp",
+        "the white chinese characters"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Liang",
+        "Suyin"
+      ],
+      "places": [
+        "The Old Apothecary"
+      ],
+      "objects": [
+        "the light beige suit",
+        "the vintage brass lamp",
+        "the dark wood apothecary cabinet",
+        "the white chinese characters"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Arthur",
+        "Meilin"
+      ],
+      "places": [
+        "The Old Apothecary"
+      ],
+      "objects": [
+        "the stack of gift boxes",
+        "the large potted plant",
+        "the dark wood apothecary cabinet"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Feng",
+        "Jing"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the large round glasses",
+        "the traditional hardcover book",
+        "the wooden lattice screen"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Liang",
+      "label": "Character 1",
+      "description": "East Asian man with short black hair, wearing a light brown or beige suit jacket over a white collared shirt."
+    },
+    "Character 2": {
+      "name": "Meilin",
+      "label": "Character 2",
+      "description": "East Asian woman with dark hair styled in an updo, wearing a traditional red robe with a high collar and a yellow sash worn around her waist."
+    },
+    "Character 3": {
+      "name": "Arthur",
+      "label": "Character 3",
+      "description": "Middle-aged man wearing a light-colored suit jacket with a matching waistcoat and a dark tie."
+    },
+    "Character 5": {
+      "name": "Suyin",
+      "label": "Character 5",
+      "description": "Woman with her hair styled in a traditional updo, wearing a pink traditional outfit with a high collar."
+    },
+    "Character 6": {
+      "name": "Jing",
+      "label": "Character 6",
+      "description": "Young woman with her hair styled in two braids, wearing large round glasses and a traditional beige and pink outfit."
+    },
+    "Character 7": {
+      "name": "Feng",
+      "label": "Character 7",
+      "description": "Middle-aged man with a mustache, wearing a gray traditional tunic and a dark green traditional jacket."
+    },
+    "Location 1": {
+      "name": "The Scholar's Study",
+      "label": "Location 1",
+      "description": "Indoor traditional Chinese reading room with dark wood architectural elements and an intricate latticed window screen."
+    },
+    "Location 2": {
+      "name": "The Old Apothecary",
+      "label": "Location 2",
+      "description": "Vintage-style indoor office and apothecary containing a large, dark wooden apothecary cabinet with numerous small, locked compartments."
+    },
+    "Object 1": {
+      "name": "the light beige suit",
+      "label": "Object 1",
+      "description": "Light beige two-piece suit consisting of a single-breasted jacket with notched lapels and matching trousers"
+    },
+    "Object 2": {
+      "name": "the white chinese characters",
+      "label": "Object 2",
+      "description": "Horizontally-aligned lines of white, digitally-rendered Chinese characters with a thin black outline for contrast."
+    },
+    "Object 3": {
+      "name": "the large round glasses",
+      "label": "Object 3",
+      "description": "Large, round women's glasses"
+    },
+    "Object 4": {
+      "name": "the ornate mantel clock",
+      "label": "Object 4",
+      "description": "Vintage, ornate mantel clock with a dark polished wood casing, an arched top, and intricate carved scrollwork, featuring a white face with black Roman numerals, delicate gold hands, and a glass-paneled front with a visible brass pendulum."
+    },
+    "Object 5": {
+      "name": "the ornate wooden cabinet",
+      "label": "Object 5",
+      "description": "Tall, ornate wooden cabinet made of dark, polished wood, featuring intricate carvings across its doors and body and decorative metal hardware."
+    },
+    "Object 6": {
+      "name": "the blue and white porcelain vase",
+      "label": "Object 6",
+      "description": "Large blue and white porcelain vase."
+    },
+    "Object 7": {
+      "name": "the dark wood apothecary cabinet",
+      "label": "Object 7",
+      "description": "Large, vintage-style, dark wooden apothecary cabinet featuring many small, locked compartments."
+    },
+    "Object 8": {
+      "name": "the vintage brass lamp",
+      "label": "Object 8",
+      "description": "Ornate, vintage-style table lamp with a dark, tarnished brass base and a bell-shaped glass shade containing a warm, glowing filament."
+    },
+    "Object 9": {
+      "name": "the stack of gift boxes",
+      "label": "Object 9",
+      "description": "A stack of several wrapped gift boxes."
+    },
+    "Object 10": {
+      "name": "the large potted plant",
+      "label": "Object 10",
+      "description": "Large indoor plant with broad, waxy, dark green leaves and a woody stem, housed in a simple, large, dark ceramic pot."
+    },
+    "Object 11": {
+      "name": "the bright orange paper",
+      "label": "Object 11",
+      "description": "Small, rectangular piece of bright orange paper."
+    },
+    "Object 12": {
+      "name": "the green jade sculpture",
+      "label": "Object 12",
+      "description": "Small, polished green jade sculpture."
+    },
+    "Object 13": {
+      "name": "the grey traditional tunic",
+      "label": "Object 13",
+      "description": "Grey traditional tunic"
+    },
+    "Object 14": {
+      "name": "the wooden lattice screen",
+      "label": "Object 14",
+      "description": "Traditional Chinese wooden screen with a geometric lattice pattern"
+    },
+    "Object 15": {
+      "name": "the traditional hardcover book",
+      "label": "Object 15",
+      "description": "Large, traditional-style hardcover book."
+    }
+  },
+  "_window_shot_ids": [
+    "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240__shot0035",
+    "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240__shot0036",
+    "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240__shot0037",
+    "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240__shot0038",
+    "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240__shot0040",
+    "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240__shot0041",
+    "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240__shot0042",
+    "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240__shot0043",
+    "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240__shot0044",
+    "0004e488-aaff-3335-a012-c9f708d3e928__run654__i20_j41__T240__shot0045"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Liang",
+    "Character 2": "Meilin",
+    "Character 3": "Arthur",
+    "Character 4": "An",
+    "Character 5": "Suyin",
+    "Character 6": "Jing",
+    "Character 7": "Feng",
+    "Location 1": "The Scholar's Study",
+    "Location 2": "The Old Apothecary",
+    "Object 1": "the light beige suit",
+    "Object 10": "the large potted plant",
+    "Object 11": "the bright orange paper",
+    "Object 12": "the green jade sculpture",
+    "Object 13": "the grey traditional tunic",
+    "Object 14": "the wooden lattice screen",
+    "Object 15": "the traditional hardcover book",
+    "Object 2": "the white chinese characters",
+    "Object 3": "the large round glasses",
+    "Object 4": "the ornate mantel clock",
+    "Object 5": "the ornate wooden cabinet",
+    "Object 6": "the blue and white porcelain vase",
+    "Object 7": "the dark wood apothecary cabinet",
+    "Object 8": "the vintage brass lamp",
+    "Object 9": "the stack of gift boxes"
+  }
+}

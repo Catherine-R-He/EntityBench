@@ -1,0 +1,443 @@
+{
+  "story_name": "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240",
+  "story_overview": "Emperor Jinyang is mysteriously distressed as a suit of armor is displayed in the palace. A nobleman, Caspian, arrives in a rural village, alarming a local woman, Lian. Their paths cross in a series of tense encounters surrounding the enigmatic ornate shadow armor, which seems to pass from person to person.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Jinyang: Older man with long, graying hair and a goatee, wearing an ornate black and red outer robe over a pink garment, and a small golden crown.\nGunnar: Weathered, middle-aged man with a stocky, muscular build, a rugged face with a thick, dark, untrimmed beard, and long, matted hair tied back, wearing a dark, worn leather jerkin over a chainmail shirt, heavy trousers, and scuffed, knee-high leather boots, with studded leather bracers on his forearms and a wide belt with a sheathed dagger at the hip.\nThe Imperial Hall: Grand indoor palace chamber with high, ornate ceilings, lacquered wooden columns, walls with large silk tapestries and calligraphy scrolls, and a raised dais with a large, intricately carved imperial throne.\nthe ornate shadow armor: Full suit of heavy, dark, ornate plate armor with a matching full-face helmet, all constructed from a dark, possibly blackened, metal and featuring elaborate, intricate designs etched across its surface.\nthe black dragon robe: Ornate, floor-length black silk robe with a high collar, wide bell sleeves, and intricate red and gold embroidered dragon motifs on the chest, back, and cuffs\nthe green patterned screen: Large, multi-panel screen in a traditional East Asian style, with dark wood borders and panels decorated with an intricate, repeating green pattern\n\nJinyang, wearing the black dragon robe and the small golden crown, stands before the ornate shadow armor with a distressed expression. He dabs his mouth with the fine white cloth, then looks down with a somber look. In the background, Gunnar stands silently by the green patterned screen, his arms crossed as he observes Jinyang."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Jinyang, wearing the black dragon robe and the small golden crown, stands before the ornate shadow armor with a distressed expression. He dabs his mouth with the fine white cloth, then looks down with a somber look. In the background, Gunnar stands silently by the green patterned screen, his arms crossed as he observes Jinyang."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Lian: Woman with long dark hair, wearing a rust-colored robe over a maroon undergarment.\nRhys: Man wearing a black cap and studded brown leather armor over his torso.\nBram: Older man with a full white beard, wearing a metal helmet over a leather cap, and leather armor.\nCaspian: Man in heavy, ornate dark armor with teal and gold details, wearing a helmet.\nThe Village Common: An open town square in a rural village, defined by rustic buildings of wood and stone construction and an unpaved central road.\nthe brown warhorse: Large, muscular brown horse with a dark mane and tail, outfitted with leather riding tack including a saddle and bridle.\nthe leaf-bladed spears: Military spears with long, dark-stained wooden shafts and polished, leaf-shaped steel heads.\n\nCaspian, wearing his heavy, ornate dark armor and mounted on the brown warhorse, leads a procession of guards wearing armor in the style of the crescent moon plate armor and carrying the leaf-bladed spears. The camera follows them as they ride through the town square, passing a group of apprehensive villagers including Lian, Rhys, Bram, and Gunnar, who watch from the roadside. At the end of the shot, one guard raises his spear threateningly.",
+        "the weathered thatch roof: Thickly layered roof of dried, weathered thatch with a rough, uneven texture and a mix of tan and brown colors.\n\nMedium close-up of Lian, wearing the rust-colored robe, in The Village Common, her expression growing worried as she looks upward. She stands in front of a wooden building topped with the weathered thatch roof. Rhys steps up just behind her, also looking up."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Caspian, wearing his heavy, ornate dark armor and mounted on the brown warhorse, leads a procession of guards wearing armor in the style of the crescent moon plate armor and carrying the leaf-bladed spears. The camera follows them as they ride through the town square, passing a group of apprehensive villagers including Lian, Rhys, Bram, and Gunnar, who watch from the roadside. At the end of the shot, one guard raises his spear threateningly.",
+        "Medium close-up of Lian, wearing the rust-colored robe, in The Village Common, her expression growing worried as she looks upward. She stands in front of a wooden building topped with the weathered thatch roof. Rhys steps up just behind her, also looking up."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Rowan: Figure of unspecified gender whose build is obscured by a full suit of dark, heavy plate armor and a matching full-face helmet that conceals all features.\nThe Scorched Plains: Chaotic outdoor military camp and battlefield with scorched, churned-up earth, small pockets of fire and embers, and scattered fallen soldiers in dark armor and headbands.\n\nMounted on the brown warhorse, Caspian bows his helmeted head in distress, then slowly straightens up in the saddle. Rowan stands beside the horse, turning their helmeted head slightly toward Caspian. They are in The Scorched Plains at night, surrounded by smoke and embers from the battlefield."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Mounted on the brown warhorse, Caspian bows his helmeted head in distress, then slowly straightens up in the saddle. Rowan stands beside the horse, turning their helmeted head slightly toward Caspian. They are in The Scorched Plains at night, surrounded by smoke and embers from the battlefield."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Wooden Hut: Interior of a simple hut with wooden walls.\n\nCaspian, wearing the ornate shadow armor, stands with his back to the camera. Lian stands opposite him and speaks with a concerned expression, occasionally gesturing to emphasize her words."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Caspian, wearing the ornate shadow armor, stands with his back to the camera. Lian stands opposite him and speaks with a concerned expression, occasionally gesturing to emphasize her words."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Caspian turns his head slightly to his right, his expression serious as he listens to someone off-screen. He is wearing the ornate shadow armor, but not the helmet."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Caspian turns his head slightly to his right, his expression serious as he listens to someone off-screen. He is wearing the ornate shadow armor, but not the helmet."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Over-the-shoulder close-up inside The Wooden Hut. A figure wearing the ornate shadow armor stands with their back to the camera. Jinyang stands with Lian, who faces the figure and speaks, her expression full of concern.",
+        "Over-the-shoulder close-up shot from behind Lian, inside The Wooden Hut. Caspian, wearing ornate, heavy black steel plate armor highlighted with teal and gold details, speaks with concerned body language toward Lian.",
+        "Lian's expression becomes sorrowful, and the glistening water droplets well up as tears in her eyes as she looks at Jinyang, who is wearing his ornate robe and golden crown.",
+        "Close-up on the sad face of Lian as a single tear rolls down her cheek. She is inside The Wooden Hut, with a piece of the ornate shadow armor blurred in the foreground."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder close-up inside The Wooden Hut. A figure wearing the ornate shadow armor stands with their back to the camera. Jinyang stands with Lian, who faces the figure and speaks, her expression full of concern.",
+        "Over-the-shoulder close-up shot from behind Lian, inside The Wooden Hut. Caspian, wearing ornate, heavy black steel plate armor highlighted with teal and gold details, speaks with concerned body language toward Lian.",
+        "Lian's expression becomes sorrowful, and the glistening water droplets well up as tears in her eyes as she looks at Jinyang, who is wearing his ornate robe and golden crown.",
+        "Close-up on the sad face of Lian as a single tear rolls down her cheek. She is inside The Wooden Hut, with a piece of the ornate shadow armor blurred in the foreground."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Kaito: Man wearing dark, damaged armor and a headband.\nthe lacquered wooden desk: Low, rectangular desk of traditional design, crafted from dark, lacquered wood with a smooth, reflective surface.\nthe bronze pedestal censer: Tall, ornate bronze pedestal incense burner with a perforated, domed lid featuring intricate filigree.\nthe bronze tripod censer: Tall, ornate bronze incense burner with a bowl featuring intricate traditional carvings, a perforated domed lid, and a slender tripod base.\nthe ceremonial black hat: Tall, black, ceremonial official's hat\nthe deep purple robe: A loose-fitting, floor-length robe of a traditional cut, made of a solid, deep purple fabric\n\nMedium shot from a high angle in The Imperial Hall at night. Caspian stands watching Kaito, his head slightly tilted. Kaito is seated at the lacquered wooden desk, slowly turning a small object over in his hands. Smoke from the bronze pedestal censer and the bronze tripod censer curls up into the air between them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot from a high angle in The Imperial Hall at night. Caspian stands watching Kaito, his head slightly tilted. Kaito is seated at the lacquered wooden desk, slowly turning a small object over in his hands. Smoke from the bronze pedestal censer and the bronze tripod censer curls up into the air between them."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Jinyang",
+        "Gunnar"
+      ],
+      "places": [
+        "The Imperial Hall"
+      ],
+      "objects": [
+        "the black dragon robe",
+        "the small golden crown",
+        "the fine white cloth",
+        "the green patterned screen",
+        "the ornate shadow armor"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Lian",
+        "Rhys",
+        "Gunnar",
+        "Bram",
+        "Caspian"
+      ],
+      "places": [
+        "The Village Common"
+      ],
+      "objects": [
+        "the brown warhorse",
+        "the crescent moon plate armor",
+        "the leaf-bladed spears"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Lian",
+        "Rhys"
+      ],
+      "places": [
+        "The Village Common"
+      ],
+      "objects": [
+        "the rust-colored robe",
+        "the weathered thatch roof"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Caspian",
+        "Rowan"
+      ],
+      "places": [
+        "The Scorched Plains"
+      ],
+      "objects": [
+        "the brown warhorse"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Caspian",
+        "Lian"
+      ],
+      "places": [
+        "The Wooden Hut"
+      ],
+      "objects": [
+        "the ornate shadow armor"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Caspian"
+      ],
+      "places": [
+        "The Scorched Plains"
+      ],
+      "objects": [
+        "the ornate shadow armor"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Lian",
+        "Jinyang"
+      ],
+      "places": [
+        "The Wooden Hut"
+      ],
+      "objects": [
+        "the ornate shadow armor"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Caspian",
+        "Lian"
+      ],
+      "places": [
+        "The Wooden Hut"
+      ],
+      "objects": []
+    },
+    "6:3": {
+      "characters": [
+        "Lian",
+        "Jinyang"
+      ],
+      "places": [
+        "The Wooden Hut"
+      ],
+      "objects": [
+        "the glistening water droplets"
+      ]
+    },
+    "6:4": {
+      "characters": [
+        "Lian"
+      ],
+      "places": [
+        "The Wooden Hut"
+      ],
+      "objects": [
+        "the ornate shadow armor"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Caspian",
+        "Kaito"
+      ],
+      "places": [
+        "The Imperial Hall"
+      ],
+      "objects": [
+        "the lacquered wooden desk",
+        "the bronze pedestal censer",
+        "the bronze tripod censer"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Kaito",
+      "label": "Character 1",
+      "description": "Man wearing dark, damaged armor and a headband."
+    },
+    "Character 2": {
+      "name": "Rhys",
+      "label": "Character 2",
+      "description": "Man wearing a black cap and studded brown leather armor over his torso."
+    },
+    "Character 3": {
+      "name": "Lian",
+      "label": "Character 3",
+      "description": "Woman with long dark hair, wearing a rust-colored robe over a maroon undergarment."
+    },
+    "Character 4": {
+      "name": "Gunnar",
+      "label": "Character 4",
+      "description": "Weathered, middle-aged man with a stocky, muscular build, a rugged face with a thick, dark, untrimmed beard, and long, matted hair tied back, wearing a dark, worn leather jerkin over a chainmail shirt, heavy trousers, and scuffed, knee-high leather boots, with studded leather bracers on his forearms and a wide belt with a sheathed dagger at the hip."
+    },
+    "Character 5": {
+      "name": "Rowan",
+      "label": "Character 5",
+      "description": "Figure of unspecified gender whose build is obscured by a full suit of dark, heavy plate armor and a matching full-face helmet that conceals all features."
+    },
+    "Character 6": {
+      "name": "Bram",
+      "label": "Character 6",
+      "description": "Older man with a full white beard, wearing a metal helmet over a leather cap, and leather armor."
+    },
+    "Character 7": {
+      "name": "Caspian",
+      "label": "Character 7",
+      "description": "Man in heavy, ornate dark armor with teal and gold details, wearing a helmet."
+    },
+    "Character 8": {
+      "name": "Jinyang",
+      "label": "Character 8",
+      "description": "Older man with long, graying hair and a goatee, wearing an ornate black and red outer robe over a pink garment, and a small golden crown."
+    },
+    "Location 1": {
+      "name": "The Scorched Plains",
+      "label": "Location 1",
+      "description": "Chaotic outdoor military camp and battlefield with scorched, churned-up earth, small pockets of fire and embers, and scattered fallen soldiers in dark armor and headbands."
+    },
+    "Location 2": {
+      "name": "The Imperial Hall",
+      "label": "Location 2",
+      "description": "Grand indoor palace chamber with high, ornate ceilings, lacquered wooden columns, walls with large silk tapestries and calligraphy scrolls, and a raised dais with a large, intricately carved imperial throne."
+    },
+    "Location 3": {
+      "name": "The Village Common",
+      "label": "Location 3",
+      "description": "An open town square in a rural village, defined by rustic buildings of wood and stone construction and an unpaved central road."
+    },
+    "Location 4": {
+      "name": "The Wooden Hut",
+      "label": "Location 4",
+      "description": "Interior of a simple hut with wooden walls."
+    },
+    "Object 1": {
+      "name": "the ornate shadow armor",
+      "label": "Object 1",
+      "description": "Full suit of heavy, dark, ornate plate armor with a matching full-face helmet, all constructed from a dark, possibly blackened, metal and featuring elaborate, intricate designs etched across its surface."
+    },
+    "Object 2": {
+      "name": "the crescent moon plate armor",
+      "label": "Object 2",
+      "description": "Heavy full-body plate armor of dark, non-reflective steel, featuring a closed-face helmet with a narrow visor, large angular pauldrons, and a breastplate subtly embossed with a crescent moon insignia"
+    },
+    "Object 3": {
+      "name": "the brown warhorse",
+      "label": "Object 3",
+      "description": "Large, muscular brown horse with a dark mane and tail, outfitted with leather riding tack including a saddle and bridle."
+    },
+    "Object 4": {
+      "name": "the black and green headband",
+      "label": "Object 4",
+      "description": "A black and green headband"
+    },
+    "Object 5": {
+      "name": "the small golden crown",
+      "label": "Object 5",
+      "description": "Small, ornate gold crown"
+    },
+    "Object 6": {
+      "name": "the black dragon robe",
+      "label": "Object 6",
+      "description": "Ornate, floor-length black silk robe with a high collar, wide bell sleeves, and intricate red and gold embroidered dragon motifs on the chest, back, and cuffs"
+    },
+    "Object 7": {
+      "name": "the ceremonial black hat",
+      "label": "Object 7",
+      "description": "Tall, black, ceremonial official's hat"
+    },
+    "Object 8": {
+      "name": "the red official's robe",
+      "label": "Object 8",
+      "description": "Ornate, patterned red official's robe"
+    },
+    "Object 9": {
+      "name": "the fine white cloth",
+      "label": "Object 9",
+      "description": "A plain white cloth of a fine, smooth fabric"
+    },
+    "Object 10": {
+      "name": "the green patterned screen",
+      "label": "Object 10",
+      "description": "Large, multi-panel screen in a traditional East Asian style, with dark wood borders and panels decorated with an intricate, repeating green pattern"
+    },
+    "Object 11": {
+      "name": "the leaf-bladed spears",
+      "label": "Object 11",
+      "description": "Military spears with long, dark-stained wooden shafts and polished, leaf-shaped steel heads."
+    },
+    "Object 12": {
+      "name": "the weathered thatch roof",
+      "label": "Object 12",
+      "description": "Thickly layered roof of dried, weathered thatch with a rough, uneven texture and a mix of tan and brown colors."
+    },
+    "Object 13": {
+      "name": "the rust-colored robe",
+      "label": "Object 13",
+      "description": "Loose-fitting, unadorned robe in a solid rust color"
+    },
+    "Object 14": {
+      "name": "the glistening water droplets",
+      "label": "Object 14",
+      "description": "Small, clear, glistening liquid droplets and wet streaks"
+    },
+    "Object 15": {
+      "name": "the deep purple robe",
+      "label": "Object 15",
+      "description": "A loose-fitting, floor-length robe of a traditional cut, made of a solid, deep purple fabric"
+    },
+    "Object 16": {
+      "name": "the lacquered wooden desk",
+      "label": "Object 16",
+      "description": "Low, rectangular desk of traditional design, crafted from dark, lacquered wood with a smooth, reflective surface."
+    },
+    "Object 17": {
+      "name": "the bronze pedestal censer",
+      "label": "Object 17",
+      "description": "Tall, ornate bronze pedestal incense burner with a perforated, domed lid featuring intricate filigree."
+    },
+    "Object 18": {
+      "name": "the bronze tripod censer",
+      "label": "Object 18",
+      "description": "Tall, ornate bronze incense burner with a bowl featuring intricate traditional carvings, a perforated domed lid, and a slender tripod base."
+    }
+  },
+  "_window_shot_ids": [
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0033",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0035",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0036",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0037",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0038",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0039",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0040",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0041",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0042",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0043",
+    "000cf326-8770-3c4e-a43a-6f9e3d57a3e0__run1523__i25_j44__T240__shot0044"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Kaito",
+    "Character 2": "Rhys",
+    "Character 3": "Lian",
+    "Character 4": "Gunnar",
+    "Character 5": "Rowan",
+    "Character 6": "Bram",
+    "Character 7": "Caspian",
+    "Character 8": "Jinyang",
+    "Location 1": "The Scorched Plains",
+    "Location 2": "The Imperial Hall",
+    "Location 3": "The Village Common",
+    "Location 4": "The Wooden Hut",
+    "Object 1": "the ornate shadow armor",
+    "Object 10": "the green patterned screen",
+    "Object 11": "the leaf-bladed spears",
+    "Object 12": "the weathered thatch roof",
+    "Object 13": "the rust-colored robe",
+    "Object 14": "the glistening water droplets",
+    "Object 15": "the deep purple robe",
+    "Object 16": "the lacquered wooden desk",
+    "Object 17": "the bronze pedestal censer",
+    "Object 18": "the bronze tripod censer",
+    "Object 2": "the crescent moon plate armor",
+    "Object 3": "the brown warhorse",
+    "Object 4": "the black and green headband",
+    "Object 5": "the small golden crown",
+    "Object 6": "the black dragon robe",
+    "Object 7": "the ceremonial black hat",
+    "Object 8": "the red official's robe",
+    "Object 9": "the fine white cloth"
+  }
+}

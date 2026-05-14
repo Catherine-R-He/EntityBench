@@ -1,0 +1,375 @@
+{
+  "story_name": "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180",
+  "story_overview": "Owen appears deeply distressed, first in a tuxedo while watched by Clara and Nadia, and later comforted by Leo outside a suburban house. As a mysterious silhouette of Alex watches from a window, a separate photoshoot takes place in a stark white studio involving Clara and Leo.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Clara: Woman.\nNadia: Woman with her hair pulled back.\nOwen: Man with a broad-shouldered build, short dark hair, wearing a black suit jacket with matching trousers and a black tie.\nThe Blue Room: An indoor space with a predominantly blue color palette.\nthe black suit: A black suit jacket with matching trousers and a black tie.\nthe dslr camera: Black Canon DSLR camera.\n\nIn The Blue Room, a distressed Owen wearing the black suit with his tie loosened walks forward, clutching his throat and looking around anxiously. Clara and Nadia watch from the background with concerned expressions, shifting slightly. The dslr camera sits on a nearby surface."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Blue Room, a distressed Owen wearing the black suit with his tie loosened walks forward, clutching his throat and looking around anxiously. Clara and Nadia watch from the background with concerned expressions, shifting slightly. The dslr camera sits on a nearby surface."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Amber Lounge: Indoor bar setting defined by a yellow-hued color palette and the presence of bar glassware.\nthe ringing mobile phone: Mobile phone with a glowing screen displaying a notification for '4 Missed Calls: Liz'.\nthe glass of whiskey: A standard clear glass tumbler containing a translucent yellow liquid.\n\nClose-up on Owen's hand holding the ringing mobile phone as it vibrates slightly in The Amber Lounge. In the softly blurred background, Clara sits at the bar, and the glass of whiskey rests on the countertop."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Owen's hand holding the ringing mobile phone as it vibrates slightly in The Amber Lounge. In the softly blurred background, Clara sits at the bar, and the glass of whiskey rests on the countertop."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Bokeh Field: Soft, overlapping circular glows of multicolored light against a dark expanse.\nthe glowing orbs: A scattering of soft, diffused, circular lights in shades of white and warm yellow against a dark backdrop.\n\nClose-up on Owen in The Bokeh Field. He looks down with a concerned expression, his face partially obscured by shadow. Nadia, standing beside him, turns to look at him, as the glowing orbs float around them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Owen in The Bokeh Field. He looks down with a concerned expression, his face partially obscured by shadow. Nadia, standing beside him, turns to look at him, as the glowing orbs float around them."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "the classic tuxedo: A classic black tuxedo jacket with satin lapels, matching black trousers, a crisp white formal shirt\nthe untied bowtie: An untied black satin self-tie bowtie, hanging as a long strip of fabric with flared ends.\n\nIn The Blue Room, Nadia, wearing the classic tuxedo, adjusts the untied bowtie at her collar. Clara enters the room and walks towards her, watching.",
+        "In The Blue Room, Nadia turns and walks away from Owen. Owen, wearing a plaid button-down shirt and jeans, stands alone and watches her leave with a concerned expression."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The Blue Room, Nadia, wearing the classic tuxedo, adjusts the untied bowtie at her collar. Clara enters the room and walks towards her, watching.",
+        "In The Blue Room, Nadia turns and walks away from Owen. Owen, wearing a plaid button-down shirt and jeans, stands alone and watches her leave with a concerned expression."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Leo: Man with blond hair.\nThe Suburban House: Exterior of a house with a gravel driveway.\nthe striped leather jacket: Black jacket with white stripes, worn over a grey hoodie.\n\nAt The Suburban House at night, Leo, wearing the striped leather jacket, tightens his arm around Owen, who is wearing a dark blue and green plaid button-down shirt. Leo looks down at the distressed Owen with a concerned expression. Owen keeps his arms crossed, looking down at the ground.",
+        "Alex: Indistinct human form with no discernible features.\n\nWide, low-angle shot of The Suburban House at night. The building is illuminated by the warm glow of the warm light fixtures, set against a dark backdrop of the dense forest trees. In an upstairs window, the silhouetted form of Alex slowly turns their head.",
+        "the overgrown bush: Large, dense bush with dark green leaves and an unkempt, rounded shape.\n\nMedium shot at night at The Suburban House. Leo stands with his arm around Nadia's shoulders next to the overgrown bush. They both look off-camera with concerned expressions, and then Nadia turns her head to speak to Leo."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "At The Suburban House at night, Leo, wearing the striped leather jacket, tightens his arm around Owen, who is wearing a dark blue and green plaid button-down shirt. Leo looks down at the distressed Owen with a concerned expression. Owen keeps his arms crossed, looking down at the ground.",
+        "Wide, low-angle shot of The Suburban House at night. The building is illuminated by the warm glow of the warm light fixtures, set against a dark backdrop of the dense forest trees. In an upstairs window, the silhouetted form of Alex slowly turns their head.",
+        "Medium shot at night at The Suburban House. Leo stands with his arm around Nadia's shoulders next to the overgrown bush. They both look off-camera with concerned expressions, and then Nadia turns her head to speak to Leo."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The White Studio: Indoor photo studio with a seamless white infinity cyclorama wall and matching floor, creating a bare, minimalist space.\nthe smokey eye makeup: Heavy, dark smokey eye makeup, featuring opaque black and charcoal eyeshadow blended from the lash line up past the crease, paired with thick, dark eyeliner on the upper and lower lash lines.\n\nClose-up on the pensive face of Clara inside The White Studio. She is wearing the smokey eye makeup. She slowly turns her head to look slightly to the side.",
+        "Medium close-up of Leo inside The White Studio against a plain background. Leo holds the dslr camera with both hands, raising it to his eye to look through the viewfinder with concentration."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on the pensive face of Clara inside The White Studio. She is wearing the smokey eye makeup. She slowly turns her head to look slightly to the side.",
+        "Medium close-up of Leo inside The White Studio against a plain background. Leo holds the dslr camera with both hands, raising it to his eye to look through the viewfinder with concentration."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Clara",
+        "Nadia",
+        "Owen"
+      ],
+      "places": [
+        "The Blue Room"
+      ],
+      "objects": [
+        "the black suit",
+        "the dslr camera"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Clara",
+        "Owen"
+      ],
+      "places": [
+        "The Amber Lounge"
+      ],
+      "objects": [
+        "the ringing mobile phone",
+        "the glass of whiskey"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Owen",
+        "Nadia"
+      ],
+      "places": [
+        "The Bokeh Field"
+      ],
+      "objects": [
+        "the glowing orbs"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Clara",
+        "Nadia"
+      ],
+      "places": [
+        "The Blue Room"
+      ],
+      "objects": [
+        "the classic tuxedo",
+        "the untied bowtie"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Nadia",
+        "Owen"
+      ],
+      "places": [
+        "The Blue Room"
+      ],
+      "objects": []
+    },
+    "5:1": {
+      "characters": [
+        "Owen",
+        "Leo"
+      ],
+      "places": [
+        "The Suburban House"
+      ],
+      "objects": [
+        "the striped leather jacket"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The Suburban House"
+      ],
+      "objects": [
+        "the warm light fixtures",
+        "the dense forest trees"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Leo",
+        "Nadia"
+      ],
+      "places": [
+        "The Suburban House"
+      ],
+      "objects": [
+        "the overgrown bush"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The White Studio"
+      ],
+      "objects": [
+        "the smokey eye makeup"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The White Studio"
+      ],
+      "objects": [
+        "the dslr camera"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Alex",
+      "label": "Character 1",
+      "description": "Indistinct human form with no discernible features."
+    },
+    "Character 2": {
+      "name": "Clara",
+      "label": "Character 2",
+      "description": "Woman."
+    },
+    "Character 3": {
+      "name": "Leo",
+      "label": "Character 3",
+      "description": "Man with blond hair."
+    },
+    "Character 4": {
+      "name": "Owen",
+      "label": "Character 4",
+      "description": "Man with a broad-shouldered build, short dark hair, wearing a black suit jacket with matching trousers and a black tie."
+    },
+    "Character 6": {
+      "name": "Nadia",
+      "label": "Character 6",
+      "description": "Woman with her hair pulled back."
+    },
+    "Location 1": {
+      "name": "The Suburban House",
+      "label": "Location 1",
+      "description": "Exterior of a house with a gravel driveway."
+    },
+    "Location 2": {
+      "name": "The Blue Room",
+      "label": "Location 2",
+      "description": "An indoor space with a predominantly blue color palette."
+    },
+    "Location 3": {
+      "name": "The Amber Lounge",
+      "label": "Location 3",
+      "description": "Indoor bar setting defined by a yellow-hued color palette and the presence of bar glassware."
+    },
+    "Location 4": {
+      "name": "The Bokeh Field",
+      "label": "Location 4",
+      "description": "Soft, overlapping circular glows of multicolored light against a dark expanse."
+    },
+    "Location 5": {
+      "name": "The White Studio",
+      "label": "Location 5",
+      "description": "Indoor photo studio with a seamless white infinity cyclorama wall and matching floor, creating a bare, minimalist space."
+    },
+    "Object 1": {
+      "name": "the dslr camera",
+      "label": "Object 1",
+      "description": "Black Canon DSLR camera."
+    },
+    "Object 2": {
+      "name": "the striped leather jacket",
+      "label": "Object 2",
+      "description": "Black jacket with white stripes, worn over a grey hoodie."
+    },
+    "Object 3": {
+      "name": "the plaid flannel shirt",
+      "label": "Object 3",
+      "description": "Plaid flannel shirt"
+    },
+    "Object 4": {
+      "name": "the black suit",
+      "label": "Object 4",
+      "description": "A black suit jacket with matching trousers and a black tie."
+    },
+    "Object 5": {
+      "name": "the loosened black tie",
+      "label": "Object 5",
+      "description": "Black formal necktie, loosened at the collar"
+    },
+    "Object 6": {
+      "name": "the ringing mobile phone",
+      "label": "Object 6",
+      "description": "Mobile phone with a glowing screen displaying a notification for '4 Missed Calls: Liz'."
+    },
+    "Object 7": {
+      "name": "the glass of whiskey",
+      "label": "Object 7",
+      "description": "A standard clear glass tumbler containing a translucent yellow liquid."
+    },
+    "Object 8": {
+      "name": "the glowing orbs",
+      "label": "Object 8",
+      "description": "A scattering of soft, diffused, circular lights in shades of white and warm yellow against a dark backdrop."
+    },
+    "Object 9": {
+      "name": "the untied bowtie",
+      "label": "Object 9",
+      "description": "An untied black satin self-tie bowtie, hanging as a long strip of fabric with flared ends."
+    },
+    "Object 10": {
+      "name": "the classic tuxedo",
+      "label": "Object 10",
+      "description": "A classic black tuxedo jacket with satin lapels, matching black trousers, a crisp white formal shirt"
+    },
+    "Object 11": {
+      "name": "the warm light fixtures",
+      "label": "Object 11",
+      "description": "A collection of interior and exterior light fixtures that produce a warm-colored light"
+    },
+    "Object 12": {
+      "name": "the dense forest trees",
+      "label": "Object 12",
+      "description": "Dense, tall trees with dark foliage"
+    },
+    "Object 13": {
+      "name": "the overgrown bush",
+      "label": "Object 13",
+      "description": "Large, dense bush with dark green leaves and an unkempt, rounded shape."
+    },
+    "Object 14": {
+      "name": "the smokey eye makeup",
+      "label": "Object 14",
+      "description": "Heavy, dark smokey eye makeup, featuring opaque black and charcoal eyeshadow blended from the lash line up past the crease, paired with thick, dark eyeliner on the upper and lower lash lines."
+    }
+  },
+  "_window_shot_ids": [
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180__shot0030",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180__shot0031",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180__shot0032",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180__shot0033",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180__shot0034",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180__shot0035",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180__shot0036",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180__shot0037",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180__shot0038",
+    "00053051-5f7e-314f-85e0-517ec18f3b08__run714__i20_j34__T180__shot0039"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Alex",
+    "Character 2": "Clara",
+    "Character 3": "Leo",
+    "Character 4": "Owen",
+    "Character 5": "Marco",
+    "Character 6": "Nadia",
+    "Location 1": "The Suburban House",
+    "Location 2": "The Blue Room",
+    "Location 3": "The Amber Lounge",
+    "Location 4": "The Bokeh Field",
+    "Location 5": "The White Studio",
+    "Object 1": "the dslr camera",
+    "Object 10": "the classic tuxedo",
+    "Object 11": "the warm light fixtures",
+    "Object 12": "the dense forest trees",
+    "Object 13": "the overgrown bush",
+    "Object 14": "the smokey eye makeup",
+    "Object 2": "the striped leather jacket",
+    "Object 3": "the plaid flannel shirt",
+    "Object 4": "the black suit",
+    "Object 5": "the loosened black tie",
+    "Object 6": "the ringing mobile phone",
+    "Object 7": "the glass of whiskey",
+    "Object 8": "the glowing orbs",
+    "Object 9": "the untied bowtie"
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "story_name": "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300",
+  "story_overview": "In a series of tense encounters, a group finds themselves in conflict. After a menacing introduction from Viktor, characters like Marco and Tess are seen hiding, while struggles erupt in corridors and a construction zone, involving Rico, Axel, and Nate. A bloody tank top passes between characters, hinting at a preceding violent event.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Viktor: Muscular, bearded man wearing a dark red tank top and a silver necklace.\nThe Black Room: Dark, indistinct, featureless indoor room.\n\nIn The Black Room, Viktor, holding a white stick, walks menacingly forward, emerging from the deep shadows."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Black Room, Viktor, holding a white stick, walks menacingly forward, emerging from the deep shadows."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Axel: Man with a beard, wearing a navy blue t-shirt and a dark bandana on his head.\nThe Brick Entrance: Brick building exterior entrance with a glass-paned door that reveals an indoor staircase.\n\nAt The Brick Entrance, the shot begins out of focus on Viktor, who is wearing a dark red tank top. The camera then pans left to follow Axel as they walk from right to left."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At The Brick Entrance, the shot begins out of focus on Viktor, who is wearing a dark red tank top. The camera then pans left to follow Axel as they walk from right to left."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Zara: Woman with short dark hair wearing a bright green fluffy jacket.\nTess: Muscular woman with her hair in a messy bun, wearing a man's white tank top with a bloodstain on the chest.\nMarco: Muscular man wearing a black t-shirt and dark pants.\nThe Shadow Office: Dark, hazy office containing a desk.\nIn The Shadow Office, Zara, Tess, and Marco crouch together behind a desk. Zara turns to Tess with a shocked expression, speaking urgently while Marco keeps watch."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Shadow Office, Zara, Tess, and Marco crouch together behind a desk. Zara turns to Tess with a shocked expression, speaking urgently while Marco keeps watch."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Back Alley: Outdoor alleyway or courtyard bordered by a building wall which features a dark-colored door with a small, inset window.\nthe dark sedan: Nondescript dark-colored sedan with minor exterior wear, featuring an interior with dark cloth seats and a standard plastic dashboard.\n\nNighttime, wide long shot panning left across The Back Alley. the dark sedan is parked in the foreground as Marco walks past in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Nighttime, wide long shot panning left across The Back Alley. the dark sedan is parked in the foreground as Marco walks past in the background."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Construction Zone: An unfinished interior room under construction, with exposed structural elements and walls draped and sectioned off by large, heavy-duty sheets of semi-transparent plastic sheeting.\nthe plastic sheeting: Large, thin, crinkled sheet of translucent plastic sheeting.\nMedium shot in The Construction Zone, which is dimly lit. Viktor cautiously emerges from behind a large sheet of the plastic sheeting as Tess stands watch nearby. Viktor looks around the room, then walks out of frame."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Construction Zone, which is dimly lit. Viktor cautiously emerges from behind a large sheet of the plastic sheeting as Tess stands watch nearby. Viktor looks around the room, then walks out of frame."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Close-up, the camera pans left outside The Brick Entrance, revealing Marco from the shoulders up. Marco is a heavy silhouette against the warm light, looking down as the camera continues to move past him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up, the camera pans left outside The Brick Entrance, revealing Marco from the shoulders up. Marco is a heavy silhouette against the warm light, looking down as the camera continues to move past him."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Marco stands in The Construction Zone, his figure dramatically lit from below by a warm light source. His face is in heavy shadow as he turns to stare towards the unsteady, handheld camera.",
+        "Chloe: Woman with long wavy brown hair wearing a beige tank top with a bloodstain on the chest and a leather cuff bracelet.\nInside The Construction Zone, Chloe is dark, menacing against a warm light source. She walks slowly forward, directly toward the handheld camera, which pulls back slightly as she advances."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Marco stands in The Construction Zone, his figure dramatically lit from below by a warm light source. His face is in heavy shadow as he turns to stare towards the unsteady, handheld camera.",
+        "Inside The Construction Zone, Chloe is dark, menacing against a warm light source. She walks slowly forward, directly toward the handheld camera, which pulls back slightly as she advances."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Nate: Man with a shaved head and a goatee, wearing a dark green hoodie.\nThe Narrow Corridor: A narrow indoor hallway with dark-painted walls of indeterminate material and a plain, unadorned floor and ceiling.\n\nNight scene in The Narrow Corridor. Nate, wearing the dark jacket, shifts his weight as he stands over Axel, who is wearing the navy blue t-shirt. Axel is bent forward in distress, his shoulders shaking slightly. The entire scene is heavily backlit, casting both Nate and Axel as dark silhouettes.",
+        "Rico: Man with dark hair tied back, wearing a grey short-sleeved henley shirt.\nthe aluminum stepladder: Industrial aluminum stepladder with scuff marks, paint splatters, and worn, grooved rungs.\n\nMedium shot in The Narrow Corridor, where Rico struggles to restrain Tess, wearing the bloody tank top, pinning her against a wall, with the dark jacket visible. They are silhouetted by bright light from the adjacent Construction Zone, which contains the aluminum stepladder and the plastic sheeting.",
+        "Medium shot of Viktor and Axel struggling violently with Tess inside The Narrow Corridor. They are silhouetted against a warm light spilling out from a doorway that leads into The Construction Zone."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Night scene in The Narrow Corridor. Nate, wearing the dark jacket, shifts his weight as he stands over Axel, who is wearing the navy blue t-shirt. Axel is bent forward in distress, his shoulders shaking slightly. The entire scene is heavily backlit, casting both Nate and Axel as dark silhouettes.",
+        "Medium shot in The Narrow Corridor, where Rico struggles to restrain Tess, wearing the bloody tank top, pinning her against a wall, with the dark jacket visible. They are silhouetted by bright light from the adjacent Construction Zone, which contains the aluminum stepladder and the plastic sheeting.",
+        "Medium shot of Viktor and Axel struggling violently with Tess inside The Narrow Corridor. They are silhouetted against a warm light spilling out from a doorway that leads into The Construction Zone."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Viktor"
+      ],
+      "places": [
+        "The Black Room"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Viktor",
+        "Axel"
+      ],
+      "places": [
+        "The Brick Entrance"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Zara",
+        "Tess",
+        "Marco"
+      ],
+      "places": [
+        "The Shadow Office"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Back Alley"
+      ],
+      "objects": [
+        "the dark sedan"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Viktor",
+        "Tess"
+      ],
+      "places": [
+        "The Construction Zone"
+      ],
+      "objects": [
+        "the plastic sheeting"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Brick Entrance"
+      ],
+      "objects": []
+    },
+    "7:1": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Construction Zone"
+      ],
+      "objects": []
+    },
+    "7:2": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Construction Zone"
+      ],
+      "objects": [
+        "the handheld camera"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Axel",
+        "Nate"
+      ],
+      "places": [
+        "The Narrow Corridor"
+      ],
+      "objects": [
+        "the dark jacket"
+      ]
+    },
+    "8:2": {
+      "characters": [
+        "Tess",
+        "Rico"
+      ],
+      "places": [
+        "The Narrow Corridor"
+      ],
+      "objects": [
+        "the bloody tank top",
+        "the dark jacket",
+        "the aluminum stepladder",
+        "the plastic sheeting"
+      ]
+    },
+    "8:3": {
+      "characters": [
+        "Viktor",
+        "Axel",
+        "Tess"
+      ],
+      "places": [
+        "The Narrow Corridor",
+        "The Construction Zone"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Zara",
+      "label": "Character 1",
+      "description": "Woman with short dark hair wearing a bright green fluffy jacket."
+    },
+    "Character 2": {
+      "name": "Marco",
+      "label": "Character 2",
+      "description": "Muscular man wearing a black t-shirt and dark pants."
+    },
+    "Character 3": {
+      "name": "Rico",
+      "label": "Character 3",
+      "description": "Man with dark hair tied back, wearing a grey short-sleeved henley shirt."
+    },
+    "Character 4": {
+      "name": "Viktor",
+      "label": "Character 4",
+      "description": "Muscular, bearded man wearing a dark red tank top and a silver necklace."
+    },
+    "Character 5": {
+      "name": "Tess",
+      "label": "Character 5",
+      "description": "Muscular woman with her hair in a messy bun, wearing a man's white tank top with a bloodstain on the chest."
+    },
+    "Character 6": {
+      "name": "Chloe",
+      "label": "Character 6",
+      "description": "Woman with long wavy brown hair wearing a beige tank top with a bloodstain on the chest and a leather cuff bracelet."
+    },
+    "Character 7": {
+      "name": "Axel",
+      "label": "Character 7",
+      "description": "Man with a beard, wearing a navy blue t-shirt and a dark bandana on his head."
+    },
+    "Character 8": {
+      "name": "Nate",
+      "label": "Character 8",
+      "description": "Man with a shaved head and a goatee, wearing a dark green hoodie."
+    },
+    "Location 1": {
+      "name": "The Black Room",
+      "label": "Location 1",
+      "description": "Dark, indistinct, featureless indoor room."
+    },
+    "Location 2": {
+      "name": "The Shadow Office",
+      "label": "Location 2",
+      "description": "Dark, hazy office containing a desk."
+    },
+    "Location 3": {
+      "name": "The Back Alley",
+      "label": "Location 3",
+      "description": "Outdoor alleyway or courtyard bordered by a building wall which features a dark-colored door with a small, inset window."
+    },
+    "Location 4": {
+      "name": "The Brick Entrance",
+      "label": "Location 4",
+      "description": "Brick building exterior entrance with a glass-paned door that reveals an indoor staircase."
+    },
+    "Location 5": {
+      "name": "The Construction Zone",
+      "label": "Location 5",
+      "description": "An unfinished interior room under construction, with exposed structural elements and walls draped and sectioned off by large, heavy-duty sheets of semi-transparent plastic sheeting."
+    },
+    "Location 6": {
+      "name": "The Narrow Corridor",
+      "label": "Location 6",
+      "description": "A narrow indoor hallway with dark-painted walls of indeterminate material and a plain, unadorned floor and ceiling."
+    },
+    "Object 1": {
+      "name": "the bloody tank top",
+      "label": "Object 1",
+      "description": "Man's white tank top with prominent blood stains"
+    },
+    "Object 2": {
+      "name": "the handheld camera",
+      "label": "Object 2",
+      "description": "Handheld camera"
+    },
+    "Object 3": {
+      "name": "the dark sedan",
+      "label": "Object 3",
+      "description": "Nondescript dark-colored sedan with minor exterior wear, featuring an interior with dark cloth seats and a standard plastic dashboard."
+    },
+    "Object 4": {
+      "name": "the dark blue t-shirt",
+      "label": "Object 4",
+      "description": "Plain dark blue short-sleeved crewneck T-shirt"
+    },
+    "Object 5": {
+      "name": "the dark plaid shirt",
+      "label": "Object 5",
+      "description": "Dark plaid shirt"
+    },
+    "Object 6": {
+      "name": "the plastic sheeting",
+      "label": "Object 6",
+      "description": "Large, thin, crinkled sheet of translucent plastic sheeting."
+    },
+    "Object 7": {
+      "name": "the dark jacket",
+      "label": "Object 7",
+      "description": "Large, dark, featureless jacket"
+    },
+    "Object 8": {
+      "name": "the aluminum stepladder",
+      "label": "Object 8",
+      "description": "Industrial aluminum stepladder with scuff marks, paint splatters, and worn, grooved rungs."
+    }
+  },
+  "_window_shot_ids": [
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0063",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0064",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0065",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0066",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0067",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0068",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0069",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0070",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0071",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0072",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run851__i20_j44__T300__shot0073"
+  ],
+  "_num_scenes": 8,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Zara",
+    "Character 2": "Marco",
+    "Character 3": "Rico",
+    "Character 4": "Viktor",
+    "Character 5": "Tess",
+    "Character 6": "Chloe",
+    "Character 7": "Axel",
+    "Character 8": "Nate",
+    "Location 1": "The Black Room",
+    "Location 2": "The Shadow Office",
+    "Location 3": "The Back Alley",
+    "Location 4": "The Brick Entrance",
+    "Location 5": "The Construction Zone",
+    "Location 6": "The Narrow Corridor",
+    "Object 1": "the bloody tank top",
+    "Object 2": "the handheld camera",
+    "Object 3": "the dark sedan",
+    "Object 4": "the dark blue t-shirt",
+    "Object 5": "the dark plaid shirt",
+    "Object 6": "the plastic sheeting",
+    "Object 7": "the dark jacket",
+    "Object 8": "the aluminum stepladder"
+  }
+}

@@ -1,0 +1,1268 @@
+{
+  "story_name": "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600",
+  "story_overview": "Tensions rise as Leo, Maya, and their associates have a series of confrontations on the street with Declan, Silas, and Marco. The investigation moves indoors, where Aisha and Priya face intense questioning from Leo and Declan in an interrogation room. A military connection is revealed through the troubled Sgt. Carter, deepening the mystery.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Leo: Man with short, curly brown hair and a goatee, wearing a black jacket over a grey sweater.\nMaya: Woman in her early twenties with a slender build and long dark hair pulled back into a low ponytail, wearing an olive green bomber jacket over a grey t-shirt, dark wash skinny jeans, and white sneakers.\nSilas: Man wearing a dark coat, a tie, and a black baseball cap.\nNate: Young man with freckles, wearing a red hoodie.\nThe Concrete Steps: A set of modern, minimalist outdoor stairs constructed from raw, grey concrete.\n\nIn daylight at The Concrete Steps, Leo stands on the concrete stairs and speaks intently to Maya. Maya listens intently, her face turned in profile. Nearby, Nate stands with his back turned, shifting his weight slightly, while in the background, Silas, wearing the black baseball cap, descends the stairs.",
+        "Silas, wearing the dark formal coat and the dark tie, speaks with a serious, unsmiling expression. Leo, wearing the black leather jacket over the grey sweater, faces him and nods slowly, his expression serious. Maya, wearing the olive green bomber jacket, stands nearby, shifting her weight as she listens intently to their conversation."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In daylight at The Concrete Steps, Leo stands on the concrete stairs and speaks intently to Maya. Maya listens intently, her face turned in profile. Nearby, Nate stands with his back turned, shifting his weight slightly, while in the background, Silas, wearing the black baseball cap, descends the stairs.",
+        "Silas, wearing the dark formal coat and the dark tie, speaks with a serious, unsmiling expression. Leo, wearing the black leather jacket over the grey sweater, faces him and nods slowly, his expression serious. Maya, wearing the olive green bomber jacket, stands nearby, shifting her weight as she listens intently to their conversation."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Marco: Man with a thick gold chain and a neck tattoo, wearing a designer tracksuit.\nAisha: Black woman with shoulder-length dreadlocks, wearing a grey blazer.\nElm Street Corner: An outdoor urban street corner with concrete sidewalks, an asphalt road, and a metal 'ONE WAY' street sign.\n\nIn Elm Street Corner, Leo stands on the street corner near the 'one way' sign, tensely confronting Maya, Marco, and Aisha. Leo gestures emphatically while speaking. Maya, her arms crossed, glares at Leo, while Marco and Aisha listen with serious expressions."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In Elm Street Corner, Leo stands on the street corner near the 'one way' sign, tensely confronting Maya, Marco, and Aisha. Leo gestures emphatically while speaking. Maya, her arms crossed, glares at Leo, while Marco and Aisha listen with serious expressions."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Declan: Man with a goatee wearing a brown overcoat over a collared shirt and a tie.\n\nDeclan, wearing the brown duster coat and the dark tie, stands on the concrete stairs, speaking intently to Leo and Maya. Leo listens, his expression growing concerned, while Maya, wearing the olive green bomber jacket, stands beside him and crosses her arms.",
+        "In The Concrete Steps, Declan, wearing the brown duster coat, stands on a higher step of the concrete stairs, gesturing with his hand as he speaks, with the dark tie visible. On the steps below, Leo, wearing the black leather jacket over the grey knit sweater, and Aisha listen intently, with Aisha nodding slightly."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Declan, wearing the brown duster coat and the dark tie, stands on the concrete stairs, speaking intently to Leo and Maya. Leo listens, his expression growing concerned, while Maya, wearing the olive green bomber jacket, stands beside him and crosses her arms.",
+        "In The Concrete Steps, Declan, wearing the brown duster coat, stands on a higher step of the concrete stairs, gesturing with his hand as he speaks, with the dark tie visible. On the steps below, Leo, wearing the black leather jacket over the grey knit sweater, and Aisha listen intently, with Aisha nodding slightly."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Sgt. Carter: Man in a camouflage military uniform and a matching camouflage cap.\n\nMedium close-up on Marco as he speaks with intensity to Maya, who has her back to the camera. They are on the sidewalk at Elm Street Corner. In the background, Declan, Sgt. Carter, and Nate watch the exchange, slightly out of focus.",
+        "From behind Declan, we see Leo speaking intently.",
+        "Marco smirks as he speaks intensely to Leo, whose back is to the camera. Silas stands beside Marco, nodding slightly as he watches the exchange.",
+        "Leo's jaw clenches as he stares intently forward at Nate, whose back is to the camera."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium close-up on Marco as he speaks with intensity to Maya, who has her back to the camera. They are on the sidewalk at Elm Street Corner. In the background, Declan, Sgt. Carter, and Nate watch the exchange, slightly out of focus.",
+        "From behind Declan, we see Leo speaking intently.",
+        "Marco smirks as he speaks intensely to Leo, whose back is to the camera. Silas stands beside Marco, nodding slightly as he watches the exchange.",
+        "Leo's jaw clenches as he stares intently forward at Nate, whose back is to the camera."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Silas, wearing the black baseball cap, aggressively confronts Declan, pointing a finger in his face. Declan stands his ground, narrowing his eyes as he stares back defiantly. Nearby, Maya and Nate exchange a worried glance as they watch the tense interaction unfold."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Silas, wearing the black baseball cap, aggressively confronts Declan, pointing a finger in his face. Declan stands his ground, narrowing his eyes as he stares back defiantly. Nearby, Maya and Nate exchange a worried glance as they watch the tense interaction unfold."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "At Elm Street Corner, Leo stands close to Marco, talking to him with intensity. Declan stands nearby watching the exchange. In the background, Silas walks down the sidewalk. Leo finishes talking, turns, and walks away down the street."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At Elm Street Corner, Leo stands close to Marco, talking to him with intensity. Declan stands nearby watching the exchange. In the background, Silas walks down the sidewalk. Leo finishes talking, turns, and walks away down the street."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "In The Concrete Steps, Declan, wearing the brown overcoat and the dark tie, stands on the concrete stairs holding the classified document and smirks slightly before walking forward. In the background, Maya walks past the building."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Concrete Steps, Declan, wearing the brown overcoat and the dark tie, stands on the concrete stairs holding the classified document and smirks slightly before walking forward. In the background, Maya walks past the building."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "The Interrogation Room: Cluttered interior of a main interrogation office.\n\nAcross from Declan, Aisha sits and talks with a serious expression.",
+        "Priya: Woman with long dark hair, wearing a grey cardigan.\n\nMedium close-up profile shot of Priya, wearing the grey cardigan, sitting inside The Interrogation Room. Priya has a pensive and serious expression, her chin resting on her hand as she listens, her brow furrowing slightly.",
+        "Hector: Man with a dark mustache and goatee, wearing a short-sleeved maroon polo shirt.\nthe glass water tumbler: An empty, clear glass water tumbler.\nthe wooden office desk: Large wooden office desk with a flat rectangular top and a simple, functional design.\n\nInside The Interrogation Room, the camera is positioned over Hector's shoulder, focusing on Leo. Leo, wearing the black baseball cap, sits at the wooden office desk and listens intently, nodding slightly. The glass water tumbler sits on the desk in front of him."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Across from Declan, Aisha sits and talks with a serious expression.",
+        "Medium close-up profile shot of Priya, wearing the grey cardigan, sitting inside The Interrogation Room. Priya has a pensive and serious expression, her chin resting on her hand as she listens, her brow furrowing slightly.",
+        "Inside The Interrogation Room, the camera is positioned over Hector's shoulder, focusing on Leo. Leo, wearing the black baseball cap, sits at the wooden office desk and listens intently, nodding slightly. The glass water tumbler sits on the desk in front of him."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "The Conference Hall: Interior of a professional office conference room furnished with a wooden conference table and decorated with an American flag.\nthe conference table: Large, rectangular conference table made of dark, polished wood with a smooth, reflective surface.\nthe ceremonial American flag: A standard American flag with red and white stripes and a blue star-filled canton, trimmed with gold fringe, on a polished dark wood flagpole with a gold eagle finial on top.\n\nLeo, Silas, Nate, and Hector sit around the conference table, leaning in with focused expressions. They speak and gesture intently to one another, engaged in a serious discussion. In the background, the ceremonial American flag stands in the corner of the room."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Leo, Silas, Nate, and Hector sit around the conference table, leaning in with focused expressions. They speak and gesture intently to one another, engaged in a serious discussion. In the background, the ceremonial American flag stands in the corner of the room."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Priya is in profile, wearing the grey cardigan. She is sitting inside the dimly lit The Interrogation Room and speaks with a serious expression on her face.",
+        "the stacks of case files: Multiple stacks of manila file folders and loose papers covered in both handwritten and typed text.\n\nIn the dimly lit Interrogation Room, Leo sits at the wooden office desk between Priya and Hector. The desk is covered with stacks of case files. As Leo gestures and talks, Priya takes notes and Hector listens intently."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Priya is in profile, wearing the grey cardigan. She is sitting inside the dimly lit The Interrogation Room and speaks with a serious expression on her face.",
+        "In the dimly lit Interrogation Room, Leo sits at the wooden office desk between Priya and Hector. The desk is covered with stacks of case files. As Leo gestures and talks, Priya takes notes and Hector listens intently."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "Medium close-up from over the shoulder of Leo. Leo looks at Aisha, who is talking with a serious expression next to a man in the maroon polo shirt. They are seated across the conference table in The Conference Hall, with the stacks of case files between them on the table."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up from over the shoulder of Leo. Leo looks at Aisha, who is talking with a serious expression next to a man in the maroon polo shirt. They are seated across the conference table in The Conference Hall, with the stacks of case files between them on the table."
+      ]
+    },
+    {
+      "scene_num": 12,
+      "video_prompts": [
+        "Ben: Man in blue scrubs.\n\nIn the dimly lit Interrogation Room, Priya and Ben sit at a table with somber expressions, listening intently. Priya shifts her weight slightly, her gaze focused forward."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit Interrogation Room, Priya and Ben sit at a table with somber expressions, listening intently. Priya shifts her weight slightly, her gaze focused forward."
+      ]
+    },
+    {
+      "scene_num": 13,
+      "video_prompts": [
+        "Aisha speaks intently with a serious expression on her face."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Aisha speaks intently with a serious expression on her face."
+      ]
+    },
+    {
+      "scene_num": 14,
+      "video_prompts": [
+        "Over-the-shoulder medium close-up in the dimly lit The Interrogation Room. Priya sits and listens, her expression filled with sadness and worry. In the foreground, Ben stands with his back to the camera as he speaks to Priya."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder medium close-up in the dimly lit The Interrogation Room. Priya sits and listens, her expression filled with sadness and worry. In the foreground, Ben stands with his back to the camera as he speaks to Priya."
+      ]
+    },
+    {
+      "scene_num": 15,
+      "video_prompts": [
+        "Over-the-shoulder close-up from behind Maya in the dimly lit The Conference Hall. Aisha speaks with a serious expression while Maya and Hector listen intently at the conference table."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder close-up from behind Maya in the dimly lit The Conference Hall. Aisha speaks with a serious expression while Maya and Hector listen intently at the conference table."
+      ]
+    },
+    {
+      "scene_num": 16,
+      "video_prompts": [
+        "Medium shot in The Interrogation Room. Priya sits in a chair, looking anxious and fidgeting with her hands in her lap. Hector and Ben stand off to the side, observing her.",
+        "Inside the dimly lit The Interrogation Room, Leo, wearing a black baseball cap, leans forward slightly, listening with a serious and contemplative expression as Hector speaks, gesturing with one hand. The glass water tumbler sits on the wooden office desk."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Interrogation Room. Priya sits in a chair, looking anxious and fidgeting with her hands in her lap. Hector and Ben stand off to the side, observing her.",
+        "Inside the dimly lit The Interrogation Room, Leo, wearing a black baseball cap, leans forward slightly, listening with a serious and contemplative expression as Hector speaks, gesturing with one hand. The glass water tumbler sits on the wooden office desk."
+      ]
+    },
+    {
+      "scene_num": 17,
+      "video_prompts": [
+        "the black beanie: Solid black knit beanie hat.\n\nIn the dimly lit The Conference Hall, an over-the-shoulder medium close-up shot from behind Maya captures Aisha sitting at a table. Aisha is talking to Maya."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Conference Hall, an over-the-shoulder medium close-up shot from behind Maya captures Aisha sitting at a table. Aisha is talking to Maya."
+      ]
+    },
+    {
+      "scene_num": 18,
+      "video_prompts": [
+        "Hector sits at the wooden office desk inside the dimly lit The Interrogation Room. He listens intently, his face showing a thoughtful expression as he slowly nods.",
+        "Medium over-the-shoulder shot from behind a man whose shoulder is in the foreground, looking at Priya and Ben in the dimly lit The Interrogation Room. Priya, sitting, talks toward the man with a concerned expression as Ben looks on.",
+        "Priya sits in a chair, speaking with a concerned expression to Declan. Declan stands with his back to the camera, shifting his weight slightly. In the background, Nate watches them, slowly crossing his arms.",
+        "Over-the-shoulder view of Leo, wearing the black baseball cap, sitting at the wooden office desk in the dimly lit The Interrogation Room, with Hector, wearing the maroon polo shirt, nearby. With a serious expression, Leo talks and gestures with one hand. The glass water tumbler rests on the wooden office desk.",
+        "Medium over-the-shoulder shot from behind Declan, looking at Priya. Priya, wearing the grey cardigan, shifts her posture slightly as she speaks with a serious expression. The scene takes place inside the dimly lit The Interrogation Room.",
+        "Declan sits at the wooden office desk and speaks animatedly, gesturing with his right hand toward Maya. Hector, wearing the maroon polo shirt, stands beside the desk, observing the interaction. An empty glass water tumbler rests on the desk.",
+        "Over the shoulder shot of Ben looking at Hector in the dimly lit The Interrogation Room. Hector sits behind the wooden office desk, speaking with a serious expression and gesturing with his hand. An empty glass water tumbler sits on the desk in front of him.",
+        "Over-the-shoulder shot from behind Declan, in the dimly lit and cluttered The Interrogation Room. Across a table, Aisha sits and speaks.",
+        "Priya, wearing the grey cardigan, sits inside The Interrogation Room. Her serious, contemplative expression deepens slightly as her gaze slowly drifts to a point off-screen.",
+        "Wearing her grey blazer over a dark t-shirt, Aisha has a serious expression as she speaks inside the dimly lit The Interrogation Room.",
+        "Over-the-shoulder medium shot in The Interrogation Room. Across the wooden office desk, Aisha sits and speaks with a serious expression. Hector, wearing the maroon polo shirt, and Priya sit beside Aisha, listening intently and occasionally nodding.",
+        "the green filing cabinet: Standard multi-drawer metal filing cabinet painted a drab green, with silver-colored pull handles on each drawer front.\nOver-the-shoulder medium close-up of Priya, wearing the grey cardigan over the black top, sitting in a chair in The Interrogation Room, the green filing cabinet visible behind her. She maintains a serious expression as she listens intently and then begins to speak.",
+        "the window with blinds: Window with closed wooden blinds.\n\nOver-the-shoulder shot in The Interrogation Room, looking past Maya. Hector, wearing the maroon polo shirt, sits at the wooden office desk and listens with a serious expression, nodding slightly. The desk is covered with the stacks of case files, and the window with blinds is in the background.",
+        "Inside The Interrogation Room, Aisha sits at the wooden office desk. In an over-the-shoulder shot from behind Leo and Hector, Aisha looks up from her work and begins to speak.",
+        "Priya, wearing the grey cardigan, is seated inside The Interrogation Room and talks with a concerned expression.",
+        "Inside The Interrogation Room, Hector, wearing the maroon polo shirt, and Ben sit at the wooden office desk. Ben gestures as he speaks, and Hector listens with a serious expression, nodding slowly.",
+        "Aisha speaks, her expression serious as she looks forward.",
+        "Leo sits at the wooden office desk with a serious, pensive expression, nodding slightly as he listens. The back of Silas's shoulder is in the foreground. Declan, Ben, and Hector stand observing in the background near the window with blinds, shifting their weight slightly, with Ben wearing blue scrubs and Hector wearing the maroon polo shirt. An empty glass water tumbler rests on the desk in front of Leo."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Hector sits at the wooden office desk inside the dimly lit The Interrogation Room. He listens intently, his face showing a thoughtful expression as he slowly nods.",
+        "Medium over-the-shoulder shot from behind a man whose shoulder is in the foreground, looking at Priya and Ben in the dimly lit The Interrogation Room. Priya, sitting, talks toward the man with a concerned expression as Ben looks on.",
+        "Priya sits in a chair, speaking with a concerned expression to Declan. Declan stands with his back to the camera, shifting his weight slightly. In the background, Nate watches them, slowly crossing his arms.",
+        "Over-the-shoulder view of Leo, wearing the black baseball cap, sitting at the wooden office desk in the dimly lit The Interrogation Room, with Hector, wearing the maroon polo shirt, nearby. With a serious expression, Leo talks and gestures with one hand. The glass water tumbler rests on the wooden office desk.",
+        "Medium over-the-shoulder shot from behind Declan, looking at Priya. Priya, wearing the grey cardigan, shifts her posture slightly as she speaks with a serious expression. The scene takes place inside the dimly lit The Interrogation Room.",
+        "Declan sits at the wooden office desk and speaks animatedly, gesturing with his right hand toward Maya. Hector, wearing the maroon polo shirt, stands beside the desk, observing the interaction. An empty glass water tumbler rests on the desk.",
+        "Over the shoulder shot of Ben looking at Hector in the dimly lit The Interrogation Room. Hector sits behind the wooden office desk, speaking with a serious expression and gesturing with his hand. An empty glass water tumbler sits on the desk in front of him.",
+        "Over-the-shoulder shot from behind Declan, in the dimly lit and cluttered The Interrogation Room. Across a table, Aisha sits and speaks.",
+        "Priya, wearing the grey cardigan, sits inside The Interrogation Room. Her serious, contemplative expression deepens slightly as her gaze slowly drifts to a point off-screen.",
+        "Wearing her grey blazer over a dark t-shirt, Aisha has a serious expression as she speaks inside the dimly lit The Interrogation Room.",
+        "Over-the-shoulder medium shot in The Interrogation Room. Across the wooden office desk, Aisha sits and speaks with a serious expression. Hector, wearing the maroon polo shirt, and Priya sit beside Aisha, listening intently and occasionally nodding.",
+        "Over-the-shoulder medium close-up of Priya, wearing the grey cardigan over the black top, sitting in a chair in The Interrogation Room, the green filing cabinet visible behind her. She maintains a serious expression as she listens intently and then begins to speak.",
+        "Over-the-shoulder shot in The Interrogation Room, looking past Maya. Hector, wearing the maroon polo shirt, sits at the wooden office desk and listens with a serious expression, nodding slightly. The desk is covered with the stacks of case files, and the window with blinds is in the background.",
+        "Inside The Interrogation Room, Aisha sits at the wooden office desk. In an over-the-shoulder shot from behind Leo and Hector, Aisha looks up from her work and begins to speak.",
+        "Priya, wearing the grey cardigan, is seated inside The Interrogation Room and talks with a concerned expression.",
+        "Inside The Interrogation Room, Hector, wearing the maroon polo shirt, and Ben sit at the wooden office desk. Ben gestures as he speaks, and Hector listens with a serious expression, nodding slowly.",
+        "Aisha speaks, her expression serious as she looks forward.",
+        "Leo sits at the wooden office desk with a serious, pensive expression, nodding slightly as he listens. The back of Silas's shoulder is in the foreground. Declan, Ben, and Hector stand observing in the background near the window with blinds, shifting their weight slightly, with Ben wearing blue scrubs and Hector wearing the maroon polo shirt. An empty glass water tumbler rests on the desk in front of Leo."
+      ]
+    },
+    {
+      "scene_num": 19,
+      "video_prompts": [
+        "The Barracks Room: Spartan military room with bare cinderblock walls painted a drab olive green, utilitarian metal furniture, and exposed electrical conduit on the ceiling.\nthe camouflage patrol cap: Military-style patrol cap with a flat top and short, stiff brim, made of fabric with a green, brown, and tan camouflage pattern.\n\nSgt. Carter, wearing the Air Force uniform and the camouflage patrol cap, slowly turns his head to face forward with a serious, somber expression. Nate stands in the background, looking on.",
+        "With a distressed expression in The Barracks Room, Sgt. Carter removes his camouflage patrol cap, looks down wearily, and then turns and walks away."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Sgt. Carter, wearing the Air Force uniform and the camouflage patrol cap, slowly turns his head to face forward with a serious, somber expression. Nate stands in the background, looking on.",
+        "With a distressed expression in The Barracks Room, Sgt. Carter removes his camouflage patrol cap, looks down wearily, and then turns and walks away."
+      ]
+    },
+    {
+      "scene_num": 20,
+      "video_prompts": [
+        "Apartment 4F Hallway: Interior of an apartment building hallway featuring a doorway to an apartment with a label reading '4 F'.\n\nView from behind Marco, who is standing in the dimly lit Apartment 4F Hallway. The door opens to reveal Sgt. Carter, wearing the Air Force uniform. He steps into the doorway, his expression hardening as he looks out at Marco.",
+        "the striped scarf: Thick, woven scarf with a multi-colored stripe pattern in shades of brown, cream, and dark blue, with short, knotted tassels at each end\n\nMedium shot from over the shoulder of Declan, who is wearing his brown overcoat and the striped scarf. In the Apartment 4F Hallway, Declan speaks to Sgt. Carter, who is wearing the Air Force uniform. Marco and Hector stand beside Declan, watching Sgt. Carter as he listens with a serious expression.",
+        "View from over the shoulder of Marco, looking at Sgt. Carter who is wearing the Air Force uniform. Sgt. Carter is speaking with a serious expression. They are standing inside the dimly lit Apartment 4F Hallway."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "View from behind Marco, who is standing in the dimly lit Apartment 4F Hallway. The door opens to reveal Sgt. Carter, wearing the Air Force uniform. He steps into the doorway, his expression hardening as he looks out at Marco.",
+        "Medium shot from over the shoulder of Declan, who is wearing his brown overcoat and the striped scarf. In the Apartment 4F Hallway, Declan speaks to Sgt. Carter, who is wearing the Air Force uniform. Marco and Hector stand beside Declan, watching Sgt. Carter as he listens with a serious expression.",
+        "View from over the shoulder of Marco, looking at Sgt. Carter who is wearing the Air Force uniform. Sgt. Carter is speaking with a serious expression. They are standing inside the dimly lit Apartment 4F Hallway."
+      ]
+    },
+    {
+      "scene_num": 21,
+      "video_prompts": [
+        "The Office Suite: An indoor space consisting of a room and an adjoining hallway.\n\nIn a dimly lit room in The Office Suite, Declan, wearing the striped scarf around his neck, speaks with a serious expression to Hector, who stands listening."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a dimly lit room in The Office Suite, Declan, wearing the striped scarf around his neck, speaks with a serious expression to Hector, who stands listening."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Leo",
+        "Maya",
+        "Silas",
+        "Nate"
+      ],
+      "places": [
+        "The Concrete Steps"
+      ],
+      "objects": [
+        "the black baseball cap"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Leo",
+        "Maya",
+        "Silas"
+      ],
+      "places": [
+        "The Concrete Steps"
+      ],
+      "objects": [
+        "the dark tie"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Leo",
+        "Marco",
+        "Aisha",
+        "Maya"
+      ],
+      "places": [
+        "Elm Street Corner"
+      ],
+      "objects": [
+        "the 'one way' sign"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leo",
+        "Maya",
+        "Declan"
+      ],
+      "places": [
+        "The Concrete Steps"
+      ],
+      "objects": [
+        "the brown duster coat",
+        "the dark tie",
+        "the olive green bomber jacket"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Leo",
+        "Aisha",
+        "Declan"
+      ],
+      "places": [
+        "The Concrete Steps"
+      ],
+      "objects": [
+        "the brown duster coat",
+        "the dark tie",
+        "the grey knit sweater"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Marco",
+        "Maya",
+        "Declan",
+        "Sgt. Carter",
+        "Nate"
+      ],
+      "places": [
+        "Elm Street Corner"
+      ],
+      "objects": []
+    },
+    "4:2": {
+      "characters": [
+        "Leo",
+        "Declan"
+      ],
+      "places": [
+        "Elm Street Corner"
+      ],
+      "objects": []
+    },
+    "4:3": {
+      "characters": [
+        "Leo",
+        "Marco",
+        "Silas"
+      ],
+      "places": [
+        "Elm Street Corner"
+      ],
+      "objects": []
+    },
+    "4:4": {
+      "characters": [
+        "Leo",
+        "Nate"
+      ],
+      "places": [
+        "Elm Street Corner"
+      ],
+      "objects": []
+    },
+    "5:1": {
+      "characters": [
+        "Maya",
+        "Declan",
+        "Silas",
+        "Nate"
+      ],
+      "places": [
+        "The Concrete Steps"
+      ],
+      "objects": [
+        "the black baseball cap"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Leo",
+        "Marco",
+        "Silas",
+        "Declan"
+      ],
+      "places": [
+        "Elm Street Corner"
+      ],
+      "objects": []
+    },
+    "7:1": {
+      "characters": [
+        "Maya",
+        "Declan"
+      ],
+      "places": [
+        "The Concrete Steps"
+      ],
+      "objects": [
+        "the dark tie",
+        "the classified document"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Aisha",
+        "Declan"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": []
+    },
+    "8:2": {
+      "characters": [
+        "Priya"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the grey cardigan"
+      ]
+    },
+    "8:3": {
+      "characters": [
+        "Hector",
+        "Leo"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the maroon polo shirt",
+        "the wooden office desk",
+        "the glass water tumbler",
+        "the black baseball cap"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Leo",
+        "Hector",
+        "Silas",
+        "Nate"
+      ],
+      "places": [
+        "The Conference Hall"
+      ],
+      "objects": [
+        "the conference table",
+        "the ceremonial American flag"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Priya"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the grey cardigan"
+      ]
+    },
+    "10:2": {
+      "characters": [
+        "Priya",
+        "Leo",
+        "Hector"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the wooden office desk",
+        "the maroon polo shirt",
+        "the stacks of case files"
+      ]
+    },
+    "11:1": {
+      "characters": [
+        "Leo",
+        "Aisha"
+      ],
+      "places": [
+        "The Conference Hall"
+      ],
+      "objects": [
+        "the maroon polo shirt",
+        "the stacks of case files",
+        "the conference table"
+      ]
+    },
+    "12:1": {
+      "characters": [
+        "Priya",
+        "Ben"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": []
+    },
+    "13:1": {
+      "characters": [
+        "Aisha"
+      ],
+      "places": [
+        "The Conference Hall"
+      ],
+      "objects": []
+    },
+    "14:1": {
+      "characters": [
+        "Priya",
+        "Ben"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": []
+    },
+    "15:1": {
+      "characters": [
+        "Aisha",
+        "Maya",
+        "Hector"
+      ],
+      "places": [
+        "The Conference Hall"
+      ],
+      "objects": []
+    },
+    "16:1": {
+      "characters": [
+        "Priya",
+        "Hector",
+        "Ben"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": []
+    },
+    "16:2": {
+      "characters": [
+        "Leo",
+        "Hector"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the wooden office desk",
+        "the maroon polo shirt",
+        "the glass water tumbler"
+      ]
+    },
+    "17:1": {
+      "characters": [
+        "Aisha",
+        "Maya"
+      ],
+      "places": [
+        "The Conference Hall"
+      ],
+      "objects": []
+    },
+    "18:1": {
+      "characters": [
+        "Hector"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the wooden office desk"
+      ]
+    },
+    "18:2": {
+      "characters": [
+        "Priya",
+        "Ben"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": []
+    },
+    "18:3": {
+      "characters": [
+        "Priya",
+        "Declan",
+        "Nate"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": []
+    },
+    "18:4": {
+      "characters": [
+        "Hector",
+        "Leo"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the maroon polo shirt",
+        "the wooden office desk",
+        "the glass water tumbler",
+        "the black baseball cap"
+      ]
+    },
+    "18:5": {
+      "characters": [
+        "Priya",
+        "Declan"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the grey cardigan"
+      ]
+    },
+    "18:6": {
+      "characters": [
+        "Hector",
+        "Maya",
+        "Declan"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the maroon polo shirt",
+        "the wooden office desk",
+        "the glass water tumbler"
+      ]
+    },
+    "18:7": {
+      "characters": [
+        "Hector",
+        "Ben"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the maroon polo shirt",
+        "the wooden office desk",
+        "the glass water tumbler"
+      ]
+    },
+    "18:8": {
+      "characters": [
+        "Aisha",
+        "Declan"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": []
+    },
+    "18:9": {
+      "characters": [
+        "Priya"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the grey cardigan"
+      ]
+    },
+    "18:10": {
+      "characters": [
+        "Aisha"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the dark t-shirt"
+      ]
+    },
+    "18:11": {
+      "characters": [
+        "Priya",
+        "Aisha",
+        "Hector"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the wooden office desk",
+        "the maroon polo shirt"
+      ]
+    },
+    "18:12": {
+      "characters": [
+        "Priya"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the grey cardigan",
+        "the black top",
+        "the green filing cabinet"
+      ]
+    },
+    "18:13": {
+      "characters": [
+        "Hector",
+        "Maya"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the maroon polo shirt",
+        "the stacks of case files",
+        "the wooden office desk",
+        "the window with blinds"
+      ]
+    },
+    "18:14": {
+      "characters": [
+        "Leo",
+        "Aisha",
+        "Hector"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the wooden office desk"
+      ]
+    },
+    "18:15": {
+      "characters": [
+        "Priya"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the grey cardigan"
+      ]
+    },
+    "18:16": {
+      "characters": [
+        "Hector",
+        "Ben"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the maroon polo shirt",
+        "the wooden office desk",
+        "the glass water tumbler"
+      ]
+    },
+    "18:17": {
+      "characters": [
+        "Aisha"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": []
+    },
+    "18:18": {
+      "characters": [
+        "Hector",
+        "Silas",
+        "Ben",
+        "Leo",
+        "Declan"
+      ],
+      "places": [
+        "The Interrogation Room"
+      ],
+      "objects": [
+        "the wooden office desk",
+        "the maroon polo shirt",
+        "the window with blinds",
+        "the glass water tumbler"
+      ]
+    },
+    "19:1": {
+      "characters": [
+        "Sgt. Carter",
+        "Nate"
+      ],
+      "places": [
+        "The Barracks Room"
+      ],
+      "objects": [
+        "the Air Force uniform",
+        "the camouflage patrol cap"
+      ]
+    },
+    "19:2": {
+      "characters": [
+        "Sgt. Carter"
+      ],
+      "places": [
+        "The Barracks Room"
+      ],
+      "objects": [
+        "the Air Force uniform",
+        "the camouflage patrol cap"
+      ]
+    },
+    "20:1": {
+      "characters": [
+        "Marco",
+        "Sgt. Carter"
+      ],
+      "places": [
+        "Apartment 4F Hallway"
+      ],
+      "objects": [
+        "the Air Force uniform"
+      ]
+    },
+    "20:2": {
+      "characters": [
+        "Marco",
+        "Hector",
+        "Declan",
+        "Sgt. Carter"
+      ],
+      "places": [
+        "Apartment 4F Hallway"
+      ],
+      "objects": [
+        "the striped scarf",
+        "the Air Force uniform"
+      ]
+    },
+    "20:3": {
+      "characters": [
+        "Marco",
+        "Sgt. Carter"
+      ],
+      "places": [
+        "Apartment 4F Hallway"
+      ],
+      "objects": [
+        "the Air Force uniform"
+      ]
+    },
+    "21:1": {
+      "characters": [
+        "Hector",
+        "Declan"
+      ],
+      "places": [
+        "The Office Suite"
+      ],
+      "objects": [
+        "the striped scarf"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Man with short, curly brown hair and a goatee, wearing a black jacket over a grey sweater."
+    },
+    "Character 2": {
+      "name": "Maya",
+      "label": "Character 2",
+      "description": "Woman in her early twenties with a slender build and long dark hair pulled back into a low ponytail, wearing an olive green bomber jacket over a grey t-shirt, dark wash skinny jeans, and white sneakers."
+    },
+    "Character 3": {
+      "name": "Silas",
+      "label": "Character 3",
+      "description": "Man wearing a dark coat, a tie, and a black baseball cap."
+    },
+    "Character 4": {
+      "name": "Nate",
+      "label": "Character 4",
+      "description": "Young man with freckles, wearing a red hoodie."
+    },
+    "Character 5": {
+      "name": "Marco",
+      "label": "Character 5",
+      "description": "Man with a thick gold chain and a neck tattoo, wearing a designer tracksuit."
+    },
+    "Character 6": {
+      "name": "Aisha",
+      "label": "Character 6",
+      "description": "Black woman with shoulder-length dreadlocks, wearing a grey blazer."
+    },
+    "Character 7": {
+      "name": "Declan",
+      "label": "Character 7",
+      "description": "Man with a goatee wearing a brown overcoat over a collared shirt and a tie."
+    },
+    "Character 8": {
+      "name": "Sgt. Carter",
+      "label": "Character 8",
+      "description": "Man in a camouflage military uniform and a matching camouflage cap."
+    },
+    "Character 9": {
+      "name": "Priya",
+      "label": "Character 9",
+      "description": "Woman with long dark hair, wearing a grey cardigan."
+    },
+    "Character 10": {
+      "name": "Hector",
+      "label": "Character 10",
+      "description": "Man with a dark mustache and goatee, wearing a short-sleeved maroon polo shirt."
+    },
+    "Character 11": {
+      "name": "Ben",
+      "label": "Character 11",
+      "description": "Man in blue scrubs."
+    },
+    "Location 1": {
+      "name": "The Concrete Steps",
+      "label": "Location 1",
+      "description": "A set of modern, minimalist outdoor stairs constructed from raw, grey concrete."
+    },
+    "Location 2": {
+      "name": "Elm Street Corner",
+      "label": "Location 2",
+      "description": "An outdoor urban street corner with concrete sidewalks, an asphalt road, and a metal 'ONE WAY' street sign."
+    },
+    "Location 3": {
+      "name": "The Interrogation Room",
+      "label": "Location 3",
+      "description": "Cluttered interior of a main interrogation office."
+    },
+    "Location 4": {
+      "name": "The Conference Hall",
+      "label": "Location 4",
+      "description": "Interior of a professional office conference room furnished with a wooden conference table and decorated with an American flag."
+    },
+    "Location 5": {
+      "name": "The Barracks Room",
+      "label": "Location 5",
+      "description": "Spartan military room with bare cinderblock walls painted a drab olive green, utilitarian metal furniture, and exposed electrical conduit on the ceiling."
+    },
+    "Location 6": {
+      "name": "Apartment 4F Hallway",
+      "label": "Location 6",
+      "description": "Interior of an apartment building hallway featuring a doorway to an apartment with a label reading '4 F'."
+    },
+    "Location 7": {
+      "name": "The Office Suite",
+      "label": "Location 7",
+      "description": "An indoor space consisting of a room and an adjoining hallway."
+    },
+    "Object 1": {
+      "name": "the black baseball cap",
+      "label": "Object 1",
+      "description": "Plain black cloth baseball cap with a structured crown and a stiff, curved brim"
+    },
+    "Object 2": {
+      "name": "the brown duster coat",
+      "label": "Object 2",
+      "description": "Long, duster-style coat made of a heavy brown fabric with a weathered texture and wide lapels"
+    },
+    "Object 3": {
+      "name": "the dark jacket",
+      "label": "Object 3",
+      "description": "Dark black jacket"
+    },
+    "Object 4": {
+      "name": "the grey knit sweater",
+      "label": "Object 4",
+      "description": "Grey knitted sweater"
+    },
+    "Object 5": {
+      "name": "the dark tie",
+      "label": "Object 5",
+      "description": "A tie"
+    },
+    "Object 6": {
+      "name": "the 'one way' sign",
+      "label": "Object 6",
+      "description": "White vertical rectangular metal street sign with \"ONE WAY\" in black capital letters above a large black arrow"
+    },
+    "Object 7": {
+      "name": "the classified document",
+      "label": "Object 7",
+      "description": "No visual description provided in the source text for this object"
+    },
+    "Object 8": {
+      "name": "the grey cardigan",
+      "label": "Object 8",
+      "description": "Medium grey, fine-knit V-neck cardigan with a button-front closure and ribbed trim on the cuffs and hem"
+    },
+    "Object 9": {
+      "name": "the wooden office desk",
+      "label": "Object 9",
+      "description": "Large wooden office desk with a flat rectangular top and a simple, functional design."
+    },
+    "Object 10": {
+      "name": "the maroon polo shirt",
+      "label": "Object 10",
+      "description": "Maroon polo shirt"
+    },
+    "Object 11": {
+      "name": "the glass water tumbler",
+      "label": "Object 11",
+      "description": "An empty, clear glass water tumbler."
+    },
+    "Object 12": {
+      "name": "the conference table",
+      "label": "Object 12",
+      "description": "Large, rectangular conference table made of dark, polished wood with a smooth, reflective surface."
+    },
+    "Object 13": {
+      "name": "the ceremonial American flag",
+      "label": "Object 13",
+      "description": "A standard American flag with red and white stripes and a blue star-filled canton, trimmed with gold fringe, on a polished dark wood flagpole with a gold eagle finial on top."
+    },
+    "Object 14": {
+      "name": "the stacks of case files",
+      "label": "Object 14",
+      "description": "Multiple stacks of manila file folders and loose papers covered in both handwritten and typed text."
+    },
+    "Object 15": {
+      "name": "the black beanie",
+      "label": "Object 15",
+      "description": "Solid black knit beanie hat"
+    },
+    "Object 16": {
+      "name": "the dark t-shirt",
+      "label": "Object 16",
+      "description": "A plain, dark-colored shirt with a simple round neckline"
+    },
+    "Object 17": {
+      "name": "the black top",
+      "label": "Object 17",
+      "description": "Solid black top"
+    },
+    "Object 18": {
+      "name": "the green filing cabinet",
+      "label": "Object 18",
+      "description": "Standard multi-drawer metal filing cabinet painted a drab green, with silver-colored pull handles on each drawer front."
+    },
+    "Object 19": {
+      "name": "the window with blinds",
+      "label": "Object 19",
+      "description": "Window with closed wooden blinds."
+    },
+    "Object 20": {
+      "name": "the Air Force uniform",
+      "label": "Object 20",
+      "description": "US Air Force military uniform in a standard Operational Camouflage Pattern (OCP) of muted greens, tans, and browns, consisting of a long-sleeved collared blouse with patches, matching trousers, and a matching patrol cap"
+    },
+    "Object 21": {
+      "name": "the camouflage patrol cap",
+      "label": "Object 21",
+      "description": "Military-style patrol cap with a flat top and short, stiff brim, made of fabric with a green, brown, and tan camouflage pattern."
+    },
+    "Object 22": {
+      "name": "the striped scarf",
+      "label": "Object 22",
+      "description": "Thick, woven scarf with a multi-colored stripe pattern in shades of brown, cream, and dark blue, with short, knotted tassels at each end"
+    }
+  },
+  "_window_shot_ids": [
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0001",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0002",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0003",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0004",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0005",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0006",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0007",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0008",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0009",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0010",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0011",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0012",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0014",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0015",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0016",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0017",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0018",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0019",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0020",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0021",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0022",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0023",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0024",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0025",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0026",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0027",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0028",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0029",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0031",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0032",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0033",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0034",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0035",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0036",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0037",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0038",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0039",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0040",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0041",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0042",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0043",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0044",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0045",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0046",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0047",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0048",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0049",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0050",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0051",
+    "00026577-e40f-3c9c-961d-2ee33aac05d3__run247__i0_j47__T600__shot0052"
+  ],
+  "_num_scenes": 21,
+  "_num_shots": 50,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 10": "Hector",
+    "Character 11": "Ben",
+    "Character 2": "Maya",
+    "Character 3": "Silas",
+    "Character 4": "Nate",
+    "Character 5": "Marco",
+    "Character 6": "Aisha",
+    "Character 7": "Declan",
+    "Character 8": "Sgt. Carter",
+    "Character 9": "Priya",
+    "Location 1": "The Concrete Steps",
+    "Location 2": "Elm Street Corner",
+    "Location 3": "The Interrogation Room",
+    "Location 4": "The Conference Hall",
+    "Location 5": "The Barracks Room",
+    "Location 6": "Apartment 4F Hallway",
+    "Location 7": "The Office Suite",
+    "Object 1": "the black baseball cap",
+    "Object 10": "the maroon polo shirt",
+    "Object 11": "the glass water tumbler",
+    "Object 12": "the conference table",
+    "Object 13": "the ceremonial American flag",
+    "Object 14": "the stacks of case files",
+    "Object 15": "the black beanie",
+    "Object 16": "the dark t-shirt",
+    "Object 17": "the black top",
+    "Object 18": "the green filing cabinet",
+    "Object 19": "the window with blinds",
+    "Object 2": "the brown duster coat",
+    "Object 20": "the Air Force uniform",
+    "Object 21": "the camouflage patrol cap",
+    "Object 22": "the striped scarf",
+    "Object 3": "the dark jacket",
+    "Object 4": "the grey knit sweater",
+    "Object 5": "the dark tie",
+    "Object 6": "the 'one way' sign",
+    "Object 7": "the classified document",
+    "Object 8": "the grey cardigan",
+    "Object 9": "the wooden office desk"
+  }
+}

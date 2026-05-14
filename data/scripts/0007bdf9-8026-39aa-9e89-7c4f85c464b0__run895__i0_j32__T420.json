@@ -1,0 +1,385 @@
+{
+  "story_name": "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420",
+  "story_overview": "In a movie theater, Samuel and Nora share an affectionate moment, but tensions soon emerge within their larger group. After the film, serious conversations unfold on the city streets between Nora, Leo, Carlos, and Kenji, revealing underlying conflicts.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Nora: Woman with short brown hair, wearing a red patterned shirt layered under a beige trench coat.\nSamuel: Man.\nThe Grand Cinema: Movie theater auditorium with tiered rows of dark red upholstered seats, dark sound-dampening fabric walls, carpeted floors and aisle stairs, and a large white projection screen at the front.\nthe plush theater seats: High-backed movie theater seats with plush, dark purple-red fabric upholstery.\n\nSamuel and Nora sit side-by-side in the plush theater seats, their hands clasped together. Nora turns her head to gaze at Samuel with a fond smile, while Samuel keeps his eyes fixed forward on the unseen film.",
+        "Leo: Man with bleached blond hair wearing a black tank top.\nCarlos: Man.\nthe luminous chinese text: Luminous white text composed of crisp Chinese characters.\n\nMedium close-up of Leo and Carlos sitting together in the dark The Grand Cinema. Their faces are illuminated by the soft glow from the luminous chinese text. Carlos watches the luminous chinese text, then turns his head to look pensively at Leo, who stares blankly ahead, his face mostly obscured in shadow.",
+        "High-angle shot in the dim The Grand Cinema, where Carlos and Samuel sit in the plush theater seats, engrossed in listening to the unseen film. Carlos slowly leans forward, resting his chin on his clasped hands. Samuel listens intently, a serious expression on his face.",
+        "Close-up of Leo sitting in The Grand Cinema, illuminated by the glow of the luminous chinese text from the off-screen movie. He has a pensive expression, his hands clasped as he stares forward, his brow furrowing slightly. Carlos sits beside him, also watching the screen.",
+        "Arthur: Older man wearing a black jacket.\n\nIn The Grand Cinema, Leo and Nora sit in the foreground, sharing a serious, unimpressed look as they watch the unseen film. In the seats around them, the faces of Carlos, Arthur, and Samuel are illuminated by the screen's light as they laugh and smile."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Samuel and Nora sit side-by-side in the plush theater seats, their hands clasped together. Nora turns her head to gaze at Samuel with a fond smile, while Samuel keeps his eyes fixed forward on the unseen film.",
+        "Medium close-up of Leo and Carlos sitting together in the dark The Grand Cinema. Their faces are illuminated by the soft glow from the luminous chinese text. Carlos watches the luminous chinese text, then turns his head to look pensively at Leo, who stares blankly ahead, his face mostly obscured in shadow.",
+        "High-angle shot in the dim The Grand Cinema, where Carlos and Samuel sit in the plush theater seats, engrossed in listening to the unseen film. Carlos slowly leans forward, resting his chin on his clasped hands. Samuel listens intently, a serious expression on his face.",
+        "Close-up of Leo sitting in The Grand Cinema, illuminated by the glow of the luminous chinese text from the off-screen movie. He has a pensive expression, his hands clasped as he stares forward, his brow furrowing slightly. Carlos sits beside him, also watching the screen.",
+        "In The Grand Cinema, Leo and Nora sit in the foreground, sharing a serious, unimpressed look as they watch the unseen film. In the seats around them, the faces of Carlos, Arthur, and Samuel are illuminated by the screen's light as they laugh and smile."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Cinema Lobby: Movie theater lobby interior with a concession counter and walls adorned with large movie posters.\nthe framed movie posters: Set of large, glossy, rectangular movie posters in thin black frames, featuring colorful graphics, bold titles, and photographic images of actors.\nthe concession counter: Movie theater concession counter with a glass-front display case, a large popcorn machine, soda fountain dispensers, and an illuminated menu board.\nCarlos and Nora walk together through The Cinema Lobby, with the concession counter visible. They pause in front of a wall lined with the framed movie posters and the luminous chinese text, turning to face each other as they talk. The bustling concession counter is active in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Carlos and Nora walk together through The Cinema Lobby, with the concession counter visible. They pause in front of a wall lined with the framed movie posters and the luminous chinese text, turning to face each other as they talk. The bustling concession counter is active in the background."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Ivan: Man.\nCity Lights District: An urban city street characterized by a dense array of vibrant, out-of-focus, multi-colored lights from building windows, traffic, and neon signage.\n\nClose-up in City Lights District at night. Leo speaks with an annoyed expression to Samuel, who is partially visible in profile, listening intently. Ivan stands just behind them, his gaze shifting between the two. The background is filled with the bokeh lights of the city and the luminous chinese text.",
+        "Kenji: Older Asian man with short dark hair, wearing a black blazer over a patterned shirt.\n\nA medium, eye-level shot captures a serious conversation in City Lights District. Kenji talks earnestly to Nora, who is wearing the beige trench coat. Nora listens with her arms crossed, her expression growing more annoyed. The background is filled with the glow of the bokeh lights and the framed movie posters, with the luminous chinese text at the bottom of the screen."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up in City Lights District at night. Leo speaks with an annoyed expression to Samuel, who is partially visible in profile, listening intently. Ivan stands just behind them, his gaze shifting between the two. The background is filled with the bokeh lights of the city and the luminous chinese text.",
+        "A medium, eye-level shot captures a serious conversation in City Lights District. Kenji talks earnestly to Nora, who is wearing the beige trench coat. Nora listens with her arms crossed, her expression growing more annoyed. The background is filled with the glow of the bokeh lights and the framed movie posters, with the luminous chinese text at the bottom of the screen."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Public Concourse: Indoor public space.\nClose-up shot in Public Concourse at night. Nora, wearing the beige trench coat and the red patterned shirt, speaks with an insistent expression to Leo, who is in profile. Samuel stands nearby, observing the conversation, with the luminous chinese text visible in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot in Public Concourse at night. Nora, wearing the beige trench coat and the red patterned shirt, speaks with an insistent expression to Leo, who is in profile. Samuel stands nearby, observing the conversation, with the luminous chinese text visible in the background."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the glowing storefronts: A collection of storefronts with an array of colorful, glowing signs and brightly lit window displays.\nMedium close-up at City Lights District. Carlos, wearing the black jacket, speaks earnestly while Nora, wearing the beige trench coat, listens. The background is a soft-focus view of the bokeh lights from the glowing storefronts.",
+        "Nora, wearing the beige trench coat, stands on the sidewalk near the framed movie posters with her arms crossed, her gaze sweeping across the street. Carlos, wearing the black jacket, and Leo walk together past Nora and under the luminous chinese text."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium close-up at City Lights District. Carlos, wearing the black jacket, speaks earnestly while Nora, wearing the beige trench coat, listens. The background is a soft-focus view of the bokeh lights from the glowing storefronts.",
+        "Nora, wearing the beige trench coat, stands on the sidewalk near the framed movie posters with her arms crossed, her gaze sweeping across the street. Carlos, wearing the black jacket, and Leo walk together past Nora and under the luminous chinese text."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Nora",
+        "Samuel"
+      ],
+      "places": [
+        "The Grand Cinema"
+      ],
+      "objects": [
+        "the plush theater seats",
+        "the unseen film"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Leo",
+        "Carlos"
+      ],
+      "places": [
+        "The Grand Cinema"
+      ],
+      "objects": [
+        "the luminous chinese text"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Carlos",
+        "Samuel"
+      ],
+      "places": [
+        "The Grand Cinema"
+      ],
+      "objects": [
+        "the unseen film",
+        "the plush theater seats"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Leo",
+        "Carlos"
+      ],
+      "places": [
+        "The Grand Cinema"
+      ],
+      "objects": [
+        "the luminous chinese text"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Leo",
+        "Carlos",
+        "Arthur",
+        "Samuel",
+        "Nora"
+      ],
+      "places": [
+        "The Grand Cinema"
+      ],
+      "objects": [
+        "the unseen film"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Carlos",
+        "Nora"
+      ],
+      "places": [
+        "The Cinema Lobby"
+      ],
+      "objects": [
+        "the framed movie posters",
+        "the luminous chinese text",
+        "the concession counter"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leo",
+        "Samuel",
+        "Ivan"
+      ],
+      "places": [
+        "City Lights District"
+      ],
+      "objects": [
+        "the bokeh lights",
+        "the luminous chinese text"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Kenji",
+        "Nora"
+      ],
+      "places": [
+        "City Lights District"
+      ],
+      "objects": [
+        "the beige trench coat",
+        "the framed movie posters",
+        "the bokeh lights",
+        "the luminous chinese text"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Leo",
+        "Samuel",
+        "Nora"
+      ],
+      "places": [
+        "Public Concourse"
+      ],
+      "objects": [
+        "the beige trench coat",
+        "the red patterned shirt",
+        "the luminous chinese text"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Carlos",
+        "Nora"
+      ],
+      "places": [
+        "City Lights District"
+      ],
+      "objects": [
+        "the black jacket",
+        "the beige trench coat",
+        "the bokeh lights",
+        "the glowing storefronts"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Leo",
+        "Carlos",
+        "Nora"
+      ],
+      "places": [
+        "City Lights District"
+      ],
+      "objects": [
+        "the beige trench coat",
+        "the black jacket",
+        "the framed movie posters",
+        "the luminous chinese text"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Man with bleached blond hair wearing a black tank top."
+    },
+    "Character 2": {
+      "name": "Carlos",
+      "label": "Character 2",
+      "description": "Man."
+    },
+    "Character 3": {
+      "name": "Arthur",
+      "label": "Character 3",
+      "description": "Older man wearing a black jacket."
+    },
+    "Character 4": {
+      "name": "Samuel",
+      "label": "Character 4",
+      "description": "Man."
+    },
+    "Character 5": {
+      "name": "Nora",
+      "label": "Character 5",
+      "description": "Woman with short brown hair, wearing a red patterned shirt layered under a beige trench coat."
+    },
+    "Character 6": {
+      "name": "Ivan",
+      "label": "Character 6",
+      "description": "Man."
+    },
+    "Character 7": {
+      "name": "Kenji",
+      "label": "Character 7",
+      "description": "Older Asian man with short dark hair, wearing a black blazer over a patterned shirt."
+    },
+    "Location 1": {
+      "name": "The Grand Cinema",
+      "label": "Location 1",
+      "description": "Movie theater auditorium with tiered rows of dark red upholstered seats, dark sound-dampening fabric walls, carpeted floors and aisle stairs, and a large white projection screen at the front."
+    },
+    "Location 2": {
+      "name": "The Cinema Lobby",
+      "label": "Location 2",
+      "description": "Movie theater lobby interior with a concession counter and walls adorned with large movie posters."
+    },
+    "Location 3": {
+      "name": "City Lights District",
+      "label": "Location 3",
+      "description": "An urban city street characterized by a dense array of vibrant, out-of-focus, multi-colored lights from building windows, traffic, and neon signage."
+    },
+    "Location 4": {
+      "name": "Public Concourse",
+      "label": "Location 4",
+      "description": "Indoor public space."
+    },
+    "Object 1": {
+      "name": "the plush theater seats",
+      "label": "Object 1",
+      "description": "High-backed movie theater seats with plush, dark purple-red fabric upholstery."
+    },
+    "Object 2": {
+      "name": "the unseen film",
+      "label": "Object 2",
+      "description": "An unseen film with no visual appearance"
+    },
+    "Object 3": {
+      "name": "the luminous chinese text",
+      "label": "Object 3",
+      "description": "Luminous white text composed of crisp Chinese characters."
+    },
+    "Object 4": {
+      "name": "the concession counter",
+      "label": "Object 4",
+      "description": "Movie theater concession counter with a glass-front display case, a large popcorn machine, soda fountain dispensers, and an illuminated menu board."
+    },
+    "Object 5": {
+      "name": "the framed movie posters",
+      "label": "Object 5",
+      "description": "Set of large, glossy, rectangular movie posters in thin black frames, featuring colorful graphics, bold titles, and photographic images of actors."
+    },
+    "Object 6": {
+      "name": "the bokeh lights",
+      "label": "Object 6",
+      "description": "An out-of-focus array of multicolored circular lights"
+    },
+    "Object 7": {
+      "name": "the beige trench coat",
+      "label": "Object 7",
+      "description": "Beige tan trench coat"
+    },
+    "Object 8": {
+      "name": "the black jacket",
+      "label": "Object 8",
+      "description": "Black street-style jacket"
+    },
+    "Object 9": {
+      "name": "the red patterned shirt",
+      "label": "Object 9",
+      "description": "A red patterned collared shirt"
+    },
+    "Object 10": {
+      "name": "the glowing storefronts",
+      "label": "Object 10",
+      "description": "A collection of storefronts with an array of colorful, glowing signs and brightly lit window displays."
+    }
+  },
+  "_window_shot_ids": [
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0003",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0004",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0005",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0006",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0007",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0008",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0009",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0010",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0011",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0012",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i0_j32__T420__shot0013"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Carlos",
+    "Character 3": "Arthur",
+    "Character 4": "Samuel",
+    "Character 5": "Nora",
+    "Character 6": "Ivan",
+    "Character 7": "Kenji",
+    "Location 1": "The Grand Cinema",
+    "Location 2": "The Cinema Lobby",
+    "Location 3": "City Lights District",
+    "Location 4": "Public Concourse",
+    "Object 1": "the plush theater seats",
+    "Object 10": "the glowing storefronts",
+    "Object 2": "the unseen film",
+    "Object 3": "the luminous chinese text",
+    "Object 4": "the concession counter",
+    "Object 5": "the framed movie posters",
+    "Object 6": "the bokeh lights",
+    "Object 7": "the beige trench coat",
+    "Object 8": "the black jacket",
+    "Object 9": "the red patterned shirt"
+  }
+}

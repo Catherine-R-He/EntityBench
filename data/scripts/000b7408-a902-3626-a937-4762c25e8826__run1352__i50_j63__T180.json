@@ -1,0 +1,488 @@
+{
+  "story_name": "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180",
+  "story_overview": "Lin holds earnest conversations with Hae-won and Mei in ornate, traditional settings, at one point revealing a healed injury to their relief. While a man named Sheng is seen recovering in bed, tensions build in the Chairman's office where Hae-won, Kenji, and Mei are involved in a series of quiet, deliberate actions, culminating in a group meeting.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Lin: Middle-aged man with short, dark hair, wearing a blue collared shirt and a dark blue Zhongshan suit jacket.\nThe Sunlit Parlor: Ornate residence living room interior with a geometric-patterned window, furnished with a vintage lamp and a bouquet of flowers.\nthe geometric lattice window screen: Dark wood window screen featuring an intricate, interlocking geometric lattice pattern.\nOver-the-shoulder close-up in The Sunlit Parlor. Lin, wearing the dark blue zhongshan suit and the blue collared shirt, speaks with an earnest expression toward a woman who stands in the foreground with her back to the camera. Behind them is the intricate lattice of the geometric lattice window screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder close-up in The Sunlit Parlor. Lin, wearing the dark blue zhongshan suit and the blue collared shirt, speaks with an earnest expression toward a woman who stands in the foreground with her back to the camera. Behind them is the intricate lattice of the geometric lattice window screen."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Hae-won: Woman with dark hair tied back, wearing glasses and a long beige coat over a Traditional Green and Yellow Outfit.\nThe Tea Room: An indoor setting featuring a wooden screen.\nthe green and yellow hanbok: A traditional Korean hanbok consisting of a voluminous, floor-length emerald green silk skirt (chima) and a short, wrap-style canary yellow silk jacket (jeogori) tied with a long green ribbon, with delicate floral embroidery on the cuffs.\nthe wooden folding screen: Multi-paneled decorative folding screen made from dark, polished wood, featuring intricate geometric lattice work on the upper portion of each panel above solid lower sections.\n\nClose-up on Hae-won, wearing her long beige coat over the green and yellow hanbok, in The Tea Room. A sad expression forms on her face as she listens to Lin speak, his back turned to the camera. The decorative wooden folding screen is in the background behind them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Hae-won, wearing her long beige coat over the green and yellow hanbok, in The Tea Room. A sad expression forms on her face as she listens to Lin speak, his back turned to the camera. The decorative wooden folding screen is in the background behind them."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Mei: Woman wearing glasses and a colorful, light pink robe.\nThe Serene Bedroom: Traditionally decorated bedroom with a wooden sliding door.\nthe pink and blue silk robe: A woman's traditional multi-layered silk ensemble consisting of a short, vibrant pink jacket with wide sleeves over a long, flowing bright blue skirt, featuring an ornately embroidered floral chest panel in gold and green thread and a wide white sash tied in a bow.\nthe shoji sliding door: Traditional Japanese-style shoji sliding door with light-colored wooden latticework and translucent white paper panels.\n\nInside The Serene Bedroom, Lin stands before Mei and Hae-won, slowly bending his knee to show that it has healed. Mei, wearing a colorful, light pink robe, gasps softly and smiles with relief, while Hae-won looks on with a gentle, nodding smile. Lin and Mei exchange a warm smile before all three turn and exit the room through the shoji sliding door."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Serene Bedroom, Lin stands before Mei and Hae-won, slowly bending his knee to show that it has healed. Mei, wearing a colorful, light pink robe, gasps softly and smiles with relief, while Hae-won looks on with a gentle, nodding smile. Lin and Mei exchange a warm smile before all three turn and exit the room through the shoji sliding door."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Sheng: Man wearing a brown jacket layered over a white collared shirt.\n\nClose-up on the face of Sheng as he lies fully clothed on a bed in The Serene Bedroom. His eyes briefly flutter open before closing again.",
+        "Sheng's expression turns serious as he shifts his gaze to look off-camera."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on the face of Sheng as he lies fully clothed on a bed in The Serene Bedroom. His eyes briefly flutter open before closing again.",
+        "Sheng's expression turns serious as he shifts his gaze to look off-camera."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Kenji: Man wearing a black shirt.\nThe Chairman's Office: Formal, vintage-style, ornate office with wood-paneled walls, a large wooden double door, and a large wooden desk covered by a red patterned tablecloth and various antique items.\nthe ornate wooden double doors: Large, ornate wooden double doors with a dark, polished finish, raised panels, and intricate carvings.\nthe large desk with a red tablecloth: Large, long, dark wooden desk covered by a red patterned tablecloth.\n\nIn The Chairman's Office, Hae-won closes the ornate wooden double doors and walks confidently across the room toward the large desk with a red tablecloth, keeping one hand in her coat pocket. Kenji stands beside the desk, watching her approach.",
+        "the stained glass tiffany lamp: Tiffany-style table lamp with a dome-shaped shade made of multicolored stained glass in a floral pattern, set on an ornate, patinated bronze base.\n\nClose-up on a desk inside The Chairman's Office, where the stained glass tiffany lamp sits. The hands of Lin carefully adjust the cuff of his dark blue zhongshan suit jacket beside the framed black and white photograph."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The Chairman's Office, Hae-won closes the ornate wooden double doors and walks confidently across the room toward the large desk with a red tablecloth, keeping one hand in her coat pocket. Kenji stands beside the desk, watching her approach.",
+        "Close-up on a desk inside The Chairman's Office, where the stained glass tiffany lamp sits. The hands of Lin carefully adjust the cuff of his dark blue zhongshan suit jacket beside the framed black and white photograph."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "the vintage fringe lamp: Vintage table lamp with an ornate, dark bronze cast-metal base featuring leaf-like scrollwork, and a wide, bell-shaped fabric shade in a dusty rose color with a short fringe of tassels along the bottom edge.\nthe large geometric pattern window: A large window featuring an intricate geometric pattern created by dark mullions separating numerous clear glass panes.\nWith her back to the camera, Mei, wearing a colorful, light pink robe and the round-framed glasses, walks slowly through The Sunlit Parlor. She moves past the vintage fringe lamp and the bouquet of flowers, which are placed near the large geometric pattern window.",
+        "Medium shot inside The Sunlit Parlor. In the foreground is a table, covered with the large red tablecloth, and an empty chair. In the background by a window, Mei, wearing her colorful, light pink robe, crouches down, attending to something hidden underneath the table."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "With her back to the camera, Mei, wearing a colorful, light pink robe and the round-framed glasses, walks slowly through The Sunlit Parlor. She moves past the vintage fringe lamp and the bouquet of flowers, which are placed near the large geometric pattern window.",
+        "Medium shot inside The Sunlit Parlor. In the foreground is a table, covered with the large red tablecloth, and an empty chair. In the background by a window, Mei, wearing her colorful, light pink robe, crouches down, attending to something hidden underneath the table."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "the ceramic vase with colorful flowers: Brightly-colored ceramic vase containing a bouquet of red, yellow, pink, and purple flowers mixed with green foliage.\n\nMedium shot in The Chairman's Office, where Lin and Hae-won stand facing each other near the ceramic vase with colorful flowers. Hae-won, wearing the round-framed glasses, looks up at Lin and smiles faintly.",
+        "the gilded photo frame: Ornate gilded picture holder containing a photograph of a man wearing a tunic.\nthe polished bronze urn: Large, wide-bodied urn with a polished bronze-colored metallic surface, a short, tapering neck, and a flared rim.\nthe polished ivory tusk: Large, curved, ivory-colored tusk with a polished surface, faint longitudinal grain lines, and a blunted, rounded tip.\n\nIn The Chairman's Office, Hae-won carefully arranges several items on the ornate red tablecloth. She places the gilded photo frame in the center, then positions the polished ivory tusk to its left and the polished bronze urn directly behind it.",
+        "the vintage rotary telephones: Multiple vintage rotary telephones with glossy black Bakelite bodies, circular dials with finger holes, and classic handsets connected by coiled fabric cords.\nthe ornate vintage window: Large, ornate, vintage-style window with multiple glass panes and dark wood casing.\n\nIn The Chairman's Office, Lin, wearing the dark high-collared suit jacket, and Kenji, wearing the black shirt, walk into the room, with the ornate vintage window visible. Hae-won, who was sitting with her back to the door at the large desk with a red tablecloth and the vintage rotary telephones, turns in her chair to face them. Mei stands beside the desk, turning to watch the men approach."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Chairman's Office, where Lin and Hae-won stand facing each other near the ceramic vase with colorful flowers. Hae-won, wearing the round-framed glasses, looks up at Lin and smiles faintly.",
+        "In The Chairman's Office, Hae-won carefully arranges several items on the ornate red tablecloth. She places the gilded photo frame in the center, then positions the polished ivory tusk to its left and the polished bronze urn directly behind it.",
+        "In The Chairman's Office, Lin, wearing the dark high-collared suit jacket, and Kenji, wearing the black shirt, walk into the room, with the ornate vintage window visible. Hae-won, who was sitting with her back to the door at the large desk with a red tablecloth and the vintage rotary telephones, turns in her chair to face them. Mei stands beside the desk, turning to watch the men approach."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Lin"
+      ],
+      "places": [
+        "The Sunlit Parlor"
+      ],
+      "objects": [
+        "the dark blue zhongshan suit",
+        "the blue collared shirt",
+        "the geometric lattice window screen"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Hae-won",
+        "Lin"
+      ],
+      "places": [
+        "The Tea Room"
+      ],
+      "objects": [
+        "the green and yellow hanbok",
+        "the wooden folding screen"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Lin",
+        "Hae-won",
+        "Mei"
+      ],
+      "places": [
+        "The Serene Bedroom"
+      ],
+      "objects": [
+        "the shoji sliding door"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Sheng"
+      ],
+      "places": [
+        "The Serene Bedroom"
+      ],
+      "objects": []
+    },
+    "4:2": {
+      "characters": [
+        "Sheng"
+      ],
+      "places": [
+        "The Serene Bedroom"
+      ],
+      "objects": []
+    },
+    "5:1": {
+      "characters": [
+        "Hae-won",
+        "Kenji"
+      ],
+      "places": [
+        "The Chairman's Office"
+      ],
+      "objects": [
+        "the ornate wooden double doors",
+        "the large desk with a red tablecloth"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Lin"
+      ],
+      "places": [
+        "The Chairman's Office"
+      ],
+      "objects": [
+        "the stained glass tiffany lamp",
+        "the framed black and white photograph"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Mei"
+      ],
+      "places": [
+        "The Sunlit Parlor"
+      ],
+      "objects": [
+        "the round-framed glasses",
+        "the vintage fringe lamp",
+        "the large geometric pattern window",
+        "the bouquet of flowers"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Mei"
+      ],
+      "places": [
+        "The Sunlit Parlor"
+      ],
+      "objects": [
+        "the large red tablecloth"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Lin",
+        "Hae-won"
+      ],
+      "places": [
+        "The Chairman's Office"
+      ],
+      "objects": [
+        "the round-framed glasses",
+        "the ceramic vase with colorful flowers"
+      ]
+    },
+    "7:2": {
+      "characters": [
+        "Hae-won"
+      ],
+      "places": [
+        "The Chairman's Office"
+      ],
+      "objects": [
+        "the ornate red tablecloth",
+        "the gilded photo frame",
+        "the polished bronze urn",
+        "the polished ivory tusk"
+      ]
+    },
+    "7:3": {
+      "characters": [
+        "Hae-won",
+        "Lin",
+        "Mei",
+        "Kenji"
+      ],
+      "places": [
+        "The Chairman's Office"
+      ],
+      "objects": [
+        "the dark high-collared suit jacket",
+        "the large desk with a red tablecloth",
+        "the vintage rotary telephones",
+        "the ornate vintage window"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Lin",
+      "label": "Character 1",
+      "description": "Middle-aged man with short, dark hair, wearing a blue collared shirt and a dark blue Zhongshan suit jacket."
+    },
+    "Character 2": {
+      "name": "Hae-won",
+      "label": "Character 2",
+      "description": "Woman with dark hair tied back, wearing glasses and a long beige coat over a Traditional Green and Yellow Outfit."
+    },
+    "Character 3": {
+      "name": "Kenji",
+      "label": "Character 3",
+      "description": "Man wearing a black shirt."
+    },
+    "Character 4": {
+      "name": "Mei",
+      "label": "Character 4",
+      "description": "Woman wearing glasses and a colorful, light pink robe."
+    },
+    "Character 5": {
+      "name": "Sheng",
+      "label": "Character 5",
+      "description": "Man wearing a brown jacket layered over a white collared shirt."
+    },
+    "Location 1": {
+      "name": "The Tea Room",
+      "label": "Location 1",
+      "description": "An indoor setting featuring a wooden screen."
+    },
+    "Location 2": {
+      "name": "The Serene Bedroom",
+      "label": "Location 2",
+      "description": "Traditionally decorated bedroom with a wooden sliding door."
+    },
+    "Location 3": {
+      "name": "The Chairman's Office",
+      "label": "Location 3",
+      "description": "Formal, vintage-style, ornate office with wood-paneled walls, a large wooden double door, and a large wooden desk covered by a red patterned tablecloth and various antique items."
+    },
+    "Location 4": {
+      "name": "The Sunlit Parlor",
+      "label": "Location 4",
+      "description": "Ornate residence living room interior with a geometric-patterned window, furnished with a vintage lamp and a bouquet of flowers."
+    },
+    "Object 1": {
+      "name": "the dark blue zhongshan suit",
+      "label": "Object 1",
+      "description": "Dark blue, high-collared Zhongshan suit"
+    },
+    "Object 2": {
+      "name": "the blue collared shirt",
+      "label": "Object 2",
+      "description": "Long-sleeved blue button-up dress shirt with a pointed collar and cuffs"
+    },
+    "Object 3": {
+      "name": "the green and yellow hanbok",
+      "label": "Object 3",
+      "description": "A traditional Korean hanbok consisting of a voluminous, floor-length emerald green silk skirt (chima) and a short, wrap-style canary yellow silk jacket (jeogori) tied with a long green ribbon, with delicate floral embroidery on the cuffs."
+    },
+    "Object 4": {
+      "name": "the wooden folding screen",
+      "label": "Object 4",
+      "description": "Multi-paneled decorative folding screen made from dark, polished wood, featuring intricate geometric lattice work on the upper portion of each panel above solid lower sections."
+    },
+    "Object 5": {
+      "name": "the geometric lattice window screen",
+      "label": "Object 5",
+      "description": "Dark wood window screen featuring an intricate, interlocking geometric lattice pattern."
+    },
+    "Object 6": {
+      "name": "the shoji sliding door",
+      "label": "Object 6",
+      "description": "Traditional Japanese-style shoji sliding door with light-colored wooden latticework and translucent white paper panels."
+    },
+    "Object 7": {
+      "name": "the pink and blue silk robe",
+      "label": "Object 7",
+      "description": "A woman's traditional multi-layered silk ensemble consisting of a short, vibrant pink jacket with wide sleeves over a long, flowing bright blue skirt, featuring an ornately embroidered floral chest panel in gold and green thread and a wide white sash tied in a bow"
+    },
+    "Object 8": {
+      "name": "the large desk with a red tablecloth",
+      "label": "Object 8",
+      "description": "Large, long, dark wooden desk covered by a red patterned tablecloth."
+    },
+    "Object 9": {
+      "name": "the ornate red tablecloth",
+      "label": "Object 9",
+      "description": "Red fabric tablecloth with an ornate, repeating pattern woven into the material"
+    },
+    "Object 10": {
+      "name": "the ornate wooden double doors",
+      "label": "Object 10",
+      "description": "Large, ornate wooden double doors with a dark, polished finish, raised panels, and intricate carvings."
+    },
+    "Object 11": {
+      "name": "the stained glass tiffany lamp",
+      "label": "Object 11",
+      "description": "Tiffany-style table lamp with a dome-shaped shade made of multicolored stained glass in a floral pattern, set on an ornate, patinated bronze base."
+    },
+    "Object 12": {
+      "name": "the framed black and white photograph",
+      "label": "Object 12",
+      "description": "Framed, black and white photograph of a man"
+    },
+    "Object 13": {
+      "name": "the beige jacket with a scalloped collar",
+      "label": "Object 13",
+      "description": "Woman's beige jacket featuring a light pink scalloped collar"
+    },
+    "Object 14": {
+      "name": "the round-framed glasses",
+      "label": "Object 14",
+      "description": "A pair of round-framed glasses"
+    },
+    "Object 15": {
+      "name": "the large geometric pattern window",
+      "label": "Object 15",
+      "description": "A large window featuring an intricate geometric pattern created by dark mullions separating numerous clear glass panes."
+    },
+    "Object 16": {
+      "name": "the bouquet of flowers",
+      "label": "Object 16",
+      "description": "Bouquet of flowers"
+    },
+    "Object 17": {
+      "name": "the vintage fringe lamp",
+      "label": "Object 17",
+      "description": "Vintage table lamp with an ornate, dark bronze cast-metal base featuring leaf-like scrollwork, and a wide, bell-shaped fabric shade in a dusty rose color with a short fringe of tassels along the bottom edge."
+    },
+    "Object 18": {
+      "name": "the large red tablecloth",
+      "label": "Object 18",
+      "description": "Large red tablecloth"
+    },
+    "Object 19": {
+      "name": "the ceramic vase with colorful flowers",
+      "label": "Object 19",
+      "description": "Brightly-colored ceramic vase containing a bouquet of red, yellow, pink, and purple flowers mixed with green foliage."
+    },
+    "Object 20": {
+      "name": "the gilded photo frame",
+      "label": "Object 20",
+      "description": "Ornate gilded picture holder containing a photograph of a man wearing a tunic."
+    },
+    "Object 21": {
+      "name": "the polished ivory tusk",
+      "label": "Object 21",
+      "description": "Large, curved, ivory-colored tusk with a polished surface, faint longitudinal grain lines, and a blunted, rounded tip."
+    },
+    "Object 22": {
+      "name": "the polished bronze urn",
+      "label": "Object 22",
+      "description": "Large, wide-bodied urn with a polished bronze-colored metallic surface, a short, tapering neck, and a flared rim."
+    },
+    "Object 23": {
+      "name": "the vintage rotary telephones",
+      "label": "Object 23",
+      "description": "Multiple vintage rotary telephones with glossy black Bakelite bodies, circular dials with finger holes, and classic handsets connected by coiled fabric cords."
+    },
+    "Object 24": {
+      "name": "the ornate vintage window",
+      "label": "Object 24",
+      "description": "Large, ornate, vintage-style window with multiple glass panes and dark wood casing."
+    },
+    "Object 25": {
+      "name": "the dark high-collared suit jacket",
+      "label": "Object 25",
+      "description": "Man's dark suit with a high-collared jacket"
+    },
+    "Object 26": {
+      "name": "the tan two-piece suit",
+      "label": "Object 26",
+      "description": "Men's two-piece suit, consisting of a jacket and matching trousers, in a solid tan color"
+    }
+  },
+  "_window_shot_ids": [
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0005",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0006",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0007",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0008",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0009",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0011",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0012",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0013",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0014",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0015",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0016",
+    "000b7408-a902-3626-a937-4762c25e8826__run1352__i50_j63__T180__shot0017"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Lin",
+    "Character 2": "Hae-won",
+    "Character 3": "Kenji",
+    "Character 4": "Mei",
+    "Character 5": "Sheng",
+    "Location 1": "The Tea Room",
+    "Location 2": "The Serene Bedroom",
+    "Location 3": "The Chairman's Office",
+    "Location 4": "The Sunlit Parlor",
+    "Object 1": "the dark blue zhongshan suit",
+    "Object 10": "the ornate wooden double doors",
+    "Object 11": "the stained glass tiffany lamp",
+    "Object 12": "the framed black and white photograph",
+    "Object 13": "the beige jacket with a scalloped collar",
+    "Object 14": "the round-framed glasses",
+    "Object 15": "the large geometric pattern window",
+    "Object 16": "the bouquet of flowers",
+    "Object 17": "the vintage fringe lamp",
+    "Object 18": "the large red tablecloth",
+    "Object 19": "the ceramic vase with colorful flowers",
+    "Object 2": "the blue collared shirt",
+    "Object 20": "the gilded photo frame",
+    "Object 21": "the polished ivory tusk",
+    "Object 22": "the polished bronze urn",
+    "Object 23": "the vintage rotary telephones",
+    "Object 24": "the ornate vintage window",
+    "Object 25": "the dark high-collared suit jacket",
+    "Object 26": "the tan two-piece suit",
+    "Object 3": "the green and yellow hanbok",
+    "Object 4": "the wooden folding screen",
+    "Object 5": "the geometric lattice window screen",
+    "Object 6": "the shoji sliding door",
+    "Object 7": "the pink and blue silk robe",
+    "Object 8": "the large desk with a red tablecloth",
+    "Object 9": "the ornate red tablecloth"
+  }
+}

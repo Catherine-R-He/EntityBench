@@ -1,0 +1,357 @@
+{
+  "story_name": "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240",
+  "story_overview": "A conflict erupts between superpowered individuals in a ruined city. In a detention block, Ryota attacks Goro and Rhea with blue lightning. The battle spills out into the streets, where Rogan unleashes red energy from his eyes, and Rhea battles Kai with lightning powers as Kael and Marcus look on.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Goro: Large, monstrous creature with grey skin, brown hair, and prominent tusks protruding from its lower jaw.\nRhea: Athletic woman with short white hair wearing a white and black crop top and a red garment tied around her waist.\nRyota: Muscular man with a cybernetic eye and a tattoo on his left arm, wearing a black tactical suit and gear.\nThe Detention Block: A tiered, indoor, prison-like room.\nthe blue lightning charge: A glowing, crackling mass of jagged blue electrical arcs and tendrils.\n\nIn The Detention Block, Goro and Rhea are struck and engulfed by the blue lightning charge, crying out in pain as they collapse to the floor. Ryota stands nearby, watching them collapse."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Detention Block, Goro and Rhea are struck and engulfed by the blue lightning charge, crying out in pain as they collapse to the floor. Ryota stands nearby, watching them collapse."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Marcus: Man with brown hair wearing a dark, form-fitting black tactical suit and gear, with a grey mask covering his nose and mouth.\nThe Collapsed Factory: Vast, cavernous, and ruined indoor industrial complex filled with large piles of rubble and debris, featuring at least one large opening in the structure.\n\nInside The Collapsed Factory, Marcus breathes slowly, holding a determined, ready stance as the blue lightning charge floats and sparks around his body.",
+        "Kai: A man in a full dark navy blue tactical suit and gear, with a black tactical vest, and a gray visor cap.\n\nFrom a low angle in The Collapsed Factory, Marcus executes an acrobatic flip in mid-air. In the background, Kai and Ryota track his movement from an elevated concrete ledge."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Collapsed Factory, Marcus breathes slowly, holding a determined, ready stance as the blue lightning charge floats and sparks around his body.",
+        "From a low angle in The Collapsed Factory, Marcus executes an acrobatic flip in mid-air. In the background, Kai and Ryota track his movement from an elevated concrete ledge."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Rogan: Large, muscular man with blue-grey skin and white hair, wearing a white tank top and red suspenders.\nThe Fractal Room: An interior space featuring geometric patterns and shapes.\nIn the dimly lit The Fractal Room, Rogan has a serious expression as he turns his head to look back over his shoulder."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Fractal Room, Rogan has a serious expression as he turns his head to look back over his shoulder."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Shadow Complex: A multi-level indoor space with a dark color palette and generic, non-descript architectural features.\n\nIn The Shadow Complex, Ryota grimaces with exertion, the cybernetic eye glowing, as the blue lightning charge surges around his body. Rogan watches from the background with a tense expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Shadow Complex, Ryota grimaces with exertion, the cybernetic eye glowing, as the blue lightning charge surges around his body. Rogan watches from the background with a tense expression."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Kael: Man with blue skin and spiky white hair.\nthe animated tech suit: Dark blue and black suit with blue accents.\n\nAnimated shot. Inside The Collapsed Factory at night, Kael, wearing the animated tech suit, crouches on the floor as the blue lightning charge crackles and forms in his outstretched hand.",
+        "Rogan smirks as tendrils of the blue lightning charge crackle around his face, the blue electrical energy flowing down over his shoulders and chest. Marcus watches from the background, shifting his weight slightly."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Animated shot. Inside The Collapsed Factory at night, Kael, wearing the animated tech suit, crouches on the floor as the blue lightning charge crackles and forms in his outstretched hand.",
+        "Rogan smirks as tendrils of the blue lightning charge crackle around his face, the blue electrical energy flowing down over his shoulders and chest. Marcus watches from the background, shifting his weight slightly."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Ruined Street: A destroyed urban streetscape with damaged concrete buildings, shattered windows, and a road littered with rubble, debris, broken glass, and a blue motorcycle among the wreckage.\nthe red energy blast: A brilliant red, fiery blast of crackling energy with a fluctuating glow.\nClose-up on the face of Goro grimacing angrily as the red energy blast flashes in front of him. Then, two blasts of red energy slam into the facade of a building in The Ruined Street, causing explosions.",
+        "In The Ruined Street at night, Marcus runs past a damaged building with a determined expression. A powerful beam of the red energy blast strikes Marcus in the shoulder, causing a bright impact flash. Nearby, Kai reacts to the blast, turning towards Marcus in alarm.",
+        "the plain black shorts: A pair of large, plain black shorts\n\nFrom a low angle, Rogan, wearing his white tank top, red suspenders, and the plain black shorts, is crouched in front of a dark building within The Ruined Street, snarling as he fires powerful beams of the red energy blast from his eyes.",
+        "the full-body combat armor: Matte black full-body tactical suit featuring a hard-shell helmet with a dark visor, a segmented plate carrier vest with multiple utility pouches, and reinforced pads over dark fatigues\n\nAt night in The Ruined Street, Rhea unleashes a crackling blast of the blue lightning charge from her hands toward Kai. Kai swiftly dodges to the side to avoid the energy attack as Kael, wearing the full-body combat armor, stands amidst the rubble, his head turning slightly to follow the action."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on the face of Goro grimacing angrily as the red energy blast flashes in front of him. Then, two blasts of red energy slam into the facade of a building in The Ruined Street, causing explosions.",
+        "In The Ruined Street at night, Marcus runs past a damaged building with a determined expression. A powerful beam of the red energy blast strikes Marcus in the shoulder, causing a bright impact flash. Nearby, Kai reacts to the blast, turning towards Marcus in alarm.",
+        "From a low angle, Rogan, wearing his white tank top, red suspenders, and the plain black shorts, is crouched in front of a dark building within The Ruined Street, snarling as he fires powerful beams of the red energy blast from his eyes.",
+        "At night in The Ruined Street, Rhea unleashes a crackling blast of the blue lightning charge from her hands toward Kai. Kai swiftly dodges to the side to avoid the energy attack as Kael, wearing the full-body combat armor, stands amidst the rubble, his head turning slightly to follow the action."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Goro",
+        "Rhea",
+        "Ryota"
+      ],
+      "places": [
+        "The Detention Block"
+      ],
+      "objects": [
+        "the blue lightning charge"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Collapsed Factory"
+      ],
+      "objects": [
+        "the blue lightning charge"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Kai",
+        "Marcus",
+        "Ryota"
+      ],
+      "places": [
+        "The Collapsed Factory"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Rogan"
+      ],
+      "places": [
+        "The Fractal Room"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Rogan",
+        "Ryota"
+      ],
+      "places": [
+        "The Shadow Complex"
+      ],
+      "objects": [
+        "the cybernetic eye",
+        "the blue lightning charge"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Kael"
+      ],
+      "places": [
+        "The Collapsed Factory"
+      ],
+      "objects": [
+        "the animated tech suit",
+        "the blue lightning charge"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Marcus",
+        "Rogan"
+      ],
+      "places": [],
+      "objects": [
+        "the blue lightning charge"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Goro"
+      ],
+      "places": [
+        "The Ruined Street"
+      ],
+      "objects": [
+        "the red energy blast"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Kai",
+        "Marcus"
+      ],
+      "places": [
+        "The Ruined Street"
+      ],
+      "objects": [
+        "the red energy blast"
+      ]
+    },
+    "6:3": {
+      "characters": [
+        "Rogan"
+      ],
+      "places": [
+        "The Ruined Street"
+      ],
+      "objects": [
+        "the red energy blast",
+        "the plain black shorts"
+      ]
+    },
+    "6:4": {
+      "characters": [
+        "Kai",
+        "Rhea",
+        "Kael"
+      ],
+      "places": [
+        "The Ruined Street"
+      ],
+      "objects": [
+        "the blue lightning charge",
+        "the full-body combat armor"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Kael",
+      "label": "Character 1",
+      "description": "Man with blue skin and spiky white hair."
+    },
+    "Character 2": {
+      "name": "Rogan",
+      "label": "Character 2",
+      "description": "Large, muscular man with blue-grey skin and white hair, wearing a white tank top and red suspenders."
+    },
+    "Character 3": {
+      "name": "Kai",
+      "label": "Character 3",
+      "description": "A man in a full dark navy blue tactical suit and gear, with a black tactical vest, and a gray visor cap."
+    },
+    "Character 4": {
+      "name": "Goro",
+      "label": "Character 4",
+      "description": "Large, monstrous creature with grey skin, brown hair, and prominent tusks protruding from its lower jaw."
+    },
+    "Character 5": {
+      "name": "Ryota",
+      "label": "Character 5",
+      "description": "Muscular man with a cybernetic eye and a tattoo on his left arm, wearing a black tactical suit and gear."
+    },
+    "Character 7": {
+      "name": "Marcus",
+      "label": "Character 7",
+      "description": "Man with brown hair wearing a dark, form-fitting black tactical suit and gear, with a grey mask covering his nose and mouth."
+    },
+    "Character 8": {
+      "name": "Rhea",
+      "label": "Character 8",
+      "description": "Athletic woman with short white hair wearing a white and black crop top and a red garment tied around her waist."
+    },
+    "Location 1": {
+      "name": "The Ruined Street",
+      "label": "Location 1",
+      "description": "A destroyed urban streetscape with damaged concrete buildings, shattered windows, and a road littered with rubble, debris, broken glass, and a blue motorcycle among the wreckage."
+    },
+    "Location 2": {
+      "name": "The Collapsed Factory",
+      "label": "Location 2",
+      "description": "Vast, cavernous, and ruined indoor industrial complex filled with large piles of rubble and debris, featuring at least one large opening in the structure."
+    },
+    "Location 3": {
+      "name": "The Shadow Complex",
+      "label": "Location 3",
+      "description": "A multi-level indoor space with a dark color palette and generic, non-descript architectural features."
+    },
+    "Location 4": {
+      "name": "The Detention Block",
+      "label": "Location 4",
+      "description": "A tiered, indoor, prison-like room."
+    },
+    "Location 5": {
+      "name": "The Fractal Room",
+      "label": "Location 5",
+      "description": "An interior space featuring geometric patterns and shapes."
+    },
+    "Object 1": {
+      "name": "the full-body combat armor",
+      "label": "Object 1",
+      "description": "Matte black full-body tactical suit featuring a hard-shell helmet with a dark visor, a segmented plate carrier vest with multiple utility pouches, and reinforced pads over dark fatigues"
+    },
+    "Object 2": {
+      "name": "the blue lightning charge",
+      "label": "Object 2",
+      "description": "A glowing, crackling mass of jagged blue electrical arcs and tendrils."
+    },
+    "Object 3": {
+      "name": "the dark superhero suit",
+      "label": "Object 3",
+      "description": "A dark, full-body superhero suit with a matching mask"
+    },
+    "Object 4": {
+      "name": "the cybernetic eye",
+      "label": "Object 4",
+      "description": "Cybernetic eye implant with a metallic, segmented casing around a glowing blue iris and a black, camera-like pupil"
+    },
+    "Object 5": {
+      "name": "the animated tech suit",
+      "label": "Object 5",
+      "description": "Dark blue and black suit with blue accents."
+    },
+    "Object 6": {
+      "name": "the red energy blast",
+      "label": "Object 6",
+      "description": "A brilliant red, fiery blast of crackling energy with a fluctuating glow."
+    },
+    "Object 7": {
+      "name": "the plain black shorts",
+      "label": "Object 7",
+      "description": "A pair of large, plain black shorts"
+    }
+  },
+  "_window_shot_ids": [
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0034",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0035",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0036",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0037",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0038",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0039",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0040",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0041",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0042",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0043",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i75_j93__T240__shot0044"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Kael",
+    "Character 2": "Rogan",
+    "Character 3": "Kai",
+    "Character 4": "Goro",
+    "Character 5": "Ryota",
+    "Character 6": "Silas",
+    "Character 7": "Marcus",
+    "Character 8": "Rhea",
+    "Location 1": "The Ruined Street",
+    "Location 2": "The Collapsed Factory",
+    "Location 3": "The Shadow Complex",
+    "Location 4": "The Detention Block",
+    "Location 5": "The Fractal Room",
+    "Object 1": "the full-body combat armor",
+    "Object 2": "the blue lightning charge",
+    "Object 3": "the dark superhero suit",
+    "Object 4": "the cybernetic eye",
+    "Object 5": "the animated tech suit",
+    "Object 6": "the red energy blast",
+    "Object 7": "the plain black shorts"
+  }
+}

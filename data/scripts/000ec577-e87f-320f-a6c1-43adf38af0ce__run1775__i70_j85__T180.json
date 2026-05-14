@@ -1,0 +1,412 @@
+{
+  "story_name": "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180",
+  "story_overview": "In a series of interviews and tense conversations, the relationships between a group of individuals unravel. Dominic reacts with shock to a revelation, while Nora and Isabelle give their accounts. Alex listens from the sidelines, and Chloe expresses her concern as the full story comes to light.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Dominic: Man with dark hair and blue eyes, wearing a dark suit jacket over a blue collared shirt and a patterned tie.\nChloe: Woman with long blonde hair, wearing a green headband.\nThe Interview Room: Indoor interview setting with a paneled wall.\n\nEye-level close-up of Dominic, wearing his dark suit jacket over the blue collared shirt, in The Interview Room. His expression changes to one of shock as he looks at Chloe, his eyes widening and his mouth falling slightly agape."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Eye-level close-up of Dominic, wearing his dark suit jacket over the blue collared shirt, in The Interview Room. His expression changes to one of shock as he looks at Chloe, his eyes widening and his mouth falling slightly agape."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Nora: Woman with short brown hair and bangs, wearing a dark jacket over a teal V-neck top.\nthe professional cinema camera: Professional digital cinema camera with a matte black, boxy main body, a large cylindrical lens with a square matte box on the front, numerous buttons and dials on the side panels, and a top-mounted handle.\nClose-up shot of Nora, wearing the teal v-neck top, in The Interview Room. She looks directly into the lens of the professional cinema camera as she speaks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot of Nora, wearing the teal v-neck top, in The Interview Room. She looks directly into the lens of the professional cinema camera as she speaks."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Isabelle: Woman with dark hair pulled back, wearing a maroon sweater over a pink collared shirt and a small cross necklace.\nThe Brick Loft: Indoor setting with a brick wall and window blinds.\nthe horizontal window blinds: A set of horizontal window blinds with thin, parallel slats.\nClose-up shot of Isabelle, wearing the pink collared shirt and the small cross necklace, in The Brick Loft, with the horizontal window blinds in the background. She looks slightly off-camera at Nora and smiles as she speaks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot of Isabelle, wearing the pink collared shirt and the small cross necklace, in The Brick Loft, with the horizontal window blinds in the background. She looks slightly off-camera at Nora and smiles as she speaks."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Close-up of Nora, wearing the teal v-neck top, in The Interview Room. She looks slightly off-camera and speaks earnestly, as if answering a question during an interview."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Nora, wearing the teal v-neck top, in The Interview Room. She looks slightly off-camera and speaks earnestly, as if answering a question during an interview."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Alex: Person of medium build with short, curly black hair, wearing a light-colored collared shirt and dark trousers.\nThe Modern Foyer: Modern indoor entryway with neutral-colored walls, a polished light-colored floor, a simple wooden bench, and a coat rack on the wall.\n\nMedium shot in The Modern Foyer. Alex stands in the foreground with their back to the camera, listening as Dominic, wearing the dark suit, gestures while speaking to Isabelle, who smiles and nods in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Modern Foyer. Alex stands in the foreground with their back to the camera, listening as Dominic, wearing the dark suit, gestures while speaking to Isabelle, who smiles and nods in the background."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Riley: Person of indeterminate gender with shoulder-length reddish-brown hair, wearing a dark professional suit.\n\nMedium shot in The Brick Loft. Nora stands in a doorway, talking pleasantly to Riley, who has their back to the camera. In the background, Dominic walks past."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Brick Loft. Nora stands in a doorway, talking pleasantly to Riley, who has their back to the camera. In the background, Dominic walks past."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Striped Backdrop: Indoor interview setting featuring a backdrop with a pattern of vertical stripes in a warm-toned color palette.\n\nNora speaks during an interview in The Striped Backdrop."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Nora speaks during an interview in The Striped Backdrop."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Close-up on Isabelle, wearing the maroon sweater, in The Brick Loft, backlit by light filtering through the horizontal window blinds. A slight, knowing smile forms on her face. Dominic stands in the background, slightly out of focus, watching her."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Isabelle, wearing the maroon sweater, in The Brick Loft, backlit by light filtering through the horizontal window blinds. A slight, knowing smile forms on her face. Dominic stands in the background, slightly out of focus, watching her."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "The University Library: Library interior with study tables and chairs, set among tall bookshelves filled with books.\nthe large library table: Large, rectangular library table made of dark wood with a polished, slightly worn surface and four thick, square legs.\n\nMedium shot in The University Library. In the foreground, Dominic stands out-of-focus, shifting slightly. In the background, Alex looks up from the large library table as Nora walks over and sits down in a chair across from them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The University Library. In the foreground, Dominic stands out-of-focus, shifting slightly. In the background, Alex looks up from the large library table as Nora walks over and sits down in a chair across from them."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "The Empty Room: Nondescript indoor setting.\n\nClose-up of Alex speaking with a concerned expression inside The Empty Room."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Alex speaking with a concerned expression inside The Empty Room."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "The Meeting Space: Indoor conversation setting.\n\nClose-up in The Meeting Space. Nora, with a sad expression on her face, talks to Dominic, whose back is turned to the camera. Chloe stands next to Dominic, listening intently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up in The Meeting Space. Nora, with a sad expression on her face, talks to Dominic, whose back is turned to the camera. Chloe stands next to Dominic, listening intently."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Dominic",
+        "Chloe"
+      ],
+      "places": [
+        "The Interview Room"
+      ],
+      "objects": [
+        "the blue collared shirt"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Nora"
+      ],
+      "places": [
+        "The Interview Room"
+      ],
+      "objects": [
+        "the professional cinema camera",
+        "the teal v-neck top"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Nora",
+        "Isabelle"
+      ],
+      "places": [
+        "The Brick Loft"
+      ],
+      "objects": [
+        "the pink collared shirt",
+        "the small cross necklace",
+        "the horizontal window blinds"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Nora"
+      ],
+      "places": [
+        "The Interview Room"
+      ],
+      "objects": [
+        "the teal v-neck top"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Alex",
+        "Isabelle",
+        "Dominic"
+      ],
+      "places": [
+        "The Modern Foyer"
+      ],
+      "objects": [
+        "the dark suit"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Dominic",
+        "Nora",
+        "Riley"
+      ],
+      "places": [
+        "The Brick Loft"
+      ],
+      "objects": []
+    },
+    "7:1": {
+      "characters": [
+        "Nora"
+      ],
+      "places": [
+        "The Striped Backdrop"
+      ],
+      "objects": []
+    },
+    "8:1": {
+      "characters": [
+        "Isabelle",
+        "Dominic"
+      ],
+      "places": [
+        "The Brick Loft"
+      ],
+      "objects": [
+        "the horizontal window blinds"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Nora",
+        "Alex",
+        "Dominic"
+      ],
+      "places": [
+        "The University Library"
+      ],
+      "objects": [
+        "the large library table"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The Empty Room"
+      ],
+      "objects": []
+    },
+    "11:1": {
+      "characters": [
+        "Nora",
+        "Dominic",
+        "Chloe"
+      ],
+      "places": [
+        "The Meeting Space"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Dominic",
+      "label": "Character 1",
+      "description": "Man with dark hair and blue eyes, wearing a dark suit jacket over a blue collared shirt and a patterned tie."
+    },
+    "Character 2": {
+      "name": "Chloe",
+      "label": "Character 2",
+      "description": "Woman with long blonde hair, wearing a green headband."
+    },
+    "Character 3": {
+      "name": "Isabelle",
+      "label": "Character 3",
+      "description": "Woman with dark hair pulled back, wearing a maroon sweater over a pink collared shirt and a small cross necklace."
+    },
+    "Character 4": {
+      "name": "Nora",
+      "label": "Character 4",
+      "description": "Woman with short brown hair and bangs, wearing a dark jacket over a teal V-neck top."
+    },
+    "Character 5": {
+      "name": "Alex",
+      "label": "Character 5",
+      "description": "Person of medium build with short, curly black hair, wearing a light-colored collared shirt and dark trousers."
+    },
+    "Character 6": {
+      "name": "Riley",
+      "label": "Character 6",
+      "description": "Person of indeterminate gender with shoulder-length reddish-brown hair, wearing a dark professional suit."
+    },
+    "Location 1": {
+      "name": "The Interview Room",
+      "label": "Location 1",
+      "description": "Indoor interview setting with a paneled wall."
+    },
+    "Location 2": {
+      "name": "The Brick Loft",
+      "label": "Location 2",
+      "description": "Indoor setting with a brick wall and window blinds."
+    },
+    "Location 3": {
+      "name": "The Modern Foyer",
+      "label": "Location 3",
+      "description": "Modern indoor entryway with neutral-colored walls, a polished light-colored floor, a simple wooden bench, and a coat rack on the wall."
+    },
+    "Location 4": {
+      "name": "The Striped Backdrop",
+      "label": "Location 4",
+      "description": "Indoor interview setting featuring a backdrop with a pattern of vertical stripes in a warm-toned color palette."
+    },
+    "Location 5": {
+      "name": "The University Library",
+      "label": "Location 5",
+      "description": "Library interior with study tables and chairs, set among tall bookshelves filled with books."
+    },
+    "Location 6": {
+      "name": "The Empty Room",
+      "label": "Location 6",
+      "description": "Nondescript indoor setting."
+    },
+    "Location 7": {
+      "name": "The Meeting Space",
+      "label": "Location 7",
+      "description": "Indoor conversation setting."
+    },
+    "Object 1": {
+      "name": "the blue collared shirt",
+      "label": "Object 1",
+      "description": "A blue collared dress shirt"
+    },
+    "Object 2": {
+      "name": "the professional cinema camera",
+      "label": "Object 2",
+      "description": "Professional digital cinema camera with a matte black, boxy main body, a large cylindrical lens with a square matte box on the front, numerous buttons and dials on the side panels, and a top-mounted handle."
+    },
+    "Object 3": {
+      "name": "the teal v-neck top",
+      "label": "Object 3",
+      "description": "Teal V-neck top"
+    },
+    "Object 4": {
+      "name": "the horizontal window blinds",
+      "label": "Object 4",
+      "description": "A set of horizontal window blinds with thin, parallel slats."
+    },
+    "Object 5": {
+      "name": "the pink collared shirt",
+      "label": "Object 5",
+      "description": "Pink collared shirt"
+    },
+    "Object 6": {
+      "name": "the small cross necklace",
+      "label": "Object 6",
+      "description": "Delicate silver necklace with a fine chain and a small, plain, polished cross pendant"
+    },
+    "Object 7": {
+      "name": "the dark suit",
+      "label": "Object 7",
+      "description": "A man's dark charcoal gray, single-breasted suit"
+    },
+    "Object 8": {
+      "name": "the large library table",
+      "label": "Object 8",
+      "description": "Large, rectangular library table made of dark wood with a polished, slightly worn surface and four thick, square legs."
+    }
+  },
+  "_window_shot_ids": [
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0001",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0002",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0003",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0004",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0005",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0006",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0007",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0008",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0009",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0010",
+    "000ec577-e87f-320f-a6c1-43adf38af0ce__run1775__i70_j85__T180__shot0011"
+  ],
+  "_num_scenes": 11,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Dominic",
+    "Character 2": "Chloe",
+    "Character 3": "Isabelle",
+    "Character 4": "Nora",
+    "Character 5": "Alex",
+    "Character 6": "Riley",
+    "Location 1": "The Interview Room",
+    "Location 2": "The Brick Loft",
+    "Location 3": "The Modern Foyer",
+    "Location 4": "The Striped Backdrop",
+    "Location 5": "The University Library",
+    "Location 6": "The Empty Room",
+    "Location 7": "The Meeting Space",
+    "Object 1": "the blue collared shirt",
+    "Object 2": "the professional cinema camera",
+    "Object 3": "the teal v-neck top",
+    "Object 4": "the horizontal window blinds",
+    "Object 5": "the pink collared shirt",
+    "Object 6": "the small cross necklace",
+    "Object 7": "the dark suit",
+    "Object 8": "the large library table"
+  }
+}

@@ -1,0 +1,1111 @@
+{
+  "story_name": "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240",
+  "story_overview": "Inside The Sunken Warehouse, Isabel is held captive, bound in heavy chains over a water tank containing a shark. The villains, including Silas, Daichi, and Marco, taunt their prisoner, with Marco holding a mysterious red talisman. The conflict escalates, drawing in other characters like Ryota, Tetsuo, and Arthur across various locations like Sushi Alley and The Green Dragon Bar.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Isabel: Woman wearing a red suit jacket.\nSilas: Man with dark spiky hair and a goatee, wearing purple sunglasses, a dark suit, and a black tie.\nDaichi: Large character with black hair styled in a topknot and a mole on their cheek, wearing a red robe over a cream shirt.\nThe Sunken Warehouse: Large, flooded industrial warehouse interior with a prominent open water tank, thick heavy metal chains suspended from the ceiling above the tank, and a large shark in the water.\nthe heavy metal chains: Thick, heavy-gauge industrial chains composed of large, interlocking links of dull gray metal.\nthe industrial water tank: Large, open-topped, square water tank made of weathered, riveted dark gray metal panels with visible rust and water stains on its exterior.\nthe animated shark: Large gray animated shark.\n\nWide shot inside The Sunken Warehouse. Isabel is suspended in the air, bound in the heavy metal chains and dangling directly over the industrial water tank. Below, the animated shark circles in the water of the industrial water tank. To the side, Silas watches Isabel with a cold smirk while Daichi nonchalantly plays with the red octagonal talisman.",
+        "Marco: Man with a goatee, seen wearing either a black jacket and white pants or a green top and dark pants.\n\nInside the dark The Sunken Warehouse, Marco taunts Silas, who struggles against the heavy metal chains binding him. Marco grins as he holds up the red octagonal talisman.",
+        "Close-up in The Sunken Warehouse on the face of Isabel, who is bound by the heavy metal chains. Her expression shifts from worry to a confident, self-assured smile.",
+        "Ryota: Large man with black hair, wearing green, scaled shoulder armor, and a green dragon tattoo on his arm.\n\nLow-angle shot from inside The Sunken Warehouse. Marco stands in the center, flanked by Ryota and Silas. All three men look up toward the ceiling at a person suspended by their foot. Marco holds the red octagonal talisman in one hand and raises his index finger with the other, speaking.",
+        "Underwater shot from inside the industrial water tank in The Sunken Warehouse. Looking up from below, Marco drifts slowly just beneath the rippling, distorted surface of the water, his limbs moving slightly with the current.",
+        "the glowing energy web: Glowing blue, web-like energy field dotted with white foam.\n\nAnimation, worm's-eye view looking up inside the dark The Sunken Warehouse. Silas falls towards the camera, completely trapped within the glowing energy web."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Wide shot inside The Sunken Warehouse. Isabel is suspended in the air, bound in the heavy metal chains and dangling directly over the industrial water tank. Below, the animated shark circles in the water of the industrial water tank. To the side, Silas watches Isabel with a cold smirk while Daichi nonchalantly plays with the red octagonal talisman.",
+        "Inside the dark The Sunken Warehouse, Marco taunts Silas, who struggles against the heavy metal chains binding him. Marco grins as he holds up the red octagonal talisman.",
+        "Close-up in The Sunken Warehouse on the face of Isabel, who is bound by the heavy metal chains. Her expression shifts from worry to a confident, self-assured smile.",
+        "Low-angle shot from inside The Sunken Warehouse. Marco stands in the center, flanked by Ryota and Silas. All three men look up toward the ceiling at a person suspended by their foot. Marco holds the red octagonal talisman in one hand and raises his index finger with the other, speaking.",
+        "Underwater shot from inside the industrial water tank in The Sunken Warehouse. Looking up from below, Marco drifts slowly just beneath the rippling, distorted surface of the water, his limbs moving slightly with the current.",
+        "Animation, worm's-eye view looking up inside the dark The Sunken Warehouse. Silas falls towards the camera, completely trapped within the glowing energy web."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Red Door Room: A plain, dark gray indoor room with a red door.\n\nIn the foreground, Ryota looks thoughtful with a finger to his mouth, then suddenly points forward. Behind him, Silas leans forward slightly, watching intently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the foreground, Ryota looks thoughtful with a finger to his mouth, then suddenly points forward. Behind him, Silas leans forward slightly, watching intently."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Tetsuo: Large muscular man with a topknot hairstyle, wearing a suit, a white bandage on his forehead, and purple glasses\n\nClose-up in The Sunken Warehouse on Tetsuo, who is bound tightly by the heavy metal chains. He struggles against the heavy chains, his face strained with worry as he looks down.",
+        "From a solid black screen, Daichi slowly fades into view, turning their head to look directly forward with a stern expression."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up in The Sunken Warehouse on Tetsuo, who is bound tightly by the heavy metal chains. He struggles against the heavy chains, his face strained with worry as he looks down.",
+        "From a solid black screen, Daichi slowly fades into view, turning their head to look directly forward with a stern expression."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Sushi Alley: A city street/alleyway with the pink facade of a sushi restaurant featuring two yellow neon 'SUSHI' signs, and a dark green limousine on the street.\n\nWide shot at Sushi Alley. Ryota and another man stand talking in front of a pink sushi restaurant that has two yellow sushi signs. The dark green limousine is parked on the street nearby."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wide shot at Sushi Alley. Ryota and another man stand talking in front of a pink sushi restaurant that has two yellow sushi signs. The dark green limousine is parked on the street nearby."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Tetsuo and Ryota stand stiffly side-by-side in front of the red door, shifting their weight impatiently, their expressions annoyed."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Tetsuo and Ryota stand stiffly side-by-side in front of the red door, shifting their weight impatiently, their expressions annoyed."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Tetsuo hangs suspended in the heavy metal chains over the industrial water tank, struggling weakly. On one side of the tank, Silas observes with his arms crossed. Near him, Marco holds up the red octagonal talisman and gestures towards Tetsuo. On the other side of the tank, Ryota shifts his weight, his hands on his hips.",
+        "the shelves of bowls: Tall, gray metal industrial shelving units filled with neat stacks of plain white ceramic bowls.\n\nClose-up of Marco standing in The Sunken Warehouse. He smiles smugly as he talks and points directly forward. Behind him stands the shelves of bowls, its shelves stacked neatly with bowls.",
+        "Close-up on Marco inside The Sunken Warehouse. He smiles with satisfaction as he holds the red octagonal talisman up close to his face, admiring it."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Tetsuo hangs suspended in the heavy metal chains over the industrial water tank, struggling weakly. On one side of the tank, Silas observes with his arms crossed. Near him, Marco holds up the red octagonal talisman and gestures towards Tetsuo. On the other side of the tank, Ryota shifts his weight, his hands on his hips.",
+        "Close-up of Marco standing in The Sunken Warehouse. He smiles smugly as he talks and points directly forward. Behind him stands the shelves of bowls, its shelves stacked neatly with bowls.",
+        "Close-up on Marco inside The Sunken Warehouse. He smiles with satisfaction as he holds the red octagonal talisman up close to his face, admiring it."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Arthur: Elderly man with short, spiky grey hair and thin-rimmed glasses, wearing a bright orange vest over a non-descript shirt\n\nInside The Red Door Room, Arthur holds up and inspects the jeweled golden gauntlet. To his right, Isabel observes him with a serious expression, tilting her head slightly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Red Door Room, Arthur holds up and inspects the jeweled golden gauntlet. To his right, Isabel observes him with a serious expression, tilting her head slightly."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Inside The Sunken Warehouse, view from behind Silas as he slowly looks up. Daichi is suspended from the high ceiling, bound in the heavy metal chains, swaying slightly.",
+        "Marco and Ryota struggle weakly as they hang suspended in the air, bound by the heavy metal chains. In the foreground, Daichi watches them with his arms crossed, a slight sneer forming on his face. Silas observes from nearby, his gaze shifting between the captives, while Arthur steps forward from a background doorway, a look of concern on his face.",
+        "the tan sleeveless shirt: Form-fitting tan sleeveless shirt or vest.\n\nWide shot inside The Sunken Warehouse. A heavy-set man balances precariously on a thick metal chain suspended over the water. On a raised platform in the background, Tetsuo, wearing his suit, crosses his arms and watches the man on the chain. Another person stands partially out of frame on the left.",
+        "Three men, Marco, Ryota, and Silas, are grouped together. Marco stands in the center, his expression hardening. To his right, the large Ryota's eyes widen in surprise as he raises a hand to point forward. To Marco's left, Silas shifts his weight, glancing toward what Ryota is pointing at.",
+        "Medium shot inside The Sunken Warehouse. Arthur holds the ornate golden egg while arguing animatedly. Daichi stands opposite him with his arms crossed firmly over his chest, slowly shaking his head.",
+        "Daichi, standing between Isabel and Ryota with an angry expression, covers their ears with their hands and opens their mouth to yell. Beside them, Isabel points forward as Ryota's eyes widen in surprise.",
+        "Animated close-up inside The Sunken Warehouse, focusing on Silas, who grimaces angrily and bares his teeth. In the background, Marco, wearing his green top and dark pants, is speaking. The shot then reframes into a tighter close-up on Marco's face as he talks.",
+        "Close-up of Tetsuo, his eyes widening in shock as he struggles slightly against the heavy metal chains that bind him inside The Sunken Warehouse."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Sunken Warehouse, view from behind Silas as he slowly looks up. Daichi is suspended from the high ceiling, bound in the heavy metal chains, swaying slightly.",
+        "Marco and Ryota struggle weakly as they hang suspended in the air, bound by the heavy metal chains. In the foreground, Daichi watches them with his arms crossed, a slight sneer forming on his face. Silas observes from nearby, his gaze shifting between the captives, while Arthur steps forward from a background doorway, a look of concern on his face.",
+        "Wide shot inside The Sunken Warehouse. A heavy-set man balances precariously on a thick metal chain suspended over the water. On a raised platform in the background, Tetsuo, wearing his suit, crosses his arms and watches the man on the chain. Another person stands partially out of frame on the left.",
+        "Three men, Marco, Ryota, and Silas, are grouped together. Marco stands in the center, his expression hardening. To his right, the large Ryota's eyes widen in surprise as he raises a hand to point forward. To Marco's left, Silas shifts his weight, glancing toward what Ryota is pointing at.",
+        "Medium shot inside The Sunken Warehouse. Arthur holds the ornate golden egg while arguing animatedly. Daichi stands opposite him with his arms crossed firmly over his chest, slowly shaking his head.",
+        "Daichi, standing between Isabel and Ryota with an angry expression, covers their ears with their hands and opens their mouth to yell. Beside them, Isabel points forward as Ryota's eyes widen in surprise.",
+        "Animated close-up inside The Sunken Warehouse, focusing on Silas, who grimaces angrily and bares his teeth. In the background, Marco, wearing his green top and dark pants, is speaking. The shot then reframes into a tighter close-up on Marco's face as he talks.",
+        "Close-up of Tetsuo, his eyes widening in shock as he struggles slightly against the heavy metal chains that bind him inside The Sunken Warehouse."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "In The Box Storage, a frustrated Arthur replaces the ornate golden egg on a shelf. Isabel stands nearby, watching him with a concerned expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Box Storage, a frustrated Arthur replaces the ornate golden egg on a shelf. Isabel stands nearby, watching him with a concerned expression."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Medium shot inside The Sunken Warehouse. Marco, wearing a black jacket and white pants, stands between the stoic Silas and Ryota. Marco speaks, gesturing with his arms spread wide."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot inside The Sunken Warehouse. Marco, wearing a black jacket and white pants, stands between the stoic Silas and Ryota. Marco speaks, gesturing with his arms spread wide."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "In The Flooded Lab, a medium close-up shows Arthur getting into a martial arts pose. He has a serious and focused expression and is wearing thin-rimmed glasses and the orange utility vest."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Flooded Lab, a medium close-up shows Arthur getting into a martial arts pose. He has a serious and focused expression and is wearing thin-rimmed glasses and the orange utility vest."
+      ]
+    },
+    {
+      "scene_num": 12,
+      "video_prompts": [
+        "Daichi scowls and puffs out their cheeks in anger."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Daichi scowls and puffs out their cheeks in anger."
+      ]
+    },
+    {
+      "scene_num": 13,
+      "video_prompts": [
+        "In the cluttered storage room of The Box Storage, Isabel stands watching, her expression tense. With a furious expression, Daichi leaps forward through the air, landing with perfect balance on a thin metal railing on a shelf.",
+        "Waist-up shot inside The Box Storage, where Daichi stands with an angry expression. He holds his hands up in a threatening, claw-like gesture, and then his mouth opens slightly as he prepares to speak.",
+        "A rapid zoom-out shot begins with a close-up on the angry face of Daichi. The camera then pulls back to a full shot, revealing Daichi levitating in a fighting stance. The background is an abstract void of streaking blue light as if he is traveling at high speed."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In the cluttered storage room of The Box Storage, Isabel stands watching, her expression tense. With a furious expression, Daichi leaps forward through the air, landing with perfect balance on a thin metal railing on a shelf.",
+        "Waist-up shot inside The Box Storage, where Daichi stands with an angry expression. He holds his hands up in a threatening, claw-like gesture, and then his mouth opens slightly as he prepares to speak.",
+        "A rapid zoom-out shot begins with a close-up on the angry face of Daichi. The camera then pulls back to a full shot, revealing Daichi levitating in a fighting stance. The background is an abstract void of streaking blue light as if he is traveling at high speed."
+      ]
+    },
+    {
+      "scene_num": 14,
+      "video_prompts": [
+        "The Pipe Room: Interior room with damaged pipes on the ceiling.\n\nFrom a low angle, we see Daichi from behind. Silas drops into the frame from above with a determined expression, landing forcefully on Daichi's shoulders.",
+        "Low-angle view in The Pipe Room. Silas is on the floor, looking up as Tetsuo stands over him. Arthur hurries into the frame from the side, stopping near the other two.",
+        "High-angle close-up of Silas as he wakes up, wearing the purple animated suit and the black rectangular sunglasses. Lying on his back against a neutral grey floor, his mouth is open in a daze, then his eyes focus, and he starts to push himself into a sitting position with renewed alertness."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "From a low angle, we see Daichi from behind. Silas drops into the frame from above with a determined expression, landing forcefully on Daichi's shoulders.",
+        "Low-angle view in The Pipe Room. Silas is on the floor, looking up as Tetsuo stands over him. Arthur hurries into the frame from the side, stopping near the other two.",
+        "High-angle close-up of Silas as he wakes up, wearing the purple animated suit and the black rectangular sunglasses. Lying on his back against a neutral grey floor, his mouth is open in a daze, then his eyes focus, and he starts to push himself into a sitting position with renewed alertness."
+      ]
+    },
+    {
+      "scene_num": 15,
+      "video_prompts": [
+        "The Filing Room: Sterile, utilitarian office filing room with rows of grey metal filing cabinets, a speckled linoleum floor, beige walls, and overhead fluorescent light panels.\n\nIn The Filing Room, Silas lies splayed out on the floor in defeat, groaning softly. Isabel and Ryota stand over him. Isabel glares down at Silas, her expression contorting with anger."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Filing Room, Silas lies splayed out on the floor in defeat, groaning softly. Isabel and Ryota stand over him. Isabel glares down at Silas, her expression contorting with anger."
+      ]
+    },
+    {
+      "scene_num": 16,
+      "video_prompts": [
+        "Animated medium shot inside The Flooded Lab. Tetsuo stands with his hands on his hips and an annoyed expression on his face. He starts talking and gesturing emphatically at someone off-camera.",
+        "Close-up on the face of Ryota, his features contorted as if about to yell. Abruptly, a hand enters from off-screen and clamps firmly over his mouth, causing Ryota's eyes to widen in shock and muffled surprise.",
+        "Close-up on Arthur inside The Flooded Lab as he executes a rapid martial arts hand chop, with motion blur emphasizing the speed.",
+        "Animated close-up shot of Ryota, his jaw clenching as his intense, angry scowl deepens. He wears the green scale armor on his shoulders. The shot is against a solid black background.",
+        "Medium shot of Tetsuo, who shifts his weight in a martial arts fighting stance against a solid black background. He has a determined expression with his fists raised, wearing his purple glasses and the orange utility vest.",
+        "Animated extreme close-up on a piece of dark brown and blue-gray fabric. The fabric slowly ripples against a solid black background, and then the entire shot fades to black.",
+        "Marco falls backward against a black background. As Marco falls, his face comes into view, mouth wide open in a shocked expression.",
+        "Extreme close-up of Marco in a black jacket straining with effort. His eyes are squeezed shut and his mouth is open in a pained grimace, his face trembling from the exertion. A patch of green, scaly skin covers his shoulder.",
+        "Animated medium shot of Silas, wearing his purple sunglasses. He stands inside The Flooded Lab with a serious expression as he speaks, pointing first to his temple and then down towards the sole of his shoe."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Animated medium shot inside The Flooded Lab. Tetsuo stands with his hands on his hips and an annoyed expression on his face. He starts talking and gesturing emphatically at someone off-camera.",
+        "Close-up on the face of Ryota, his features contorted as if about to yell. Abruptly, a hand enters from off-screen and clamps firmly over his mouth, causing Ryota's eyes to widen in shock and muffled surprise.",
+        "Close-up on Arthur inside The Flooded Lab as he executes a rapid martial arts hand chop, with motion blur emphasizing the speed.",
+        "Animated close-up shot of Ryota, his jaw clenching as his intense, angry scowl deepens. He wears the green scale armor on his shoulders. The shot is against a solid black background.",
+        "Medium shot of Tetsuo, who shifts his weight in a martial arts fighting stance against a solid black background. He has a determined expression with his fists raised, wearing his purple glasses and the orange utility vest.",
+        "Animated extreme close-up on a piece of dark brown and blue-gray fabric. The fabric slowly ripples against a solid black background, and then the entire shot fades to black.",
+        "Marco falls backward against a black background. As Marco falls, his face comes into view, mouth wide open in a shocked expression.",
+        "Extreme close-up of Marco in a black jacket straining with effort. His eyes are squeezed shut and his mouth is open in a pained grimace, his face trembling from the exertion. A patch of green, scaly skin covers his shoulder.",
+        "Animated medium shot of Silas, wearing his purple sunglasses. He stands inside The Flooded Lab with a serious expression as he speaks, pointing first to his temple and then down towards the sole of his shoe."
+      ]
+    },
+    {
+      "scene_num": 17,
+      "video_prompts": [
+        "Marco, wearing a black jacket and white pants, frantically bursts into The Green Dragon Bar. He stumbles briefly before running frantically towards the camera.",
+        "the smiley face curtain (Object 22): Green curtain featuring a large yellow smiley face and a yellow dollar sign design\n\nIsabel and Silas stand together behind the smiley face curtain. In a close-up, Silas's hand parts the curtain, creating a small gap for them to peer through.",
+        "Isabel, wearing a red suit jacket, leaps up to grab the tall Daichi, wearing a red robe, by the throat. Daichi looks shocked as Isabel suddenly goes limp, and Daichi catches her falling body.",
+        "Inside the disheveled interior of The Green Dragon Bar, Daichi performs a powerful judo throw on Marco, sending him flipping upside down through the air.",
+        "Ryota delivers a sharp kick to Daichi's torso, causing Daichi to stumble backward in pain."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Marco, wearing a black jacket and white pants, frantically bursts into The Green Dragon Bar. He stumbles briefly before running frantically towards the camera.",
+        "Isabel and Silas stand together behind the smiley face curtain. In a close-up, Silas's hand parts the curtain, creating a small gap for them to peer through.",
+        "Isabel, wearing a red suit jacket, leaps up to grab the tall Daichi, wearing a red robe, by the throat. Daichi looks shocked as Isabel suddenly goes limp, and Daichi catches her falling body.",
+        "Inside the disheveled interior of The Green Dragon Bar, Daichi performs a powerful judo throw on Marco, sending him flipping upside down through the air.",
+        "Ryota delivers a sharp kick to Daichi's torso, causing Daichi to stumble backward in pain."
+      ]
+    },
+    {
+      "scene_num": 18,
+      "video_prompts": [
+        "In the dark The Red Door Room, the jagged shadow of Arthur flickers and shifts against a gray wall.",
+        "From a high angle, Isabel looks down with a severe expression. She takes a small, deliberate step forward."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In the dark The Red Door Room, the jagged shadow of Arthur flickers and shifts against a gray wall.",
+        "From a high angle, Isabel looks down with a severe expression. She takes a small, deliberate step forward."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Isabel",
+        "Silas",
+        "Daichi"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the heavy metal chains",
+        "the industrial water tank",
+        "the animated shark",
+        "the red octagonal talisman"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Silas",
+        "Marco"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the heavy metal chains",
+        "the red octagonal talisman"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Isabel"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the heavy metal chains"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Marco",
+        "Ryota",
+        "Silas"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the red octagonal talisman"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the industrial water tank"
+      ]
+    },
+    "1:6": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the glowing energy web"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Silas",
+        "Ryota"
+      ],
+      "places": [
+        "The Red Door Room"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Tetsuo"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the heavy metal chains"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Daichi"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Ryota"
+      ],
+      "places": [
+        "Sushi Alley"
+      ],
+      "objects": [
+        "the yellow sushi signs",
+        "the dark green limousine"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Tetsuo",
+        "Ryota"
+      ],
+      "places": [
+        "The Red Door Room"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Silas",
+        "Ryota",
+        "Tetsuo",
+        "Marco"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the heavy metal chains",
+        "the industrial water tank",
+        "the red octagonal talisman"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the shelves of bowls"
+      ]
+    },
+    "6:3": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the red octagonal talisman"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Isabel",
+        "Arthur"
+      ],
+      "places": [
+        "The Red Door Room"
+      ],
+      "objects": [
+        "the jeweled golden gauntlet"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Silas",
+        "Daichi"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the heavy metal chains"
+      ]
+    },
+    "8:2": {
+      "characters": [
+        "Marco",
+        "Daichi",
+        "Arthur",
+        "Ryota",
+        "Silas"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the heavy metal chains"
+      ]
+    },
+    "8:3": {
+      "characters": [
+        "Tetsuo"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": []
+    },
+    "8:4": {
+      "characters": [
+        "Marco",
+        "Ryota",
+        "Silas"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": []
+    },
+    "8:5": {
+      "characters": [
+        "Arthur",
+        "Daichi"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the ornate golden egg"
+      ]
+    },
+    "8:6": {
+      "characters": [
+        "Isabel",
+        "Daichi",
+        "Ryota"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": []
+    },
+    "8:7": {
+      "characters": [
+        "Marco",
+        "Silas"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": []
+    },
+    "8:8": {
+      "characters": [
+        "Tetsuo"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": [
+        "the heavy metal chains"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Isabel",
+        "Arthur"
+      ],
+      "places": [
+        "The Box Storage"
+      ],
+      "objects": [
+        "the ornate golden egg"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Silas",
+        "Marco",
+        "Ryota"
+      ],
+      "places": [
+        "The Sunken Warehouse"
+      ],
+      "objects": []
+    },
+    "11:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Flooded Lab"
+      ],
+      "objects": [
+        "the orange utility vest"
+      ]
+    },
+    "12:1": {
+      "characters": [
+        "Daichi"
+      ],
+      "places": [
+        "Sushi Alley"
+      ],
+      "objects": []
+    },
+    "13:1": {
+      "characters": [
+        "Isabel",
+        "Daichi"
+      ],
+      "places": [
+        "The Box Storage"
+      ],
+      "objects": []
+    },
+    "13:2": {
+      "characters": [
+        "Daichi"
+      ],
+      "places": [
+        "The Box Storage"
+      ],
+      "objects": []
+    },
+    "13:3": {
+      "characters": [
+        "Daichi"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "14:1": {
+      "characters": [
+        "Silas",
+        "Daichi"
+      ],
+      "places": [
+        "The Pipe Room"
+      ],
+      "objects": []
+    },
+    "14:2": {
+      "characters": [
+        "Silas",
+        "Tetsuo",
+        "Arthur"
+      ],
+      "places": [
+        "The Pipe Room"
+      ],
+      "objects": []
+    },
+    "14:3": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [],
+      "objects": [
+        "the purple animated suit",
+        "the black rectangular sunglasses"
+      ]
+    },
+    "15:1": {
+      "characters": [
+        "Isabel",
+        "Ryota",
+        "Silas"
+      ],
+      "places": [
+        "The Filing Room"
+      ],
+      "objects": []
+    },
+    "16:1": {
+      "characters": [
+        "Tetsuo"
+      ],
+      "places": [
+        "The Flooded Lab"
+      ],
+      "objects": []
+    },
+    "16:2": {
+      "characters": [
+        "Ryota"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "16:3": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Flooded Lab"
+      ],
+      "objects": []
+    },
+    "16:4": {
+      "characters": [
+        "Ryota"
+      ],
+      "places": [],
+      "objects": [
+        "the green scale armor"
+      ]
+    },
+    "16:5": {
+      "characters": [
+        "Tetsuo"
+      ],
+      "places": [],
+      "objects": [
+        "the orange utility vest"
+      ]
+    },
+    "16:6": {
+      "characters": [],
+      "places": [],
+      "objects": []
+    },
+    "16:7": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "16:8": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "16:9": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Flooded Lab"
+      ],
+      "objects": []
+    },
+    "17:1": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Green Dragon Bar"
+      ],
+      "objects": []
+    },
+    "17:2": {
+      "characters": [
+        "Isabel",
+        "Silas"
+      ],
+      "places": [],
+      "objects": [
+        "the smiley face curtain"
+      ]
+    },
+    "17:3": {
+      "characters": [
+        "Isabel",
+        "Daichi"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "17:4": {
+      "characters": [
+        "Marco",
+        "Daichi"
+      ],
+      "places": [
+        "The Green Dragon Bar"
+      ],
+      "objects": []
+    },
+    "17:5": {
+      "characters": [
+        "Daichi",
+        "Ryota"
+      ],
+      "places": [
+        "The Green Dragon Bar"
+      ],
+      "objects": []
+    },
+    "18:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Red Door Room"
+      ],
+      "objects": []
+    },
+    "18:2": {
+      "characters": [
+        "Isabel"
+      ],
+      "places": [],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Isabel",
+      "label": "Character 1",
+      "description": "Woman wearing a red suit jacket."
+    },
+    "Character 2": {
+      "name": "Silas",
+      "label": "Character 2",
+      "description": "Man with dark spiky hair and a goatee, wearing purple sunglasses, a dark suit, and a black tie."
+    },
+    "Character 3": {
+      "name": "Daichi",
+      "label": "Character 3",
+      "description": "Large character with black hair styled in a topknot and a mole on their cheek, wearing a red robe over a cream shirt."
+    },
+    "Character 4": {
+      "name": "Marco",
+      "label": "Character 4",
+      "description": "Man with a goatee, seen wearing either a black jacket and white pants or a green top and dark pants."
+    },
+    "Character 5": {
+      "name": "Ryota",
+      "label": "Character 5",
+      "description": "Large man with black hair, wearing green, scaled shoulder armor, and a green dragon tattoo on his arm."
+    },
+    "Character 6": {
+      "name": "Tetsuo",
+      "label": "Character 6",
+      "description": "Large muscular man with a topknot hairstyle, wearing a suit, a white bandage on his forehead, and purple glasses"
+    },
+    "Character 7": {
+      "name": "Arthur",
+      "label": "Character 7",
+      "description": "Elderly man with short, spiky grey hair and thin-rimmed glasses, wearing a bright orange vest over a non-descript shirt"
+    },
+    "Location 1": {
+      "name": "The Sunken Warehouse",
+      "label": "Location 1",
+      "description": "Large, flooded industrial warehouse interior with a prominent open water tank, thick heavy metal chains suspended from the ceiling above the tank, and a large shark in the water."
+    },
+    "Location 2": {
+      "name": "The Red Door Room",
+      "label": "Location 2",
+      "description": "A plain, dark gray indoor room with a red door."
+    },
+    "Location 3": {
+      "name": "Sushi Alley",
+      "label": "Location 3",
+      "description": "A city street/alleyway with the pink facade of a sushi restaurant featuring two yellow neon 'SUSHI' signs, and a dark green limousine on the street."
+    },
+    "Location 4": {
+      "name": "The Box Storage",
+      "label": "Location 4",
+      "description": "Cluttered indoor storage rooms filled with tall metal shelves stacked with numerous cardboard boxes of various sizes, with a decorative Golden Egg placed on one shelf"
+    },
+    "Location 5": {
+      "name": "The Flooded Lab",
+      "label": "Location 5",
+      "description": "Animated, flooded interior of a combined workshop and laboratory, featuring workbenches, tools, and scientific apparatus"
+    },
+    "Location 6": {
+      "name": "The Pipe Room",
+      "label": "Location 6",
+      "description": "Interior room with damaged pipes on the ceiling."
+    },
+    "Location 7": {
+      "name": "The Filing Room",
+      "label": "Location 7",
+      "description": "Sterile, utilitarian office filing room with rows of grey metal filing cabinets, a speckled linoleum floor, beige walls, and overhead fluorescent light panels."
+    },
+    "Location 8": {
+      "name": "The Green Dragon Bar",
+      "label": "Location 8",
+      "description": "Disheveled restaurant and bar interior with Asian decor and green doors"
+    },
+    "Object 1": {
+      "name": "the heavy metal chains",
+      "label": "Object 1",
+      "description": "Thick, heavy-gauge industrial chains composed of large, interlocking links of dull gray metal."
+    },
+    "Object 2": {
+      "name": "the animated shark",
+      "label": "Object 2",
+      "description": "Large gray animated shark."
+    },
+    "Object 3": {
+      "name": "the red octagonal talisman",
+      "label": "Object 3",
+      "description": "Small, red, octagonal talisman"
+    },
+    "Object 4": {
+      "name": "the industrial water tank",
+      "label": "Object 4",
+      "description": "Large, open-topped, square water tank made of weathered, riveted dark gray metal panels with visible rust and water stains on its exterior."
+    },
+    "Object 5": {
+      "name": "the glowing energy web",
+      "label": "Object 5",
+      "description": "Glowing blue, web-like energy field dotted with white foam."
+    },
+    "Object 6": {
+      "name": "the yellow sushi signs",
+      "label": "Object 6",
+      "description": "Two identical yellow neon signs with glowing glass tubing bent to spell out the word 'SUSHI' in all-caps block letters"
+    },
+    "Object 7": {
+      "name": "the dark green limousine",
+      "label": "Object 7",
+      "description": "A stretch limousine with a dark green exterior"
+    },
+    "Object 8": {
+      "name": "the shelves of bowls",
+      "label": "Object 8",
+      "description": "Tall, gray metal industrial shelving units filled with neat stacks of plain white ceramic bowls."
+    },
+    "Object 9": {
+      "name": "the jeweled golden gauntlet",
+      "label": "Object 9",
+      "description": "Golden gauntlet set with a large pink jewel"
+    },
+    "Object 10": {
+      "name": "the winch and hook",
+      "label": "Object 10",
+      "description": "Blue-grey industrial hook and winch system with attached thick, heavy metal chains"
+    },
+    "Object 11": {
+      "name": "the tan sleeveless shirt",
+      "label": "Object 11",
+      "description": "Form-fitting tan sleeveless shirt or vest"
+    },
+    "Object 12": {
+      "name": "the ornate golden egg",
+      "label": "Object 12",
+      "description": "Ornate golden egg-shaped object"
+    },
+    "Object 13": {
+      "name": "the green scale armor",
+      "label": "Object 13",
+      "description": "Distinctive armor or skin composed of overlapping, reptilian-like green scales layered over a beige-colored base material"
+    },
+    "Object 14": {
+      "name": "the green military uniform",
+      "label": "Object 14",
+      "description": "Dark green military-style uniform made from a heavy fabric, consisting of a tunic with a high collar, metallic buttons, and shoulder epaulets, paired with matching trousers"
+    },
+    "Object 15": {
+      "name": "the navy three-piece suit",
+      "label": "Object 15",
+      "description": "A sharply tailored, single-breasted, three-piece suit in a solid, dark navy blue fabric with a subtle texture, featuring a jacket with wide peak lapels, a matching waistcoat, and pleated trousers"
+    },
+    "Object 16": {
+      "name": "the round tortoiseshell glasses",
+      "label": "Object 16",
+      "description": "Dark brown tortoiseshell eyeglasses with thick, round plastic frames and slightly magnified clear lenses"
+    },
+    "Object 17": {
+      "name": "the orange utility vest",
+      "label": "Object 17",
+      "description": "A plain vest in a solid orange-yellow color"
+    },
+    "Object 18": {
+      "name": "the red hero vest",
+      "label": "Object 18",
+      "description": "A red, sleeveless hero-style outer garment with a wide neckline worn over a collared shirt"
+    },
+    "Object 19": {
+      "name": "the purple animated suit",
+      "label": "Object 19",
+      "description": "Vibrant purple two-piece suit consisting of a single-breasted jacket with notched lapels and matching purple trousers"
+    },
+    "Object 20": {
+      "name": "the black rectangular sunglasses",
+      "label": "Object 20",
+      "description": "A pair of sharp, rectangular glasses with thick, glossy black acetate frames and dark-tinted lenses"
+    },
+    "Object 21": {
+      "name": "the simple black suit",
+      "label": "Object 21",
+      "description": "A black two-piece suit consisting of a suit jacket and matching trousers"
+    },
+    "Object 22": {
+      "name": "the smiley face curtain",
+      "label": "Object 22",
+      "description": "Green curtain featuring a large yellow smiley face and a yellow dollar sign design"
+    }
+  },
+  "_window_shot_ids": [
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0002",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0003",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0004",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0005",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0006",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0007",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0008",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0009",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0010",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0011",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0012",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0013",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0014",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0015",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0018",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0019",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0020",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0021",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0022",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0023",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0024",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0025",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0026",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0027",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0028",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0029",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0030",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0031",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0032",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0033",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0034",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0035",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0036",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0037",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0038",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0039",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0040",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0041",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0042",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0043",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0044",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0045",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0046",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0047",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0049",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0051",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0052",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0053",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0054",
+    "000223cb-2287-3d1b-a12d-fd315ebbbea0__run221__i20_j38__T240__shot0055"
+  ],
+  "_num_scenes": 18,
+  "_num_shots": 50,
+  "_name_map": {
+    "Character 1": "Isabel",
+    "Character 2": "Silas",
+    "Character 3": "Daichi",
+    "Character 4": "Marco",
+    "Character 5": "Ryota",
+    "Character 6": "Tetsuo",
+    "Character 7": "Arthur",
+    "Location 1": "The Sunken Warehouse",
+    "Location 2": "The Red Door Room",
+    "Location 3": "Sushi Alley",
+    "Location 4": "The Box Storage",
+    "Location 5": "The Flooded Lab",
+    "Location 6": "The Pipe Room",
+    "Location 7": "The Filing Room",
+    "Location 8": "The Green Dragon Bar",
+    "Object 1": "the heavy metal chains",
+    "Object 10": "the winch and hook",
+    "Object 11": "the tan sleeveless shirt",
+    "Object 12": "the ornate golden egg",
+    "Object 13": "the green scale armor",
+    "Object 14": "the green military uniform",
+    "Object 15": "the navy three-piece suit",
+    "Object 16": "the round tortoiseshell glasses",
+    "Object 17": "the orange utility vest",
+    "Object 18": "the red hero vest",
+    "Object 19": "the purple animated suit",
+    "Object 2": "the animated shark",
+    "Object 20": "the black rectangular sunglasses",
+    "Object 21": "the simple black suit",
+    "Object 22": "the smiley face curtain",
+    "Object 3": "the red octagonal talisman",
+    "Object 4": "the industrial water tank",
+    "Object 5": "the glowing energy web",
+    "Object 6": "the yellow sushi signs",
+    "Object 7": "the dark green limousine",
+    "Object 8": "the shelves of bowls",
+    "Object 9": "the jeweled golden gauntlet"
+  }
+}

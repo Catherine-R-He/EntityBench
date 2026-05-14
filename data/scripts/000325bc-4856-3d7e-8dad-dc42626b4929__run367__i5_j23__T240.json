@@ -1,0 +1,589 @@
+{
+  "story_name": "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240",
+  "story_overview": "At the Black Rook Gallery, a surveillance team comprised of Leo, Dante, and Nate monitors photographer Chloe. As Chloe interacts with other attendees like Marcus and Simon, the team gathers data from their van and analyzes it back at their high-tech Analysis Center, focusing on gait analysis to uncover a hidden plot.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Chloe: Blonde woman wearing a pink beret, a pink scarf, and a white shirt, with a camera hanging around her neck.\nMarcus: Man with dark hair wearing a grey suit, a white collared shirt, and a red patterned tie.\nLeo: Man wearing the Surveillance Team's grey suit and a red tie.\nThe Black Rook Gallery: Modern art gallery and chess tournament hall interior featuring large black sculptures.\nthe giant chess sculpture: Giant black chess piece sculpture.\n\nIn The Black Rook Gallery, Leo, wearing the surveillance team uniform, stands and talks to Chloe and Marcus. Chloe, wearing the pink beret, stands with her back to the camera, nodding as she listens. Marcus, wearing the patterned red tie, stands beside them, his expression serious as he listens intently. The giant chess sculpture looms in the background.",
+        "Khalid: Man wearing a black and white patterned keffiyeh head covering.\nBen: Man wearing a blue shirt and a dark vest.\nthe tan linen suit: Two-piece suit in a lightweight tan fabric, consisting of a single-breasted jacket with notched lapels and a two-button front, paired with matching flat-front trousers.\nthe argyle sweater vest: Cream-colored, fine-gauge wool knit sweater vest with a V-neck and a classic argyle pattern in beige and soft pink.\n\nMedium close-up of Chloe, holding the vintage camera, wearing the pink beret, in the brightly lit The Black Rook Gallery. She smiles and looks toward the right side of the frame. In the background, Marcus, wearing the charcoal grey suit, Khalid, and Ben mingle and talk amongst themselves.",
+        "Dante: Man with long dark hair wearing the Surveillance Team's grey suit.\nthe black display platform: Small, low-profile, square black platform with a smooth, matte surface.\nthe tournament chess tables: Modern, square wooden chess tables with inlaid black and white checkered playing surfaces and simple block legs.\n\nIn the modern art gallery (The Black Rook Gallery), Chloe, wearing the pink beret, raises her camera to take a photograph. Dante and Leo, wearing the surveillance team uniform, stand together on a small black platform (the black display platform), smiling and straightening up as they pose for the picture. The gallery is filled with giant black chess piece sculptures (the giant chess sculpture) and wooden chess tables (the tournament chess tables).",
+        "Simon: Man with short dark hair and a beard, wearing a grey suit, a white shirt, and a dark tie.\n\nOver-the-shoulder shot from behind Chloe in The Black Rook Gallery. Simon stands opposite her, gesturing with animated enthusiasm as he speaks. Chloe, wearing the pink beret, tilts her head down shyly as she listens.",
+        "Arthur: Man wearing a light blue blazer, a white shirt, and a dark blue fedora with a white band.\nNate: Man with short dark wavy hair, wearing the surveillance team uniform.\n\nIn The Black Rook Gallery, amidst giant chess sculptures and tournament chess tables, Leo, wearing the surveillance team uniform, glides across a gridded floor on the black display platform, with the tournament chess tables visible. He stops beside the giant chess sculpture as Dante, Simon, Arthur, Khalid, and Nate watch."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Black Rook Gallery, Leo, wearing the surveillance team uniform, stands and talks to Chloe and Marcus. Chloe, wearing the pink beret, stands with her back to the camera, nodding as she listens. Marcus, wearing the patterned red tie, stands beside them, his expression serious as he listens intently. The giant chess sculpture looms in the background.",
+        "Medium close-up of Chloe, holding the vintage camera, wearing the pink beret, in the brightly lit The Black Rook Gallery. She smiles and looks toward the right side of the frame. In the background, Marcus, wearing the charcoal grey suit, Khalid, and Ben mingle and talk amongst themselves.",
+        "In the modern art gallery (The Black Rook Gallery), Chloe, wearing the pink beret, raises her camera to take a photograph. Dante and Leo, wearing the surveillance team uniform, stand together on a small black platform (the black display platform), smiling and straightening up as they pose for the picture. The gallery is filled with giant black chess piece sculptures (the giant chess sculpture) and wooden chess tables (the tournament chess tables).",
+        "Over-the-shoulder shot from behind Chloe in The Black Rook Gallery. Simon stands opposite her, gesturing with animated enthusiasm as he speaks. Chloe, wearing the pink beret, tilts her head down shyly as she listens.",
+        "In The Black Rook Gallery, amidst giant chess sculptures and tournament chess tables, Leo, wearing the surveillance team uniform, glides across a gridded floor on the black display platform, with the tournament chess tables visible. He stops beside the giant chess sculpture as Dante, Simon, Arthur, Khalid, and Nate watch."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Alex: Person wearing a white t-shirt and large red headphones\n\nExtreme close-up on the gait analysis monitor in The Analysis Center. On the screen, a 3D wireframe model of a person rotates next to tables of data within a window titled 'GAIT DATA SET 12B'. Alex sits at the workstation, intently watching the monitor."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up on the gait analysis monitor in The Analysis Center. On the screen, a 3D wireframe model of a person rotates next to tables of data within a window titled 'GAIT DATA SET 12B'. Alex sits at the workstation, intently watching the monitor."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Close-up in The Study. Arthur looks down at the grey hoodie and striped winter scarf he is holding, his expression softening into a gentle, content smile. Chloe stands beside him, leaning in slightly as she watches him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up in The Study. Arthur looks down at the grey hoodie and striped winter scarf he is holding, his expression softening into a gentle, content smile. Chloe stands beside him, leaning in slightly as she watches him."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Medium close-up of Chloe, wearing the pink beret and holding the vintage camera, speaking animatedly inside The Black Rook Gallery. In the blurred background, Simon, Arthur, Nate, Leo, and Ben mingle near the giant chess sculpture.",
+        "Close-up of Chloe, wearing the pink beret and the pink abstract scarf, in The Black Rook Gallery. She turns her head slightly and talks with a pleasant expression on her face. In the background, the bright art gallery is out of focus, with the indistinct shapes of other people moving about.",
+        "the light-colored suit: A man's two-piece suit in a solid, light color, consisting of a tailored jacket and matching trousers\n\nIn the crowded gallery of The Black Rook Gallery, Chloe, wearing the pink beret, walks from right to left, her path partially obscured by another guest moving in the foreground. Near a sculpture, Leo, wearing the surveillance team uniform, turns his head slightly to watch her navigate the room. In the background, other guests socialize behind the velvet rope barrier."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium close-up of Chloe, wearing the pink beret and holding the vintage camera, speaking animatedly inside The Black Rook Gallery. In the blurred background, Simon, Arthur, Nate, Leo, and Ben mingle near the giant chess sculpture.",
+        "Close-up of Chloe, wearing the pink beret and the pink abstract scarf, in The Black Rook Gallery. She turns her head slightly and talks with a pleasant expression on her face. In the background, the bright art gallery is out of focus, with the indistinct shapes of other people moving about.",
+        "In the crowded gallery of The Black Rook Gallery, Chloe, wearing the pink beret, walks from right to left, her path partially obscured by another guest moving in the foreground. Near a sculpture, Leo, wearing the surveillance team uniform, turns his head slightly to watch her navigate the room. In the background, other guests socialize behind the velvet rope barrier."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Inside The Analysis Center, Dante, Simon, Khalid, and Nate stand grouped together. They all turn simultaneously to look off-camera to the right, their faces showing a mix of surprise and serious concern."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Analysis Center, Dante, Simon, Khalid, and Nate stand grouped together. They all turn simultaneously to look off-camera to the right, their faces showing a mix of surprise and serious concern."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Chloe and Simon walk through The Black Rook Gallery, deep in conversation. Simon has a concerned expression on his face. In the background, Ben, wearing the blue fedora, and other attendees wander among the sculptures."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Chloe and Simon walk through The Black Rook Gallery, deep in conversation. Simon has a concerned expression on his face. In the background, Ben, wearing the blue fedora, and other attendees wander among the sculptures."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Westgate Park: Outdoor public park with grassy areas, mature trees, paved paths, and a white bench\n\nNate walks with a pensive expression through the sunlit Westgate Park, carrying the disposable coffee cup as he heads toward the unmarked sedan. In the background, Marcus, wearing the patterned red tie, and Simon sit together on the white park bench, talking quietly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Nate walks with a pensive expression through the sunlit Westgate Park, carrying the disposable coffee cup as he heads toward the unmarked sedan. In the background, Marcus, wearing the patterned red tie, and Simon sit together on the white park bench, talking quietly."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "The Surveillance Van: The cramped and cluttered interior of a surveillance vehicle with dark fabric seats, a black plastic dashboard laden with electronic monitoring equipment and screens, tangled wires, a pair of binoculars.\nthe black binoculars: A pair of black, rubber-armored binoculars with a matte, non-reflective finish, two objective lenses, and a central focusing wheel.\nthe styrofoam takeout box: White rectangular styrofoam clamshell-style takeout food container.\n\nInside the cramped The Surveillance Van, Dante sits in the driver's seat, peering through the black binoculars at a man wearing the classic grey suit, who stands near the unmarked sedan parked down the street. Nate sits in the passenger seat, monitoring screens on the dashboard. Leo walks up to the driver's side window and hands the disposable coffee cup and the styrofoam takeout box into the vehicle.",
+        "A hand from the unmarked sedan passes two disposable coffee cups through the open window of The Surveillance Van to Dante and Simon inside."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside the cramped The Surveillance Van, Dante sits in the driver's seat, peering through the black binoculars at a man wearing the classic grey suit, who stands near the unmarked sedan parked down the street. Nate sits in the passenger seat, monitoring screens on the dashboard. Leo walks up to the driver's side window and hands the disposable coffee cup and the styrofoam takeout box into the vehicle.",
+        "A hand from the unmarked sedan passes two disposable coffee cups through the open window of The Surveillance Van to Dante and Simon inside."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Chloe",
+        "Marcus",
+        "Leo"
+      ],
+      "places": [
+        "The Black Rook Gallery"
+      ],
+      "objects": [
+        "the surveillance team uniform",
+        "the patterned red tie",
+        "the pink beret",
+        "the giant chess sculpture"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Chloe",
+        "Khalid",
+        "Marcus",
+        "Ben"
+      ],
+      "places": [
+        "The Black Rook Gallery"
+      ],
+      "objects": [
+        "the pink beret",
+        "the vintage camera"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Dante",
+        "Chloe",
+        "Leo"
+      ],
+      "places": [
+        "The Black Rook Gallery"
+      ],
+      "objects": [
+        "the pink beret",
+        "the surveillance team uniform",
+        "the black display platform",
+        "the tournament chess tables",
+        "the giant chess sculpture"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Simon",
+        "Chloe"
+      ],
+      "places": [
+        "The Black Rook Gallery"
+      ],
+      "objects": [
+        "the pink beret"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Dante",
+        "Simon",
+        "Arthur",
+        "Khalid",
+        "Nate",
+        "Leo"
+      ],
+      "places": [
+        "The Black Rook Gallery"
+      ],
+      "objects": [
+        "the giant chess sculpture",
+        "the black display platform",
+        "the surveillance team uniform",
+        "the tournament chess tables"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The Analysis Center"
+      ],
+      "objects": [
+        "the gait analysis monitor"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Arthur",
+        "Chloe"
+      ],
+      "places": [
+        "The Study"
+      ],
+      "objects": [
+        "the grey hoodie",
+        "the striped winter scarf"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Simon",
+        "Arthur",
+        "Chloe",
+        "Nate",
+        "Leo",
+        "Ben"
+      ],
+      "places": [
+        "The Black Rook Gallery"
+      ],
+      "objects": [
+        "the pink beret",
+        "the vintage camera",
+        "the giant chess sculpture"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Black Rook Gallery"
+      ],
+      "objects": [
+        "the pink beret",
+        "the pink abstract scarf",
+        "the surveillance team uniform"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Chloe",
+        "Leo"
+      ],
+      "places": [
+        "The Black Rook Gallery"
+      ],
+      "objects": [
+        "the pink beret",
+        "the velvet rope barrier"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Dante",
+        "Simon",
+        "Khalid",
+        "Nate"
+      ],
+      "places": [
+        "The Analysis Center"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Simon",
+        "Chloe",
+        "Ben"
+      ],
+      "places": [
+        "The Black Rook Gallery"
+      ],
+      "objects": [
+        "the blue fedora"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Simon",
+        "Nate",
+        "Marcus"
+      ],
+      "places": [
+        "Westgate Park"
+      ],
+      "objects": [
+        "the unmarked sedan",
+        "the surveillance team uniform",
+        "the patterned red tie",
+        "the disposable coffee cup",
+        "the white park bench"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Dante",
+        "Nate",
+        "Leo"
+      ],
+      "places": [
+        "The Surveillance Van"
+      ],
+      "objects": [
+        "the unmarked sedan",
+        "the black binoculars",
+        "the classic grey suit",
+        "the disposable coffee cup",
+        "the styrofoam takeout box"
+      ]
+    },
+    "8:2": {
+      "characters": [
+        "Dante",
+        "Simon"
+      ],
+      "places": [
+        "The Surveillance Van"
+      ],
+      "objects": [
+        "the unmarked sedan",
+        "the disposable coffee cup"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Chloe",
+      "label": "Character 1",
+      "description": "Blonde woman wearing a pink beret, a pink scarf, and a white shirt, with a camera hanging around her neck."
+    },
+    "Character 2": {
+      "name": "Marcus",
+      "label": "Character 2",
+      "description": "Man with dark hair wearing a grey suit, a white collared shirt, and a red patterned tie."
+    },
+    "Character 3": {
+      "name": "Leo",
+      "label": "Character 3",
+      "description": "Man wearing the Surveillance Team's grey suit and a red tie."
+    },
+    "Character 4": {
+      "name": "Khalid",
+      "label": "Character 4",
+      "description": "Man wearing a black and white patterned keffiyeh head covering."
+    },
+    "Character 5": {
+      "name": "Ben",
+      "label": "Character 5",
+      "description": "Man wearing a blue shirt and a dark vest."
+    },
+    "Character 6": {
+      "name": "Dante",
+      "label": "Character 6",
+      "description": "Man with long dark hair wearing the Surveillance Team's grey suit."
+    },
+    "Character 7": {
+      "name": "Simon",
+      "label": "Character 7",
+      "description": "Man with short dark hair and a beard, wearing a grey suit, a white shirt, and a dark tie."
+    },
+    "Character 8": {
+      "name": "Arthur",
+      "label": "Character 8",
+      "description": "Man wearing a light blue blazer, a white shirt, and a dark blue fedora with a white band."
+    },
+    "Character 9": {
+      "name": "Nate",
+      "label": "Character 9",
+      "description": "Man with short dark wavy hair, wearing the surveillance team uniform."
+    },
+    "Character 10": {
+      "name": "Alex",
+      "label": "Character 10",
+      "description": "Person wearing a white t-shirt and large red headphones"
+    },
+    "Location 1": {
+      "name": "The Black Rook Gallery",
+      "label": "Location 1",
+      "description": "Modern art gallery and chess tournament hall interior featuring large black sculptures."
+    },
+    "Location 2": {
+      "name": "The Analysis Center",
+      "label": "Location 2",
+      "description": "Modern office workstation area with a computer monitor displaying a sophisticated gait analysis user interface, which includes a 3D wireframe model of a person, tables of data, and a window titled 'GAIT DATA SET 12B'"
+    },
+    "Location 3": {
+      "name": "The Study",
+      "label": "Location 3",
+      "description": "An interior room with a warm, cozy ambiance"
+    },
+    "Location 4": {
+      "name": "Westgate Park",
+      "label": "Location 4",
+      "description": "Outdoor public park with grassy areas, mature trees, paved paths, and a white bench"
+    },
+    "Location 5": {
+      "name": "The Surveillance Van",
+      "label": "Location 5",
+      "description": "The cramped and cluttered interior of a surveillance vehicle with dark fabric seats, a black plastic dashboard laden with electronic monitoring equipment and screens, tangled wires, a pair of binoculars."
+    },
+    "Object 1": {
+      "name": "the surveillance team uniform",
+      "label": "Object 1",
+      "description": "A grey suit consisting of a jacket and matching trousers, paired with a solid red necktie"
+    },
+    "Object 2": {
+      "name": "the patterned red tie",
+      "label": "Object 2",
+      "description": "Red patterned necktie"
+    },
+    "Object 3": {
+      "name": "the giant chess sculpture",
+      "label": "Object 3",
+      "description": "Giant black chess piece sculpture."
+    },
+    "Object 4": {
+      "name": "the pink beret",
+      "label": "Object 4",
+      "description": "A soft, round beret in a distinctive shade of pink"
+    },
+    "Object 5": {
+      "name": "the vintage camera",
+      "label": "Object 5",
+      "description": "Vintage-style digital camera with a two-tone silver and black body, a black textured grip, a compact prime lens, and a thin brown leather neck strap"
+    },
+    "Object 6": {
+      "name": "the tan linen suit",
+      "label": "Object 6",
+      "description": "Two-piece suit in a lightweight tan fabric, consisting of a single-breasted jacket with notched lapels and a two-button front, paired with matching flat-front trousers"
+    },
+    "Object 7": {
+      "name": "the argyle sweater vest",
+      "label": "Object 7",
+      "description": "Cream-colored, fine-gauge wool knit sweater vest with a V-neck and a classic argyle pattern in beige and soft pink"
+    },
+    "Object 8": {
+      "name": "the tournament chess tables",
+      "label": "Object 8",
+      "description": "Modern, square wooden chess tables with inlaid black and white checkered playing surfaces and simple block legs."
+    },
+    "Object 9": {
+      "name": "the black display platform",
+      "label": "Object 9",
+      "description": "Small, low-profile, square black platform with a smooth, matte surface."
+    },
+    "Object 10": {
+      "name": "the gait analysis monitor",
+      "label": "Object 10",
+      "description": "A computer monitor with a lit screen displaying a gait analysis user interface featuring a 3D wireframe model of a human figure and a window titled 'GAIT DATA SET 12B' containing tables of data"
+    },
+    "Object 11": {
+      "name": "the grey hoodie",
+      "label": "Object 11",
+      "description": "Grey hooded sweatshirt"
+    },
+    "Object 12": {
+      "name": "the striped winter scarf",
+      "label": "Object 12",
+      "description": "Soft, thick-knit scarf with a pattern of wide, horizontal block stripes in alternating charcoal grey, mustard yellow, and cream, with short, tasseled fringe at both ends"
+    },
+    "Object 13": {
+      "name": "the pink abstract scarf",
+      "label": "Object 13",
+      "description": "Long, lightweight woven scarf with a cream-colored base and an abstract pattern of pink and charcoal grey brushstrokes, featuring short, frayed tassels at the ends"
+    },
+    "Object 14": {
+      "name": "the velvet rope barrier",
+      "label": "Object 14",
+      "description": "A crowd control barrier composed of upright stanchions and a connecting black velvet rope"
+    },
+    "Object 15": {
+      "name": "the light-colored suit",
+      "label": "Object 15",
+      "description": "A man's two-piece suit in a solid, light color, consisting of a tailored jacket and matching trousers"
+    },
+    "Object 16": {
+      "name": "the blue fedora",
+      "label": "Object 16",
+      "description": "Blue fedora with a dark striped band"
+    },
+    "Object 17": {
+      "name": "the unmarked sedan",
+      "label": "Object 17",
+      "description": "Dark-colored, nondescript full-size sedan with tinted windows and standard steel wheel rims"
+    },
+    "Object 18": {
+      "name": "the disposable coffee cup",
+      "label": "Object 18",
+      "description": "Plain white disposable paper cup with a tapered shape and a rolled rim"
+    },
+    "Object 19": {
+      "name": "the white park bench",
+      "label": "Object 19",
+      "description": "A park bench with horizontal white-painted wood slats for the seat and back, and a white metal support structure with curved armrests"
+    },
+    "Object 20": {
+      "name": "the black binoculars",
+      "label": "Object 20",
+      "description": "A pair of black, rubber-armored binoculars with a matte, non-reflective finish, two objective lenses, and a central focusing wheel."
+    },
+    "Object 21": {
+      "name": "the classic grey suit",
+      "label": "Object 21",
+      "description": "Men's grey suit"
+    },
+    "Object 22": {
+      "name": "the styrofoam takeout box",
+      "label": "Object 22",
+      "description": "White rectangular styrofoam clamshell-style takeout food container."
+    }
+  },
+  "_window_shot_ids": [
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0001",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0002",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0003",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0005",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0006",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0007",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0008",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0009",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0010",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0011",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0012",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0013",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0014",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0015",
+    "000325bc-4856-3d7e-8dad-dc42626b4929__run367__i5_j23__T240__shot0016"
+  ],
+  "_num_scenes": 8,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Chloe",
+    "Character 10": "Alex",
+    "Character 2": "Marcus",
+    "Character 3": "Leo",
+    "Character 4": "Khalid",
+    "Character 5": "Ben",
+    "Character 6": "Dante",
+    "Character 7": "Simon",
+    "Character 8": "Arthur",
+    "Character 9": "Nate",
+    "Location 1": "The Black Rook Gallery",
+    "Location 2": "The Analysis Center",
+    "Location 3": "The Study",
+    "Location 4": "Westgate Park",
+    "Location 5": "The Surveillance Van",
+    "Object 1": "the surveillance team uniform",
+    "Object 10": "the gait analysis monitor",
+    "Object 11": "the grey hoodie",
+    "Object 12": "the striped winter scarf",
+    "Object 13": "the pink abstract scarf",
+    "Object 14": "the velvet rope barrier",
+    "Object 15": "the light-colored suit",
+    "Object 16": "the blue fedora",
+    "Object 17": "the unmarked sedan",
+    "Object 18": "the disposable coffee cup",
+    "Object 19": "the white park bench",
+    "Object 2": "the patterned red tie",
+    "Object 20": "the black binoculars",
+    "Object 21": "the classic grey suit",
+    "Object 22": "the styrofoam takeout box",
+    "Object 3": "the giant chess sculpture",
+    "Object 4": "the pink beret",
+    "Object 5": "the vintage camera",
+    "Object 6": "the tan linen suit",
+    "Object 7": "the argyle sweater vest",
+    "Object 8": "the tournament chess tables",
+    "Object 9": "the black display platform"
+  }
+}

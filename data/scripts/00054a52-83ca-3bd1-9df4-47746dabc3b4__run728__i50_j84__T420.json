@@ -1,0 +1,314 @@
+{
+  "story_name": "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420",
+  "story_overview": "In a grand hotel, Alex makes a phone call in a hallway near where Marco and Julian are talking. Later, Marco and Alex look at a photo gallery together. In a suite, Chloe has a tense meeting with Julian over a glass of wine.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Alex: Person wearing a dark green cardigan over a grey top, beige pants, and a backpack.\nThe Ninth Floor Hallway: Indoor hotel hallway featuring a tiled floor, a staircase, and multiple doors including one marked with the number 9.\nthe door to room 9: Solid, dark wood hotel room door featuring a polished brass lever handle, a small peephole, an electronic keycard slot, and a matching brass plaque engraved with the number '9'.\nMarco: Man wearing a light blue t-shirt with an 'I ❤️ VENICE' graphic on the chest, glasses, and sunglasses\n\nAlex talks to Marco in front of the door to room 9, holding the black mobile phone with the brown leather handbag over her shoulder, while Marco listens and nods.",
+        "Julian: Man with dark hair wearing a black suit jacket or blazer over a light-colored shirt.\n\nMedium shot of Marco, wearing the 'I ❤️ VENICE' t-shirt, and Julian standing in The Ninth Floor Hallway. They face each other, with Julian gesturing as he speaks and Marco nodding in response.",
+        "Alex stands in The Ninth Floor Hallway, directly in front of the door to room 9. She holds the black mobile phone to her ear, speaking quietly and shifting her weight as she listens.",
+        "In The Ninth Floor Hallway, Marco, wearing the 'I ❤️ VENICE' t-shirt, talks to someone just out of view with a surprised expression on his face.",
+        "Marco stands in The Ninth Floor Hallway next to the door to room 9. With sunglasses perched on his head, he turns to look off-camera to the right."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Alex talks to Marco in front of the door to room 9, holding the black mobile phone with the brown leather handbag over her shoulder, while Marco listens and nods.",
+        "Medium shot of Marco, wearing the 'I ❤️ VENICE' t-shirt, and Julian standing in The Ninth Floor Hallway. They face each other, with Julian gesturing as he speaks and Marco nodding in response.",
+        "Alex stands in The Ninth Floor Hallway, directly in front of the door to room 9. She holds the black mobile phone to her ear, speaking quietly and shifting her weight as she listens.",
+        "In The Ninth Floor Hallway, Marco, wearing the 'I ❤️ VENICE' t-shirt, talks to someone just out of view with a surprised expression on his face.",
+        "Marco stands in The Ninth Floor Hallway next to the door to room 9. With sunglasses perched on his head, he turns to look off-camera to the right."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Venetian Study: A study or office interior featuring a wooden desk with a printer, a wall adorned with a painting of a Venetian scene, and a set of French doors.\nthe 'HangPix' photo gallery: Digital photo gallery interface titled 'HangPix' displaying images of a young couple and various scenic shots.\n\nOver-the-shoulder shot in The Venetian Study. Marco, with his sunglasses perched on his head, sits at a desk, scrolling through the 'HangPix' photo gallery on the open laptop. Alex stands behind Marco, leaning in slightly to look over their shoulder at the laptop screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot in The Venetian Study. Marco, with his sunglasses perched on his head, sits at a desk, scrolling through the 'HangPix' photo gallery on the open laptop. Alex stands behind Marco, leaning in slightly to look over their shoulder at the laptop screen."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Chloe: Woman with blonde hair, wearing a black and white patterned headband, a black jacket, and a red shirt.\nLeo: Man with blond hair.\nThe Suite Living Room: Indoor living room furnished with a table and bookshelves.\nthe glass of white wine: An empty, clear, stemmed wine glass.\n\nChloe sits at a table, picks up the glass of white wine and gently swirls it. Leo stands in the background, watching her and shifting his weight slightly.",
+        "A laptop rests on a desk in The Suite Living Room, a glass of white wine beside it. On the screen, the 'HangPix' photo gallery interface slowly scrolls through a slideshow of images of a young couple and various scenic shots.",
+        "Chloe sits at a table, looking down at the glass of white wine with a concerned expression before glancing up at Julian. Julian stands across from her, watching her intently, his expression serious."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Chloe sits at a table, picks up the glass of white wine and gently swirls it. Leo stands in the background, watching her and shifting his weight slightly.",
+        "A laptop rests on a desk in The Suite Living Room, a glass of white wine beside it. On the screen, the 'HangPix' photo gallery interface slowly scrolls through a slideshow of images of a young couple and various scenic shots.",
+        "Chloe sits at a table, looking down at the glass of white wine with a concerned expression before glancing up at Julian. Julian stands across from her, watching her intently, his expression serious."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Grand Lobby: Spacious and ornate lobby of an old, grand hotel, featuring a grand wooden staircase, a desk, and a doorway.\nthe grand staircase: Large, grand wooden staircase with a dark, polished finish, an intricately carved banister, and a red carpet runner down the center of the steps.\n\nWide shot of The Grand Lobby. Marco gestures as he speaks with Julian, who nods along. The grand staircase is in the background. Alex stands a few feet away, watching them and shifting their weight slightly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wide shot of The Grand Lobby. Marco gestures as he speaks with Julian, who nods along. The grand staircase is in the background. Alex stands a few feet away, watching them and shifting their weight slightly."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Marco",
+        "Alex"
+      ],
+      "places": [
+        "The Ninth Floor Hallway"
+      ],
+      "objects": [
+        "the brown leather handbag",
+        "the black mobile phone",
+        "the door to room 9"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Marco",
+        "Julian"
+      ],
+      "places": [
+        "The Ninth Floor Hallway"
+      ],
+      "objects": [
+        "the 'I ❤️ VENICE' t-shirt"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The Ninth Floor Hallway"
+      ],
+      "objects": [
+        "the door to room 9",
+        "the black mobile phone"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Ninth Floor Hallway"
+      ],
+      "objects": [
+        "the 'I ❤️ VENICE' t-shirt"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Ninth Floor Hallway"
+      ],
+      "objects": [
+        "the door to room 9"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Marco",
+        "Alex"
+      ],
+      "places": [
+        "The Venetian Study"
+      ],
+      "objects": [
+        "the open laptop",
+        "the 'HangPix' photo gallery"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Chloe",
+        "Leo"
+      ],
+      "places": [
+        "The Suite Living Room"
+      ],
+      "objects": [
+        "the glass of white wine"
+      ]
+    },
+    "3:2": {
+      "characters": [],
+      "places": [
+        "The Suite Living Room"
+      ],
+      "objects": [
+        "the 'HangPix' photo gallery",
+        "the glass of white wine"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Chloe",
+        "Julian"
+      ],
+      "places": [
+        "The Suite Living Room"
+      ],
+      "objects": [
+        "the glass of white wine"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Marco",
+        "Julian",
+        "Alex"
+      ],
+      "places": [
+        "The Grand Lobby"
+      ],
+      "objects": [
+        "the grand staircase"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Marco",
+      "label": "Character 1",
+      "description": "Man wearing a light blue t-shirt with an 'I ❤️ VENICE' graphic on the chest, glasses, and sunglasses"
+    },
+    "Character 2": {
+      "name": "Alex",
+      "label": "Character 2",
+      "description": "Person wearing a dark green cardigan over a grey top, beige pants, and a backpack."
+    },
+    "Character 3": {
+      "name": "Julian",
+      "label": "Character 3",
+      "description": "Man with dark hair wearing a black suit jacket or blazer over a light-colored shirt."
+    },
+    "Character 4": {
+      "name": "Chloe",
+      "label": "Character 4",
+      "description": "Woman with blonde hair, wearing a black and white patterned headband, a black jacket, and a red shirt."
+    },
+    "Character 5": {
+      "name": "Leo",
+      "label": "Character 5",
+      "description": "Man with blond hair."
+    },
+    "Location 1": {
+      "name": "The Grand Lobby",
+      "label": "Location 1",
+      "description": "Spacious and ornate lobby of an old, grand hotel, featuring a grand wooden staircase, a desk, and a doorway."
+    },
+    "Location 2": {
+      "name": "The Venetian Study",
+      "label": "Location 2",
+      "description": "A study or office interior featuring a wooden desk with a printer, a wall adorned with a painting of a Venetian scene, and a set of French doors."
+    },
+    "Location 3": {
+      "name": "The Ninth Floor Hallway",
+      "label": "Location 3",
+      "description": "Indoor hotel hallway featuring a tiled floor, a staircase, and multiple doors including one marked with the number 9."
+    },
+    "Location 4": {
+      "name": "The Suite Living Room",
+      "label": "Location 4",
+      "description": "Indoor living room furnished with a table and bookshelves."
+    },
+    "Object 1": {
+      "name": "the 'I ❤️ VENICE' t-shirt",
+      "label": "Object 1",
+      "description": "Light blue t-shirt with \"I ❤️ VENICE\" printed on the front, featuring black text and a red heart symbol"
+    },
+    "Object 2": {
+      "name": "the door to room 9",
+      "label": "Object 2",
+      "description": "Solid, dark wood hotel room door featuring a polished brass lever handle, a small peephole, an electronic keycard slot, and a matching brass plaque engraved with the number '9'."
+    },
+    "Object 3": {
+      "name": "the brown leather handbag",
+      "label": "Object 3",
+      "description": "Brown woman's handbag"
+    },
+    "Object 4": {
+      "name": "the grand staircase",
+      "label": "Object 4",
+      "description": "Large, grand wooden staircase with a dark, polished finish, an intricately carved banister, and a red carpet runner down the center of the steps."
+    },
+    "Object 5": {
+      "name": "the black mobile phone",
+      "label": "Object 5",
+      "description": "Small, black mobile phone"
+    },
+    "Object 6": {
+      "name": "the open laptop",
+      "label": "Object 6",
+      "description": "A laptop computer with an illuminated screen displaying the 'HangPix' photo gallery application interface"
+    },
+    "Object 7": {
+      "name": "the 'HangPix' photo gallery",
+      "label": "Object 7",
+      "description": "Digital photo gallery interface titled 'HangPix' displaying images of a young couple and various scenic shots."
+    },
+    "Object 8": {
+      "name": "the glass of white wine",
+      "label": "Object 8",
+      "description": "An empty, clear, stemmed wine glass."
+    }
+  },
+  "_window_shot_ids": [
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420__shot0035",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420__shot0036",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420__shot0037",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420__shot0038",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420__shot0039",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420__shot0040",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420__shot0041",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420__shot0042",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420__shot0043",
+    "00054a52-83ca-3bd1-9df4-47746dabc3b4__run728__i50_j84__T420__shot0044"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Marco",
+    "Character 2": "Alex",
+    "Character 3": "Julian",
+    "Character 4": "Chloe",
+    "Character 5": "Leo",
+    "Location 1": "The Grand Lobby",
+    "Location 2": "The Venetian Study",
+    "Location 3": "The Ninth Floor Hallway",
+    "Location 4": "The Suite Living Room",
+    "Object 1": "the 'I ❤️ VENICE' t-shirt",
+    "Object 2": "the door to room 9",
+    "Object 3": "the brown leather handbag",
+    "Object 4": "the grand staircase",
+    "Object 5": "the black mobile phone",
+    "Object 6": "the open laptop",
+    "Object 7": "the 'HangPix' photo gallery",
+    "Object 8": "the glass of white wine"
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "story_name": "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180",
+  "story_overview": "Outside room 1517, Kian and Leo struggle to force open a jammed hotel room door while Marcus watches. After Zara opens it from the inside, Leo changes into a staff uniform to retrieve a suitcase from the room. Meanwhile, other team members, including Alex and Kian, work on technical operations from a command room.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Leo: Man with dark, meticulously styled hair and a clean-shaven face.\nKian: Young man with slightly disheveled dark hair and an anxious demeanor.\nMarcus: Middle-aged man with graying temples.\nThe 15th Floor Hallway: A long, wood-paneled and carpeted hotel hallway on the 15th floor with the room number '1517' on a wall plaque.\nIn The 15th Floor Hallway, a flustered Kian pushes against the hotel room door with all his might. Leo joins him, and together they put their shoulders into forcing the door open. Marcus, wearing the black suit jacket, stands behind them, watching anxiously.",
+        "Zara: Woman with short, dark bobbed hair and a discerning expression.\n\nIn The 15th Floor Hallway, Zara, wearing the patterned blouse, opens the hotel room door as Kian watches anxiously beside her."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The 15th Floor Hallway, a flustered Kian pushes against the hotel room door with all his might. Leo joins him, and together they put their shoulders into forcing the door open. Marcus, wearing the black suit jacket, stands behind them, watching anxiously.",
+        "In The 15th Floor Hallway, Zara, wearing the patterned blouse, opens the hotel room door as Kian watches anxiously beside her."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Hotel Room 1517: Modern hotel room interior with a white closet door.\nthe staff uniform: A solid black, professional hotel staff uniform consisting of a clean-cut jacket and matching trousers.\nInside Hotel Room 1517, Leo, wearing the staff uniform, opens the white closet door, reaches inside, and pulls out the rolling suitcase."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside Hotel Room 1517, Leo, wearing the staff uniform, opens the white closet door, reaches inside, and pulls out the rolling suitcase."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Alex: Person with androgynous features and short, dyed-blue hair.\nthe electronic door lock: An electronic door lock with a black rectangular face and a silver metallic border, featuring a digital keypad with numbered buttons.\n\nA close-up of the electronic door lock on the hotel room door in The 15th Floor Hallway. Alex's hand enters the frame and interacts with the keypad.",
+        "Extreme close-up on Alex's hand tapping against the black suit jacket, near the electronic door lock.",
+        "the piped blazer: Man's black jacket featuring white piping and white trim.\nthe white dress shirt: Man's long-sleeved dress shirt made of a crisp white material, with a pointed collar and a button-front closure.\n\nLeo stands in The 15th Floor Hallway, wearing the piped blazer over the white dress shirt, with the rolling suitcase on the floor next to him. He looks to his side, then turns to face the hotel room door.",
+        "Zara, wearing the patterned blouse, and Kian lean against the hotel room door in The 15th Floor Hallway. Zara, with a pensive expression on her face, slowly looks up at Kian."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "A close-up of the electronic door lock on the hotel room door in The 15th Floor Hallway. Alex's hand enters the frame and interacts with the keypad.",
+        "Extreme close-up on Alex's hand tapping against the black suit jacket, near the electronic door lock.",
+        "Leo stands in The 15th Floor Hallway, wearing the piped blazer over the white dress shirt, with the rolling suitcase on the floor next to him. He looks to his side, then turns to face the hotel room door.",
+        "Zara, wearing the patterned blouse, and Kian lean against the hotel room door in The 15th Floor Hallway. Zara, with a pensive expression on her face, slowly looks up at Kian."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Nico: Young woman with long, dark wavy hair and thoughtful eyes.\nthe lace top: A woman's top made from a distinctive black and white lace material.\n\nIn Hotel Room 1517, Nico, wearing the lace top, and Leo stand against a plain yellow wall. With a pensive expression, Nico slowly turns her head to look down and to the right."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In Hotel Room 1517, Nico, wearing the lace top, and Leo stand against a plain yellow wall. With a pensive expression, Nico slowly turns her head to look down and to the right."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Zara, wearing the patterned blouse, walks purposefully down The 15th Floor Hallway with a serious expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Zara, wearing the patterned blouse, walks purposefully down The 15th Floor Hallway with a serious expression."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Command Room: Dark tech room filled with computer equipment, including a desk with a laptop.\nthe sleek laptop: Sleek, modern laptop with a thin-profile matte black aluminum chassis, a backlit chiclet-style keyboard, a large trackpad, and a screen with a very thin bezel.\nthe black smartwatch: Smartwatch with a matte black case, a rectangular screen displaying purple digital information, and a black silicone band.\n\nIn The Command Room, Kian's hands type on the keyboard of the sleek laptop. Leo stands beside him, looking down at the screen. The glow from the sleek laptop illuminates their hands and faces, showing a blank document on a purple desktop background. Kian wears the black smartwatch on his left wrist.",
+        "the gray internet router: Gray internet router with a plastic casing, featuring a row of small, circular blue indicator lights with printed labels underneath.\nThe blue indicator lights of the gray internet router blink steadily in the darkness of The Command Room, near Marcus. The labels beneath the lights are blurry and out of focus."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The Command Room, Kian's hands type on the keyboard of the sleek laptop. Leo stands beside him, looking down at the screen. The glow from the sleek laptop illuminates their hands and faces, showing a blank document on a purple desktop background. Kian wears the black smartwatch on his left wrist.",
+        "The blue indicator lights of the gray internet router blink steadily in the darkness of The Command Room, near Marcus. The labels beneath the lights are blurry and out of focus."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Leo",
+        "Kian",
+        "Marcus"
+      ],
+      "places": [
+        "The 15th Floor Hallway"
+      ],
+      "objects": [
+        "the black suit jacket",
+        "the hotel room door"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Zara",
+        "Kian"
+      ],
+      "places": [
+        "The 15th Floor Hallway"
+      ],
+      "objects": [
+        "the patterned blouse",
+        "the hotel room door"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "Hotel Room 1517"
+      ],
+      "objects": [
+        "the staff uniform",
+        "the white closet door",
+        "the rolling suitcase"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The 15th Floor Hallway"
+      ],
+      "objects": [
+        "the electronic door lock",
+        "the hotel room door"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [],
+      "objects": [
+        "the electronic door lock"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The 15th Floor Hallway"
+      ],
+      "objects": [
+        "the rolling suitcase",
+        "the piped blazer",
+        "the white dress shirt",
+        "the hotel room door"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Zara",
+        "Kian"
+      ],
+      "places": [
+        "The 15th Floor Hallway"
+      ],
+      "objects": [
+        "the hotel room door",
+        "the patterned blouse"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Leo",
+        "Nico"
+      ],
+      "places": [
+        "Hotel Room 1517"
+      ],
+      "objects": [
+        "the lace top"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Zara"
+      ],
+      "places": [
+        "The 15th Floor Hallway"
+      ],
+      "objects": [
+        "the patterned blouse"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Leo",
+        "Kian"
+      ],
+      "places": [
+        "The Command Room"
+      ],
+      "objects": [
+        "the sleek laptop",
+        "the black smartwatch"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Command Room"
+      ],
+      "objects": [
+        "the gray internet router"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Zara",
+      "label": "Character 1",
+      "description": "Woman with short, dark bobbed hair and a discerning expression."
+    },
+    "Character 2": {
+      "name": "Leo",
+      "label": "Character 2",
+      "description": "Man with dark, meticulously styled hair and a clean-shaven face."
+    },
+    "Character 3": {
+      "name": "Alex",
+      "label": "Character 3",
+      "description": "Person with androgynous features and short, dyed-blue hair."
+    },
+    "Character 4": {
+      "name": "Nico",
+      "label": "Character 4",
+      "description": "Young woman with long, dark wavy hair and thoughtful eyes."
+    },
+    "Character 5": {
+      "name": "Marcus",
+      "label": "Character 5",
+      "description": "Middle-aged man with graying temples."
+    },
+    "Character 6": {
+      "name": "Kian",
+      "label": "Character 6",
+      "description": "Young man with slightly disheveled dark hair and an anxious demeanor."
+    },
+    "Location 1": {
+      "name": "The 15th Floor Hallway",
+      "label": "Location 1",
+      "description": "A long, wood-paneled and carpeted hotel hallway on the 15th floor with the room number '1517' on a wall plaque."
+    },
+    "Location 2": {
+      "name": "Hotel Room 1517",
+      "label": "Location 2",
+      "description": "Modern hotel room interior with a white closet door."
+    },
+    "Location 3": {
+      "name": "The Command Room",
+      "label": "Location 3",
+      "description": "Dark tech room filled with computer equipment, including a desk with a laptop."
+    },
+    "Object 1": {
+      "name": "the black suit jacket",
+      "label": "Object 1",
+      "description": "Dark black men's suit jacket"
+    },
+    "Object 2": {
+      "name": "the patterned blouse",
+      "label": "Object 2",
+      "description": "Woman's blouse with a black and white pattern"
+    },
+    "Object 3": {
+      "name": "the piped blazer",
+      "label": "Object 3",
+      "description": "Man's black jacket featuring white piping and white trim."
+    },
+    "Object 4": {
+      "name": "the lace top",
+      "label": "Object 4",
+      "description": "A woman's top made from a distinctive black and white lace material."
+    },
+    "Object 5": {
+      "name": "the rolling suitcase",
+      "label": "Object 5",
+      "description": "Black rectangular rolling suitcase with a retractable handle and wheels on its base"
+    },
+    "Object 6": {
+      "name": "the white dress shirt",
+      "label": "Object 6",
+      "description": "Man's long-sleeved dress shirt made of a crisp white material, with a pointed collar and a button-front closure."
+    },
+    "Object 7": {
+      "name": "the hotel room door",
+      "label": "Object 7",
+      "description": "Wooden hotel room door with a small central peephole and polished brass numbers reading '1517', fitted with an electronic door lock."
+    },
+    "Object 8": {
+      "name": "the staff uniform",
+      "label": "Object 8",
+      "description": "A solid black, professional hotel staff uniform consisting of a clean-cut jacket and matching trousers."
+    },
+    "Object 9": {
+      "name": "the white closet door",
+      "label": "Object 9",
+      "description": "Standard white six-panel wooden closet door with a smooth painted finish and a small, round polished brass knob"
+    },
+    "Object 10": {
+      "name": "the electronic door lock",
+      "label": "Object 10",
+      "description": "An electronic door lock with a black rectangular face and a silver metallic border, featuring a digital keypad with numbered buttons."
+    },
+    "Object 11": {
+      "name": "the sleek laptop",
+      "label": "Object 11",
+      "description": "Sleek, modern laptop with a thin-profile matte black aluminum chassis, a backlit chiclet-style keyboard, a large trackpad, and a screen with a very thin bezel."
+    },
+    "Object 12": {
+      "name": "the black smartwatch",
+      "label": "Object 12",
+      "description": "Smartwatch with a matte black case, a rectangular screen displaying purple digital information, and a black silicone band."
+    },
+    "Object 13": {
+      "name": "the gray internet router",
+      "label": "Object 13",
+      "description": "Gray internet router with a plastic casing, featuring a row of small, circular blue indicator lights with printed labels underneath."
+    }
+  },
+  "_window_shot_ids": [
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0027",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0028",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0029",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0030",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0031",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0032",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0033",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0035",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0036",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0038",
+    "000785f7-48d3-3a68-8ba7-82566cd6d77c__run893__i30_j43__T180__shot0039"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Zara",
+    "Character 2": "Leo",
+    "Character 3": "Alex",
+    "Character 4": "Nico",
+    "Character 5": "Marcus",
+    "Character 6": "Kian",
+    "Location 1": "The 15th Floor Hallway",
+    "Location 2": "Hotel Room 1517",
+    "Location 3": "The Command Room",
+    "Object 1": "the black suit jacket",
+    "Object 10": "the electronic door lock",
+    "Object 11": "the sleek laptop",
+    "Object 12": "the black smartwatch",
+    "Object 13": "the gray internet router",
+    "Object 2": "the patterned blouse",
+    "Object 3": "the piped blazer",
+    "Object 4": "the lace top",
+    "Object 5": "the rolling suitcase",
+    "Object 6": "the white dress shirt",
+    "Object 7": "the hotel room door",
+    "Object 8": "the staff uniform",
+    "Object 9": "the white closet door"
+  }
+}

@@ -1,0 +1,1240 @@
+{
+  "story_name": "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300",
+  "story_overview": "In a sterile, oppressive facility, Fiona and Leo attempt a cautious escape, monitored by security cameras. Meanwhile, Anya and Silas work from a cluttered workshop, seemingly part of a larger plan involving hiding in laundry carts, as tensions rise between the captives and their unseen observers.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Fiona: Young woman with long curly red hair falling past her shoulders, fair skin with light freckles, wearing a fitted sage-green vintage A-line dress with a Peter Pan collar and short puffed sleeves, a thin brown leather belt at the waist, and brown lace-up ankle boots.\nThe Sterile Corridor: A sterile institutional hallway complex with a green and blue color palette, featuring a set of institutional doors and a blue poster on a wall.\n\nA close-up profile shot of Fiona leaning against a wall in the dimly lit The Sterile Corridor. Fiona's sad and pensive expression deepens as she slowly looks down toward the floor.",
+        "Leo: Young man wearing a dark hoodie/sweatshirt with a smiley face graphic on it.\nthe motivational poster: Yellow poster with the phrase 'YOUR TIME TO SHINE' printed in blue, all-caps text.\n\nFrom a low angle in The Sterile Corridor, Leo, wearing the smiley face hoodie, cautiously peeks around a corner, passing the motivational poster on the wall. Fiona follows close behind, leaning in to look over his shoulder with a worried expression.",
+        "Dmitri: Bald man with a beard, wearing a dark jacket.\n\nLong shot looking through the open institutional double doors down the dimly lit The Sterile Corridor. In the far distance, Dmitri sprints away from the camera down the length of the hallway.",
+        "the stark face poster: Rectangular paper poster, slightly yellowed and worn at the edges, featuring a stark, high-contrast black-and-white graphic of a severe, stylized face with bold, black, all-caps text underneath.\n\nMedium-long shot from behind Leo as he walks down a dimly lit corridor in The Sterile Corridor, passing the stark face poster on the left wall. Leo turns a corner to the right, exiting the frame.",
+        "Close-up view from behind Fiona as she walks down the corridor in The Sterile Corridor. The atmosphere is somber and tense, with long shadows cast across the floor and walls.",
+        "the red-eye security camera: Black, dome-shaped security camera and scanner with a central red light element.\n\nView from behind Dmitri as he walks up to the wall-mounted the red-eye security camera in the dimly lit Sterile Corridor. He raises his hand toward the device, which begins to glow with a brighter red light in response.",
+        "the ground floor elevator: Elevator with closed metal doors and an adjacent 'Floor '1' sign.\n\nIn the dimly lit The Sterile Corridor, Fiona waits in front of the ground floor elevator, seen from behind and in profile. She shifts her weight and glances down the hall.",
+        "Leo stands inside The Sterile Corridor with a startled expression as the metal doors of the ground floor elevator slide shut."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "A close-up profile shot of Fiona leaning against a wall in the dimly lit The Sterile Corridor. Fiona's sad and pensive expression deepens as she slowly looks down toward the floor.",
+        "From a low angle in The Sterile Corridor, Leo, wearing the smiley face hoodie, cautiously peeks around a corner, passing the motivational poster on the wall. Fiona follows close behind, leaning in to look over his shoulder with a worried expression.",
+        "Long shot looking through the open institutional double doors down the dimly lit The Sterile Corridor. In the far distance, Dmitri sprints away from the camera down the length of the hallway.",
+        "Medium-long shot from behind Leo as he walks down a dimly lit corridor in The Sterile Corridor, passing the stark face poster on the left wall. Leo turns a corner to the right, exiting the frame.",
+        "Close-up view from behind Fiona as she walks down the corridor in The Sterile Corridor. The atmosphere is somber and tense, with long shadows cast across the floor and walls.",
+        "View from behind Dmitri as he walks up to the wall-mounted the red-eye security camera in the dimly lit Sterile Corridor. He raises his hand toward the device, which begins to glow with a brighter red light in response.",
+        "In the dimly lit The Sterile Corridor, Fiona waits in front of the ground floor elevator, seen from behind and in profile. She shifts her weight and glances down the hall.",
+        "Leo stands inside The Sterile Corridor with a startled expression as the metal doors of the ground floor elevator slide shut."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Silas: Man with a prominent mustache and a visible scar on his cheek, wearing a dark cardigan over a light blue collared shirt and a dark tie.\nThe Cluttered Workshop: Cluttered indoor workshop and storage room with red storage shelves filled with various items.\nthe cluttered red shelves: Red-orange industrial metal storage shelves, heavily cluttered with a dense assortment of various tools, boxes, and miscellaneous workshop items.\n\nA close-up of Silas speaking with a concerned, wide-eyed expression inside The Cluttered Workshop. In the background, the cluttered red shelves is filled with various items which are slightly out of focus."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A close-up of Silas speaking with a concerned, wide-eyed expression inside The Cluttered Workshop. In the background, the cluttered red shelves is filled with various items which are slightly out of focus."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Anya: Woman with long dark hair, a slender build, and a serious expression, wearing a navy blue button-down shirt with the sleeves rolled to her elbows, dark fitted trousers, and practical black boots.\nThe Bare Room: A non-descript indoor room with plain, unadorned walls and a dark color palette.\n\nAnya speaks with a serious expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Anya speaks with a serious expression."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Close-up of Silas speaking with a distressed expression in The Cluttered Workshop. He briefly closes his eyes as if pained, with the cluttered red shelves in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Silas speaking with a distressed expression in The Cluttered Workshop. He briefly closes his eyes as if pained, with the cluttered red shelves in the background."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Close-up shot of Anya in The Bare Room, speaking with a serious expression. In the out-of-focus background, the white rectangular outline hangs on the wall."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot of Anya in The Bare Room, speaking with a serious expression. In the out-of-focus background, the white rectangular outline hangs on the wall."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "the stylized eye pin: Small pin shaped like a stylized eye.\n\nClose-up of Silas, wearing the stylized eye pin, standing in the dimly lit The Cluttered Workshop. His serious expression tightens as he looks intently off-screen. Behind him, the cluttered red shelves fill the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Silas, wearing the stylized eye pin, standing in the dimly lit The Cluttered Workshop. His serious expression tightens as he looks intently off-screen. Behind him, the cluttered red shelves fill the background."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Medium shot inside the ground floor elevator. Leo, wearing the smiley face hoodie, stands with Fiona. He shifts his weight slightly and glances up toward the ceiling with a neutral expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot inside the ground floor elevator. Leo, wearing the smiley face hoodie, stands with Fiona. He shifts his weight slightly and glances up toward the ceiling with a neutral expression."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "The Observation Room: Interior room with a dark ceiling, featuring a mounted black dome security camera/scanner with a small red light and a cool, greenish fluorescent light fixture.\n\nSilas, partially visible nearby, glances up toward the red-eye security camera mounted on the ceiling. The camera's small red light blinks periodically."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Silas, partially visible nearby, glances up toward the red-eye security camera mounted on the ceiling. The camera's small red light blinks periodically."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Medium shot of Fiona standing alone in The Sterile Corridor. The elevator doors (the ground floor elevator) are closed. She carefully surveys the interior, her gaze moving from the smiley face hoodie lying on the floor to the yellow motivational poster fixed to the wall."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Fiona standing alone in The Sterile Corridor. The elevator doors (the ground floor elevator) are closed. She carefully surveys the interior, her gaze moving from the smiley face hoodie lying on the floor to the yellow motivational poster fixed to the wall."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Medium shot of Fiona as she steps out from a doorway into the dark, green-lit The Sterile Corridor. She looks around with a curious expression before proceeding down the empty corridor.",
+        "Alex: No stable appearance details are provided.\nthe harsh fluorescent lights: Rectangular, institutional-style overhead light fixtures that emit a harsh, greenish-blue light.\nLow-angle long shot from behind Leo and Alex as they walk away down the long hallway of The Sterile Corridor. The corridor is lit by the harsh, greenish-blue glow of the harsh fluorescent lights, which casts deep, eerie shadows across the scene.",
+        "Fiona walks towards the camera down a dark corridor of The Sterile Corridor, which is lit with a blue-green glow, wearing the smiley face hoodie. As she walks, her eyes widen and her mouth falls slightly open in shock."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot of Fiona as she steps out from a doorway into the dark, green-lit The Sterile Corridor. She looks around with a curious expression before proceeding down the empty corridor.",
+        "Low-angle long shot from behind Leo and Alex as they walk away down the long hallway of The Sterile Corridor. The corridor is lit by the harsh, greenish-blue glow of the harsh fluorescent lights, which casts deep, eerie shadows across the scene.",
+        "Fiona walks towards the camera down a dark corridor of The Sterile Corridor, which is lit with a blue-green glow, wearing the smiley face hoodie. As she walks, her eyes widen and her mouth falls slightly open in shock."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "Close-up of Anya in The Bare Room. With a serious expression, Anya slowly looks up at Leo. the stylized eye pin is pinned to her collar."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Anya in The Bare Room. With a serious expression, Anya slowly looks up at Leo. the stylized eye pin is pinned to her collar."
+      ]
+    },
+    {
+      "scene_num": 12,
+      "video_prompts": [
+        "the assorted desk lamps: A collection of miscellaneous, unmatched table and desk lamps in various styles and states of repair.\n\nMedium shot in the dimly lit The Cluttered Workshop. Silas stands in profile talking, while Dmitri stands beside him listening. Anya walks past the two men, moving deeper into the workshop. The background is filled with the cluttered red shelves, its shelves crowded with tools, boxes, and the assorted desk lamps.",
+        "Inside the dimly lit and cluttered The Cluttered Workshop, Leo walks away down a narrow aisle between the tall cluttered red shelves. In the background, Anya's gaze follows Leo as he walks away."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in the dimly lit The Cluttered Workshop. Silas stands in profile talking, while Dmitri stands beside him listening. Anya walks past the two men, moving deeper into the workshop. The background is filled with the cluttered red shelves, its shelves crowded with tools, boxes, and the assorted desk lamps.",
+        "Inside the dimly lit and cluttered The Cluttered Workshop, Leo walks away down a narrow aisle between the tall cluttered red shelves. In the background, Anya's gaze follows Leo as he walks away."
+      ]
+    },
+    {
+      "scene_num": 13,
+      "video_prompts": [
+        "the blurry poster: Rectangular poster with a blurry and out-of-focus image, rendering its specific content and colors indistinct.\n\nClose-up on the face of Anya in The Bare Room. Her eyes widen in shock and surprise as an unseen light illuminates her face. In the background, the blurry poster is visible on the dark wall."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on the face of Anya in The Bare Room. Her eyes widen in shock and surprise as an unseen light illuminates her face. In the background, the blurry poster is visible on the dark wall."
+      ]
+    },
+    {
+      "scene_num": 14,
+      "video_prompts": [
+        "Fiona stands alone in the long, dark, green-lit The Sterile Corridor. She is wearing the smiley face hoodie and looks around with a scared expression on her bruised face."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Fiona stands alone in the long, dark, green-lit The Sterile Corridor. She is wearing the smiley face hoodie and looks around with a scared expression on her bruised face."
+      ]
+    },
+    {
+      "scene_num": 15,
+      "video_prompts": [
+        "In a close-up profile, Anya's worried expression deepens slightly as she looks intently off-screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a close-up profile, Anya's worried expression deepens slightly as she looks intently off-screen."
+      ]
+    },
+    {
+      "scene_num": 16,
+      "video_prompts": [
+        "Fiona freezes, her eyes widening in terror as she stares forward, a single white earbud in her right ear. Anya stands beside her, her gaze darting towards what Fiona is looking at. The hallway is lit by the harsh, greenish glow of the harsh fluorescent lights.",
+        "In the dark, green-lit corridor of The Sterile Corridor, Anya turns her head toward the camera with a surprised and concerned expression, reacting to someone's arrival."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Fiona freezes, her eyes widening in terror as she stares forward, a single white earbud in her right ear. Anya stands beside her, her gaze darting towards what Fiona is looking at. The hallway is lit by the harsh, greenish glow of the harsh fluorescent lights.",
+        "In the dark, green-lit corridor of The Sterile Corridor, Anya turns her head toward the camera with a surprised and concerned expression, reacting to someone's arrival."
+      ]
+    },
+    {
+      "scene_num": 17,
+      "video_prompts": [
+        "the old workshop equipment: A collection of miscellaneous old workshop equipment in various shapes and sizes, appearing dusty, grimy, and worn, with some metal components showing patches of rust and discoloration.\n\nFrom behind the silhouette of Alex, she listens as Silas talks to her in the dimly lit The Cluttered Workshop. The room is filled with the cluttered red shelves holding the old workshop equipment under a dim, greenish light."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "From behind the silhouette of Alex, she listens as Silas talks to her in the dimly lit The Cluttered Workshop. The room is filled with the cluttered red shelves holding the old workshop equipment under a dim, greenish light."
+      ]
+    },
+    {
+      "scene_num": 18,
+      "video_prompts": [
+        "In a dark, blue-tinted corridor of The Sterile Corridor, Leo, wearing the smiley face hoodie, looks down the long hall at Anya, who is silhouetted in a distant doorway. Leo then walks out of the frame, leaving a static view of the empty hall."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a dark, blue-tinted corridor of The Sterile Corridor, Leo, wearing the smiley face hoodie, looks down the long hall at Anya, who is silhouetted in a distant doorway. Leo then walks out of the frame, leaving a static view of the empty hall."
+      ]
+    },
+    {
+      "scene_num": 19,
+      "video_prompts": [
+        "In the dimly lit The Cluttered Workshop, Silas speaks with an earnest expression. The background is filled with the cluttered red shelves and various pieces of the old workshop equipment."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Cluttered Workshop, Silas speaks with an earnest expression. The background is filled with the cluttered red shelves and various pieces of the old workshop equipment."
+      ]
+    },
+    {
+      "scene_num": 20,
+      "video_prompts": [
+        "Medium over-the-shoulder shot in The Sterile Corridor. Anya takes a step towards Leo to confront him, her expression serious. Leo remains still with his back to the camera. Alex stands slightly to the side, his gaze shifting between them as he observes the tense standoff. The scene is illuminated by the harsh, greenish-blue light from the harsh fluorescent lights, casting long shadows."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium over-the-shoulder shot in The Sterile Corridor. Anya takes a step towards Leo to confront him, her expression serious. Leo remains still with his back to the camera. Alex stands slightly to the side, his gaze shifting between them as he observes the tense standoff. The scene is illuminated by the harsh, greenish-blue light from the harsh fluorescent lights, casting long shadows."
+      ]
+    },
+    {
+      "scene_num": 21,
+      "video_prompts": [
+        "In the dimly lit The Cluttered Workshop, seen from over a silhouetted shoulder, Silas gestures earnestly while speaking to Anya. The background is filled with the cluttered red shelves holding the old workshop equipment."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Cluttered Workshop, seen from over a silhouetted shoulder, Silas gestures earnestly while speaking to Anya. The background is filled with the cluttered red shelves holding the old workshop equipment."
+      ]
+    },
+    {
+      "scene_num": 22,
+      "video_prompts": [
+        "From over the shoulder of a silhouetted Alex, Anya speaks with a concerned expression to Silas, who listens intently in the blue-lit hallway of The Sterile Corridor."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "From over the shoulder of a silhouetted Alex, Anya speaks with a concerned expression to Silas, who listens intently in the blue-lit hallway of The Sterile Corridor."
+      ]
+    },
+    {
+      "scene_num": 23,
+      "video_prompts": [
+        "Inside The Cluttered Workshop, Silas and Anya stand, looking around the room at the various items on the shelves."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Cluttered Workshop, Silas and Anya stand, looking around the room at the various items on the shelves."
+      ]
+    },
+    {
+      "scene_num": 24,
+      "video_prompts": [
+        "In The Sterile Corridor, Anya looks towards Leo, her expression concerned as she begins to speak.",
+        "A wide view of Anya walking into the center of the long The Sterile Corridor. Anya pauses and looks around cautiously. The Sterile Corridor is lit by the harsh fluorescent lights and lined on both sides with several identical, closed institutional double doors."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In The Sterile Corridor, Anya looks towards Leo, her expression concerned as she begins to speak.",
+        "A wide view of Anya walking into the center of the long The Sterile Corridor. Anya pauses and looks around cautiously. The Sterile Corridor is lit by the harsh fluorescent lights and lined on both sides with several identical, closed institutional double doors."
+      ]
+    },
+    {
+      "scene_num": 25,
+      "video_prompts": [
+        "Stark shadows fall across The Bare Room. Anya looks up with an expression of intense focus."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Stark shadows fall across The Bare Room. Anya looks up with an expression of intense focus."
+      ]
+    },
+    {
+      "scene_num": 26,
+      "video_prompts": [
+        "Fiona, wearing the smiley face hoodie, cautiously peeks from behind a corner with a fearful expression. In the distance, a silhouetted figure walks away down the hall.",
+        "A scared figure wearing the smiley face hoodie peeks from behind a wall at Fiona and Anya in the dimly lit hallway. They then hurry down the hall and enter an open doorway into The Cluttered Workshop.",
+        "the wire mesh bin: Large, rectangular industrial bin constructed from a grey metal wire mesh grid, mounted on four small caster wheels.\nFrom a low angle, Fiona walks cautiously through the dimly lit The Cluttered Workshop. She passes the wire mesh bin, which is piled with the pile of pillows, and stops, staring intently at something just off-screen.",
+        "Fiona and Dmitri stand by the institutional double doors, turning to look at the motivational poster mounted on the wall beside them.",
+        "Full shot of Fiona standing in the middle of The Sterile Corridor, positioned in front of the doors of the ground floor elevator. Her expression is somber as she slowly lifts her gaze to look towards the camera.",
+        "Irene: Older woman with dark hair pulled back from her face, wearing a black collared shirt.\n\nMedium shot of Irene and Silas standing in a narrow, dimly lit section of The Sterile Corridor. Her expression softens into a faint smile as she shifts her gaze forward. the motivational poster is posted on the wall behind her.",
+        "Over-the-shoulder shot from behind a figure in silhouette, looking down the green-tinted hallway of The Sterile Corridor. Anya stands with her hands clasped behind her back, taking a slow breath as she faces Leo and Silas, who stand together opposite her.",
+        "Long shot down a dark, narrow corridor in The Sterile Corridor, illuminated by the harsh fluorescent lights. A silhouetted Anya pushes the wire mesh bin out from a side doorway and stops in the middle of the hallway, which is lined with closed institutional double doors.",
+        "In the dimly lit The Sterile Corridor, Anya stands with a concerned expression next to the motivational poster. The camera pans left, moving past her to reveal Fiona pushing the wire mesh bin down the hallway."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Fiona, wearing the smiley face hoodie, cautiously peeks from behind a corner with a fearful expression. In the distance, a silhouetted figure walks away down the hall.",
+        "A scared figure wearing the smiley face hoodie peeks from behind a wall at Fiona and Anya in the dimly lit hallway. They then hurry down the hall and enter an open doorway into The Cluttered Workshop.",
+        "From a low angle, Fiona walks cautiously through the dimly lit The Cluttered Workshop. She passes the wire mesh bin, which is piled with the pile of pillows, and stops, staring intently at something just off-screen.",
+        "Fiona and Dmitri stand by the institutional double doors, turning to look at the motivational poster mounted on the wall beside them.",
+        "Full shot of Fiona standing in the middle of The Sterile Corridor, positioned in front of the doors of the ground floor elevator. Her expression is somber as she slowly lifts her gaze to look towards the camera.",
+        "Medium shot of Irene and Silas standing in a narrow, dimly lit section of The Sterile Corridor. Her expression softens into a faint smile as she shifts her gaze forward. the motivational poster is posted on the wall behind her.",
+        "Over-the-shoulder shot from behind a figure in silhouette, looking down the green-tinted hallway of The Sterile Corridor. Anya stands with her hands clasped behind her back, taking a slow breath as she faces Leo and Silas, who stand together opposite her.",
+        "Long shot down a dark, narrow corridor in The Sterile Corridor, illuminated by the harsh fluorescent lights. A silhouetted Anya pushes the wire mesh bin out from a side doorway and stops in the middle of the hallway, which is lined with closed institutional double doors.",
+        "In the dimly lit The Sterile Corridor, Anya stands with a concerned expression next to the motivational poster. The camera pans left, moving past her to reveal Fiona pushing the wire mesh bin down the hallway."
+      ]
+    },
+    {
+      "scene_num": 27,
+      "video_prompts": [
+        "The Facility Laundry: Institutional laundry room with swinging doors, metal shelves, and large wheeled carts with stacks of white linens.\n\nInside the dark, institutional The Facility Laundry at night, Anya pushes the wire mesh bin through a set of swinging doors in the background. The room is filled with shelves and other carts holding stacks of white linens."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside the dark, institutional The Facility Laundry at night, Anya pushes the wire mesh bin through a set of swinging doors in the background. The room is filled with shelves and other carts holding stacks of white linens."
+      ]
+    },
+    {
+      "scene_num": 28,
+      "video_prompts": [
+        "The Maintenance Crawlspace: Dark, cramped, green-toned crawlspace with a metal grate set into the ceiling.\nthe corroded ceiling grate: A square, corroded metal grate with a dark, grimy finish and a simple crosshatch lattice pattern.\n\nInside the dark and cramped The Maintenance Crawlspace, Leo reaches up towards the corroded ceiling grate in the ceiling. Anya crouches beside him, looking up intently at the grate as an eerie green light illuminates the space."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside the dark and cramped The Maintenance Crawlspace, Leo reaches up towards the corroded ceiling grate in the ceiling. Anya crouches beside him, looking up intently at the grate as an eerie green light illuminates the space."
+      ]
+    },
+    {
+      "scene_num": 29,
+      "video_prompts": [
+        "the stack of folded linens: A tall, neat stack of crisply folded white linens and sheets.\n\nLow angle shot in The Facility Laundry. Fiona sorts laundry, placing items into the wire mesh bin. Leo stands nearby, watching her and occasionally shifting his weight. The stack of folded linens rests on a metal shelf, and the room is lit by the harsh fluorescent lights on the ceiling.",
+        "Inside the dimly lit The Facility Laundry, Silas climbs into a large wire laundry cart, the wire mesh bin. Leo helps him, then piles folded white linens from a tall stack, the stack of folded linens, on top of Silas, completely concealing him inside the cart."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Low angle shot in The Facility Laundry. Fiona sorts laundry, placing items into the wire mesh bin. Leo stands nearby, watching her and occasionally shifting his weight. The stack of folded linens rests on a metal shelf, and the room is lit by the harsh fluorescent lights on the ceiling.",
+        "Inside the dimly lit The Facility Laundry, Silas climbs into a large wire laundry cart, the wire mesh bin. Leo helps him, then piles folded white linens from a tall stack, the stack of folded linens, on top of Silas, completely concealing him inside the cart."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": []
+    },
+    "1:2": {
+      "characters": [
+        "Fiona",
+        "Leo"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the smiley face hoodie",
+        "the motivational poster"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Dmitri"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the institutional double doors"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the stark face poster"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": []
+    },
+    "1:6": {
+      "characters": [
+        "Dmitri"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the red-eye security camera"
+      ]
+    },
+    "1:7": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the ground floor elevator"
+      ]
+    },
+    "1:8": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the ground floor elevator"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Cluttered Workshop"
+      ],
+      "objects": [
+        "the cluttered red shelves"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Anya"
+      ],
+      "places": [
+        "The Bare Room"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Cluttered Workshop"
+      ],
+      "objects": [
+        "the cluttered red shelves"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Anya"
+      ],
+      "places": [
+        "The Bare Room"
+      ],
+      "objects": [
+        "the white rectangular outline"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Cluttered Workshop"
+      ],
+      "objects": [
+        "the stylized eye pin",
+        "the cluttered red shelves"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Fiona",
+        "Leo"
+      ],
+      "places": [],
+      "objects": [
+        "the smiley face hoodie",
+        "the ground floor elevator"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Observation Room"
+      ],
+      "objects": [
+        "the red-eye security camera"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the smiley face hoodie",
+        "the motivational poster",
+        "the ground floor elevator"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": []
+    },
+    "10:2": {
+      "characters": [
+        "Leo",
+        "Alex"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the harsh fluorescent lights"
+      ]
+    },
+    "10:3": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the smiley face hoodie"
+      ]
+    },
+    "11:1": {
+      "characters": [
+        "Anya",
+        "Leo"
+      ],
+      "places": [
+        "The Bare Room"
+      ],
+      "objects": [
+        "the stylized eye pin"
+      ]
+    },
+    "12:1": {
+      "characters": [
+        "Anya",
+        "Silas",
+        "Dmitri"
+      ],
+      "places": [
+        "The Cluttered Workshop"
+      ],
+      "objects": [
+        "the cluttered red shelves",
+        "the assorted desk lamps"
+      ]
+    },
+    "12:2": {
+      "characters": [
+        "Anya",
+        "Leo"
+      ],
+      "places": [
+        "The Cluttered Workshop"
+      ],
+      "objects": [
+        "the cluttered red shelves"
+      ]
+    },
+    "13:1": {
+      "characters": [
+        "Anya"
+      ],
+      "places": [
+        "The Bare Room"
+      ],
+      "objects": [
+        "the blurry poster"
+      ]
+    },
+    "14:1": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the smiley face hoodie"
+      ]
+    },
+    "15:1": {
+      "characters": [
+        "Anya"
+      ],
+      "places": [
+        "The Bare Room"
+      ],
+      "objects": []
+    },
+    "16:1": {
+      "characters": [
+        "Fiona",
+        "Anya"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the harsh fluorescent lights",
+        "the single earbud"
+      ]
+    },
+    "16:2": {
+      "characters": [
+        "Anya"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": []
+    },
+    "17:1": {
+      "characters": [
+        "Silas",
+        "Alex"
+      ],
+      "places": [
+        "The Cluttered Workshop"
+      ],
+      "objects": [
+        "the cluttered red shelves",
+        "the old workshop equipment"
+      ]
+    },
+    "18:1": {
+      "characters": [
+        "Anya",
+        "Leo"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the smiley face hoodie"
+      ]
+    },
+    "19:1": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Cluttered Workshop"
+      ],
+      "objects": [
+        "the cluttered red shelves",
+        "the old workshop equipment"
+      ]
+    },
+    "20:1": {
+      "characters": [
+        "Anya",
+        "Leo",
+        "Alex"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the harsh fluorescent lights"
+      ]
+    },
+    "21:1": {
+      "characters": [
+        "Anya",
+        "Silas"
+      ],
+      "places": [
+        "The Cluttered Workshop"
+      ],
+      "objects": [
+        "the cluttered red shelves",
+        "the old workshop equipment"
+      ]
+    },
+    "22:1": {
+      "characters": [
+        "Anya",
+        "Silas",
+        "Alex"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": []
+    },
+    "23:1": {
+      "characters": [
+        "Silas",
+        "Anya"
+      ],
+      "places": [
+        "The Cluttered Workshop"
+      ],
+      "objects": []
+    },
+    "24:1": {
+      "characters": [
+        "Leo",
+        "Anya"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": []
+    },
+    "24:2": {
+      "characters": [
+        "Anya"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the harsh fluorescent lights"
+      ]
+    },
+    "25:1": {
+      "characters": [
+        "Anya"
+      ],
+      "places": [
+        "The Bare Room"
+      ],
+      "objects": []
+    },
+    "26:1": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the smiley face hoodie"
+      ]
+    },
+    "26:2": {
+      "characters": [
+        "Fiona",
+        "Anya"
+      ],
+      "places": [
+        "The Sterile Corridor",
+        "The Cluttered Workshop"
+      ],
+      "objects": [
+        "the smiley face hoodie"
+      ]
+    },
+    "26:3": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [
+        "The Cluttered Workshop"
+      ],
+      "objects": [
+        "the wire mesh bin",
+        "the pile of pillows"
+      ]
+    },
+    "26:4": {
+      "characters": [
+        "Fiona",
+        "Dmitri"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the institutional double doors",
+        "the motivational poster"
+      ]
+    },
+    "26:5": {
+      "characters": [
+        "Fiona"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the ground floor elevator"
+      ]
+    },
+    "26:6": {
+      "characters": [
+        "Silas",
+        "Irene"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the motivational poster"
+      ]
+    },
+    "26:7": {
+      "characters": [
+        "Leo",
+        "Anya",
+        "Silas"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": []
+    },
+    "26:8": {
+      "characters": [
+        "Anya"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the institutional double doors",
+        "the harsh fluorescent lights",
+        "the wire mesh bin"
+      ]
+    },
+    "26:9": {
+      "characters": [
+        "Fiona",
+        "Anya"
+      ],
+      "places": [
+        "The Sterile Corridor"
+      ],
+      "objects": [
+        "the motivational poster",
+        "the wire mesh bin"
+      ]
+    },
+    "27:1": {
+      "characters": [
+        "Anya"
+      ],
+      "places": [
+        "The Facility Laundry"
+      ],
+      "objects": [
+        "the wire mesh bin"
+      ]
+    },
+    "28:1": {
+      "characters": [
+        "Anya",
+        "Leo"
+      ],
+      "places": [
+        "The Maintenance Crawlspace"
+      ],
+      "objects": [
+        "the corroded ceiling grate"
+      ]
+    },
+    "29:1": {
+      "characters": [
+        "Fiona",
+        "Leo"
+      ],
+      "places": [
+        "The Facility Laundry"
+      ],
+      "objects": [
+        "the wire mesh bin",
+        "the stack of folded linens",
+        "the harsh fluorescent lights"
+      ]
+    },
+    "29:2": {
+      "characters": [
+        "Silas",
+        "Leo"
+      ],
+      "places": [
+        "The Facility Laundry"
+      ],
+      "objects": [
+        "the wire mesh bin",
+        "the stack of folded linens"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Dmitri",
+      "label": "Character 1",
+      "description": "Bald man with a beard, wearing a dark jacket."
+    },
+    "Character 2": {
+      "name": "Fiona",
+      "label": "Character 2",
+      "description": "Young woman with long curly red hair falling past her shoulders, fair skin with light freckles, wearing a fitted sage-green vintage A-line dress with a Peter Pan collar and short puffed sleeves, a thin brown leather belt at the waist, and brown lace-up ankle boots."
+    },
+    "Character 3": {
+      "name": "Leo",
+      "label": "Character 3",
+      "description": "Young man wearing a dark hoodie/sweatshirt with a smiley face graphic on it."
+    },
+    "Character 4": {
+      "name": "Silas",
+      "label": "Character 4",
+      "description": "Man with a prominent mustache and a visible scar on his cheek, wearing a dark cardigan over a light blue collared shirt and a dark tie."
+    },
+    "Character 5": {
+      "name": "Alex",
+      "label": "Character 5",
+      "description": "No stable appearance details are provided."
+    },
+    "Character 6": {
+      "name": "Anya",
+      "label": "Character 6",
+      "description": "Woman with long dark hair, a slender build, and a serious expression, wearing a navy blue button-down shirt with the sleeves rolled to her elbows, dark fitted trousers, and practical black boots."
+    },
+    "Character 7": {
+      "name": "Irene",
+      "label": "Character 7",
+      "description": "Older woman with dark hair pulled back from her face, wearing a black collared shirt."
+    },
+    "Location 1": {
+      "name": "The Bare Room",
+      "label": "Location 1",
+      "description": "A non-descript indoor room with plain, unadorned walls and a dark color palette."
+    },
+    "Location 2": {
+      "name": "The Sterile Corridor",
+      "label": "Location 2",
+      "description": "A sterile institutional hallway complex with a green and blue color palette, featuring a set of institutional doors and a blue poster on a wall."
+    },
+    "Location 3": {
+      "name": "The Cluttered Workshop",
+      "label": "Location 3",
+      "description": "Cluttered indoor workshop and storage room with red storage shelves filled with various items."
+    },
+    "Location 4": {
+      "name": "The Observation Room",
+      "label": "Location 4",
+      "description": "Interior room with a dark ceiling, featuring a mounted black dome security camera/scanner with a small red light and a cool, greenish fluorescent light fixture."
+    },
+    "Location 5": {
+      "name": "The Facility Laundry",
+      "label": "Location 5",
+      "description": "Institutional laundry room with swinging doors, metal shelves, and large wheeled carts with stacks of white linens."
+    },
+    "Location 6": {
+      "name": "The Maintenance Crawlspace",
+      "label": "Location 6",
+      "description": "Dark, cramped, green-toned crawlspace with a metal grate set into the ceiling."
+    },
+    "Object 1": {
+      "name": "the institutional double doors",
+      "label": "Object 1",
+      "description": "A pair of identical institutional doors"
+    },
+    "Object 2": {
+      "name": "the smiley face hoodie",
+      "label": "Object 2",
+      "description": "Dark black hooded sweatshirt featuring a smiley face graphic on the front"
+    },
+    "Object 3": {
+      "name": "the motivational poster",
+      "label": "Object 3",
+      "description": "Yellow poster with the phrase 'YOUR TIME TO SHINE' printed in blue, all-caps text."
+    },
+    "Object 4": {
+      "name": "the stark face poster",
+      "label": "Object 4",
+      "description": "Rectangular paper poster, slightly yellowed and worn at the edges, featuring a stark, high-contrast black-and-white graphic of a severe, stylized face with bold, black, all-caps text underneath."
+    },
+    "Object 5": {
+      "name": "the red-eye security camera",
+      "label": "Object 5",
+      "description": "Black, dome-shaped security camera and scanner with a central red light element."
+    },
+    "Object 6": {
+      "name": "the ground floor elevator",
+      "label": "Object 6",
+      "description": "Elevator with closed metal doors and an adjacent 'Floor '1' sign."
+    },
+    "Object 7": {
+      "name": "the cluttered red shelves",
+      "label": "Object 7",
+      "description": "Red-orange industrial metal storage shelves, heavily cluttered with a dense assortment of various tools, boxes, and miscellaneous workshop items."
+    },
+    "Object 8": {
+      "name": "the white rectangular outline",
+      "label": "Object 8",
+      "description": "White rectangular outline"
+    },
+    "Object 9": {
+      "name": "the stylized eye pin",
+      "label": "Object 9",
+      "description": "Small pin shaped like a stylized eye."
+    },
+    "Object 10": {
+      "name": "the harsh fluorescent lights",
+      "label": "Object 10",
+      "description": "Rectangular, institutional-style overhead light fixtures that emit a harsh, greenish-blue light."
+    },
+    "Object 11": {
+      "name": "the assorted desk lamps",
+      "label": "Object 11",
+      "description": "A collection of miscellaneous, unmatched table and desk lamps in various styles and states of repair."
+    },
+    "Object 12": {
+      "name": "the blurry poster",
+      "label": "Object 12",
+      "description": "Rectangular poster with a blurry and out-of-focus image, rendering its specific content and colors indistinct."
+    },
+    "Object 13": {
+      "name": "the single earbud",
+      "label": "Object 13",
+      "description": "Single white earbud"
+    },
+    "Object 14": {
+      "name": "the old workshop equipment",
+      "label": "Object 14",
+      "description": "A collection of miscellaneous old workshop equipment in various shapes and sizes, appearing dusty, grimy, and worn, with some metal components showing patches of rust and discoloration."
+    },
+    "Object 15": {
+      "name": "the wire mesh bin",
+      "label": "Object 15",
+      "description": "Large, rectangular industrial bin constructed from a grey metal wire mesh grid, mounted on four small caster wheels."
+    },
+    "Object 16": {
+      "name": "the pile of pillows",
+      "label": "Object 16",
+      "description": "A pile of pillows"
+    },
+    "Object 17": {
+      "name": "the dark pantsuit",
+      "label": "Object 17",
+      "description": "Dark-colored two-piece pantsuit consisting of a matching blazer-style jacket and tailored trousers"
+    },
+    "Object 18": {
+      "name": "the corroded ceiling grate",
+      "label": "Object 18",
+      "description": "A square, corroded metal grate with a dark, grimy finish and a simple crosshatch lattice pattern."
+    },
+    "Object 19": {
+      "name": "the stack of folded linens",
+      "label": "Object 19",
+      "description": "A tall, neat stack of crisply folded white linens and sheets."
+    }
+  },
+  "_window_shot_ids": [
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0003",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0004",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0005",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0006",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0007",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0008",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0009",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0010",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0011",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0012",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0013",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0014",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0015",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0016",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0017",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0018",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0019",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0020",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0021",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0022",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0023",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0024",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0025",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0026",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0027",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0028",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0029",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0030",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0031",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0032",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0033",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0034",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0035",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0036",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0037",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0038",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0039",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0040",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0041",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0042",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0043",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0044",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0045",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0046",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0047",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0048",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0049",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0050",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0051",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run103__i30_j54__T300__shot0052"
+  ],
+  "_num_scenes": 29,
+  "_num_shots": 50,
+  "_name_map": {
+    "Character 1": "Dmitri",
+    "Character 2": "Fiona",
+    "Character 3": "Leo",
+    "Character 4": "Silas",
+    "Character 5": "Alex",
+    "Character 6": "Anya",
+    "Character 7": "Irene",
+    "Location 1": "The Bare Room",
+    "Location 2": "The Sterile Corridor",
+    "Location 3": "The Cluttered Workshop",
+    "Location 4": "The Observation Room",
+    "Location 5": "The Facility Laundry",
+    "Location 6": "The Maintenance Crawlspace",
+    "Object 1": "the institutional double doors",
+    "Object 10": "the harsh fluorescent lights",
+    "Object 11": "the assorted desk lamps",
+    "Object 12": "the blurry poster",
+    "Object 13": "the single earbud",
+    "Object 14": "the old workshop equipment",
+    "Object 15": "the wire mesh bin",
+    "Object 16": "the pile of pillows",
+    "Object 17": "the dark pantsuit",
+    "Object 18": "the corroded ceiling grate",
+    "Object 19": "the stack of folded linens",
+    "Object 2": "the smiley face hoodie",
+    "Object 3": "the motivational poster",
+    "Object 4": "the stark face poster",
+    "Object 5": "the red-eye security camera",
+    "Object 6": "the ground floor elevator",
+    "Object 7": "the cluttered red shelves",
+    "Object 8": "the white rectangular outline",
+    "Object 9": "the stylized eye pin"
+  }
+}

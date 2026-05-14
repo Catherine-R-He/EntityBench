@@ -1,0 +1,1148 @@
+{
+  "story_name": "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420",
+  "story_overview": "Following a mysterious event involving a strange green glow that leaves Isabel in distress, her friends and colleagues gather. At the police captain's office, Marcus, Julian, and others investigate the incident with increasing urgency and concern. Meanwhile, related characters like Leo and Chloe are shown in separate locations, hinting at a wider conspiracy.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Isabel: Female police officer with dark hair tied back.\nThe Dimly Lit Bedroom: An indoor bedroom with dark furnishings, including a bed and a bedside lamp.\n\nExtreme close-up in The Dimly Lit Bedroom, focusing on Isabel's face in profile. Her face is dramatically lit from one side against the dark background. With a pained, tearful expression, Isabel cries, her gaze directed slightly upward.",
+        "Alex: Man with short dark hair wearing a dark long-sleeved shirt.\n\nAlex's face is initially lit by a warm glow from the warm bedside lamp. Suddenly, a bright light from the eerie green glow illuminates him, and his expression becomes worried and concerned as a strong green hue is cast on his features.",
+        "Ben: Man wearing a dark blue sweater.\n\nLow-angle close-up of Isabel and Ben in The Dimly Lit Bedroom. Isabel slowly tilts her head back, her expression becoming intense and ambiguous as dramatic light from below casts harsh shadows across her face.",
+        "Julian: Man wearing a dark suit jacket, a vest, a white collared shirt, and a red striped tie which is slightly loosened.\n\nIsabel lies on the bed, her body tensing as her face contorts in extreme pain. Her eyes squeeze shut and a single tear begins to roll down her cheek. Julian leans over her, his expression shifting to one of horror.",
+        "Profile medium shot of Julian in The Dimly Lit Bedroom. His face is filled with deep sadness and pain as tears well up in his eyes and begin to fall. In the background, Alex watches him with concern, shifting his weight slightly. The scene is illuminated by the warm yellow glow from the warm bedside lamp."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Extreme close-up in The Dimly Lit Bedroom, focusing on Isabel's face in profile. Her face is dramatically lit from one side against the dark background. With a pained, tearful expression, Isabel cries, her gaze directed slightly upward.",
+        "Alex's face is initially lit by a warm glow from the warm bedside lamp. Suddenly, a bright light from the eerie green glow illuminates him, and his expression becomes worried and concerned as a strong green hue is cast on his features.",
+        "Low-angle close-up of Isabel and Ben in The Dimly Lit Bedroom. Isabel slowly tilts her head back, her expression becoming intense and ambiguous as dramatic light from below casts harsh shadows across her face.",
+        "Isabel lies on the bed, her body tensing as her face contorts in extreme pain. Her eyes squeeze shut and a single tear begins to roll down her cheek. Julian leans over her, his expression shifting to one of horror.",
+        "Profile medium shot of Julian in The Dimly Lit Bedroom. His face is filled with deep sadness and pain as tears well up in his eyes and begin to fall. In the background, Alex watches him with concern, shifting his weight slightly. The scene is illuminated by the warm yellow glow from the warm bedside lamp."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Marcus: Older Black man with a lined face, closely cropped salt-and-pepper hair and a neatly trimmed goatee, wearing a dark charcoal suit, a crisp white dress shirt, and a patterned silk tie\nThe Captain's Office: Office interior featuring a desk lamp.\nthe classic desk lamp: Classic office desk lamp with a metallic base, an adjustable arm, and a bell-shaped shade.\n\nExtreme close-up on Alex's face in the dimly lit The Captain's Office. His eyes well up, his expression deeply sad as he struggles to hold back tears. In the background, Marcus is soft and out of focus near the warm glow of the classic desk lamp, shifting his weight slightly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up on Alex's face in the dimly lit The Captain's Office. His eyes well up, his expression deeply sad as he struggles to hold back tears. In the background, Marcus is soft and out of focus near the warm glow of the classic desk lamp, shifting his weight slightly."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Nico: Young man with short dark hair, wearing a black blazer over a white v-neck t-shirt and a long brown beaded necklace with a red tassel.\n\nExtreme close-up, low angle shot in The Dimly Lit Bedroom of Isabel's face, with Nico nearby. Her head tilts back, her eyes shutting and mouth falling open in an expression of intense ecstasy or pain. Her face is dramatically lit from above, and from below by the bright, diffuse green glow.",
+        "Elara: Woman of indeterminate age with undefined hair and facial features, wearing simple sleepwear.\nthe unmade bed: Large bed with a dark wood headboard, disheveled white sheets, and a plain grey duvet.\n\nElara lies still and unconscious in the unmade bed. Alex leans closer to her, his expression growing more distressed. Beside him, Nico nervously shifts his weight, his worried gaze fixed on Elara. The room is dimly lit by the warm bedside lamp and the eerie green glow.",
+        "Against a solid black background, Julian slowly fades into view. He stares directly forward with a grim expression, his jaw subtly clenching."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Extreme close-up, low angle shot in The Dimly Lit Bedroom of Isabel's face, with Nico nearby. Her head tilts back, her eyes shutting and mouth falling open in an expression of intense ecstasy or pain. Her face is dramatically lit from above, and from below by the bright, diffuse green glow.",
+        "Elara lies still and unconscious in the unmade bed. Alex leans closer to her, his expression growing more distressed. Beside him, Nico nervously shifts his weight, his worried gaze fixed on Elara. The room is dimly lit by the warm bedside lamp and the eerie green glow.",
+        "Against a solid black background, Julian slowly fades into view. He stares directly forward with a grim expression, his jaw subtly clenching."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Central City Police HQ: The institutional-style exterior of the Central City Police Department building on a city street with a parked police car.\nthe police squad car: Black and white police sedan with a roof-mounted red and blue light bar and a \"Central City Police Department\" shield emblem on its side doors.\nLow-angle shot at dusk of Central City Police HQ. Ben walks purposefully towards the building's entrance. the police squad car is parked in the foreground, while the unmarked car drives by on the street."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle shot at dusk of Central City Police HQ. Ben walks purposefully towards the building's entrance. the police squad car is parked in the foreground, while the unmarked car drives by on the street."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Blank Room: An indoor space with plain, featureless surfaces.\n\nIn The Blank Room, a static, eye-level medium close-up shows Nico talking. He is wearing a black blazer over the plain v-neck t-shirt and the beaded tassel necklace."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Blank Room, a static, eye-level medium close-up shows Nico talking. He is wearing a black blazer over the plain v-neck t-shirt and the beaded tassel necklace."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Jordan: Person with long blonde hair.\nthe polished executive desk: Large, rectangular executive desk made of dark, polished wood with a smooth top surface and a modesty panel across the front.\nthe wooden window blinds: Horizontal window blinds with brown wooden slats and a dark wood casing.\nMedium shot of Julian sitting behind the polished executive desk in The Captain's Office. Jordan stands in the foreground with their back to the camera. Julian, wearing the loosened striped tie, looks up at Jordan with a concerned, attentive expression as daylight filters through the wooden window blinds behind him.",
+        "Inside The Captain's Office, Marcus speaks with a serious expression.",
+        "the red coffee maker: Red plastic drip-style coffee maker with a clear glass carafe and a black base.\nInside The Captain's Office, Julian sits at the polished executive desk, looking concerned. His the loosened striped tie is loosened. He talks and gestures emphatically. In the background, there is the wooden window blinds on the window, the framed certificate on the wall, and the red coffee maker.",
+        "Close-up on Marcus in The Captain's Office. He listens intently to someone off-screen, his expression shifting to show sadness and concern.",
+        "Medium close-up of Julian sitting at the polished executive desk in The Captain's Office. He looks shocked, bringing his hands to his face and then gesturing emphatically as he speaks. In the background, daylight filters through the wooden window blinds, and the red coffee maker sits on the desk.",
+        "Close-up of Marcus inside The Captain's Office. Marcus speaks with a serious and animated expression, gesturing with his hand as he talks.",
+        "Julian, wearing the loosened striped tie, sits behind the polished executive desk, talking with a thoughtful expression while gesturing with his right hand. Jordan stands on the other side of the desk, leaning forward slightly as they listen intently. In the background, the framed certificate hangs on the wall next to a window covered by the wooden window blinds.",
+        "A close-up of Marcus in The Captain's Office. He looks down thoughtfully for a moment, then raises his head to look forward and speak.",
+        "In The Captain's Office, Julian, wearing the loosened striped tie, sits behind the polished executive desk and nods thoughtfully as he listens. Jordan stands on the opposite side of the desk, gesturing with one hand as he speaks. the framed certificate hangs on the wall behind Julian, and the red coffee maker sits on a corner of the desk.",
+        "Marcus is wearing the dark charcoal suit, the crisp white dress shirt, and the patterned silk tie. He walks over to the polished executive desk and sits down. Across from him, the forearms and hands of Julian, who is wearing the loosened striped tie, rest on the desk, his fingers drumming lightly on the surface.",
+        "Chest-up shot of Julian, wearing the loosened striped tie, sitting at the polished executive desk in The Captain's Office, next to the framed certificate, in front of the wooden window blinds. With a serious expression, he talks and gestures with one hand to emphasize his words.",
+        "In the dimly lit The Captain's Office, Nico, wearing the white v-neck shirt and the beaded tassel necklace, sits with Julian and Marcus. Nico listens intently with a sad and pensive expression, holding his clasped hands over his mouth and occasionally looking down.",
+        "Close-up of Marcus sitting in The Captain's Office, speaking with a concerned expression. In the background, Isabel, wearing the white v-neck shirt, stands and listens intently.",
+        "Julian has a serious expression and speaks emphatically, gesturing and pointing forward with his hands.",
+        "Over-the-shoulder close-up view in The Captain's Office, focusing on Marcus as he talks with a concerned expression. Marcus is wearing the dark charcoal suit and a crisp white dress shirt.",
+        "Over-the-shoulder medium close-up of Julian sitting at the polished executive desk inside The Captain's Office. Julian, wearing the loosened striped tie, speaks with a serious and concerned expression and gestures downwards with his hand.",
+        "Marcus, inside The Captain's Office, listens intently, his expression shifting to show concern.",
+        "the captain's desk nameplate: Polished brass desk nameplate on a dark wood base, engraved with the text 'CPT. J. WEST' in block capital letters.\n\nA close-up of Julian, who has a concerned expression, sitting at the polished executive desk in The Captain's Office. He is wearing the loosened striped tie and speaks to someone off-screen. the captain's desk nameplate is on the polished executive desk.",
+        "In The Captain's Office, Isabel enters the office through a doorway, looking alert as she begins to speak. Marcus stands in the foreground with a concerned expression, watching her entrance.",
+        "In the sunlit Captain's Office, Julian, wearing the loosened striped tie, sits at the polished executive desk. His expression shifts to alarm as he suddenly ducks down behind the polished executive desk for cover. He then slowly and cautiously rises, peering over the top of the desk and past the captain's desk nameplate.",
+        "Nina: Woman wearing a light grey collared shirt.\n\nInside The Captain's Office, Julian sits with a concerned expression, glancing towards the window. In the background, Nina walks past the window, seen through the wooden window blinds.",
+        "Medium shot of Julian in The Captain's Office, his face showing deep concern as he lets out a quiet sigh. Nina stands beside him, watching him with a worried expression. In the background, the wooden window blinds are drawn closed over the windows.",
+        "In the middle of adjusting his jacket, his head snaps up and he stares off-screen with a look of alarm.",
+        "In the sunlit The Captain's Office, Nico, wearing the black blazer over the white v-neck shirt, stands by a desk. Marcus enters the room and approaches Nico to speak.",
+        "Close-up shot of Marcus inside The Captain's Office. Marcus speaks with a look of concern on his face.",
+        "Close-up profile shot of Julian, wearing the loosened striped tie, in The Captain's Office, who listens with a serious expression, nodding subtly. Jordan stands in the background near a window fitted with the wooden window blinds.",
+        "Medium close-up of Julian inside The Captain's Office. Julian is wearing the loosened striped tie. He speaks with a concerned expression while holding the dark baseball cap in his hands.",
+        "Close-up on Ben, who is inside The Captain's Office. He has a sad, contemplative expression on his face. He closes his eyes briefly, then looks down. Marcus stands in the background, slightly out of focus.",
+        "Victor: Man with a deeply lined face, dark eyes, and short-cropped dark hair, wearing a dark crewneck shirt.\n\nClose-up of Julian in The Captain's Office, wearing the loosened striped tie. His expression grows more serious and concerned as he listens intently to Victor off-camera, his eyes shifting slightly.",
+        "Close-up shot in The Captain's Office focusing on Ben, who turns his head slightly to the right, his expression growing more serious and concerned as he listens intently. Marcus, wearing a dark charcoal suit, dress shirt, and tie, stands in the background with his arms crossed, observing.",
+        "Chloe: Woman wearing a white collared shirt under a dark sweater and a thin necklace with a red pendant.\n\nClose-up of Julian, wearing the loosened striped tie, in The Captain's Office. He listens intently to Chloe just off-screen, his expression shifting to show concern as his brow furrows slightly.",
+        "Inside the Captain's Office, Julian and Marcus listen intently, with Marcus slowly nodding his head.",
+        "He looks off-camera, his brow furrowing with a serious, concerned expression.",
+        "the american flag: American flag with red and white horizontal stripes and a blue rectangular canton with white stars.\n\nA close-up shot of Marcus in The Captain's Office. He listens to someone off-screen with a pensive and somber expression, giving a slow, subtle nod. He is wearing a dark charcoal suit, a crisp white dress shirt, and a patterned silk tie. In the background are the wooden window blinds and the american flag.",
+        "Close-up profile shot of Marcus in The Captain's Office. He looks down with a pensive expression. An out-of-focus Nico, wearing the white v-neck shirt, shifts his weight slightly in the background behind him."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot of Julian sitting behind the polished executive desk in The Captain's Office. Jordan stands in the foreground with their back to the camera. Julian, wearing the loosened striped tie, looks up at Jordan with a concerned, attentive expression as daylight filters through the wooden window blinds behind him.",
+        "Inside The Captain's Office, Marcus speaks with a serious expression.",
+        "Inside The Captain's Office, Julian sits at the polished executive desk, looking concerned. His the loosened striped tie is loosened. He talks and gestures emphatically. In the background, there is the wooden window blinds on the window, the framed certificate on the wall, and the red coffee maker.",
+        "Close-up on Marcus in The Captain's Office. He listens intently to someone off-screen, his expression shifting to show sadness and concern.",
+        "Medium close-up of Julian sitting at the polished executive desk in The Captain's Office. He looks shocked, bringing his hands to his face and then gesturing emphatically as he speaks. In the background, daylight filters through the wooden window blinds, and the red coffee maker sits on the desk.",
+        "Close-up of Marcus inside The Captain's Office. Marcus speaks with a serious and animated expression, gesturing with his hand as he talks.",
+        "Julian, wearing the loosened striped tie, sits behind the polished executive desk, talking with a thoughtful expression while gesturing with his right hand. Jordan stands on the other side of the desk, leaning forward slightly as they listen intently. In the background, the framed certificate hangs on the wall next to a window covered by the wooden window blinds.",
+        "A close-up of Marcus in The Captain's Office. He looks down thoughtfully for a moment, then raises his head to look forward and speak.",
+        "In The Captain's Office, Julian, wearing the loosened striped tie, sits behind the polished executive desk and nods thoughtfully as he listens. Jordan stands on the opposite side of the desk, gesturing with one hand as he speaks. the framed certificate hangs on the wall behind Julian, and the red coffee maker sits on a corner of the desk.",
+        "Marcus is wearing the dark charcoal suit, the crisp white dress shirt, and the patterned silk tie. He walks over to the polished executive desk and sits down. Across from him, the forearms and hands of Julian, who is wearing the loosened striped tie, rest on the desk, his fingers drumming lightly on the surface.",
+        "Chest-up shot of Julian, wearing the loosened striped tie, sitting at the polished executive desk in The Captain's Office, next to the framed certificate, in front of the wooden window blinds. With a serious expression, he talks and gestures with one hand to emphasize his words.",
+        "In the dimly lit The Captain's Office, Nico, wearing the white v-neck shirt and the beaded tassel necklace, sits with Julian and Marcus. Nico listens intently with a sad and pensive expression, holding his clasped hands over his mouth and occasionally looking down.",
+        "Close-up of Marcus sitting in The Captain's Office, speaking with a concerned expression. In the background, Isabel, wearing the white v-neck shirt, stands and listens intently.",
+        "Julian has a serious expression and speaks emphatically, gesturing and pointing forward with his hands.",
+        "Over-the-shoulder close-up view in The Captain's Office, focusing on Marcus as he talks with a concerned expression. Marcus is wearing the dark charcoal suit and a crisp white dress shirt.",
+        "Over-the-shoulder medium close-up of Julian sitting at the polished executive desk inside The Captain's Office. Julian, wearing the loosened striped tie, speaks with a serious and concerned expression and gestures downwards with his hand.",
+        "Marcus, inside The Captain's Office, listens intently, his expression shifting to show concern.",
+        "A close-up of Julian, who has a concerned expression, sitting at the polished executive desk in The Captain's Office. He is wearing the loosened striped tie and speaks to someone off-screen. the captain's desk nameplate is on the polished executive desk.",
+        "In The Captain's Office, Isabel enters the office through a doorway, looking alert as she begins to speak. Marcus stands in the foreground with a concerned expression, watching her entrance.",
+        "In the sunlit Captain's Office, Julian, wearing the loosened striped tie, sits at the polished executive desk. His expression shifts to alarm as he suddenly ducks down behind the polished executive desk for cover. He then slowly and cautiously rises, peering over the top of the desk and past the captain's desk nameplate.",
+        "Inside The Captain's Office, Julian sits with a concerned expression, glancing towards the window. In the background, Nina walks past the window, seen through the wooden window blinds.",
+        "Medium shot of Julian in The Captain's Office, his face showing deep concern as he lets out a quiet sigh. Nina stands beside him, watching him with a worried expression. In the background, the wooden window blinds are drawn closed over the windows.",
+        "In the middle of adjusting his jacket, his head snaps up and he stares off-screen with a look of alarm.",
+        "In the sunlit The Captain's Office, Nico, wearing the black blazer over the white v-neck shirt, stands by a desk. Marcus enters the room and approaches Nico to speak.",
+        "Close-up shot of Marcus inside The Captain's Office. Marcus speaks with a look of concern on his face.",
+        "Close-up profile shot of Julian, wearing the loosened striped tie, in The Captain's Office, who listens with a serious expression, nodding subtly. Jordan stands in the background near a window fitted with the wooden window blinds.",
+        "Medium close-up of Julian inside The Captain's Office. Julian is wearing the loosened striped tie. He speaks with a concerned expression while holding the dark baseball cap in his hands.",
+        "Close-up on Ben, who is inside The Captain's Office. He has a sad, contemplative expression on his face. He closes his eyes briefly, then looks down. Marcus stands in the background, slightly out of focus.",
+        "Close-up of Julian in The Captain's Office, wearing the loosened striped tie. His expression grows more serious and concerned as he listens intently to Victor off-camera, his eyes shifting slightly.",
+        "Close-up shot in The Captain's Office focusing on Ben, who turns his head slightly to the right, his expression growing more serious and concerned as he listens intently. Marcus, wearing a dark charcoal suit, dress shirt, and tie, stands in the background with his arms crossed, observing.",
+        "Close-up of Julian, wearing the loosened striped tie, in The Captain's Office. He listens intently to Chloe just off-screen, his expression shifting to show concern as his brow furrows slightly.",
+        "Inside the Captain's Office, Julian and Marcus listen intently, with Marcus slowly nodding his head.",
+        "He looks off-camera, his brow furrowing with a serious, concerned expression.",
+        "A close-up shot of Marcus in The Captain's Office. He listens to someone off-screen with a pensive and somber expression, giving a slow, subtle nod. He is wearing a dark charcoal suit, a crisp white dress shirt, and a patterned silk tie. In the background are the wooden window blinds and the american flag.",
+        "Close-up profile shot of Marcus in The Captain's Office. He looks down with a pensive expression. An out-of-focus Nico, wearing the white v-neck shirt, shifts his weight slightly in the background behind him."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The High-Tech Lab: High-tech indoor laboratory with sterile metallic surfaces and complex scientific equipment featuring computer monitors, consoles, and visible wiring.\n\nMedium shot in the dimly lit The High-Tech Lab. Jordan speaks with a concerned expression while Victor stands beside her, listening intently. Out-of-focus the complex lab equipment fills the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in the dimly lit The High-Tech Lab. Jordan speaks with a concerned expression while Victor stands beside her, listening intently. Out-of-focus the complex lab equipment fills the background."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Leo: Man with long dark hair, wearing a black graphic t-shirt.\nThe Workshop Arcade: A hybrid workshop and game room interior containing a pinball machine.\nthe ruggedized tablet: A black tablet computer enclosed in a thick, ruggedized case with a matte finish, reinforced corners, and a textured surface.\nthe sci-fi pinball machine: Retro-style pinball machine with a large wooden cabinet and a tall vertical backbox, both covered in vibrant, colorful sci-fi artwork, featuring a glass top over a complex playfield of ramps and bumpers, metal side rails, and four metal legs.\n\nOver-the-shoulder shot from behind Jordan, looking toward Leo in The Workshop Arcade. Leo holds the ruggedized tablet and speaks with a concerned expression. The vibrant sci-fi pinball machine stands in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot from behind Jordan, looking toward Leo in The Workshop Arcade. Leo holds the ruggedized tablet and speaks with a concerned expression. The vibrant sci-fi pinball machine stands in the background."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "The Neon Apartment: Apartment interior featuring a blue light strip.\nA close-up of Chloe talking with a concerned expression inside The Neon Apartment at night. She wears the dark sweater over her white collared shirt and the small red pendant. In the out-of-focus background, a blue light strip glows."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A close-up of Chloe talking with a concerned expression inside The Neon Apartment at night. She wears the dark sweater over her white collared shirt and the small red pendant. In the out-of-focus background, a blue light strip glows."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Medium shot of Leo, who is wearing the graphic slogan t-shirt, talking with a surprised expression inside the dimly lit The Workshop Arcade. In the background, the sci-fi pinball machine is flashing."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Leo, who is wearing the graphic slogan t-shirt, talking with a surprised expression inside the dimly lit The Workshop Arcade. In the background, the sci-fi pinball machine is flashing."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Isabel"
+      ],
+      "places": [
+        "The Dimly Lit Bedroom"
+      ],
+      "objects": []
+    },
+    "1:2": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The Dimly Lit Bedroom"
+      ],
+      "objects": [
+        "the warm bedside lamp",
+        "the eerie green glow"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Isabel",
+        "Ben"
+      ],
+      "places": [
+        "The Dimly Lit Bedroom"
+      ],
+      "objects": []
+    },
+    "1:4": {
+      "characters": [
+        "Julian",
+        "Isabel"
+      ],
+      "places": [
+        "The Dimly Lit Bedroom"
+      ],
+      "objects": []
+    },
+    "1:5": {
+      "characters": [
+        "Julian",
+        "Alex"
+      ],
+      "places": [
+        "The Dimly Lit Bedroom"
+      ],
+      "objects": [
+        "the warm bedside lamp"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Marcus",
+        "Alex"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the classic desk lamp"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Isabel",
+        "Nico"
+      ],
+      "places": [
+        "The Dimly Lit Bedroom"
+      ],
+      "objects": [
+        "the eerie green glow"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Alex",
+        "Nico",
+        "Elara"
+      ],
+      "places": [
+        "The Dimly Lit Bedroom"
+      ],
+      "objects": [
+        "the unmade bed",
+        "the eerie green glow",
+        "the warm bedside lamp"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Ben"
+      ],
+      "places": [
+        "Central City Police HQ"
+      ],
+      "objects": [
+        "the police squad car",
+        "the unmarked car"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Nico"
+      ],
+      "places": [
+        "The Blank Room"
+      ],
+      "objects": [
+        "the plain v-neck t-shirt",
+        "the beaded tassel necklace"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Julian",
+        "Jordan"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the loosened striped tie",
+        "the wooden window blinds"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:3": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the loosened striped tie",
+        "the wooden window blinds",
+        "the framed certificate",
+        "the red coffee maker"
+      ]
+    },
+    "6:4": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:5": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the loosened striped tie",
+        "the wooden window blinds",
+        "the red coffee maker"
+      ]
+    },
+    "6:6": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:7": {
+      "characters": [
+        "Julian",
+        "Jordan"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the loosened striped tie",
+        "the wooden window blinds",
+        "the framed certificate"
+      ]
+    },
+    "6:8": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:9": {
+      "characters": [
+        "Julian",
+        "Jordan"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the loosened striped tie",
+        "the framed certificate",
+        "the red coffee maker"
+      ]
+    },
+    "6:10": {
+      "characters": [
+        "Marcus",
+        "Julian"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the loosened striped tie",
+        "the patterned silk tie"
+      ]
+    },
+    "6:11": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the loosened striped tie",
+        "the framed certificate",
+        "the wooden window blinds"
+      ]
+    },
+    "6:12": {
+      "characters": [
+        "Marcus",
+        "Julian",
+        "Nico"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the white v-neck shirt",
+        "the beaded tassel necklace"
+      ]
+    },
+    "6:13": {
+      "characters": [
+        "Marcus",
+        "Isabel"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the white v-neck shirt"
+      ]
+    },
+    "6:14": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the loosened striped tie"
+      ]
+    },
+    "6:15": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:16": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the loosened striped tie"
+      ]
+    },
+    "6:17": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:18": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the loosened striped tie",
+        "the captain's desk nameplate"
+      ]
+    },
+    "6:19": {
+      "characters": [
+        "Marcus",
+        "Isabel"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:20": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the polished executive desk",
+        "the captain's desk nameplate",
+        "the loosened striped tie"
+      ]
+    },
+    "6:21": {
+      "characters": [
+        "Julian",
+        "Nina"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the wooden window blinds"
+      ]
+    },
+    "6:22": {
+      "characters": [
+        "Julian",
+        "Nina"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the wooden window blinds"
+      ]
+    },
+    "6:23": {
+      "characters": [],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:24": {
+      "characters": [
+        "Marcus",
+        "Nico"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the white v-neck shirt",
+        "the black blazer"
+      ]
+    },
+    "6:25": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:26": {
+      "characters": [
+        "Julian",
+        "Jordan"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the loosened striped tie",
+        "the wooden window blinds"
+      ]
+    },
+    "6:27": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the loosened striped tie",
+        "the dark baseball cap"
+      ]
+    },
+    "6:28": {
+      "characters": [
+        "Marcus",
+        "Ben"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:29": {
+      "characters": [
+        "Julian",
+        "Victor"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the loosened striped tie"
+      ]
+    },
+    "6:30": {
+      "characters": [
+        "Marcus",
+        "Ben"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:31": {
+      "characters": [
+        "Julian",
+        "Chloe"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the loosened striped tie"
+      ]
+    },
+    "6:32": {
+      "characters": [
+        "Marcus",
+        "Julian"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": []
+    },
+    "6:33": {
+      "characters": [],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the loosened striped tie"
+      ]
+    },
+    "6:34": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the wooden window blinds",
+        "the american flag"
+      ]
+    },
+    "6:35": {
+      "characters": [
+        "Marcus",
+        "Nico"
+      ],
+      "places": [
+        "The Captain's Office"
+      ],
+      "objects": [
+        "the white v-neck shirt"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Jordan",
+        "Victor"
+      ],
+      "places": [
+        "The High-Tech Lab"
+      ],
+      "objects": [
+        "the complex lab equipment"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Jordan",
+        "Leo"
+      ],
+      "places": [
+        "The Workshop Arcade"
+      ],
+      "objects": [
+        "the ruggedized tablet",
+        "the sci-fi pinball machine"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Neon Apartment"
+      ],
+      "objects": [
+        "the dark sweater",
+        "the small red pendant"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Workshop Arcade"
+      ],
+      "objects": [
+        "the graphic slogan t-shirt",
+        "the sci-fi pinball machine"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Marcus",
+      "label": "Character 1",
+      "description": "Older Black man with a lined face, closely cropped salt-and-pepper hair and a neatly trimmed goatee, wearing a dark charcoal suit, a crisp white dress shirt, and a patterned silk tie"
+    },
+    "Character 2": {
+      "name": "Alex",
+      "label": "Character 2",
+      "description": "Man with short dark hair wearing a dark long-sleeved shirt."
+    },
+    "Character 3": {
+      "name": "Isabel",
+      "label": "Character 3",
+      "description": "Female police officer with dark hair tied back."
+    },
+    "Character 4": {
+      "name": "Victor",
+      "label": "Character 4",
+      "description": "Man with a deeply lined face, dark eyes, and short-cropped dark hair, wearing a dark crewneck shirt."
+    },
+    "Character 5": {
+      "name": "Nina",
+      "label": "Character 5",
+      "description": "Woman wearing a light grey collared shirt."
+    },
+    "Character 6": {
+      "name": "Jordan",
+      "label": "Character 6",
+      "description": "Person with long blonde hair."
+    },
+    "Character 7": {
+      "name": "Julian",
+      "label": "Character 7",
+      "description": "Man wearing a dark suit jacket, a vest, a white collared shirt, and a red striped tie which is slightly loosened."
+    },
+    "Character 8": {
+      "name": "Ben",
+      "label": "Character 8",
+      "description": "Man wearing a dark blue sweater."
+    },
+    "Character 9": {
+      "name": "Nico",
+      "label": "Character 9",
+      "description": "Young man with short dark hair, wearing a black blazer over a white v-neck t-shirt and a long brown beaded necklace with a red tassel."
+    },
+    "Character 10": {
+      "name": "Elara",
+      "label": "Character 10",
+      "description": "Woman of indeterminate age with undefined hair and facial features, wearing simple sleepwear."
+    },
+    "Character 11": {
+      "name": "Chloe",
+      "label": "Character 11",
+      "description": "Woman wearing a white collared shirt under a dark sweater and a thin necklace with a red pendant."
+    },
+    "Character 12": {
+      "name": "Leo",
+      "label": "Character 12",
+      "description": "Man with long dark hair, wearing a black graphic t-shirt."
+    },
+    "Location 1": {
+      "name": "The Dimly Lit Bedroom",
+      "label": "Location 1",
+      "description": "An indoor bedroom with dark furnishings, including a bed and a bedside lamp."
+    },
+    "Location 2": {
+      "name": "The Captain's Office",
+      "label": "Location 2",
+      "description": "Office interior featuring a desk lamp."
+    },
+    "Location 3": {
+      "name": "Central City Police HQ",
+      "label": "Location 3",
+      "description": "The institutional-style exterior of the Central City Police Department building on a city street with a parked police car."
+    },
+    "Location 4": {
+      "name": "The Blank Room",
+      "label": "Location 4",
+      "description": "An indoor space with plain, featureless surfaces."
+    },
+    "Location 5": {
+      "name": "The High-Tech Lab",
+      "label": "Location 5",
+      "description": "High-tech indoor laboratory with sterile metallic surfaces and complex scientific equipment featuring computer monitors, consoles, and visible wiring."
+    },
+    "Location 6": {
+      "name": "The Workshop Arcade",
+      "label": "Location 6",
+      "description": "A hybrid workshop and game room interior containing a pinball machine."
+    },
+    "Location 7": {
+      "name": "The Neon Apartment",
+      "label": "Location 7",
+      "description": "Apartment interior featuring a blue light strip."
+    },
+    "Object 1": {
+      "name": "the warm bedside lamp",
+      "label": "Object 1",
+      "description": "Bedside lamp with a warm yellow shade"
+    },
+    "Object 2": {
+      "name": "the unmade bed",
+      "label": "Object 2",
+      "description": "Large bed with a dark wood headboard, disheveled white sheets, and a plain grey duvet."
+    },
+    "Object 3": {
+      "name": "the eerie green glow",
+      "label": "Object 3",
+      "description": "A bright, diffuse green glow"
+    },
+    "Object 4": {
+      "name": "the white v-neck shirt",
+      "label": "Object 4",
+      "description": "White V-neck t-shirt"
+    },
+    "Object 5": {
+      "name": "the classic desk lamp",
+      "label": "Object 5",
+      "description": "Classic office desk lamp with a metallic base, an adjustable arm, and a bell-shaped shade."
+    },
+    "Object 6": {
+      "name": "the unmarked car",
+      "label": "Object 6",
+      "description": "A car of unspecified make, model, and color"
+    },
+    "Object 7": {
+      "name": "the police squad car",
+      "label": "Object 7",
+      "description": "Black and white police sedan with a roof-mounted red and blue light bar and a \"Central City Police Department\" shield emblem on its side doors."
+    },
+    "Object 8": {
+      "name": "the beaded tassel necklace",
+      "label": "Object 8",
+      "description": "Long, brown beaded necklace with a red tassel"
+    },
+    "Object 9": {
+      "name": "the plain v-neck t-shirt",
+      "label": "Object 9",
+      "description": "Plain white v-neck t-shirt"
+    },
+    "Object 10": {
+      "name": "the loosened striped tie",
+      "label": "Object 10",
+      "description": "Loosened dark tie with red stripes"
+    },
+    "Object 11": {
+      "name": "the wooden window blinds",
+      "label": "Object 11",
+      "description": "Horizontal window blinds with brown wooden slats and a dark wood casing."
+    },
+    "Object 12": {
+      "name": "the polished executive desk",
+      "label": "Object 12",
+      "description": "Large, rectangular executive desk made of dark, polished wood with a smooth top surface and a modesty panel across the front."
+    },
+    "Object 13": {
+      "name": "the framed certificate",
+      "label": "Object 13",
+      "description": "Framed certificate"
+    },
+    "Object 14": {
+      "name": "the red coffee maker",
+      "label": "Object 14",
+      "description": "Red plastic drip-style coffee maker with a clear glass carafe and a black base."
+    },
+    "Object 15": {
+      "name": "the captain's desk nameplate",
+      "label": "Object 15",
+      "description": "Polished brass desk nameplate on a dark wood base, engraved with the text 'CPT. J. WEST' in block capital letters."
+    },
+    "Object 16": {
+      "name": "the black blazer",
+      "label": "Object 16",
+      "description": "A black business blazer"
+    },
+    "Object 17": {
+      "name": "the dark baseball cap",
+      "label": "Object 17",
+      "description": "A dark-colored baseball cap"
+    },
+    "Object 18": {
+      "name": "the american flag",
+      "label": "Object 18",
+      "description": "American flag with red and white horizontal stripes and a blue rectangular canton with white stars."
+    },
+    "Object 19": {
+      "name": "the white collared shirt",
+      "label": "Object 19",
+      "description": "White shirt with a visible collar"
+    },
+    "Object 20": {
+      "name": "the dark sweater",
+      "label": "Object 20",
+      "description": "Dark-colored sweater with a white shirt collar visible at the neckline"
+    },
+    "Object 21": {
+      "name": "the complex lab equipment",
+      "label": "Object 21",
+      "description": "Scientific equipment"
+    },
+    "Object 22": {
+      "name": "the ruggedized tablet",
+      "label": "Object 22",
+      "description": "A black tablet computer enclosed in a thick, ruggedized case with a matte finish, reinforced corners, and a textured surface."
+    },
+    "Object 23": {
+      "name": "the sci-fi pinball machine",
+      "label": "Object 23",
+      "description": "Retro-style pinball machine with a large wooden cabinet and a tall vertical backbox, both covered in vibrant, colorful sci-fi artwork, featuring a glass top over a complex playfield of ramps and bumpers, metal side rails, and four metal legs."
+    },
+    "Object 24": {
+      "name": "the small red pendant",
+      "label": "Object 24",
+      "description": "Small red necklace with a small red pendant"
+    },
+    "Object 25": {
+      "name": "the graphic slogan t-shirt",
+      "label": "Object 25",
+      "description": "Black T-shirt with a humorous slogan graphic"
+    }
+  },
+  "_window_shot_ids": [
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0014",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0015",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0016",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0017",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0018",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0019",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0020",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0021",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0022",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0023",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0025",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0026",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0027",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0028",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0029",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0030",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0031",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0032",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0033",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0034",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0035",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0036",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0037",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0039",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0040",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0041",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0042",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0043",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0044",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0045",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0046",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0047",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0048",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0049",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0050",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0051",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0052",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0053",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0054",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0055",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0056",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0057",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0058",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0059",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0060",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0061",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0063",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0064",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0065",
+    "000064ca-3557-3599-a263-7cc848de075b__run44__i40_j76__T420__shot0066"
+  ],
+  "_num_scenes": 10,
+  "_num_shots": 50,
+  "_name_map": {
+    "Character 1": "Marcus",
+    "Character 10": "Elara",
+    "Character 11": "Chloe",
+    "Character 12": "Leo",
+    "Character 2": "Alex",
+    "Character 3": "Isabel",
+    "Character 4": "Victor",
+    "Character 5": "Nina",
+    "Character 6": "Jordan",
+    "Character 7": "Julian",
+    "Character 8": "Ben",
+    "Character 9": "Nico",
+    "Location 1": "The Dimly Lit Bedroom",
+    "Location 2": "The Captain's Office",
+    "Location 3": "Central City Police HQ",
+    "Location 4": "The Blank Room",
+    "Location 5": "The High-Tech Lab",
+    "Location 6": "The Workshop Arcade",
+    "Location 7": "The Neon Apartment",
+    "Object 1": "the warm bedside lamp",
+    "Object 10": "the loosened striped tie",
+    "Object 11": "the wooden window blinds",
+    "Object 12": "the polished executive desk",
+    "Object 13": "the framed certificate",
+    "Object 14": "the red coffee maker",
+    "Object 15": "the captain's desk nameplate",
+    "Object 16": "the black blazer",
+    "Object 17": "the dark baseball cap",
+    "Object 18": "the american flag",
+    "Object 19": "the white collared shirt",
+    "Object 2": "the unmade bed",
+    "Object 20": "the dark sweater",
+    "Object 21": "the complex lab equipment",
+    "Object 22": "the ruggedized tablet",
+    "Object 23": "the sci-fi pinball machine",
+    "Object 24": "the small red pendant",
+    "Object 25": "the graphic slogan t-shirt",
+    "Object 3": "the eerie green glow",
+    "Object 4": "the white v-neck shirt",
+    "Object 5": "the classic desk lamp",
+    "Object 6": "the unmarked car",
+    "Object 7": "the police squad car",
+    "Object 8": "the beaded tassel necklace",
+    "Object 9": "the plain v-neck t-shirt"
+  }
+}

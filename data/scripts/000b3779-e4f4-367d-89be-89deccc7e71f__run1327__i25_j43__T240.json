@@ -1,0 +1,332 @@
+{
+  "story_name": "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240",
+  "story_overview": "In a records office, Marcus and Vincent have intense conversations with a concerned Leo and Casey. Later at a car wash, Vincent is confronted by Casey, while Marcus and Dustin look on. The story culminates with a troubled Ewan giving a public statement.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Ewan: Man with reddish-brown hair and a full beard, wearing a dark collared shirt.\nMarcus: Man with dark hair and a beard, wearing a black leather jacket.\nLeo: Young man with curly blond hair, wearing a green and white plaid shirt.\nThe Records Office: Office interior with office furniture and filing cabinets.\n\nMedium shot in The Records Office, near the metal filing cabinets. Marcus, wearing the black leather jacket, speaks intently to Leo, wearing the green plaid shirt, who listens, his expression growing concerned. Ewan stands nearby, shifting his weight slightly as he observes the conversation.",
+        "Vincent: Man with longer brown hair and a prominent mustache, wearing a brown jacket over a blue sweater.\nCasey: A person with short hair, wearing a light-colored shirt and a light-colored jacket.\n\nClose-up on Vincent in The Records Office, speaking directly to the camera, with the Dutch text overlay. In the background, Leo, wearing the green plaid shirt, shuffles some papers near the metal filing cabinets, and Casey, wearing the light-colored shirt and a light-colored jacket, types at a desk.",
+        "Over-the-shoulder medium shot in The Records Office. Vincent stands with his back to the camera, speaking to Casey. Casey faces forward, listening with a serious and concerned expression, slowly nodding. In the background, Leo shifts his weight as he observes the conversation.",
+        "Close-up of Vincent in The Records Office, under the Dutch text overlay. He slowly looks down, his expression turning pensive. Leo stands slightly behind him, out of focus.",
+        "In a close-up, Vincent looks down with a somber expression in The Records Office. In the soft-focus background, Leo moves around a desk near the metal filing cabinets.",
+        "the crumpled office reports: Multiple loose, rectangular sheets of white office paper with black printed text and graphs, some slightly crumpled or creased.\n\nLeo kneels on the floor, frantically gathering scattered sheets of the crumpled office reports. Vincent stands over him, watching intently and shifting his weight. In the background, Casey sits at a desk near the metal filing cabinets, occasionally glancing towards Leo and Vincent."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Records Office, near the metal filing cabinets. Marcus, wearing the black leather jacket, speaks intently to Leo, wearing the green plaid shirt, who listens, his expression growing concerned. Ewan stands nearby, shifting his weight slightly as he observes the conversation.",
+        "Close-up on Vincent in The Records Office, speaking directly to the camera, with the Dutch text overlay. In the background, Leo, wearing the green plaid shirt, shuffles some papers near the metal filing cabinets, and Casey, wearing the light-colored shirt and a light-colored jacket, types at a desk.",
+        "Over-the-shoulder medium shot in The Records Office. Vincent stands with his back to the camera, speaking to Casey. Casey faces forward, listening with a serious and concerned expression, slowly nodding. In the background, Leo shifts his weight as he observes the conversation.",
+        "Close-up of Vincent in The Records Office, under the Dutch text overlay. He slowly looks down, his expression turning pensive. Leo stands slightly behind him, out of focus.",
+        "In a close-up, Vincent looks down with a somber expression in The Records Office. In the soft-focus background, Leo moves around a desk near the metal filing cabinets.",
+        "Leo kneels on the floor, frantically gathering scattered sheets of the crumpled office reports. Vincent stands over him, watching intently and shifting his weight. In the background, Casey sits at a desk near the metal filing cabinets, occasionally glancing towards Leo and Vincent."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Inrit Car Wash: An outdoor car wash and paved street area featuring an \"Inrit\" entrance sign.\nthe filter cigarette: Slender, cylindrical white paper cigarette with an orange-brown filter tip.\n\nMedium shot in Inrit Car Wash during the daytime. Vincent walks around a black car. Nearby, Marcus lights the filter cigarette as Leo stands beside him, watching.",
+        "Dustin: Man with light brown, shoulder-length hair and a mustache.\nthe yellow pressure washer: A wheeled commercial-grade pressure washer with a bright yellow and black plastic housing, a long, coiled black high-pressure hose, and a spray gun wand.\nthe machine-rolled cigarette: Standard machine-rolled cigarette with a white paper tube and a tan-orange cork-patterned filter tip.\n\nIn Inrit Car Wash, Casey walks toward Vincent, who is using the yellow pressure washer to pressure wash a black car. Vincent pauses his work and turns to look at Casey, holding the lit machine-rolled cigarette in his other hand. Dustin stands nearby with his arms crossed, observing the scene."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in Inrit Car Wash during the daytime. Vincent walks around a black car. Nearby, Marcus lights the filter cigarette as Leo stands beside him, watching.",
+        "In Inrit Car Wash, Casey walks toward Vincent, who is using the yellow pressure washer to pressure wash a black car. Vincent pauses his work and turns to look at Casey, holding the lit machine-rolled cigarette in his other hand. Dustin stands nearby with his arms crossed, observing the scene."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Corner Pub: Interior of a bar.\n\nOver-the-shoulder medium close-up in the dimly lit The Corner Pub. From behind Dustin's shoulder, Vincent turns his head to listen intently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder medium close-up in the dimly lit The Corner Pub. From behind Dustin's shoulder, Vincent turns his head to listen intently."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Public Plaza: Outdoor interview setting.\n\nAt The Public Plaza, a close-up focuses on the face of Ewan. He is distressed and has a troubled expression as he speaks to an off-screen interviewer."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At The Public Plaza, a close-up focuses on the face of Ewan. He is distressed and has a troubled expression as he speaks to an off-screen interviewer."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Ewan",
+        "Marcus",
+        "Leo"
+      ],
+      "places": [
+        "The Records Office"
+      ],
+      "objects": [
+        "the black leather jacket",
+        "the green plaid shirt",
+        "the metal filing cabinets"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Vincent",
+        "Leo",
+        "Casey"
+      ],
+      "places": [
+        "The Records Office"
+      ],
+      "objects": [
+        "the green plaid shirt",
+        "the metal filing cabinets",
+        "the Dutch text overlay"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Vincent",
+        "Casey",
+        "Leo"
+      ],
+      "places": [
+        "The Records Office"
+      ],
+      "objects": []
+    },
+    "1:4": {
+      "characters": [
+        "Vincent",
+        "Leo"
+      ],
+      "places": [
+        "The Records Office"
+      ],
+      "objects": [
+        "the Dutch text overlay"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Vincent",
+        "Leo"
+      ],
+      "places": [
+        "The Records Office"
+      ],
+      "objects": [
+        "the metal filing cabinets"
+      ]
+    },
+    "1:6": {
+      "characters": [
+        "Vincent",
+        "Leo",
+        "Casey"
+      ],
+      "places": [
+        "The Records Office"
+      ],
+      "objects": [
+        "the crumpled office reports",
+        "the metal filing cabinets"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Vincent",
+        "Leo",
+        "Marcus"
+      ],
+      "places": [
+        "Inrit Car Wash"
+      ],
+      "objects": [
+        "the filter cigarette"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Vincent",
+        "Casey",
+        "Dustin"
+      ],
+      "places": [
+        "Inrit Car Wash"
+      ],
+      "objects": [
+        "the yellow pressure washer",
+        "the machine-rolled cigarette"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Vincent",
+        "Dustin"
+      ],
+      "places": [
+        "The Corner Pub"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Ewan"
+      ],
+      "places": [
+        "The Public Plaza"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Young man with curly blond hair, wearing a green and white plaid shirt."
+    },
+    "Character 2": {
+      "name": "Marcus",
+      "label": "Character 2",
+      "description": "Man with dark hair and a beard, wearing a black leather jacket."
+    },
+    "Character 4": {
+      "name": "Vincent",
+      "label": "Character 4",
+      "description": "Man with longer brown hair and a prominent mustache, wearing a brown jacket over a blue sweater."
+    },
+    "Character 5": {
+      "name": "Casey",
+      "label": "Character 5",
+      "description": "A person with short hair, wearing a light-colored shirt and a light-colored jacket."
+    },
+    "Character 6": {
+      "name": "Ewan",
+      "label": "Character 6",
+      "description": "Man with reddish-brown hair and a full beard, wearing a dark collared shirt."
+    },
+    "Character 7": {
+      "name": "Dustin",
+      "label": "Character 7",
+      "description": "Man with light brown, shoulder-length hair and a mustache."
+    },
+    "Location 1": {
+      "name": "The Records Office",
+      "label": "Location 1",
+      "description": "Office interior with office furniture and filing cabinets."
+    },
+    "Location 2": {
+      "name": "Inrit Car Wash",
+      "label": "Location 2",
+      "description": "An outdoor car wash and paved street area featuring an \"Inrit\" entrance sign."
+    },
+    "Location 3": {
+      "name": "The Corner Pub",
+      "label": "Location 3",
+      "description": "Interior of a bar."
+    },
+    "Location 4": {
+      "name": "The Public Plaza",
+      "label": "Location 4",
+      "description": "Outdoor interview setting."
+    },
+    "Object 1": {
+      "name": "the black leather jacket",
+      "label": "Object 1",
+      "description": "Dark black leather jacket"
+    },
+    "Object 2": {
+      "name": "the metal filing cabinets",
+      "label": "Object 2",
+      "description": "Office furniture, including filing cabinets"
+    },
+    "Object 3": {
+      "name": "the Dutch text overlay",
+      "label": "Object 3",
+      "description": "Graphics in the Dutch language"
+    },
+    "Object 4": {
+      "name": "the green plaid shirt",
+      "label": "Object 4",
+      "description": "A long-sleeved, button-front shirt with a plaid pattern primarily featuring shades of green"
+    },
+    "Object 5": {
+      "name": "the blue knit sweater",
+      "label": "Object 5",
+      "description": "Blue knit sweater"
+    },
+    "Object 6": {
+      "name": "the crumpled office reports",
+      "label": "Object 6",
+      "description": "Multiple loose, rectangular sheets of white office paper with black printed text and graphs, some slightly crumpled or creased."
+    },
+    "Object 7": {
+      "name": "the filter cigarette",
+      "label": "Object 7",
+      "description": "Slender, cylindrical white paper cigarette with an orange-brown filter tip."
+    },
+    "Object 8": {
+      "name": "the yellow pressure washer",
+      "label": "Object 8",
+      "description": "A wheeled commercial-grade pressure washer with a bright yellow and black plastic housing, a long, coiled black high-pressure hose, and a spray gun wand."
+    },
+    "Object 9": {
+      "name": "the machine-rolled cigarette",
+      "label": "Object 9",
+      "description": "Standard machine-rolled cigarette with a white paper tube and a tan-orange cork-patterned filter tip."
+    }
+  },
+  "_window_shot_ids": [
+    "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240__shot0021",
+    "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240__shot0022",
+    "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240__shot0023",
+    "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240__shot0024",
+    "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240__shot0026",
+    "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240__shot0027",
+    "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240__shot0028",
+    "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240__shot0029",
+    "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240__shot0030",
+    "000b3779-e4f4-367d-89be-89deccc7e71f__run1327__i25_j43__T240__shot0031"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Marcus",
+    "Character 3": "Alex",
+    "Character 4": "Vincent",
+    "Character 5": "Casey",
+    "Character 6": "Ewan",
+    "Character 7": "Dustin",
+    "Location 1": "The Records Office",
+    "Location 2": "Inrit Car Wash",
+    "Location 3": "The Corner Pub",
+    "Location 4": "The Public Plaza",
+    "Object 1": "the black leather jacket",
+    "Object 2": "the metal filing cabinets",
+    "Object 3": "the Dutch text overlay",
+    "Object 4": "the green plaid shirt",
+    "Object 5": "the blue knit sweater",
+    "Object 6": "the crumpled office reports",
+    "Object 7": "the filter cigarette",
+    "Object 8": "the yellow pressure washer",
+    "Object 9": "the machine-rolled cigarette"
+  }
+}

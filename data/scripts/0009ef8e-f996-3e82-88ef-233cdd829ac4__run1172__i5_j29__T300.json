@@ -1,0 +1,452 @@
+{
+  "story_name": "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300",
+  "story_overview": "Officers Kael, Lyra, and Sasha patrol a futuristic city in their patrol pod. Their investigation leads them to an industrial sector where they, along with officers Lena and Carla, pursue suspects including the duplicitous Fiona and a monstrous alien named Bix, culminating in a series of tense confrontations.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Kael: Male non-human with brown hair wearing a light blue uniform shirt with a dark blue vertical stripe and epaulets\nLyra: Alien with blonde hair and large, reflective eyes, wearing a light blue police-style shirt\nSasha: Female officer with dark hair pulled back in a tight bun, wearing heavy black tactical gear over a navy blue combat shirt, including a plate carrier vest with \"POLICE\" in white letters on the chest, numerous utility pouches, black tactical pants, and a duty belt with a sidearm holster\nMedium close-up side view inside The Patrol Pod Cockpit at night. Kael, wearing the light blue uniform shirt, pilots the police patrol pod, his hands gripping the joystick flight controls. In the front passenger seat, Lyra speaks to Kael with a serious expression. Seated behind them, Sasha leans forward and listens intently to the conversation."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up side view inside The Patrol Pod Cockpit at night. Kael, wearing the light blue uniform shirt, pilots the police patrol pod, his hands gripping the joystick flight controls. In the front passenger seat, Lyra speaks to Kael with a serious expression. Seated behind them, Sasha leans forward and listens intently to the conversation."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Lena: Female police officer with short brown hair in a neat professional cut, wearing a light blue short-sleeved uniform shirt with shoulder epaulets, two button-flap chest pockets, a department patch on one sleeve, and a silver badge pinned above the left pocket.\nCorvus Avenue: A street within a futuristic cityscape, featuring tall, industrial buildings and a pavement surface.\n\nHigh-angle shot of Corvus Avenue at night. the police patrol pod descends from the sky, its searchlights illuminating the pavement below. The vehicle lands smoothly on the street between the tall, industrial buildings as Lena pilots it from inside the cockpit."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle shot of Corvus Avenue at night. the police patrol pod descends from the sky, its searchlights illuminating the pavement below. The vehicle lands smoothly on the street between the tall, industrial buildings as Lena pilots it from inside the cockpit."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Carla: Female police officer with dark hair, wearing a black leather uniform jacket.\nNeon Hotel Alley: A smoky city alley flanked by buildings, featuring a hotel entrance and a neon 'HOTEL' sign on one facade.\nthe two-tone handgun: Modern semi-automatic handgun with a two-tone finish, featuring a metallic silver slide and a black lower portion that includes the grip.\n\nNight shot in the smoky alley of Neon Hotel Alley. Sasha and Carla run towards the hotel entrance, with Sasha aiming the two-tone handgun forward. Nearby, Lena stands guard, scanning the surroundings. Above the entrance, the red neon hotel sign glows, casting light on the scene."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Night shot in the smoky alley of Neon Hotel Alley. Sasha and Carla run towards the hotel entrance, with Sasha aiming the two-tone handgun forward. Nearby, Lena stands guard, scanning the surroundings. Above the entrance, the red neon hotel sign glows, casting light on the scene."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Fiona: Woman with reddish-brown curly hair wearing a light blue police shirt with a name tag.\nThe Industrial Corridor: Indoor industrial warehouse hallway with bare concrete walls and floor and exposed overhead pipes.\nthe monstrous alien mask: A large, brown mask with alien or monstrous features.\nthe shattered data pad: Smashed black rectangular device with a cracked screen and shattered plastic casing.\n\nClose-up shot in the dim hallway of The Industrial Corridor. Lena violently shoves a person wearing the monstrous alien mask, who falls hard onto the concrete floor. As Fiona watches intently, Lena raises the two-tone handgun, then repeatedly stomps on the shattered data pad on the ground."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot in the dim hallway of The Industrial Corridor. Lena violently shoves a person wearing the monstrous alien mask, who falls hard onto the concrete floor. As Fiona watches intently, Lena raises the two-tone handgun, then repeatedly stomps on the shattered data pad on the ground."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "In the dark and smoky alley of Neon Hotel Alley at night, Fiona runs away into the darkness. Lena runs into the frame in pursuit, and a bright shower of sparks suddenly erupts between them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dark and smoky alley of Neon Hotel Alley at night, Fiona runs away into the darkness. Lena runs into the frame in pursuit, and a bright shower of sparks suddenly erupts between them."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Inside the dimly lit hallway of The Industrial Corridor, Lena cautiously emerges from behind a metal support beam, aiming the two-tone handgun forward with both hands. Sasha follows closely behind, weapon ready as she scans the area.",
+        "Bix: Alien with large, protruding eyes, wearing a skull-patterned shirt.\nthe black industrial barrel: A large, black, cylindrical industrial barrel, likely a 55-gallon metal drum, with horizontal ribs around its body.\n\nIn the dark The Industrial Corridor, Lena, wearing a light blue uniform shirt, lunges from behind the black industrial barrel. She attacks the monstrous Bix, who is crouched near industrial machinery, as the view follows the chaotic, fast-moving action."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside the dimly lit hallway of The Industrial Corridor, Lena cautiously emerges from behind a metal support beam, aiming the two-tone handgun forward with both hands. Sasha follows closely behind, weapon ready as she scans the area.",
+        "In the dark The Industrial Corridor, Lena, wearing a light blue uniform shirt, lunges from behind the black industrial barrel. She attacks the monstrous Bix, who is crouched near industrial machinery, as the view follows the chaotic, fast-moving action."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "the heavy metal door: Heavy, dark grey metal door with a scratched and dented surface, rust stains, a simple horizontal bar handle, and a sturdy matching metal casing.\nthe black leather gloves: Pair of form-fitting black leather gloves with a snap closure at the wrist.\n\nIn the smoky alley of Neon Hotel Alley, Lyra slips on the black leather gloves while Sasha stands nearby, her gaze scanning the alley. Lyra then walks to the heavy metal door and places her gloved hands on its frame."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the smoky alley of Neon Hotel Alley, Lyra slips on the black leather gloves while Sasha stands nearby, her gaze scanning the alley. Lyra then walks to the heavy metal door and places her gloved hands on its frame."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Inside the dimly lit The Industrial Corridor, Lena cautiously moves around a brick corner, aiming the two-tone handgun forward with both hands, her expression tense and focused."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside the dimly lit The Industrial Corridor, Lena cautiously moves around a brick corner, aiming the two-tone handgun forward with both hands, her expression tense and focused."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "The Holding Cell: Interior of a jail cell with corrugated metal walls.\nthe barred cell window: A rectangular window with thick, vertical, dark gray metal bars showing signs of rust and grime.\n\nInside the jail cell of The Holding Cell, Bix, wearing his skull-patterned shirt, walks to the barred cell window and grips the metal bars tightly. Kael stands silently in the background with his arms crossed, observing him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside the jail cell of The Holding Cell, Bix, wearing his skull-patterned shirt, walks to the barred cell window and grips the metal bars tightly. Kael stands silently in the background with his arms crossed, observing him."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Close-up in the dark hallway of The Industrial Corridor. Sasha aims the two-tone handgun forward, her face taut with tension as she shouts a command. Lena, in her light blue uniform shirt, stands just behind her, shifting her stance as she looks down the hallway.",
+        "the monstrous Bix lunges towards Sasha, raising a clawed hand."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up in the dark hallway of The Industrial Corridor. Sasha aims the two-tone handgun forward, her face taut with tension as she shouts a command. Lena, in her light blue uniform shirt, stands just behind her, shifting her stance as she looks down the hallway.",
+        "the monstrous Bix lunges towards Sasha, raising a clawed hand."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Kael",
+        "Lyra",
+        "Sasha"
+      ],
+      "places": [
+        "The Patrol Pod Cockpit"
+      ],
+      "objects": [
+        "the police patrol pod",
+        "the light blue uniform shirt",
+        "the joystick flight controls"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Lena"
+      ],
+      "places": [
+        "Corvus Avenue"
+      ],
+      "objects": [
+        "the police patrol pod"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Lena",
+        "Sasha",
+        "Carla"
+      ],
+      "places": [
+        "Neon Hotel Alley"
+      ],
+      "objects": [
+        "the two-tone handgun",
+        "the red neon hotel sign"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Fiona",
+        "Lena"
+      ],
+      "places": [
+        "The Industrial Corridor"
+      ],
+      "objects": [
+        "the monstrous alien mask",
+        "the shattered data pad",
+        "the two-tone handgun"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Fiona",
+        "Lena"
+      ],
+      "places": [
+        "Neon Hotel Alley"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Lena",
+        "Sasha"
+      ],
+      "places": [
+        "The Industrial Corridor"
+      ],
+      "objects": [
+        "the two-tone handgun"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Bix",
+        "Lena"
+      ],
+      "places": [
+        "The Industrial Corridor"
+      ],
+      "objects": [
+        "the black industrial barrel"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Lyra",
+        "Sasha"
+      ],
+      "places": [
+        "Neon Hotel Alley"
+      ],
+      "objects": [
+        "the black leather gloves",
+        "the heavy metal door"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Lena"
+      ],
+      "places": [
+        "The Industrial Corridor"
+      ],
+      "objects": [
+        "the two-tone handgun"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Kael",
+        "Bix"
+      ],
+      "places": [
+        "The Holding Cell"
+      ],
+      "objects": [
+        "the barred cell window"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Lena",
+        "Sasha"
+      ],
+      "places": [
+        "The Industrial Corridor"
+      ],
+      "objects": [
+        "the two-tone handgun",
+        "the light blue uniform shirt"
+      ]
+    },
+    "10:2": {
+      "characters": [
+        "Sasha",
+        "Bix"
+      ],
+      "places": [
+        "The Industrial Corridor"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Bix",
+      "label": "Character 1",
+      "description": "Alien with large, protruding eyes, wearing a skull-patterned shirt."
+    },
+    "Character 2": {
+      "name": "Sasha",
+      "label": "Character 2",
+      "description": "Female officer with dark hair pulled back in a tight bun, wearing heavy black tactical gear over a navy blue combat shirt, including a plate carrier vest with \"POLICE\" in white letters on the chest, numerous utility pouches, black tactical pants, and a duty belt with a sidearm holster"
+    },
+    "Character 3": {
+      "name": "Carla",
+      "label": "Character 3",
+      "description": "Female police officer with dark hair, wearing a black leather uniform jacket."
+    },
+    "Character 5": {
+      "name": "Lena",
+      "label": "Character 5",
+      "description": "Female police officer with short brown hair in a neat professional cut, wearing a light blue short-sleeved uniform shirt with shoulder epaulets, two button-flap chest pockets, a department patch on one sleeve, and a silver badge pinned above the left pocket."
+    },
+    "Character 6": {
+      "name": "Fiona",
+      "label": "Character 6",
+      "description": "Woman with reddish-brown curly hair wearing a light blue police shirt with a name tag."
+    },
+    "Character 7": {
+      "name": "Lyra",
+      "label": "Character 7",
+      "description": "Alien with blonde hair and large, reflective eyes, wearing a light blue police-style shirt"
+    },
+    "Character 8": {
+      "name": "Kael",
+      "label": "Character 8",
+      "description": "Male non-human with brown hair wearing a light blue uniform shirt with a dark blue vertical stripe and epaulets"
+    },
+    "Location 1": {
+      "name": "The Holding Cell",
+      "label": "Location 1",
+      "description": "Interior of a jail cell with corrugated metal walls."
+    },
+    "Location 2": {
+      "name": "The Patrol Pod Cockpit",
+      "label": "Location 2",
+      "description": "The functional interior of a police vehicle featuring front seats, a dashboard, and a center console equipped with communications gear and joystick-style piloting controls"
+    },
+    "Location 3": {
+      "name": "Corvus Avenue",
+      "label": "Location 3",
+      "description": "A street within a futuristic cityscape, featuring tall, industrial buildings and a pavement surface."
+    },
+    "Location 4": {
+      "name": "Neon Hotel Alley",
+      "label": "Location 4",
+      "description": "A smoky city alley flanked by buildings, featuring a hotel entrance and a neon 'HOTEL' sign on one facade."
+    },
+    "Location 5": {
+      "name": "The Industrial Corridor",
+      "label": "Location 5",
+      "description": "Indoor industrial warehouse hallway with bare concrete walls and floor and exposed overhead pipes."
+    },
+    "Object 1": {
+      "name": "the light blue uniform shirt",
+      "label": "Object 1",
+      "description": "Light blue collared police uniform shirt"
+    },
+    "Object 2": {
+      "name": "the joystick flight controls",
+      "label": "Object 2",
+      "description": "A set of black, molded-plastic joystick controls with ergonomic hand grips and an array of small, integrated function buttons on top"
+    },
+    "Object 3": {
+      "name": "the police patrol pod",
+      "label": "Object 3",
+      "description": "Futuristic flying police vehicle with a cockpit-style interior containing joystick controls"
+    },
+    "Object 4": {
+      "name": "the two-tone handgun",
+      "label": "Object 4",
+      "description": "Modern semi-automatic handgun with a two-tone finish, featuring a metallic silver slide and a black lower portion that includes the grip."
+    },
+    "Object 5": {
+      "name": "the red neon hotel sign",
+      "label": "Object 5",
+      "description": "A horizontal sign with the word 'HOTEL' spelled out in block letters made of red neon glass tubing, mounted on a dark metal backing"
+    },
+    "Object 6": {
+      "name": "the monstrous alien mask",
+      "label": "Object 6",
+      "description": "A large, brown mask with alien or monstrous features."
+    },
+    "Object 7": {
+      "name": "the shattered data pad",
+      "label": "Object 7",
+      "description": "Smashed black rectangular device with a cracked screen and shattered plastic casing."
+    },
+    "Object 8": {
+      "name": "the black industrial barrel",
+      "label": "Object 8",
+      "description": "A large, black, cylindrical industrial barrel, likely a 55-gallon metal drum, with horizontal ribs around its body."
+    },
+    "Object 9": {
+      "name": "the black leather gloves",
+      "label": "Object 9",
+      "description": "Pair of form-fitting black leather gloves with a snap closure at the wrist."
+    },
+    "Object 10": {
+      "name": "the worn brown leather jacket",
+      "label": "Object 10",
+      "description": "Worn brown leather jacket with a creased texture, an asymmetrical front zipper, wide notched lapels with silver snaps, and zippered cuffs"
+    },
+    "Object 11": {
+      "name": "the heavy metal door",
+      "label": "Object 11",
+      "description": "Heavy, dark grey metal door with a scratched and dented surface, rust stains, a simple horizontal bar handle, and a sturdy matching metal casing."
+    },
+    "Object 12": {
+      "name": "the black leather jacket",
+      "label": "Object 12",
+      "description": "Black leather jacket"
+    },
+    "Object 13": {
+      "name": "the barred cell window",
+      "label": "Object 13",
+      "description": "A rectangular window with thick, vertical, dark gray metal bars showing signs of rust and grime."
+    }
+  },
+  "_window_shot_ids": [
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0017",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0018",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0019",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0020",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0021",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0022",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0023",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0024",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0025",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0026",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0027",
+    "0009ef8e-f996-3e82-88ef-233cdd829ac4__run1172__i5_j29__T300__shot0028"
+  ],
+  "_num_scenes": 10,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Bix",
+    "Character 2": "Sasha",
+    "Character 3": "Carla",
+    "Character 4": "Kira",
+    "Character 5": "Lena",
+    "Character 6": "Fiona",
+    "Character 7": "Lyra",
+    "Character 8": "Kael",
+    "Location 1": "The Holding Cell",
+    "Location 2": "The Patrol Pod Cockpit",
+    "Location 3": "Corvus Avenue",
+    "Location 4": "Neon Hotel Alley",
+    "Location 5": "The Industrial Corridor",
+    "Object 1": "the light blue uniform shirt",
+    "Object 10": "the worn brown leather jacket",
+    "Object 11": "the heavy metal door",
+    "Object 12": "the black leather jacket",
+    "Object 13": "the barred cell window",
+    "Object 2": "the joystick flight controls",
+    "Object 3": "the police patrol pod",
+    "Object 4": "the two-tone handgun",
+    "Object 5": "the red neon hotel sign",
+    "Object 6": "the monstrous alien mask",
+    "Object 7": "the shattered data pad",
+    "Object 8": "the black industrial barrel",
+    "Object 9": "the black leather gloves"
+  }
+}

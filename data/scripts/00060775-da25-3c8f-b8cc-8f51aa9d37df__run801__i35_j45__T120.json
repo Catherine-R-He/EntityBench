@@ -1,0 +1,391 @@
+{
+  "story_name": "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120",
+  "story_overview": "Leo confronts a distressed Priya at home, with Arthur also present. Later, Leo and Arthur travel through the city, navigating streets and a crowded alley. The story culminates with the entire group, including Alex, Chloe, Sofia, and Isla, joyfully celebrating together on a neon-lit street corner at night.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Priya: Woman with long dark hair and a visible facial injury on her forehead, wearing a colorful floral blouse.\nLeo: Man with a trimmed dark beard and short brown hair, wearing a black, long-sleeved turtleneck sweater.\nModern Driveway: The modern entrance and carport of a house, featuring a grey tiled wall.\nClose-up, over-the-shoulder shot from behind Priya. In the dimly lit Modern Driveway, Leo, wearing the black turtleneck, faces her and speaks with a serious expression.",
+        "the modern smartphone: Sleek, dark-colored modern smartphone with a thin rectangular body, a large edge-to-edge glass screen, and a multi-lens camera array on the back.\nthe white marble table: Large rectangular dining table with a polished white marble top featuring prominent grey veining.\n\nInside a modern home at night, overlooking the Modern Driveway, Leo, wearing the black turtleneck, stands over the white marble table and sternly confronts Priya. Priya, wearing the colorful floral blouse, sits at the table and lowers her head into her hands in distress. The modern smartphone is on the table."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up, over-the-shoulder shot from behind Priya. In the dimly lit Modern Driveway, Leo, wearing the black turtleneck, faces her and speaks with a serious expression.",
+        "Inside a modern home at night, overlooking the Modern Driveway, Leo, wearing the black turtleneck, stands over the white marble table and sternly confronts Priya. Priya, wearing the colorful floral blouse, sits at the table and lowers her head into her hands in distress. The modern smartphone is on the table."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Cityside Street: A modern city street with a paved road and parked motor scooters at the curbside.\nthe electric rental scooters: Electric rental scooters with dark gray metal frames, T-shaped handlebars, vertical steering columns, and flat decks over two small wheels.\nArthur: Man with grey hair, wearing a blue vest over a pink collared shirt and a pair of sunglasses\n\nA medium eye-level side view pans left to follow the dark SUV as it drives down Cityside Street during the day. Inside, Arthur is driving and looking straight ahead, while Leo, in the passenger seat, gestures animatedly. In the background, the electric rental scooters are parked on the side of the road.",
+        "the silver SUV: Standard four-door sport utility vehicle with a silver metallic paint finish and tinted windows.\n\nIn Cityside Street, Leo gets out of the driver's side of the silver SUV and closes the door. As he walks confidently forward, Arthur leans out of the passenger window and gestures with his hand."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "A medium eye-level side view pans left to follow the dark SUV as it drives down Cityside Street during the day. Inside, Arthur is driving and looking straight ahead, while Leo, in the passenger seat, gestures animatedly. In the background, the electric rental scooters are parked on the side of the road.",
+        "In Cityside Street, Leo gets out of the driver's side of the silver SUV and closes the door. As he walks confidently forward, Arthur leans out of the passenger window and gestures with his hand."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Signage Alley: Narrow outdoor city alleyway with a paved path, enclosed by the walls of adjacent buildings which are covered in numerous commercial signs.\nthe cluster of street signs: A collection of urban signs including a standard green rectangular street name sign with white block lettering, a red octagonal stop sign, and various weathered, colorful neon and backlit commercial signs for shops and restaurants, all mounted on metal poles.\nthe faded pink shirt: Faded pink cotton button-down shirt with a pointed collar and long sleeves with buttoned cuffs.\n\nIn the bustling Signage Alley, Arthur, wearing the blue suiting vest over the faded pink shirt, walks down the narrow path. He slows his pace and tilts his head back to look up at the surrounding buildings and the cluster of street signs as people and the electric rental scooters pass by.",
+        "Medium follow shot of Priya with a serious expression as she walks along The Signage Alley."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "In the bustling Signage Alley, Arthur, wearing the blue suiting vest over the faded pink shirt, walks down the narrow path. He slows his pace and tilts his head back to look up at the surrounding buildings and the cluster of street signs as people and the electric rental scooters pass by.",
+        "Medium follow shot of Priya with a serious expression as she walks along The Signage Alley."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Alex: Person wearing a blue outfit.\nNeon Street Corner: Urban nightlife street building exterior featuring a metal fire escape and adorned with neon and illuminated signs, including signs that read 'Chang' and 'BACCARA'.\nA low-angle shot of a building on Neon Street Corner at night. Alex climbs a metal fire escape. The building is illuminated by the neon bar signs."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A low-angle shot of a building on Neon Street Corner at night. Alex climbs a metal fire escape. The building is illuminated by the neon bar signs."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Sofia: Woman with long dark hair, wearing a blue crop top and denim shorts.\n\nLow-angle shot in The Signage Alley. Priya and Sofia walk together down the narrow, paved alleyway. Sofia tilts her head back to look up at the numerous commercial signs covering the buildings, while Priya walks beside her, looking straight ahead.",
+        "Close-up shot of Leo, wearing the black, long-sleeved turtleneck sweater, the blue suiting vest, and the black rectangular sunglasses, walking down the alleyway in The Signage Alley. He looks around with a serious expression as Priya, wearing her colorful floral blouse, walks beside him.",
+        "Chloe: Woman with blonde hair wearing a striped orange and white top.\nthe tangled overhead wires: A dense, chaotic tangle of numerous black electrical and communication wires of various thicknesses.\n\nIn the bustling daytime of The Signage Alley, beneath tangled overhead wires and a cluster of street signs, Arthur walks down the center of the narrow alleyway wearing the blue suiting vest. To the right, Leo, Chloe, and Priya are sitting together at an outdoor bar table near the electric rental scooters, turning to watch Arthur as he passes."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Low-angle shot in The Signage Alley. Priya and Sofia walk together down the narrow, paved alleyway. Sofia tilts her head back to look up at the numerous commercial signs covering the buildings, while Priya walks beside her, looking straight ahead.",
+        "Close-up shot of Leo, wearing the black, long-sleeved turtleneck sweater, the blue suiting vest, and the black rectangular sunglasses, walking down the alleyway in The Signage Alley. He looks around with a serious expression as Priya, wearing her colorful floral blouse, walks beside him.",
+        "In the bustling daytime of The Signage Alley, beneath tangled overhead wires and a cluster of street signs, Arthur walks down the center of the narrow alleyway wearing the blue suiting vest. To the right, Leo, Chloe, and Priya are sitting together at an outdoor bar table near the electric rental scooters, turning to watch Arthur as he passes."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Isla: Woman with long dark hair wearing a red tube top and sparkly black shorts.\n\nMedium shot in Neon Street Corner at night. Alex, Leo, Chloe, Arthur, Sofia, and Isla walk and dance joyfully down the street together. They laugh as they move, their faces illuminated by the bright glow of the surrounding neon signs."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in Neon Street Corner at night. Alex, Leo, Chloe, Arthur, Sofia, and Isla walk and dance joyfully down the street together. They laugh as they move, their faces illuminated by the bright glow of the surrounding neon signs."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Priya",
+        "Leo"
+      ],
+      "places": [
+        "Modern Driveway"
+      ],
+      "objects": [
+        "the black turtleneck"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Priya",
+        "Leo"
+      ],
+      "places": [
+        "Modern Driveway"
+      ],
+      "objects": [
+        "the white marble table",
+        "the modern smartphone",
+        "the black turtleneck"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Leo",
+        "Arthur"
+      ],
+      "places": [
+        "Cityside Street"
+      ],
+      "objects": [
+        "the dark SUV",
+        "the electric rental scooters"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Leo",
+        "Arthur"
+      ],
+      "places": [
+        "Cityside Street"
+      ],
+      "objects": [
+        "the silver SUV"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Signage Alley"
+      ],
+      "objects": [
+        "the blue suiting vest",
+        "the faded pink shirt",
+        "the cluster of street signs",
+        "the electric rental scooters"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Priya"
+      ],
+      "places": [
+        "The Signage Alley"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "Neon Street Corner"
+      ],
+      "objects": [
+        "the neon bar signs"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Priya",
+        "Sofia"
+      ],
+      "places": [
+        "The Signage Alley"
+      ],
+      "objects": []
+    },
+    "5:2": {
+      "characters": [
+        "Priya",
+        "Leo"
+      ],
+      "places": [
+        "The Signage Alley"
+      ],
+      "objects": [
+        "the black rectangular sunglasses",
+        "the blue suiting vest"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Leo",
+        "Chloe",
+        "Arthur",
+        "Priya"
+      ],
+      "places": [
+        "The Signage Alley"
+      ],
+      "objects": [
+        "the blue suiting vest",
+        "the electric rental scooters",
+        "the cluster of street signs",
+        "the tangled overhead wires"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Leo",
+        "Chloe",
+        "Arthur",
+        "Sofia",
+        "Alex",
+        "Isla"
+      ],
+      "places": [
+        "Neon Street Corner"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Alex",
+      "label": "Character 1",
+      "description": "Person wearing a blue outfit."
+    },
+    "Character 2": {
+      "name": "Leo",
+      "label": "Character 2",
+      "description": "Man with a trimmed dark beard and short brown hair, wearing a black, long-sleeved turtleneck sweater."
+    },
+    "Character 3": {
+      "name": "Chloe",
+      "label": "Character 3",
+      "description": "Woman with blonde hair wearing a striped orange and white top."
+    },
+    "Character 4": {
+      "name": "Arthur",
+      "label": "Character 4",
+      "description": "Man with grey hair, wearing a blue vest over a pink collared shirt and a pair of sunglasses"
+    },
+    "Character 5": {
+      "name": "Priya",
+      "label": "Character 5",
+      "description": "Woman with long dark hair and a visible facial injury on her forehead, wearing a colorful floral blouse."
+    },
+    "Character 6": {
+      "name": "Sofia",
+      "label": "Character 6",
+      "description": "Woman with long dark hair, wearing a blue crop top and denim shorts."
+    },
+    "Character 7": {
+      "name": "Isla",
+      "label": "Character 7",
+      "description": "Woman with long dark hair wearing a red tube top and sparkly black shorts."
+    },
+    "Location 1": {
+      "name": "Modern Driveway",
+      "label": "Location 1",
+      "description": "The modern entrance and carport of a house, featuring a grey tiled wall."
+    },
+    "Location 2": {
+      "name": "Cityside Street",
+      "label": "Location 2",
+      "description": "A modern city street with a paved road and parked motor scooters at the curbside."
+    },
+    "Location 3": {
+      "name": "The Signage Alley",
+      "label": "Location 3",
+      "description": "Narrow outdoor city alleyway with a paved path, enclosed by the walls of adjacent buildings which are covered in numerous commercial signs."
+    },
+    "Location 4": {
+      "name": "Neon Street Corner",
+      "label": "Location 4",
+      "description": "Urban nightlife street building exterior featuring a metal fire escape and adorned with neon and illuminated signs, including signs that read 'Chang' and 'BACCARA'."
+    },
+    "Object 1": {
+      "name": "the dark SUV",
+      "label": "Object 1",
+      "description": "Dark-colored sport utility vehicle with a windshield and an interior rear-view mirror"
+    },
+    "Object 2": {
+      "name": "the blue suiting vest",
+      "label": "Object 2",
+      "description": "Dark blue, V-neck suiting vest made of wool or a similar fabric, with a row of dark buttons down the front and a silky back panel with an adjuster cinch"
+    },
+    "Object 3": {
+      "name": "the modern smartphone",
+      "label": "Object 3",
+      "description": "Sleek, dark-colored modern smartphone with a thin rectangular body, a large edge-to-edge glass screen, and a multi-lens camera array on the back."
+    },
+    "Object 4": {
+      "name": "the black turtleneck",
+      "label": "Object 4",
+      "description": "Black long-sleeved turtleneck shirt"
+    },
+    "Object 5": {
+      "name": "the white marble table",
+      "label": "Object 5",
+      "description": "Large rectangular dining table with a polished white marble top featuring prominent grey veining."
+    },
+    "Object 6": {
+      "name": "the electric rental scooters",
+      "label": "Object 6",
+      "description": "Electric rental scooters with dark gray metal frames, T-shaped handlebars, vertical steering columns, and flat decks over two small wheels."
+    },
+    "Object 7": {
+      "name": "the silver SUV",
+      "label": "Object 7",
+      "description": "Standard four-door sport utility vehicle with a silver metallic paint finish and tinted windows."
+    },
+    "Object 8": {
+      "name": "the faded pink shirt",
+      "label": "Object 8",
+      "description": "Faded pink cotton button-down shirt with a pointed collar and long sleeves with buttoned cuffs."
+    },
+    "Object 9": {
+      "name": "the cluster of street signs",
+      "label": "Object 9",
+      "description": "A collection of urban signs including a standard green rectangular street name sign with white block lettering, a red octagonal stop sign, and various weathered, colorful neon and backlit commercial signs for shops and restaurants, all mounted on metal poles."
+    },
+    "Object 10": {
+      "name": "the black rectangular sunglasses",
+      "label": "Object 10",
+      "description": "Black sunglasses with rectangular plastic frames and dark lenses"
+    },
+    "Object 11": {
+      "name": "the neon bar signs",
+      "label": "Object 11",
+      "description": "A set of illuminated neon signs, including one with white neon tubing that reads 'Chang' and another sign that reads 'BACCARA'"
+    },
+    "Object 12": {
+      "name": "the tangled overhead wires",
+      "label": "Object 12",
+      "description": "A dense, chaotic tangle of numerous black electrical and communication wires of various thicknesses."
+    }
+  },
+  "_window_shot_ids": [
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0009",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0010",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0011",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0013",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0014",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0015",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0016",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0017",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0018",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0021",
+    "00060775-da25-3c8f-b8cc-8f51aa9d37df__run801__i35_j45__T120__shot0022"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Alex",
+    "Character 2": "Leo",
+    "Character 3": "Chloe",
+    "Character 4": "Arthur",
+    "Character 5": "Priya",
+    "Character 6": "Sofia",
+    "Character 7": "Isla",
+    "Location 1": "Modern Driveway",
+    "Location 2": "Cityside Street",
+    "Location 3": "The Signage Alley",
+    "Location 4": "Neon Street Corner",
+    "Object 1": "the dark SUV",
+    "Object 10": "the black rectangular sunglasses",
+    "Object 11": "the neon bar signs",
+    "Object 12": "the tangled overhead wires",
+    "Object 2": "the blue suiting vest",
+    "Object 3": "the modern smartphone",
+    "Object 4": "the black turtleneck",
+    "Object 5": "the white marble table",
+    "Object 6": "the electric rental scooters",
+    "Object 7": "the silver SUV",
+    "Object 8": "the faded pink shirt",
+    "Object 9": "the cluster of street signs"
+  }
+}

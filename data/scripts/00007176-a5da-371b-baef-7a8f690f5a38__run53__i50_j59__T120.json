@@ -1,0 +1,412 @@
+{
+  "story_name": "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120",
+  "story_overview": "A group of friends, including Piper, Kaito, and a large inflatable robot, hang out in San Fransokyo Plaza. Elsewhere, Finn accidentally brings a graffiti art monster to life, which escapes. At a media event, the luchador Rico has an angry outburst during an interview with Alistair.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Piper: Tall, slender young woman with fair skin, green eyes, and long, straight honey-blonde hair, wearing large magenta-framed glasses, a pink headband, a bright yellow short-sleeved mini-dress with a wide collar over magenta leggings, and yellow platform wedges.\nKaito: Young man with a slender build, messy black hair, and a slight gap between his front teeth, wearing a blue zip-up hoodie over a red crew-neck t-shirt, dark gray cargo capris, and dark sneakers with yellow laces.\nSan Fransokyo Plaza: Outdoor urban park plaza with manicured green grass sections, wide paved pathways, stylized modern benches, and unique street lamps, surrounded by colorful San Fransokyo architecture blending Victorian-style buildings with Japanese pagoda roofs and design elements.\nthe telescoping selfie stick: A rectangular smartphone with a dark screen mounted in a plastic clamp at the end of a black, telescoping selfie stick with a textured handle grip.\nthe inflatable white robot: Large, inflatable white robot with a soft, rotund, marshmallow-like body, puffy cylindrical limbs, two small round black eyes connected by a thin black line, and a small circular grey access port on its chest.\n\nIn `San Fransokyo Plaza` during the day, `Piper`, `Kaito`, and `the inflatable white robot` are standing together. `Kaito` excitedly holds up `the telescoping selfie stick`, causing `Piper` and `the inflatable white robot` to turn toward him in surprise, then begin to smile for the photo."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In `San Fransokyo Plaza` during the day, `Piper`, `Kaito`, and `the inflatable white robot` are standing together. `Kaito` excitedly holds up `the telescoping selfie stick`, causing `Piper` and `the inflatable white robot` to turn toward him in surprise, then begin to smile for the photo."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Alistair: Man with brown hair and a mustache, wearing glasses and a purple suit.\nFinn: Young man wearing a turquoise beanie and a pink t-shirt layered over a white long-sleeved shirt.\nThe Stone Courtyard: An outdoor courtyard or patio featuring large stone pillars and a stone monument.\nthe large green-screen controller: Large handheld controller with a prominent, rectangular screen displaying a solid, bright green color.\n\nLow-angle shot in The Stone Courtyard. Alistair holds the large green-screen controller steady with both hands, looking up. From a nearby stone monument, the tiny Finn jumps, performs a flip in the air, and lands perfectly on the screen of the large green-screen controller."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle shot in The Stone Courtyard. Alistair holds the large green-screen controller steady with both hands, looking up. From a nearby stone monument, the tiny Finn jumps, performs a flip in the air, and lands perfectly on the screen of the large green-screen controller."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "In an animated medium shot at San Fransokyo Plaza during dusk, Kaito glances over his shoulder with an annoyed expression at the inflatable white robot, which stands motionless on the city street behind him.",
+        "Rico: Very muscular, large shirtless man wearing a red and black luchador mask topped with a small yellow mohawk.\n\nIn San Fransokyo Plaza at dusk, Rico looks around with an expression of concern and sadness. The inflatable white robot stands behind him, tilting its head slightly.",
+        "`Kaito` looks around the plaza curiously, then his expression shifts to one of sudden inspiration as he gets an idea."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In an animated medium shot at San Fransokyo Plaza during dusk, Kaito glances over his shoulder with an annoyed expression at the inflatable white robot, which stands motionless on the city street behind him.",
+        "In San Fransokyo Plaza at dusk, Rico looks around with an expression of concern and sadness. The inflatable white robot stands behind him, tilting its head slightly.",
+        "`Kaito` looks around the plaza curiously, then his expression shifts to one of sudden inspiration as he gets an idea."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Cassidy: Woman with long red hair, wearing pink-rimmed glasses and a yellow jacket.\n\nDaytime in `The Stone Courtyard`. An angry `Cassidy` stands near a large stone column, yelling and forcefully poking someone just out of frame in the chest, then storms out of frame.",
+        "the graffiti art canvas: A large rectangular canvas covered in vibrant, graffiti-style spray paint art with overlapping stylized letters in yellow, blue, and pink on a black field.\nthe paint-splattered easel: Wooden tripod artist's easel made of light-colored wood, with a horizontal support ledge and splatters of various colors of dried paint.\nthe black spray paint can: Standard-sized cylindrical metal aerosol can with a primarily black paper label, a white plastic nozzle cap, and minor scuffs and drips of dried paint on its surface.\n\nIn `The Stone Courtyard`, `Alistair` watches as `Finn` gives `the black spray paint can` a quick shake before aiming it at `the graffiti art canvas`, which is propped up on `the paint-splattered easel`.",
+        "the graffiti art monster: Large, colorful robotic monster with a body resembling graffiti art, featuring vibrant, saturated block colors and thick black outlines.\nthe black video game controller: Black plastic video game controller with an ergonomic shape, two analog thumbsticks, a directional pad, four colored face buttons, and shoulder bumpers and triggers.\n\nIn The Stone Courtyard, Finn stands focused on playing a video game with the black video game controller. Nearby, the graffiti art monster emerges directly from the surface of the graffiti art canvas, which is resting on the paint-splattered easel. Startled, Finn drops the black video game controller. The graffiti art monster flies away, and Finn immediately runs after it. Both Finn and the graffiti art monster vanish together in a puff of smoke."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Daytime in `The Stone Courtyard`. An angry `Cassidy` stands near a large stone column, yelling and forcefully poking someone just out of frame in the chest, then storms out of frame.",
+        "In `The Stone Courtyard`, `Alistair` watches as `Finn` gives `the black spray paint can` a quick shake before aiming it at `the graffiti art canvas`, which is propped up on `the paint-splattered easel`.",
+        "In The Stone Courtyard, Finn stands focused on playing a video game with the black video game controller. Nearby, the graffiti art monster emerges directly from the surface of the graffiti art canvas, which is resting on the paint-splattered easel. Startled, Finn drops the black video game controller. The graffiti art monster flies away, and Finn immediately runs after it. Both Finn and the graffiti art monster vanish together in a puff of smoke."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The MWF Interview Stage: A designated media interview space defined by a large backdrop branded with the 'MWF' logo.\n\nAt `The MWF Interview Stage`, `Alistair` holds a microphone up to `Rico`. `Rico` gestures angrily as he speaks into it.",
+        "A medium shot of Rico angrily snatching a microphone from Cassidy. They are in The MWF Interview Stage. Rico brings the microphone up to his masked face to speak into it.",
+        "Alistair watches tensely as Rico yells, his masked face expressive with rage.",
+        "Close-up shot of `Rico`, his body language angry. He speaks intensely into a microphone while in `The MWF Interview Stage`.",
+        "Rico stands and lets out a ferocious yell, smashing his hands together with immense force. He then pounds his chest with his fists.",
+        "In a medium shot at `The MWF Interview Stage`, `Kaito` exits the frame. `Alistair` immediately enters and begins speaking into a microphone."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "At `The MWF Interview Stage`, `Alistair` holds a microphone up to `Rico`. `Rico` gestures angrily as he speaks into it.",
+        "A medium shot of Rico angrily snatching a microphone from Cassidy. They are in The MWF Interview Stage. Rico brings the microphone up to his masked face to speak into it.",
+        "Alistair watches tensely as Rico yells, his masked face expressive with rage.",
+        "Close-up shot of `Rico`, his body language angry. He speaks intensely into a microphone while in `The MWF Interview Stage`.",
+        "Rico stands and lets out a ferocious yell, smashing his hands together with immense force. He then pounds his chest with his fists.",
+        "In a medium shot at `The MWF Interview Stage`, `Kaito` exits the frame. `Alistair` immediately enters and begins speaking into a microphone."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Dark Chamber: Interior of a dark room with a floor.\nthe calico cat: Cat with a calico coat featuring distinct patches of white, black, and orange fur.\n\nA bright, four-pointed star-shaped flash of light erupts, revealing Piper standing in the center of the dark room. In the bottom-left corner, the calico cat lies curled up on the floor, breathing gently, undisturbed."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A bright, four-pointed star-shaped flash of light erupts, revealing Piper standing in the center of the dark room. In the bottom-left corner, the calico cat lies curled up on the floor, breathing gently, undisturbed."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Piper",
+        "Kaito"
+      ],
+      "places": [
+        "San Fransokyo Plaza"
+      ],
+      "objects": [
+        "the telescoping selfie stick",
+        "the inflatable white robot"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Alistair",
+        "Finn"
+      ],
+      "places": [
+        "The Stone Courtyard"
+      ],
+      "objects": [
+        "the large green-screen controller"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Kaito"
+      ],
+      "places": [
+        "San Fransokyo Plaza"
+      ],
+      "objects": [
+        "the inflatable white robot"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Rico"
+      ],
+      "places": [
+        "San Fransokyo Plaza"
+      ],
+      "objects": [
+        "the inflatable white robot"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Kaito"
+      ],
+      "places": [
+        "San Fransokyo Plaza"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Cassidy"
+      ],
+      "places": [
+        "The Stone Courtyard"
+      ],
+      "objects": []
+    },
+    "4:2": {
+      "characters": [
+        "Alistair",
+        "Finn"
+      ],
+      "places": [
+        "The Stone Courtyard"
+      ],
+      "objects": [
+        "the black spray paint can",
+        "the graffiti art canvas",
+        "the paint-splattered easel"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Finn"
+      ],
+      "places": [
+        "The Stone Courtyard"
+      ],
+      "objects": [
+        "the graffiti art canvas",
+        "the paint-splattered easel",
+        "the graffiti art monster",
+        "the black video game controller"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Alistair",
+        "Rico"
+      ],
+      "places": [
+        "The MWF Interview Stage"
+      ],
+      "objects": []
+    },
+    "5:2": {
+      "characters": [
+        "Cassidy",
+        "Rico"
+      ],
+      "places": [
+        "The MWF Interview Stage"
+      ],
+      "objects": [
+        "microphone"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Alistair",
+        "Rico"
+      ],
+      "places": [
+        "The MWF Interview Stage"
+      ],
+      "objects": []
+    },
+    "5:4": {
+      "characters": [
+        "Rico"
+      ],
+      "places": [
+        "The MWF Interview Stage"
+      ],
+      "objects": [
+        "microphone"
+      ]
+    },
+    "5:5": {
+      "characters": [
+        "Rico"
+      ],
+      "places": [
+        "The MWF Interview Stage"
+      ],
+      "objects": []
+    },
+    "5:6": {
+      "characters": [
+        "Alistair",
+        "Kaito"
+      ],
+      "places": [
+        "The MWF Interview Stage"
+      ],
+      "objects": [
+        "microphone"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Piper"
+      ],
+      "places": [
+        "The Dark Chamber"
+      ],
+      "objects": [
+        "the calico cat"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Piper",
+      "label": "Character 1",
+      "description": "Tall, slender young woman with fair skin, green eyes, and long, straight honey-blonde hair, wearing large magenta-framed glasses, a pink headband, a bright yellow short-sleeved mini-dress with a wide collar over magenta leggings, and yellow platform wedges."
+    },
+    "Character 2": {
+      "name": "Kaito",
+      "label": "Character 2",
+      "description": "Young man with a slender build, messy black hair, and a slight gap between his front teeth, wearing a blue zip-up hoodie over a red crew-neck t-shirt, dark gray cargo capris, and dark sneakers with yellow laces."
+    },
+    "Character 3": {
+      "name": "Alistair",
+      "label": "Character 3",
+      "description": "Man with brown hair and a mustache, wearing glasses and a purple suit."
+    },
+    "Character 4": {
+      "name": "Cassidy",
+      "label": "Character 4",
+      "description": "Woman with long red hair, wearing pink-rimmed glasses and a yellow jacket."
+    },
+    "Character 5": {
+      "name": "Finn",
+      "label": "Character 5",
+      "description": "Young man wearing a turquoise beanie and a pink t-shirt layered over a white long-sleeved shirt."
+    },
+    "Character 6": {
+      "name": "Rico",
+      "label": "Character 6",
+      "description": "Very muscular, large shirtless man wearing a red and black luchador mask topped with a small yellow mohawk."
+    },
+    "Location 1": {
+      "name": "San Fransokyo Plaza",
+      "label": "Location 1",
+      "description": "Outdoor urban park plaza with manicured green grass sections, wide paved pathways, stylized modern benches, and unique street lamps, surrounded by colorful San Fransokyo architecture blending Victorian-style buildings with Japanese pagoda roofs and design elements."
+    },
+    "Location 2": {
+      "name": "The Stone Courtyard",
+      "label": "Location 2",
+      "description": "An outdoor courtyard or patio featuring large stone pillars and a stone monument."
+    },
+    "Location 3": {
+      "name": "The MWF Interview Stage",
+      "label": "Location 3",
+      "description": "A designated media interview space defined by a large backdrop branded with the 'MWF' logo."
+    },
+    "Location 4": {
+      "name": "The Dark Chamber",
+      "label": "Location 4",
+      "description": "Interior of a dark room with a floor."
+    },
+    "Object 1": {
+      "name": "the telescoping selfie stick",
+      "label": "Object 1",
+      "description": "A rectangular smartphone with a dark screen mounted in a plastic clamp at the end of a black, telescoping selfie stick with a textured handle grip."
+    },
+    "Object 2": {
+      "name": "the inflatable white robot",
+      "label": "Object 2",
+      "description": "Large, inflatable white robot with a soft, rotund, marshmallow-like body, puffy cylindrical limbs, two small round black eyes connected by a thin black line, and a small circular grey access port on its chest."
+    },
+    "Object 3": {
+      "name": "the large green-screen controller",
+      "label": "Object 3",
+      "description": "Large handheld controller with a prominent, rectangular screen displaying a solid, bright green color."
+    },
+    "Object 4": {
+      "name": "the graffiti art canvas",
+      "label": "Object 4",
+      "description": "A large rectangular canvas covered in vibrant, graffiti-style spray paint art with overlapping stylized letters in yellow, blue, and pink on a black field."
+    },
+    "Object 5": {
+      "name": "the paint-splattered easel",
+      "label": "Object 5",
+      "description": "Wooden tripod artist's easel made of light-colored wood, with a horizontal support ledge and splatters of various colors of dried paint."
+    },
+    "Object 6": {
+      "name": "the black spray paint can",
+      "label": "Object 6",
+      "description": "Standard-sized cylindrical metal aerosol can with a primarily black paper label, a white plastic nozzle cap, and minor scuffs and drips of dried paint on its surface."
+    },
+    "Object 7": {
+      "name": "the black video game controller",
+      "label": "Object 7",
+      "description": "Black plastic video game controller with an ergonomic shape, two analog thumbsticks, a directional pad, four colored face buttons, and shoulder bumpers and triggers."
+    },
+    "Object 8": {
+      "name": "the graffiti art monster",
+      "label": "Object 8",
+      "description": "Large, colorful robotic monster with a body resembling graffiti art, featuring vibrant, saturated block colors and thick black outlines."
+    },
+    "Object 9": {
+      "name": "the calico cat",
+      "label": "Object 9",
+      "description": "Cat with a calico coat featuring distinct patches of white, black, and orange fur."
+    }
+  },
+  "_window_shot_ids": [
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0001",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0002",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0004",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0005",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0006",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0007",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0008",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0009",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0010",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0011",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0012",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0013",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0014",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0015",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i50_j59__T120__shot0016"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Piper",
+    "Character 2": "Kaito",
+    "Character 3": "Alistair",
+    "Character 4": "Cassidy",
+    "Character 5": "Finn",
+    "Character 6": "Rico",
+    "Location 1": "San Fransokyo Plaza",
+    "Location 2": "The Stone Courtyard",
+    "Location 3": "The MWF Interview Stage",
+    "Location 4": "The Dark Chamber",
+    "Object 1": "the telescoping selfie stick",
+    "Object 2": "the inflatable white robot",
+    "Object 3": "the large green-screen controller",
+    "Object 4": "the graffiti art canvas",
+    "Object 5": "the paint-splattered easel",
+    "Object 6": "the black spray paint can",
+    "Object 7": "the black video game controller",
+    "Object 8": "the graffiti art monster",
+    "Object 9": "the calico cat"
+  }
+}

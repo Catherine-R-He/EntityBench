@@ -1,0 +1,394 @@
+{
+  "story_name": "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300",
+  "story_overview": "Doctors Leo and Soo-jin interact with a stressed Marcus at a high-tech medical facility. In a corporate office, tensions rise between Marcus and the imposing Julian, observed by Chloe and Kai. The story weaves between the sterile medical environment and a tense corporate power struggle, with Marcus at the center of both.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Soo-jin: Woman wearing a white lab coat with 'HATCH' on the back, over a beige top.\nLeo: Man with curly hair, wearing glasses and a white lab coat.\nMarcus: Man wearing a light-colored pinstripe suit.\nThe Medical Corridor: Tiled hospital or medical complex corridor with a yellow-toned color palette.\nthe black-framed eyeglasses: A pair of eyeglasses with thin, rectangular black plastic frames.\n\nMedium shot in the dimly lit The Medical Corridor. Soo-jin, wearing the 'HATCH' lab coat, speaks to Leo, who wears the black-framed eyeglasses and smiles as he listens intently. Nearby, Marcus stands with a stressed expression, his gaze shifting nervously."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in the dimly lit The Medical Corridor. Soo-jin, wearing the 'HATCH' lab coat, speaks to Leo, who wears the black-framed eyeglasses and smiles as he listens intently. Nearby, Marcus stands with a stressed expression, his gaze shifting nervously."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Modern Clinic: Modern indoor doctor's office with a sterile, minimalist aesthetic and visible linear light fixtures.\nthe gold-framed eyeglasses: Eyeglasses with thin, gold-colored metal frames and rims, and clear rectangular lenses.\nthe dark button-up shirt: Dark-colored, long-sleeved, button-front men's shirt with a standard collar, made of a smooth fabric.\n\nIn The Modern Clinic, a close-up shows Leo wearing his white lab coat and the gold-framed eyeglasses. He turns his head to look slightly off-camera, a happy smile spreading across his face."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Modern Clinic, a close-up shows Leo wearing his white lab coat and the gold-framed eyeglasses. He turns his head to look slightly off-camera, a happy smile spreading across his face."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Chloe: Woman with long brown hair, wearing a white t-shirt with pink lettering.\nThe Observation Room: Indoor playroom or enclosure with a tiled floor, a large glass window on one wall, furnished with a small bed, a table, chairs, and colorful toys.\nthe playroom toys: A collection of colorful playroom furniture and toys, consisting of a small, simple bed, a low table, matching chairs, and various toys including large, brightly colored building blocks and plastic balls.\n\nChloe and Soo-jin stand side-by-side, looking through a large glass window into The Observation Room. Soo-jin murmurs something to Chloe, her gaze remaining fixed on the room. Inside the playroom, the chimpanzee sits on the tiled floor amidst the playroom toys, playing with a yellow toy truck.",
+        "the smartphone with Taera's message: Modern smartphone with a lit screen displaying a text message conversation, with the contact name 'Taera' and a message in Korean script that reads '자기야 오늘 진짜 최고였어! 이따 봐 ❤️' ending with a red heart emoji.\n\nExtreme close-up on Marcus's hand holding the smartphone with Taera's message. The phone's screen is brightly lit, displaying the text message conversation as his grip on the phone tightens slightly."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Chloe and Soo-jin stand side-by-side, looking through a large glass window into The Observation Room. Soo-jin murmurs something to Chloe, her gaze remaining fixed on the room. Inside the playroom, the chimpanzee sits on the tiled floor amidst the playroom toys, playing with a yellow toy truck.",
+        "Extreme close-up on Marcus's hand holding the smartphone with Taera's message. The phone's screen is brightly lit, displaying the text message conversation as his grip on the phone tightens slightly."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Julian: Man with long dark hair wearing a dark three-piece suit.\nThe Geometric Office: Modern and upscale office interior defined by walls with a geometric pattern.\nthe black office phone: Sleek black plastic modern office landline phone with a rectangular base, a digital display screen, a numeric keypad, and a handset attached via a coiled cord.\n\nIn The Geometric Office, Leo and Julian stand near each other, with the black office phone visible. Suddenly, an unseen force shoves Leo, causing him to collide violently with Julian. Reeling from the impact, Julian, wearing the dark three-piece suit, stumbles backward and clutches his head in pain.",
+        "the white dress shirt: Crisp white long-sleeved dress shirt with a structured collar and cuffs.\nIn The Geometric Office, Marcus, wearing the beige pinstripe suit, smiles as he adjusts his cuffs. Beside him, Julian, wearing the dark three-piece suit over the white dress shirt, stretches his neck and then turns to face Marcus.",
+        "the minimalist coat rack: Tall, minimalist coat rack made of matte black metal, featuring a heavy circular base and several angular, geometric arms extending upwards to serve as hooks.\nIn the foreground inside The Geometric Office, Marcus, wearing the beige pinstripe suit, adjusts his cuff. In the background, Julian, wearing the waistcoat and trousers of a dark three-piece suit, walks over to the minimalist coat rack, takes the dark suit jacket from it, and puts it on to complete the dark three-piece suit before walking out of the room.",
+        "the geometric screen panel: Large decorative screen panel composed of an intricate, modern pattern of geometric lines and shapes.\n\nMedium over-the-shoulder shot in The Geometric Office, filming from behind Chloe. Julian, wearing the dark three-piece suit, faces Chloe and speaks with a serious expression, gesturing occasionally. Soo-jin stands beside Julian and nods slowly as she listens, backlit by a large window featuring the geometric screen panel.",
+        "Kai: Man wearing a dark jacket.\n\nIn The Geometric Office, Julian, wearing the dark three-piece suit, turns and walks away from Marcus and Kai. Marcus, wearing the beige pinstripe suit, watches Julian depart with a pensive look on his face, as Kai glances from Julian's retreating form to Marcus."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Geometric Office, Leo and Julian stand near each other, with the black office phone visible. Suddenly, an unseen force shoves Leo, causing him to collide violently with Julian. Reeling from the impact, Julian, wearing the dark three-piece suit, stumbles backward and clutches his head in pain.",
+        "In The Geometric Office, Marcus, wearing the beige pinstripe suit, smiles as he adjusts his cuffs. Beside him, Julian, wearing the dark three-piece suit over the white dress shirt, stretches his neck and then turns to face Marcus.",
+        "In the foreground inside The Geometric Office, Marcus, wearing the beige pinstripe suit, adjusts his cuff. In the background, Julian, wearing the waistcoat and trousers of a dark three-piece suit, walks over to the minimalist coat rack, takes the dark suit jacket from it, and puts it on to complete the dark three-piece suit before walking out of the room.",
+        "Medium over-the-shoulder shot in The Geometric Office, filming from behind Chloe. Julian, wearing the dark three-piece suit, faces Chloe and speaks with a serious expression, gesturing occasionally. Soo-jin stands beside Julian and nods slowly as she listens, backlit by a large window featuring the geometric screen panel.",
+        "In The Geometric Office, Julian, wearing the dark three-piece suit, turns and walks away from Marcus and Kai. Marcus, wearing the beige pinstripe suit, watches Julian depart with a pensive look on his face, as Kai glances from Julian's retreating form to Marcus."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the mri scanner: Large medical imaging machine with a white, smooth-surfaced, doughnut-shaped cylindrical main unit and a long, flat patient scanner table extending from the central bore.\nthe plaid blanket: Woven blanket with a green and black plaid pattern.\n\nIn The Medical Corridor, Soo-jin watches as Marcus carefully slides a calm female patient into the mri scanner. The patient lies on her back on the scanner table, covered from the waist down by the plaid blanket."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Medical Corridor, Soo-jin watches as Marcus carefully slides a calm female patient into the mri scanner. The patient lies on her back on the scanner table, covered from the waist down by the plaid blanket."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Soo-jin",
+        "Leo",
+        "Marcus"
+      ],
+      "places": [
+        "The Medical Corridor"
+      ],
+      "objects": [
+        "the 'HATCH' lab coat",
+        "the black-framed eyeglasses"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Modern Clinic"
+      ],
+      "objects": [
+        "the gold-framed eyeglasses"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Soo-jin",
+        "Chloe"
+      ],
+      "places": [
+        "The Observation Room"
+      ],
+      "objects": [
+        "the chimpanzee",
+        "the playroom toys"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Marcus"
+      ],
+      "places": [],
+      "objects": [
+        "the smartphone with Taera's message"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Leo",
+        "Julian"
+      ],
+      "places": [
+        "The Geometric Office"
+      ],
+      "objects": [
+        "the dark three-piece suit",
+        "the black office phone"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Marcus",
+        "Julian"
+      ],
+      "places": [
+        "The Geometric Office"
+      ],
+      "objects": [
+        "the beige pinstripe suit",
+        "the dark three-piece suit",
+        "the white dress shirt"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Marcus",
+        "Julian"
+      ],
+      "places": [
+        "The Geometric Office"
+      ],
+      "objects": [
+        "the beige pinstripe suit",
+        "the dark three-piece suit",
+        "the minimalist coat rack",
+        "the dark suit jacket"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Soo-jin",
+        "Julian",
+        "Chloe"
+      ],
+      "places": [
+        "The Geometric Office"
+      ],
+      "objects": [
+        "the dark three-piece suit",
+        "the geometric screen panel"
+      ]
+    },
+    "4:5": {
+      "characters": [
+        "Marcus",
+        "Julian",
+        "Kai"
+      ],
+      "places": [
+        "The Geometric Office"
+      ],
+      "objects": [
+        "the dark three-piece suit",
+        "the beige pinstripe suit"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Marcus",
+        "Soo-jin"
+      ],
+      "places": [
+        "The Medical Corridor"
+      ],
+      "objects": [
+        "the mri scanner",
+        "the plaid blanket"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Julian",
+      "label": "Character 1",
+      "description": "Man with long dark hair wearing a dark three-piece suit."
+    },
+    "Character 2": {
+      "name": "Leo",
+      "label": "Character 2",
+      "description": "Man with curly hair, wearing glasses and a white lab coat."
+    },
+    "Character 3": {
+      "name": "Kai",
+      "label": "Character 3",
+      "description": "Man wearing a dark jacket."
+    },
+    "Character 4": {
+      "name": "Chloe",
+      "label": "Character 4",
+      "description": "Woman with long brown hair, wearing a white t-shirt with pink lettering."
+    },
+    "Character 5": {
+      "name": "Marcus",
+      "label": "Character 5",
+      "description": "Man wearing a light-colored pinstripe suit."
+    },
+    "Character 6": {
+      "name": "Soo-jin",
+      "label": "Character 6",
+      "description": "Woman wearing a white lab coat with 'HATCH' on the back, over a beige top."
+    },
+    "Location 1": {
+      "name": "The Modern Clinic",
+      "label": "Location 1",
+      "description": "Modern indoor doctor's office with a sterile, minimalist aesthetic and visible linear light fixtures."
+    },
+    "Location 2": {
+      "name": "The Observation Room",
+      "label": "Location 2",
+      "description": "Indoor playroom or enclosure with a tiled floor, a large glass window on one wall, furnished with a small bed, a table, chairs, and colorful toys."
+    },
+    "Location 3": {
+      "name": "The Medical Corridor",
+      "label": "Location 3",
+      "description": "Tiled hospital or medical complex corridor with a yellow-toned color palette."
+    },
+    "Location 4": {
+      "name": "The Geometric Office",
+      "label": "Location 4",
+      "description": "Modern and upscale office interior defined by walls with a geometric pattern."
+    },
+    "Object 1": {
+      "name": "the beige pinstripe suit",
+      "label": "Object 1",
+      "description": "Light-colored beige suit with a pinstripe pattern"
+    },
+    "Object 2": {
+      "name": "the dark three-piece suit",
+      "label": "Object 2",
+      "description": "Dark, tailored three-piece suit comprised of a matching jacket, waistcoat, and trousers made from a smooth suiting fabric"
+    },
+    "Object 3": {
+      "name": "the 'HATCH' lab coat",
+      "label": "Object 3",
+      "description": "White lab coat with the word 'HATCH' printed in black capital letters on the back"
+    },
+    "Object 4": {
+      "name": "the gold-framed eyeglasses",
+      "label": "Object 4",
+      "description": "Eyeglasses with thin, gold-colored metal frames and rims, and clear rectangular lenses."
+    },
+    "Object 5": {
+      "name": "the dark button-up shirt",
+      "label": "Object 5",
+      "description": "Dark-colored, long-sleeved, button-front men's shirt with a standard collar, made of a smooth fabric"
+    },
+    "Object 6": {
+      "name": "the playroom toys",
+      "label": "Object 6",
+      "description": "A collection of colorful playroom furniture and toys, consisting of a small, simple bed, a low table, matching chairs, and various toys including large, brightly colored building blocks and plastic balls."
+    },
+    "Object 7": {
+      "name": "the chimpanzee",
+      "label": "Object 7",
+      "description": "Ape or chimpanzee"
+    },
+    "Object 8": {
+      "name": "the black-framed eyeglasses",
+      "label": "Object 8",
+      "description": "A pair of eyeglasses with thin, rectangular black plastic frames."
+    },
+    "Object 10": {
+      "name": "the smartphone with Taera's message",
+      "label": "Object 10",
+      "description": "Modern smartphone with a lit screen displaying a text message conversation, with the contact name 'Taera' and a message in Korean script that reads '자기야 오늘 진짜 최고였어! 이따 봐 ❤️' ending with a red heart emoji."
+    },
+    "Object 11": {
+      "name": "the black office phone",
+      "label": "Object 11",
+      "description": "Sleek black plastic modern office landline phone with a rectangular base, a digital display screen, a numeric keypad, and a handset attached via a coiled cord."
+    },
+    "Object 12": {
+      "name": "the white dress shirt",
+      "label": "Object 12",
+      "description": "Crisp white long-sleeved dress shirt with a structured collar and cuffs."
+    },
+    "Object 13": {
+      "name": "the dark suit jacket",
+      "label": "Object 13",
+      "description": "Dark-colored suit jacket, part of a three-piece suit"
+    },
+    "Object 14": {
+      "name": "the minimalist coat rack",
+      "label": "Object 14",
+      "description": "Tall, minimalist coat rack made of matte black metal, featuring a heavy circular base and several angular, geometric arms extending upwards to serve as hooks."
+    },
+    "Object 15": {
+      "name": "the geometric screen panel",
+      "label": "Object 15",
+      "description": "Large decorative screen panel composed of an intricate, modern pattern of geometric lines and shapes."
+    },
+    "Object 16": {
+      "name": "the white lab coat",
+      "label": "Object 16",
+      "description": "Knee-length, long-sleeved white lab coat made of a crisp fabric, featuring a notched lapel collar and patch pockets"
+    },
+    "Object 17": {
+      "name": "the mri scanner",
+      "label": "Object 17",
+      "description": "Large medical imaging machine with a white, smooth-surfaced, doughnut-shaped cylindrical main unit and a long, flat patient scanner table extending from the central bore."
+    },
+    "Object 18": {
+      "name": "the plaid blanket",
+      "label": "Object 18",
+      "description": "Woven blanket with a green and black plaid pattern."
+    }
+  },
+  "_window_shot_ids": [
+    "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300__shot0031",
+    "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300__shot0032",
+    "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300__shot0033",
+    "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300__shot0034",
+    "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300__shot0035",
+    "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300__shot0036",
+    "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300__shot0037",
+    "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300__shot0038",
+    "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300__shot0039",
+    "00049708-9278-3899-8500-0015dae283e4__run599__i0_j24__T300__shot0040"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Julian",
+    "Character 2": "Leo",
+    "Character 3": "Kai",
+    "Character 4": "Chloe",
+    "Character 5": "Marcus",
+    "Character 6": "Soo-jin",
+    "Location 1": "The Modern Clinic",
+    "Location 2": "The Observation Room",
+    "Location 3": "The Medical Corridor",
+    "Location 4": "The Geometric Office",
+    "Object 1": "the beige pinstripe suit",
+    "Object 10": "the smartphone with Taera's message",
+    "Object 11": "the black office phone",
+    "Object 12": "the white dress shirt",
+    "Object 13": "the dark suit jacket",
+    "Object 14": "the minimalist coat rack",
+    "Object 15": "the geometric screen panel",
+    "Object 16": "the white lab coat",
+    "Object 17": "the mri scanner",
+    "Object 18": "the plaid blanket",
+    "Object 2": "the dark three-piece suit",
+    "Object 3": "the 'HATCH' lab coat",
+    "Object 4": "the gold-framed eyeglasses",
+    "Object 5": "the dark button-up shirt",
+    "Object 6": "the playroom toys",
+    "Object 7": "the chimpanzee",
+    "Object 8": "the black-framed eyeglasses",
+    "Object 9": "the smartphone with Korean text"
+  }
+}

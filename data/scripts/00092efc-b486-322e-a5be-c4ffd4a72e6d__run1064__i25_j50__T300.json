@@ -1,0 +1,360 @@
+{
+  "story_name": "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300",
+  "story_overview": "During a chaotic heist at the ProTrans building, Nico communicates on a burner phone while Felix holds Carlos hostage. After a tense standoff witnessed by Detective Walsh, the crew of Leland, Nico, and Felix escape with loot bags to a getaway van, where they have apparently also abducted the detective.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Detective Walsh: Man with short, thinning hair, wearing sunglasses and a beige collared shirt over a shoulder holster.\nCarlos: Man.\nFelix: Man with a focused face wearing a plaid hoodie, Sunglasses, and a small earpiece in one ear.\nNico: Person wearing a dark grey t-shirt, and light-colored pants.\nThe ProTrans Lobby: Confined interior of the PROTRANS Building.\nthe burner phone: Simple black candy bar style cell phone with a hard plastic casing, a small rectangular screen, and a physical numeric keypad.\nthe compact handgun: Small black handgun.\n\nDuring a chaotic scene inside The ProTrans Lobby, Nico speaks urgently into the burner phone. In the background, Felix holds Carlos at gunpoint with the compact handgun, while Detective Walsh glances around nervously.",
+        "Gideon: Man with graying curly hair and wide, alert eyes, wearing a black balaclava\n\nNico aggressively shoves the compact handgun into Carlos's mouth as Gideon, wearing the black balaclava, watches. Carlos's eyes widen in terror, his face becoming slick with sweat.",
+        "the black beanie: Black, close-fitting, ribbed-knit beanie hat.\n\nExtreme close-up on Carlos's tense face, partially illuminated in the dark The ProTrans Lobby. Carlos wears the black beanie and the plain black shirt. He looks around the room before bringing a hand to his head to pull off the black beanie."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "During a chaotic scene inside The ProTrans Lobby, Nico speaks urgently into the burner phone. In the background, Felix holds Carlos at gunpoint with the compact handgun, while Detective Walsh glances around nervously.",
+        "Nico aggressively shoves the compact handgun into Carlos's mouth as Gideon, wearing the black balaclava, watches. Carlos's eyes widen in terror, his face becoming slick with sweat.",
+        "Extreme close-up on Carlos's tense face, partially illuminated in the dark The ProTrans Lobby. Carlos wears the black beanie and the plain black shirt. He looks around the room before bringing a hand to his head to pull off the black beanie."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Mr. Thorne: Man in a dark suit and a tie.\nArthur: Older, balding man.\nThe Sunlit Apartment: Bright and airy living room interior with large windows, light neutral-colored walls, a couch, a coffee table, and a decorative rug on a hardwood floor.\n\nIn the sunlit living room of The Sunlit Apartment, Mr. Thorne sits on the couch, gesturing as he speaks to Arthur, who stands opposite him. Gideon stands near the window, his head turning slightly as he observes them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the sunlit living room of The Sunlit Apartment, Mr. Thorne sits on the couch, gesturing as he speaks to Arthur, who stands opposite him. Gideon stands near the window, his head turning slightly as he observes them."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Extreme close-up on the intense eyes of Nico inside The ProTrans Lobby. His eyes narrow as he stares straight ahead at Gideon with a serious, focused expression. Dramatic lighting casts deep shadows across his balaclava.",
+        "Leland: Older man wearing a gray button-up shirt.\nProTrans Plaza: An exterior urban streetscape consisting of a paved road and a commercial building with a 'PROTRANS' sign on its facade.\n\nRear view of Leland, Nico, and Felix as they run down a hallway inside The ProTrans Lobby. Leland and Nico are wearing black balaclavas. They carry the blue loot bag and the compact handgun. The characters flee the building, exiting onto the bright street of ProTrans Plaza.",
+        "Medium shot from the perspective of the moving dark getaway van. In ProTrans Plaza, Leland and another masked figure walk quickly along the sidewalk. Leland carries a large blue duffel bag, the blue loot bag.",
+        "the white cargo van: A plain, unmarked white cargo van with solid panel sides and two windowless rear doors\n\nIn a shaky, handheld rear-view shot at ProTrans Plaza, Felix, Nico, and Leland run away down the street towards the white cargo van, each carrying a blue loot bag as they sprint away during the day.",
+        "From inside the dark getaway van, Leland, wearing a gray button-up shirt and the black balaclava, quickly climbs into the vehicle. The open side door of the van frames the bright, sunlit street of ProTrans Plaza outside."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Extreme close-up on the intense eyes of Nico inside The ProTrans Lobby. His eyes narrow as he stares straight ahead at Gideon with a serious, focused expression. Dramatic lighting casts deep shadows across his balaclava.",
+        "Rear view of Leland, Nico, and Felix as they run down a hallway inside The ProTrans Lobby. Leland and Nico are wearing black balaclavas. They carry the blue loot bag and the compact handgun. The characters flee the building, exiting onto the bright street of ProTrans Plaza.",
+        "Medium shot from the perspective of the moving dark getaway van. In ProTrans Plaza, Leland and another masked figure walk quickly along the sidewalk. Leland carries a large blue duffel bag, the blue loot bag.",
+        "In a shaky, handheld rear-view shot at ProTrans Plaza, Felix, Nico, and Leland run away down the street towards the white cargo van, each carrying a blue loot bag as they sprint away during the day.",
+        "From inside the dark getaway van, Leland, wearing a gray button-up shirt and the black balaclava, quickly climbs into the vehicle. The open side door of the van frames the bright, sunlit street of ProTrans Plaza outside."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Getaway Van Interior: The spartan interior of a van with dark, simple seating and visible metal rear doors and interior paneling.\n\nA shaky view from inside The Getaway Van Interior at night. The camera is focused on the back of Detective Walsh, who is slumped forward in a seat while wearing the black beanie, swaying slightly with the motion of the moving vehicle. The rear doors of the van are visible behind them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A shaky view from inside The Getaway Van Interior at night. The camera is focused on the back of Detective Walsh, who is slumped forward in a seat while wearing the black beanie, swaying slightly with the motion of the moving vehicle. The rear doors of the van are visible behind them."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Detective Walsh",
+        "Carlos",
+        "Felix",
+        "Nico"
+      ],
+      "places": [
+        "The ProTrans Lobby"
+      ],
+      "objects": [
+        "the burner phone",
+        "the compact handgun"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Carlos",
+        "Nico",
+        "Gideon"
+      ],
+      "places": [
+        "The ProTrans Lobby"
+      ],
+      "objects": [
+        "the black balaclava",
+        "the compact handgun"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Carlos"
+      ],
+      "places": [
+        "The ProTrans Lobby"
+      ],
+      "objects": [
+        "the black beanie",
+        "the plain black shirt"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Mr. Thorne",
+        "Gideon",
+        "Arthur"
+      ],
+      "places": [
+        "The Sunlit Apartment"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Nico",
+        "Gideon"
+      ],
+      "places": [
+        "The ProTrans Lobby"
+      ],
+      "objects": []
+    },
+    "3:2": {
+      "characters": [
+        "Leland",
+        "Nico",
+        "Felix"
+      ],
+      "places": [
+        "The ProTrans Lobby",
+        "ProTrans Plaza"
+      ],
+      "objects": [
+        "the black balaclava",
+        "the grey t-shirt",
+        "the blue loot bag",
+        "the compact handgun"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Leland"
+      ],
+      "places": [
+        "ProTrans Plaza"
+      ],
+      "objects": [
+        "the dark getaway van",
+        "the blue loot bag"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Leland",
+        "Felix",
+        "Nico"
+      ],
+      "places": [
+        "ProTrans Plaza"
+      ],
+      "objects": [
+        "the black balaclava",
+        "the blue loot bag",
+        "the white cargo van"
+      ]
+    },
+    "3:5": {
+      "characters": [
+        "Leland"
+      ],
+      "places": [
+        "ProTrans Plaza"
+      ],
+      "objects": [
+        "the dark getaway van",
+        "the black balaclava"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Detective Walsh"
+      ],
+      "places": [
+        "The Getaway Van Interior"
+      ],
+      "objects": [
+        "the black beanie"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leland",
+      "label": "Character 1",
+      "description": "Older man wearing a gray button-up shirt."
+    },
+    "Character 2": {
+      "name": "Nico",
+      "label": "Character 2",
+      "description": "Person wearing a dark grey t-shirt, and light-colored pants."
+    },
+    "Character 4": {
+      "name": "Detective Walsh",
+      "label": "Character 4",
+      "description": "Man with short, thinning hair, wearing sunglasses and a beige collared shirt over a shoulder holster."
+    },
+    "Character 5": {
+      "name": "Gideon",
+      "label": "Character 5",
+      "description": "Man with graying curly hair and wide, alert eyes, wearing a black balaclava"
+    },
+    "Character 6": {
+      "name": "Mr. Thorne",
+      "label": "Character 6",
+      "description": "Man in a dark suit and a tie."
+    },
+    "Character 7": {
+      "name": "Carlos",
+      "label": "Character 7",
+      "description": "Man."
+    },
+    "Character 8": {
+      "name": "Felix",
+      "label": "Character 8",
+      "description": "Man with a focused face wearing a plaid hoodie, Sunglasses, and a small earpiece in one ear."
+    },
+    "Character 9": {
+      "name": "Arthur",
+      "label": "Character 9",
+      "description": "Older, balding man."
+    },
+    "Location 1": {
+      "name": "The ProTrans Lobby",
+      "label": "Location 1",
+      "description": "Confined interior of the PROTRANS Building."
+    },
+    "Location 2": {
+      "name": "ProTrans Plaza",
+      "label": "Location 2",
+      "description": "An exterior urban streetscape consisting of a paved road and a commercial building with a 'PROTRANS' sign on its facade."
+    },
+    "Location 3": {
+      "name": "The Sunlit Apartment",
+      "label": "Location 3",
+      "description": "Bright and airy living room interior with large windows, light neutral-colored walls, a couch, a coffee table, and a decorative rug on a hardwood floor."
+    },
+    "Location 4": {
+      "name": "The Getaway Van Interior",
+      "label": "Location 4",
+      "description": "The spartan interior of a van with dark, simple seating and visible metal rear doors and interior paneling."
+    },
+    "Object 1": {
+      "name": "the black balaclava",
+      "label": "Object 1",
+      "description": "Black fabric balaclava-style ski mask with cutouts for the eyes"
+    },
+    "Object 2": {
+      "name": "the compact handgun",
+      "label": "Object 2",
+      "description": "Small black handgun."
+    },
+    "Object 3": {
+      "name": "the grey t-shirt",
+      "label": "Object 3",
+      "description": "Plain grey short-sleeved crew neck T-shirt"
+    },
+    "Object 4": {
+      "name": "the burner phone",
+      "label": "Object 4",
+      "description": "Simple black candy bar style cell phone with a hard plastic casing, a small rectangular screen, and a physical numeric keypad."
+    },
+    "Object 5": {
+      "name": "the plain black shirt",
+      "label": "Object 5",
+      "description": "Plain black shirt with no visible text, logos, or patterns"
+    },
+    "Object 6": {
+      "name": "the black beanie",
+      "label": "Object 6",
+      "description": "Black, close-fitting, ribbed-knit beanie hat."
+    },
+    "Object 7": {
+      "name": "the blue loot bag",
+      "label": "Object 7",
+      "description": "Large, blue, duffel-style loot bags made of a heavy-duty fabric with the words \"Blue Loot\" printed on the side"
+    },
+    "Object 8": {
+      "name": "the dark blue shirt",
+      "label": "Object 8",
+      "description": "Dark blue shirt"
+    },
+    "Object 9": {
+      "name": "the dark getaway van",
+      "label": "Object 9",
+      "description": "Dark-colored getaway van"
+    },
+    "Object 10": {
+      "name": "the white cargo van",
+      "label": "Object 10",
+      "description": "A plain, unmarked white cargo van with solid panel sides and two windowless rear doors"
+    },
+    "Object 11": {
+      "name": "the interview van",
+      "label": "Object 11",
+      "description": "An interview van with a dark interior cabin containing seats and a set of rear doors"
+    }
+  },
+  "_window_shot_ids": [
+    "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300__shot0019",
+    "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300__shot0020",
+    "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300__shot0021",
+    "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300__shot0022",
+    "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300__shot0023",
+    "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300__shot0024",
+    "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300__shot0025",
+    "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300__shot0026",
+    "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300__shot0027",
+    "00092efc-b486-322e-a5be-c4ffd4a72e6d__run1064__i25_j50__T300__shot0028"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Leland",
+    "Character 2": "Nico",
+    "Character 3": "Milo",
+    "Character 4": "Detective Walsh",
+    "Character 5": "Gideon",
+    "Character 6": "Mr. Thorne",
+    "Character 7": "Carlos",
+    "Character 8": "Felix",
+    "Character 9": "Arthur",
+    "Location 1": "The ProTrans Lobby",
+    "Location 2": "ProTrans Plaza",
+    "Location 3": "The Sunlit Apartment",
+    "Location 4": "The Getaway Van Interior",
+    "Object 1": "the black balaclava",
+    "Object 10": "the white cargo van",
+    "Object 11": "the interview van",
+    "Object 2": "the compact handgun",
+    "Object 3": "the grey t-shirt",
+    "Object 4": "the burner phone",
+    "Object 5": "the plain black shirt",
+    "Object 6": "the black beanie",
+    "Object 7": "the blue loot bag",
+    "Object 8": "the dark blue shirt",
+    "Object 9": "the dark getaway van"
+  }
+}

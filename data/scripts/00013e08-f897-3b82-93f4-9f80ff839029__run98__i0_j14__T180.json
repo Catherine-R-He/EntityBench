@@ -1,0 +1,491 @@
+{
+  "story_name": "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180",
+  "story_overview": "A party celebrating a young boy, Oscar, is in full swing, but an undercurrent of tension surrounds Caleb. Visibly distressed, Caleb communicates through mysterious devices, including a vintage phone and a futuristic earpiece. The joyful celebration, attended by Chloe, Leo, and Ethan, contrasts sharply with Caleb's urgent and secret mission.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Caleb: Young man with curly, light brown hair, wearing a green hoodie and a large, sparkly die-shaped earring in his right ear.\nThe Celebration Room: Party room decorated with colorful balloons and a 'congratulations' banner, furnished with a table that has a lit birthday cake.\nthe vintage telephone handset: Old-fashioned telephone handset made of shiny black Bakelite, with a curved handle connecting a round earpiece to a flared mouthpiece, and a thick coiled black cord extending from its base.\n\nA close-up on the face of Caleb inside The Celebration Room. He has a distressed and worried expression as he holds the vintage telephone handset to his ear and mouth, speaking urgently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A close-up on the face of Caleb inside The Celebration Room. He has a distressed and worried expression as he holds the vintage telephone handset to his ear and mouth, speaking urgently."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Leo: Young man with dark wavy hair, wearing a black and white plaid shirt over a white t-shirt.\nThe Stone Garden: Outdoor garden with a green grassy lawn and a stone path.\nthe concrete picnic tables: Utilitarian outdoor tables made of heavy, weathered grey concrete, designed with rectangular tops and attached blocky bench seats.\nOscar: Young boy with dark curly hair, wearing a multi-colored striped polo shirt\n\nMedium shot in The Stone Garden of Leo, Caleb, and Oscar sitting on a concrete curb. They shift slightly, their expressions remaining somber and serious. In the background, several of the concrete picnic tables are visible, out-of-focus, across a grassy area.",
+        "the black wristwatch: A black wristwatch with a black case, a black dial, and a black band.\n\nClose-up of Caleb wearing the dark green hoodie and the black wristwatch, sitting outdoors in The Stone Garden. With a pensive and worried expression, he brings his fist up to rest against his mouth as his gaze shifts down and to the side.",
+        "Chloe: Woman with long dark hair, wearing a dark blazer over a black top, a party hat, and a silver hoop earring.\n\nClose-up of Chloe in The Stone Garden, standing with a pensive expression on her face next to Leo in the black plaid shirt. She suddenly and quickly ducks down and to the side.",
+        "Ethan: Young man with short dark brown hair and glasses, wearing a dark green long-sleeved shirt with white stripes on the sleeves\n\nIn The Stone Garden, Caleb, wearing the dark green hoodie and the sparkly die earring, sits on the grass and squeezes his eyes shut in distress. His eyes then roll back into his head. In the background, Ethan walks away along a stone path."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in The Stone Garden of Leo, Caleb, and Oscar sitting on a concrete curb. They shift slightly, their expressions remaining somber and serious. In the background, several of the concrete picnic tables are visible, out-of-focus, across a grassy area.",
+        "Close-up of Caleb wearing the dark green hoodie and the black wristwatch, sitting outdoors in The Stone Garden. With a pensive and worried expression, he brings his fist up to rest against his mouth as his gaze shifts down and to the side.",
+        "Close-up of Chloe in The Stone Garden, standing with a pensive expression on her face next to Leo in the black plaid shirt. She suddenly and quickly ducks down and to the side.",
+        "In The Stone Garden, Caleb, wearing the dark green hoodie and the sparkly die earring, sits on the grass and squeezes his eyes shut in distress. His eyes then roll back into his head. In the background, Ethan walks away along a stone path."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "the decorated party table: Long rectangular banquet-style folding table covered with a decorative, disposable party tablecloth.\nthe red plastic cup: Bright red disposable plastic party cup with a tapered cylindrical shape, a glossy exterior, a white interior, and horizontal ridges around its body.\nthe colorful party balloons: A festive bunch of colorful, inflated party balloons made of latex and mylar, tied with long, thin ribbons.\n\nMedium shot of a birthday party in The Celebration Room, decorated with the colorful party balloons. In the background, Oscar smiles as he stands behind the decorated party table, presenting the birthday cake with lit candles. In the foreground, Ethan stands with his arms crossed, talking to Leo, who nods along while holding the red plastic cup.",
+        "the colorful party hats: Colorful, cone-shaped party hats made of thin cardstock, each with a thin elastic chin strap.\n\nMedium shot of Chloe and Ethan dancing happily in The Celebration Room. They both wear the colorful party hats and hold the red party blowers. In the background, the 'congratulations' banner hangs from the ceiling and the 'UP FOR YOUR WORLD' poster is on the wall."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot of a birthday party in The Celebration Room, decorated with the colorful party balloons. In the background, Oscar smiles as he stands behind the decorated party table, presenting the birthday cake with lit candles. In the foreground, Ethan stands with his arms crossed, talking to Leo, who nods along while holding the red plastic cup.",
+        "Medium shot of Chloe and Ethan dancing happily in The Celebration Room. They both wear the colorful party hats and hold the red party blowers. In the background, the 'congratulations' banner hangs from the ceiling and the 'UP FOR YOUR WORLD' poster is on the wall."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "In The Celebration Room, Caleb's side profile is in sharp focus in the foreground. In the blurry background, Chloe leans against a wall. The camera smoothly racks focus from Caleb to Chloe. As Chloe comes into clear view, she straightens up slightly, continuing to observe Caleb."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Celebration Room, Caleb's side profile is in sharp focus in the foreground. In the blurry background, Chloe leans against a wall. The camera smoothly racks focus from Caleb to Chloe. As Chloe comes into clear view, she straightens up slightly, continuing to observe Caleb."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the white laminate table: Simple rectangular table with a smooth white laminate surface and four straight legs.\n\nCaleb, wearing the dark green hoodie, sits at the white laminate table in a room dimly lit by the birthday cake. He has a pensive expression as he slowly turns his head to gaze off-screen. Leo is seated nearby, slightly out of focus in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Caleb, wearing the dark green hoodie, sits at the white laminate table in a room dimly lit by the birthday cake. He has a pensive expression as he slowly turns his head to gaze off-screen. Leo is seated nearby, slightly out of focus in the background."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Chloe dances in the center with the red party blower in her mouth. Ethan sings and dances along beside her. They both wear the colorful party hats, and the 'congratulations' banner is strung across the wall behind them.",
+        "Close-up on the birthday cake with lit candles resting on a table inside The Celebration Room. Oscar leans forward and blows out all the candles, extinguishing the flames. Standing behind him, Chloe and Caleb smile and watch.",
+        "the aerosol spray can: Standard-sized cylindrical metal aerosol spray can with a plastic spray nozzle on top.\n\nIn The Celebration Room, decorated with the colorful party balloons, Ethan uses the aerosol spray can to spray the birthday cake with lit candles, which rests on the decorated party table. Nearby, Oscar watches with a surprised expression, while Caleb, holding the red plastic cup, chuckles. Ethan then turns and walks away from the table."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Chloe dances in the center with the red party blower in her mouth. Ethan sings and dances along beside her. They both wear the colorful party hats, and the 'congratulations' banner is strung across the wall behind them.",
+        "Close-up on the birthday cake with lit candles resting on a table inside The Celebration Room. Oscar leans forward and blows out all the candles, extinguishing the flames. Standing behind him, Chloe and Caleb smile and watch.",
+        "In The Celebration Room, decorated with the colorful party balloons, Ethan uses the aerosol spray can to spray the birthday cake with lit candles, which rests on the decorated party table. Nearby, Oscar watches with a surprised expression, while Caleb, holding the red plastic cup, chuckles. Ethan then turns and walks away from the table."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Close-up on Caleb, who sits at the white laminate table in The Celebration Room, wearing the dark green hoodie and the sparkly die-shaped earring. His worried expression deepens slightly. In the out-of-focus background, Oscar sits down at the table.",
+        "A close-up of Oscar sitting in The Celebration Room. Oscar is wearing the striped polo shirt and has the glowing earpiece in his left ear. He slowly looks down, his expression turning pensive.",
+        "Ryan: Young man with short, curly dark hair, a youthful face, wearing a faded gray crewneck t-shirt, dark wash denim jeans, and white and black sneakers\n\nFrom a close-up profile view in The Celebration Room, Caleb listens intently before turning his head to speak. In the soft-focus background, Ryan sits at the white laminate table, looking over at Caleb."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on Caleb, who sits at the white laminate table in The Celebration Room, wearing the dark green hoodie and the sparkly die-shaped earring. His worried expression deepens slightly. In the out-of-focus background, Oscar sits down at the table.",
+        "A close-up of Oscar sitting in The Celebration Room. Oscar is wearing the striped polo shirt and has the glowing earpiece in his left ear. He slowly looks down, his expression turning pensive.",
+        "From a close-up profile view in The Celebration Room, Caleb listens intently before turning his head to speak. In the soft-focus background, Ryan sits at the white laminate table, looking over at Caleb."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": [
+        "the vintage telephone handset"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Caleb",
+        "Leo",
+        "Oscar"
+      ],
+      "places": [
+        "The Stone Garden"
+      ],
+      "objects": [
+        "the concrete picnic tables"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "The Stone Garden"
+      ],
+      "objects": [
+        "the dark green hoodie",
+        "the black wristwatch"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Chloe",
+        "Leo"
+      ],
+      "places": [
+        "The Stone Garden"
+      ],
+      "objects": [
+        "the black plaid shirt"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Ethan",
+        "Caleb"
+      ],
+      "places": [
+        "The Stone Garden"
+      ],
+      "objects": [
+        "the dark green hoodie",
+        "the sparkly die earring"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leo",
+        "Ethan",
+        "Oscar"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": [
+        "the decorated party table",
+        "the birthday cake with lit candles",
+        "the red plastic cup",
+        "the colorful party balloons"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Chloe",
+        "Ethan"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": [
+        "the colorful party hats",
+        "the red party blower",
+        "the 'congratulations' banner",
+        "the 'UP FOR YOUR WORLD' poster"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Caleb",
+        "Chloe"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": []
+    },
+    "5:1": {
+      "characters": [
+        "Caleb",
+        "Leo"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": [
+        "the white laminate table",
+        "the dark green hoodie"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Chloe",
+        "Ethan"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": [
+        "the colorful party hats",
+        "the red party blower",
+        "the 'congratulations' banner"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Caleb",
+        "Chloe",
+        "Oscar"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": [
+        "the birthday cake with lit candles"
+      ]
+    },
+    "6:3": {
+      "characters": [
+        "Caleb",
+        "Ethan",
+        "Oscar"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": [
+        "the colorful party balloons",
+        "the aerosol spray can",
+        "the birthday cake with lit candles",
+        "the decorated party table",
+        "the red plastic cup"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Caleb",
+        "Oscar"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": [
+        "the dark green hoodie",
+        "the white laminate table"
+      ]
+    },
+    "7:2": {
+      "characters": [
+        "Oscar"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": [
+        "the striped polo shirt",
+        "the glowing earpiece"
+      ]
+    },
+    "7:3": {
+      "characters": [
+        "Caleb",
+        "Ryan"
+      ],
+      "places": [
+        "The Celebration Room"
+      ],
+      "objects": [
+        "the white laminate table"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Young man with dark wavy hair, wearing a black and white plaid shirt over a white t-shirt."
+    },
+    "Character 2": {
+      "name": "Ryan",
+      "label": "Character 2",
+      "description": "Young man with short, curly dark hair, a youthful face, wearing a faded gray crewneck t-shirt, dark wash denim jeans, and white and black sneakers"
+    },
+    "Character 3": {
+      "name": "Chloe",
+      "label": "Character 3",
+      "description": "Woman with long dark hair, wearing a dark blazer over a black top, a party hat, and a silver hoop earring."
+    },
+    "Character 4": {
+      "name": "Ethan",
+      "label": "Character 4",
+      "description": "Young man with short dark brown hair and glasses, wearing a dark green long-sleeved shirt with white stripes on the sleeves"
+    },
+    "Character 5": {
+      "name": "Caleb",
+      "label": "Character 5",
+      "description": "Young man with curly, light brown hair, wearing a green hoodie and a large, sparkly die-shaped earring in his right ear."
+    },
+    "Character 6": {
+      "name": "Oscar",
+      "label": "Character 6",
+      "description": "Young boy with dark curly hair, wearing a multi-colored striped polo shirt"
+    },
+    "Location 1": {
+      "name": "The Stone Garden",
+      "label": "Location 1",
+      "description": "Outdoor garden with a green grassy lawn and a stone path."
+    },
+    "Location 2": {
+      "name": "The Celebration Room",
+      "label": "Location 2",
+      "description": "Party room decorated with colorful balloons and a 'congratulations' banner, furnished with a table that has a lit birthday cake."
+    },
+    "Object 1": {
+      "name": "the dark green hoodie",
+      "label": "Object 1",
+      "description": "Dark green zip-up hoodie with a hood and front zipper"
+    },
+    "Object 2": {
+      "name": "the black plaid shirt",
+      "label": "Object 2",
+      "description": "Dark black plaid shirt"
+    },
+    "Object 3": {
+      "name": "the striped polo shirt",
+      "label": "Object 3",
+      "description": "Child-sized, short-sleeve polo shirt with multi-colored horizontal stripes"
+    },
+    "Object 4": {
+      "name": "the sparkly die earring",
+      "label": "Object 4",
+      "description": "Large, sparkly, white earring in the shape of a six-sided die"
+    },
+    "Object 5": {
+      "name": "the glowing earpiece",
+      "label": "Object 5",
+      "description": "Small, futuristic earpiece with small, glowing lights"
+    },
+    "Object 6": {
+      "name": "the concrete picnic tables",
+      "label": "Object 6",
+      "description": "Utilitarian outdoor tables made of heavy, weathered grey concrete, designed with rectangular tops and attached blocky bench seats."
+    },
+    "Object 7": {
+      "name": "the vintage telephone handset",
+      "label": "Object 7",
+      "description": "Old-fashioned telephone handset made of shiny black Bakelite, with a curved handle connecting a round earpiece to a flared mouthpiece, and a thick coiled black cord extending from its base."
+    },
+    "Object 8": {
+      "name": "the black wristwatch",
+      "label": "Object 8",
+      "description": "A black wristwatch with a black case, a black dial, and a black band."
+    },
+    "Object 9": {
+      "name": "the birthday cake with lit candles",
+      "label": "Object 9",
+      "description": "Round birthday cake with white frosting, colorful sprinkles, and multiple lit, multi-colored wax candles on top"
+    },
+    "Object 10": {
+      "name": "the decorated party table",
+      "label": "Object 10",
+      "description": "Long rectangular banquet-style folding table covered with a decorative, disposable party tablecloth."
+    },
+    "Object 11": {
+      "name": "the colorful party balloons",
+      "label": "Object 11",
+      "description": "A festive bunch of colorful, inflated party balloons made of latex and mylar, tied with long, thin ribbons."
+    },
+    "Object 12": {
+      "name": "the red plastic cup",
+      "label": "Object 12",
+      "description": "Bright red disposable plastic party cup with a tapered cylindrical shape, a glossy exterior, a white interior, and horizontal ridges around its body."
+    },
+    "Object 13": {
+      "name": "the red party blower",
+      "label": "Object 13",
+      "description": "Red party blower with a plastic mouthpiece and a tightly coiled paper horn with festive patterns"
+    },
+    "Object 14": {
+      "name": "the colorful party hats",
+      "label": "Object 14",
+      "description": "Colorful, cone-shaped party hats made of thin cardstock, each with a thin elastic chin strap."
+    },
+    "Object 15": {
+      "name": "the 'congratulations' banner",
+      "label": "Object 15",
+      "description": "A party banner with the word 'CONGRATULATIONS' printed on it in large, colorful block letters"
+    },
+    "Object 16": {
+      "name": "the 'UP FOR YOUR WORLD' poster",
+      "label": "Object 16",
+      "description": "Poster with a printed slogan that includes the words 'UP FOR YOUR WORLD'"
+    },
+    "Object 17": {
+      "name": "the white laminate table",
+      "label": "Object 17",
+      "description": "Simple rectangular table with a smooth white laminate surface and four straight legs."
+    },
+    "Object 18": {
+      "name": "the aerosol spray can",
+      "label": "Object 18",
+      "description": "Standard-sized cylindrical metal aerosol spray can with a plastic spray nozzle on top."
+    }
+  },
+  "_window_shot_ids": [
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0031",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0032",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0033",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0034",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0035",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0036",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0037",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0039",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0040",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0041",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0043",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0044",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0045",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0046",
+    "00013e08-f897-3b82-93f4-9f80ff839029__run98__i0_j14__T180__shot0047"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Ryan",
+    "Character 3": "Chloe",
+    "Character 4": "Ethan",
+    "Character 5": "Caleb",
+    "Character 6": "Oscar",
+    "Location 1": "The Stone Garden",
+    "Location 2": "The Celebration Room",
+    "Object 1": "the dark green hoodie",
+    "Object 10": "the decorated party table",
+    "Object 11": "the colorful party balloons",
+    "Object 12": "the red plastic cup",
+    "Object 13": "the red party blower",
+    "Object 14": "the colorful party hats",
+    "Object 15": "the 'congratulations' banner",
+    "Object 16": "the 'UP FOR YOUR WORLD' poster",
+    "Object 17": "the white laminate table",
+    "Object 18": "the aerosol spray can",
+    "Object 2": "the black plaid shirt",
+    "Object 3": "the striped polo shirt",
+    "Object 4": "the sparkly die earring",
+    "Object 5": "the glowing earpiece",
+    "Object 6": "the concrete picnic tables",
+    "Object 7": "the vintage telephone handset",
+    "Object 8": "the black wristwatch",
+    "Object 9": "the birthday cake with lit candles"
+  }
+}

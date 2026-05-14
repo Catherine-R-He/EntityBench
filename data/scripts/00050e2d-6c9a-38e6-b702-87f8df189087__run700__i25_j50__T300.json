@@ -1,0 +1,403 @@
+{
+  "story_name": "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300",
+  "story_overview": "In a quiet bedroom, Arthur and Nora watch over a sleeping Leo before departing. The scene shifts to a tense search, where Stefan is ambushed in a hallway by Elias and a watchful Walter. Later, the three men—Walter, Stefan, and Elias—convene at The Regent Bar, their fraught meeting suggesting a deeper conspiracy.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Arthur: Balding, middle-aged man wearing black-rimmed glasses, a black suit, and a white shirt.\nLeo: Young boy with reddish-blond hair, wearing a white short-sleeved collared shirt with a blue geometric or floral pattern.\nNora: Woman with short, reddish-orange hair.\nThe Living Room: Home interior.\nthe twin bed with wooden frame: Twin-size bed with a simple wooden base and headboard, a rumpled blue and white patterned comforter, and white pillows.\n\nMedium shot in a dimly lit bedroom in The Living Room at night. Leo sleeps in the twin bed with wooden frame. Arthur leans over the bed, watching Leo for a moment. Nora waits in the doorway as Arthur turns and walks out of the room.",
+        "the patchwork quilt: A thick, patchwork quilt with square panels in faded shades of burgundy, forest green, and cream, with visible white stitching along the seams giving it a soft, slightly puckered texture.\nthe white pillow: Standard-sized rectangular white pillow with a smooth, unadorned pillowcase.\n\nIn The Living Room at night, a close-up, high-angle view shows Leo sleeping soundly in the twin bed with wooden frame. He is tucked under the patchwork quilt with his head resting on the white pillow, his chest rising and falling gently with each breath."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in a dimly lit bedroom in The Living Room at night. Leo sleeps in the twin bed with wooden frame. Arthur leans over the bed, watching Leo for a moment. Nora waits in the doorway as Arthur turns and walks out of the room.",
+        "In The Living Room at night, a close-up, high-angle view shows Leo sleeping soundly in the twin bed with wooden frame. He is tucked under the patchwork quilt with his head resting on the white pillow, his chest rising and falling gently with each breath."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Stefan: Man with blond hair, wearing a dark suit jacket over a white collared shirt and a tie.\nThe Crimson Void: Abstract space composed of a dark, blurry red expanse with horizontal, motion-blurred streaks of white and orange light.\n\nMedium shot of Stefan slowly turning his head against the abstract, motion-blurred background of The Crimson Void."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Stefan slowly turning his head against the abstract, motion-blurred background of The Crimson Void."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Interior Hallway: An interior room or hallway.\nIn the dimly lit The Interior Hallway, Stefan, wearing the dark blue suit jacket, stands at the console table with basket and rummages through the 'madrid' wicker basket. Behind him, the ornate gold mirror hangs on the wall.",
+        "Inside The Interior Hallway, Stefan continues to search through items on the console table with basket. On the table sits the 'madrid' wicker basket, and the ornate gold mirror hangs on the wall behind him. Stefan suddenly stops his search and looks up cautiously.",
+        "In The Interior Hallway, Stefan, wearing the dark blue suit jacket and carrying the 'madrid' wicker basket, and Leo move to the wooden dresser. Stefan opens the wooden dresser drawer, searches through it, and then slides the drawer closed. Stefan cautiously looks around the room, then turns and walks away.",
+        "Walter: Man with dark, slicked-back hair and a receding hairline, wearing a single-breasted grey suit, a white shirt, and a black tie.\nthe vase of yellow flowers: A simple, yellow ceramic vase containing a full bouquet of yellow flowers and green leaves.\nthe restaurant bar counter: A restaurant dining table and a bar counter stocked with wine bottles and glassware.\n\nWalter turns and walks away from the camera down the hallway. Nora, wearing the black suit jacket, stands watching him depart. The patterned curtains hang on the wall, and in the background, the vase of yellow flowers sits on a table.",
+        "Elias: Man with short, dark brown hair, wearing a charcoal grey suit and a tie.\n\nIn the dimly lit The Interior Hallway, Stefan, wearing the dark blue suit jacket, cautiously pulls back the patterned curtains. From behind the curtain, Elias lurches out and wraps the white cord around Stefan's neck, beginning to strangle him. Walter stands nearby, watching the attack unfold with a cold expression."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Interior Hallway, Stefan, wearing the dark blue suit jacket, stands at the console table with basket and rummages through the 'madrid' wicker basket. Behind him, the ornate gold mirror hangs on the wall.",
+        "Inside The Interior Hallway, Stefan continues to search through items on the console table with basket. On the table sits the 'madrid' wicker basket, and the ornate gold mirror hangs on the wall behind him. Stefan suddenly stops his search and looks up cautiously.",
+        "In The Interior Hallway, Stefan, wearing the dark blue suit jacket and carrying the 'madrid' wicker basket, and Leo move to the wooden dresser. Stefan opens the wooden dresser drawer, searches through it, and then slides the drawer closed. Stefan cautiously looks around the room, then turns and walks away.",
+        "Walter turns and walks away from the camera down the hallway. Nora, wearing the black suit jacket, stands watching him depart. The patterned curtains hang on the wall, and in the background, the vase of yellow flowers sits on a table.",
+        "In the dimly lit The Interior Hallway, Stefan, wearing the dark blue suit jacket, cautiously pulls back the patterned curtains. From behind the curtain, Elias lurches out and wraps the white cord around Stefan's neck, beginning to strangle him. Walter stands nearby, watching the attack unfold with a cold expression."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Regent Bar: Indoor bar and restaurant featuring dining tables and a bar area with numerous wine bottles and a variety of glassware on display.\nthe wine bottles and glasses: A collection of clear, long-stemmed wine glasses and dark glass bottles containing red wine.\n\nInside the warmly lit The Regent Bar, Walter, wearing the solid grey suit, descends a short staircase to join Stefan and Elias at the bar counter. Elias sips from a wine glass. The view pans to frame the three men together as Walter starts to talk.",
+        "the silver collar bar: Slender, polished silver-toned metal collar bar with small, spherical ends.\nthe blurry abstract painting: Framed painting with its subject and colors blurred into indistinct shapes.\n\nClose-up shot in The Regent Bar of Elias, wearing the charcoal grey suit and a tie and the silver collar bar. He speaks to Arthur, who is wearing the white shirt with collar pins, with a serious expression. The blurry abstract painting hangs on the wall behind him."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside the warmly lit The Regent Bar, Walter, wearing the solid grey suit, descends a short staircase to join Stefan and Elias at the bar counter. Elias sips from a wine glass. The view pans to frame the three men together as Walter starts to talk.",
+        "Close-up shot in The Regent Bar of Elias, wearing the charcoal grey suit and a tie and the silver collar bar. He speaks to Arthur, who is wearing the white shirt with collar pins, with a serious expression. The blurry abstract painting hangs on the wall behind him."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Arthur",
+        "Leo",
+        "Nora"
+      ],
+      "places": [
+        "The Living Room"
+      ],
+      "objects": [
+        "the twin bed with wooden frame"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Living Room"
+      ],
+      "objects": [
+        "the twin bed with wooden frame",
+        "the patchwork quilt",
+        "the white pillow"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Stefan"
+      ],
+      "places": [
+        "The Crimson Void"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Stefan"
+      ],
+      "places": [
+        "The Interior Hallway"
+      ],
+      "objects": [
+        "the console table with basket",
+        "the 'madrid' wicker basket",
+        "the ornate gold mirror"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Stefan"
+      ],
+      "places": [
+        "The Interior Hallway"
+      ],
+      "objects": [
+        "the console table with basket",
+        "the 'madrid' wicker basket",
+        "the ornate gold mirror"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Leo",
+        "Stefan"
+      ],
+      "places": [
+        "The Interior Hallway"
+      ],
+      "objects": [
+        "the wooden dresser",
+        "the wooden dresser drawer",
+        "the 'madrid' wicker basket"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Walter",
+        "Nora"
+      ],
+      "places": [
+        "The Interior Hallway"
+      ],
+      "objects": [
+        "the black suit jacket",
+        "the patterned curtains",
+        "the vase of yellow flowers"
+      ]
+    },
+    "3:5": {
+      "characters": [
+        "Stefan",
+        "Elias",
+        "Walter"
+      ],
+      "places": [
+        "The Interior Hallway"
+      ],
+      "objects": [
+        "the patterned curtains",
+        "the white cord"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Stefan",
+        "Elias",
+        "Walter"
+      ],
+      "places": [
+        "The Regent Bar"
+      ],
+      "objects": [
+        "the solid grey suit",
+        "the wine bottles and glasses"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Arthur",
+        "Elias"
+      ],
+      "places": [
+        "The Regent Bar"
+      ],
+      "objects": [
+        "the white shirt with collar pins",
+        "the silver collar bar",
+        "the blurry abstract painting"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Young boy with reddish-blond hair, wearing a white short-sleeved collared shirt with a blue geometric or floral pattern."
+    },
+    "Character 2": {
+      "name": "Walter",
+      "label": "Character 2",
+      "description": "Man with dark, slicked-back hair and a receding hairline, wearing a single-breasted grey suit, a white shirt, and a black tie."
+    },
+    "Character 3": {
+      "name": "Stefan",
+      "label": "Character 3",
+      "description": "Man with blond hair, wearing a dark suit jacket over a white collared shirt and a tie."
+    },
+    "Character 4": {
+      "name": "Nora",
+      "label": "Character 4",
+      "description": "Woman with short, reddish-orange hair."
+    },
+    "Character 5": {
+      "name": "Arthur",
+      "label": "Character 5",
+      "description": "Balding, middle-aged man wearing black-rimmed glasses, a black suit, and a white shirt."
+    },
+    "Character 6": {
+      "name": "Elias",
+      "label": "Character 6",
+      "description": "Man with short, dark brown hair, wearing a charcoal grey suit and a tie."
+    },
+    "Location 1": {
+      "name": "The Living Room",
+      "label": "Location 1",
+      "description": "Home interior."
+    },
+    "Location 2": {
+      "name": "The Regent Bar",
+      "label": "Location 2",
+      "description": "Indoor bar and restaurant featuring dining tables and a bar area with numerous wine bottles and a variety of glassware on display."
+    },
+    "Location 3": {
+      "name": "The Interior Hallway",
+      "label": "Location 3",
+      "description": "An interior room or hallway."
+    },
+    "Location 4": {
+      "name": "The Crimson Void",
+      "label": "Location 4",
+      "description": "Abstract space composed of a dark, blurry red expanse with horizontal, motion-blurred streaks of white and orange light."
+    },
+    "Object 1": {
+      "name": "the black suit jacket",
+      "label": "Object 1",
+      "description": "Dark black suit jacket worn over a white shirt"
+    },
+    "Object 2": {
+      "name": "the wine bottles and glasses",
+      "label": "Object 2",
+      "description": "A collection of clear, long-stemmed wine glasses and dark glass bottles containing red wine."
+    },
+    "Object 3": {
+      "name": "the restaurant bar counter",
+      "label": "Object 3",
+      "description": "A restaurant dining table and a bar counter stocked with wine bottles and glassware"
+    },
+    "Object 4": {
+      "name": "the patchwork quilt",
+      "label": "Object 4",
+      "description": "A thick, patchwork quilt with square panels in faded shades of burgundy, forest green, and cream, with visible white stitching along the seams giving it a soft, slightly puckered texture."
+    },
+    "Object 5": {
+      "name": "the twin bed with wooden frame",
+      "label": "Object 5",
+      "description": "Twin-size bed with a simple wooden base and headboard, a rumpled blue and white patterned comforter, and white pillows."
+    },
+    "Object 6": {
+      "name": "the white pillow",
+      "label": "Object 6",
+      "description": "Standard-sized rectangular white pillow with a smooth, unadorned pillowcase."
+    },
+    "Object 7": {
+      "name": "the dark suit",
+      "label": "Object 7",
+      "description": "Dark-colored suit jacket and matching trousers"
+    },
+    "Object 8": {
+      "name": "the 'madrid' wicker basket",
+      "label": "Object 8",
+      "description": "Woven wicker basket with the word 'madrid' woven into the side"
+    },
+    "Object 9": {
+      "name": "the ornate gold mirror",
+      "label": "Object 9",
+      "description": "A mirror with an ornate, gold-colored border"
+    },
+    "Object 10": {
+      "name": "the console table with basket",
+      "label": "Object 10",
+      "description": "Console table with a woven basket on its surface"
+    },
+    "Object 11": {
+      "name": "the wooden dresser drawer",
+      "label": "Object 11",
+      "description": "Wooden dresser drawer"
+    },
+    "Object 12": {
+      "name": "the wooden dresser",
+      "label": "Object 12",
+      "description": "Wooden dresser with drawers"
+    },
+    "Object 13": {
+      "name": "the patterned curtains",
+      "label": "Object 13",
+      "description": "Curtains with a repeating decorative pattern"
+    },
+    "Object 14": {
+      "name": "the vase of yellow flowers",
+      "label": "Object 14",
+      "description": "A simple, yellow ceramic vase containing a full bouquet of yellow flowers and green leaves."
+    },
+    "Object 15": {
+      "name": "the white cord",
+      "label": "Object 15",
+      "description": "A length of simple white cord"
+    },
+    "Object 16": {
+      "name": "the solid grey suit",
+      "label": "Object 16",
+      "description": "Solid grey men's suit"
+    },
+    "Object 17": {
+      "name": "the dark suit with collar pins",
+      "label": "Object 17",
+      "description": "Dark suit jacket and a white collared shirt with collar pins"
+    },
+    "Object 18": {
+      "name": "the white shirt with collar pins",
+      "label": "Object 18",
+      "description": "White collared dress shirt with collar pins"
+    },
+    "Object 19": {
+      "name": "the silver collar bar",
+      "label": "Object 19",
+      "description": "Slender, polished silver-toned metal collar bar with small, spherical ends."
+    },
+    "Object 20": {
+      "name": "the blurry abstract painting",
+      "label": "Object 20",
+      "description": "Framed painting with its subject and colors blurred into indistinct shapes."
+    }
+  },
+  "_window_shot_ids": [
+    "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300__shot0032",
+    "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300__shot0033",
+    "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300__shot0034",
+    "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300__shot0035",
+    "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300__shot0036",
+    "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300__shot0037",
+    "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300__shot0038",
+    "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300__shot0039",
+    "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300__shot0040",
+    "00050e2d-6c9a-38e6-b702-87f8df189087__run700__i25_j50__T300__shot0041"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Walter",
+    "Character 3": "Stefan",
+    "Character 4": "Nora",
+    "Character 5": "Arthur",
+    "Character 6": "Elias",
+    "Location 1": "The Living Room",
+    "Location 2": "The Regent Bar",
+    "Location 3": "The Interior Hallway",
+    "Location 4": "The Crimson Void",
+    "Object 1": "the black suit jacket",
+    "Object 10": "the console table with basket",
+    "Object 11": "the wooden dresser drawer",
+    "Object 12": "the wooden dresser",
+    "Object 13": "the patterned curtains",
+    "Object 14": "the vase of yellow flowers",
+    "Object 15": "the white cord",
+    "Object 16": "the solid grey suit",
+    "Object 17": "the dark suit with collar pins",
+    "Object 18": "the white shirt with collar pins",
+    "Object 19": "the silver collar bar",
+    "Object 2": "the wine bottles and glasses",
+    "Object 20": "the blurry abstract painting",
+    "Object 3": "the restaurant bar counter",
+    "Object 4": "the patchwork quilt",
+    "Object 5": "the twin bed with wooden frame",
+    "Object 6": "the white pillow",
+    "Object 7": "the dark suit",
+    "Object 8": "the 'madrid' wicker basket",
+    "Object 9": "the ornate gold mirror"
+  }
+}

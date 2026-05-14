@@ -1,0 +1,455 @@
+{
+  "story_name": "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120",
+  "story_overview": "The charismatic Silas is the center of attention at a series of high-profile events, surrounded by associates like Alex, Julian, and Isabella. After a mysterious incident leaves a room of people, including Julian and Morgan, unconscious, the action shifts to a European village where Silas is being observed by multiple parties, culminating in the appearance of a futuristic levitating car.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Silas: Man with dark hair, wearing a shiny dark purple pinstripe suit, a dark shirt, a silver cravat, and a gold watch.\nAlex: Person of unspecified gender wearing a black suit jacket and matching black trousers.\nKhalid: Man wearing a white thobe, a ghutra headscarf secured by a black agal, and dark sunglasses.\nJulian: Man wearing a black tuxedo with a white formal shirt and a black bow tie.\nThe Skyview Lounge: Luxurious, modern, two-level penthouse lounge interior with large windows and contemporary tables and seating arrangements.\nthe Kannada text graphic: A graphic of text written in the Kannada script.\n\nThe Kannada text graphic is overlaid on the shot. Over-the-shoulder medium shot in The Skyview Lounge. Silas, wearing the purple pinstripe suit, sits confidently on the tufted white sofa, gesturing as he speaks. Alex, Khalid, and Julian stand around him, listening intently. A bouquet of red flowers rests on a table between them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "The Kannada text graphic is overlaid on the shot. Over-the-shoulder medium shot in The Skyview Lounge. Silas, wearing the purple pinstripe suit, sits confidently on the tufted white sofa, gesturing as he speaks. Alex, Khalid, and Julian stand around him, listening intently. A bouquet of red flowers rests on a table between them."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Horizon Center: Modern, formal multi-area event venue and press conference hall containing a white lectern, a bar counter, and a decorated Christmas tree.\n\nMedium shot of Silas and Julian standing together in The Horizon Center, part of a crowd at a press conference. Silas glances from the speaker toward Julian. In the background, a woman speaks at a lectern while a photographer raises his camera to take a picture.",
+        "Wide, high-angle shot of a press event in The Horizon Center with the Kannada text graphic overlaid. Silas sits on a couch, gesturing subtly as he speaks, while Khalid and Julian stand on either side of him. A group of photographers aims their cameras, taking pictures as camera flashes go off.",
+        "Isabella: Blonde woman wearing a jeweled tiara and a sleeveless black top.\n\nIn The Horizon Center, Alex speaks confidently at a white lectern in front of the Kannada text graphic and flashing cameras from unseen photographers. Nearby, Isabella stands with her head bowed, listening intently and subtly shifting her posture. Silas stands off to the side, slowly scanning the room as he observes the event."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot of Silas and Julian standing together in The Horizon Center, part of a crowd at a press conference. Silas glances from the speaker toward Julian. In the background, a woman speaks at a lectern while a photographer raises his camera to take a picture.",
+        "Wide, high-angle shot of a press event in The Horizon Center with the Kannada text graphic overlaid. Silas sits on a couch, gesturing subtly as he speaks, while Khalid and Julian stand on either side of him. A group of photographers aims their cameras, taking pictures as camera flashes go off.",
+        "In The Horizon Center, Alex speaks confidently at a white lectern in front of the Kannada text graphic and flashing cameras from unseen photographers. Nearby, Isabella stands with her head bowed, listening intently and subtly shifting her posture. Silas stands off to the side, slowly scanning the room as he observes the event."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Morgan: Person of unspecified gender wearing a dark military-style uniform with gold epaulets on the shoulders and a matching dark cap.\n\nIn The Skyview Lounge, Silas, wearing the purple pinstripe suit, sits on the tufted white sofa, smirking as he listens to Isabella, who gestures as she speaks. Morgan stands in the background, observing the conversation."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Skyview Lounge, Silas, wearing the purple pinstripe suit, sits on the tufted white sofa, smirking as he listens to Isabella, who gestures as she speaks. Morgan stands in the background, observing the conversation."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Arthur: Man wearing a black tuxedo jacket, matching black trousers, a white formal shirt, a black bow tie, and glasses.\n\nIn The Horizon Center, Isabella smiles and poses as Julian and Arthur raise their phones to take her picture. Alex sits next to Isabella, shifting slightly while watching with a neutral expression. In the background, Silas observes the scene unfold."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Horizon Center, Isabella smiles and poses as Julian and Arthur raise their phones to take her picture. Alex sits next to Isabella, shifting slightly while watching with a neutral expression. In the background, Silas observes the scene unfold."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "From a high angle in The Skyview Lounge, the room is filled with motionless people, including Julian and Morgan, lying on the floor and furniture. The view pushes in to focus on Silas, wearing the purple pinstripe suit, leaning back and smiling happily on the tufted white sofa, awake and alert amidst the inert bodies.",
+        "Low-angle medium shot inside The Skyview Lounge. Silas sits confidently on the tufted white sofa, smiling as he speaks toward a cluster of press microphones in the foreground. A glass with a dark beverage sits on a table next to him.",
+        "Seated on the tufted white sofa in The Skyview Lounge, Silas gives a press conference. His bodyguard, Morgan, stands watchfully as Silas speaks to the crowd of reporters, which includes Alex. Silas then stands up."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "From a high angle in The Skyview Lounge, the room is filled with motionless people, including Julian and Morgan, lying on the floor and furniture. The view pushes in to focus on Silas, wearing the purple pinstripe suit, leaning back and smiling happily on the tufted white sofa, awake and alert amidst the inert bodies.",
+        "Low-angle medium shot inside The Skyview Lounge. Silas sits confidently on the tufted white sofa, smiling as he speaks toward a cluster of press microphones in the foreground. A glass with a dark beverage sits on a table next to him.",
+        "Seated on the tufted white sofa in The Skyview Lounge, Silas gives a press conference. His bodyguard, Morgan, stands watchfully as Silas speaks to the crowd of reporters, which includes Alex. Silas then stands up."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Casey: Person with long blondish hair.\nAlpine Village Street: A cobblestone street in a European mountain city, lined with multi-story traditional buildings featuring stone and stucco facades, terracotta tile roofs, and shuttered windows.\nthe black Mercedes sedan: Glossy black Mercedes-Benz sedan with a silver three-pointed star hood ornament and the license plate 'ea 077tx'.\nPOV shot from the hood of the black Mercedes sedan, looking forward over its silver hood ornament as Casey drives it along a sunny cobblestone street in Alpine Village Street. Bright lens flare illuminates the traditional buildings lining the road.",
+        "the black panel van: Solid black, full-size European-style panel van.\n\nOn Alpine Village Street, Casey gets out of the parked black panel van. Casey walks towards a yellow building that has a German flag hanging from it.",
+        "In Alpine Village Street, Morgan gets out of the parked black panel van and walks towards a yellow building with a German flag.",
+        "the matte black sunglasses: Modern rectangular sunglasses made of matte black acetate with dark grey lenses and a small gold insignia on the temple arms.\nthe orange city tram: Modern, multi-section articulated electric tram with a glossy, vibrant orange exterior, a long series of large dark-tinted windows, and a black pantograph on its roof.\n\nSide profile shot of Silas, wearing the purple pinstripe suit, sitting in the backseat of the moving black Mercedes sedan as it drives through Alpine Village Street. He removes the matte black sunglasses to scan the passing streets, then puts the sunglasses back on as the orange city tram travels alongside the car on adjacent tracks.",
+        "Medium shot of the black Mercedes sedan driving along the tram tracks on a sunny day in Alpine Village Street. In the background, Alex walks on the sidewalk as the car passes and continues down the cobblestone street."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "POV shot from the hood of the black Mercedes sedan, looking forward over its silver hood ornament as Casey drives it along a sunny cobblestone street in Alpine Village Street. Bright lens flare illuminates the traditional buildings lining the road.",
+        "On Alpine Village Street, Casey gets out of the parked black panel van. Casey walks towards a yellow building that has a German flag hanging from it.",
+        "In Alpine Village Street, Morgan gets out of the parked black panel van and walks towards a yellow building with a German flag.",
+        "Side profile shot of Silas, wearing the purple pinstripe suit, sitting in the backseat of the moving black Mercedes sedan as it drives through Alpine Village Street. He removes the matte black sunglasses to scan the passing streets, then puts the sunglasses back on as the orange city tram travels alongside the car on adjacent tracks.",
+        "Medium shot of the black Mercedes sedan driving along the tram tracks on a sunny day in Alpine Village Street. In the background, Alex walks on the sidewalk as the car passes and continues down the cobblestone street."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Industrial Loft: Large, open-plan industrial building interior.\n\nWide shot. Inside the dark and foggy The Industrial Loft, the levitating car hovers in mid-air, its bright headlights casting beams through the fog. In the foreground, Julian, Morgan, and several other silhouetted figures watch as a person exits from the vehicle."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wide shot. Inside the dark and foggy The Industrial Loft, the levitating car hovers in mid-air, its bright headlights casting beams through the fog. In the foreground, Julian, Morgan, and several other silhouetted figures watch as a person exits from the vehicle."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Khalid",
+        "Julian"
+      ],
+      "places": [
+        "The Skyview Lounge"
+      ],
+      "objects": [
+        "the tufted white sofa",
+        "the Kannada text graphic",
+        "the purple pinstripe suit",
+        "bouquet of red flowers"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Silas",
+        "Julian"
+      ],
+      "places": [
+        "The Horizon Center"
+      ],
+      "objects": []
+    },
+    "2:2": {
+      "characters": [
+        "Silas",
+        "Khalid",
+        "Julian"
+      ],
+      "places": [
+        "The Horizon Center"
+      ],
+      "objects": [
+        "the Kannada text graphic"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Isabella"
+      ],
+      "places": [
+        "The Horizon Center"
+      ],
+      "objects": [
+        "the Kannada text graphic"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Silas",
+        "Isabella",
+        "Morgan"
+      ],
+      "places": [
+        "The Skyview Lounge"
+      ],
+      "objects": [
+        "the tufted white sofa",
+        "the purple pinstripe suit"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Julian",
+        "Isabella",
+        "Arthur"
+      ],
+      "places": [
+        "The Horizon Center"
+      ],
+      "objects": []
+    },
+    "5:1": {
+      "characters": [
+        "Julian",
+        "Morgan",
+        "Silas"
+      ],
+      "places": [
+        "The Skyview Lounge"
+      ],
+      "objects": [
+        "the tufted white sofa",
+        "the purple pinstripe suit"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "The Skyview Lounge"
+      ],
+      "objects": [
+        "the tufted white sofa",
+        "the purple pinstripe suit"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Silas",
+        "Alex",
+        "Morgan"
+      ],
+      "places": [
+        "The Skyview Lounge"
+      ],
+      "objects": [
+        "the tufted white sofa"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "Alpine Village Street"
+      ],
+      "objects": [
+        "the black Mercedes sedan"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "Alpine Village Street"
+      ],
+      "objects": [
+        "the black panel van"
+      ]
+    },
+    "6:3": {
+      "characters": [
+        "Morgan"
+      ],
+      "places": [
+        "Alpine Village Street",
+        "yellow building with a German flag"
+      ],
+      "objects": [
+        "the black panel van"
+      ]
+    },
+    "6:4": {
+      "characters": [
+        "Silas"
+      ],
+      "places": [
+        "Alpine Village Street"
+      ],
+      "objects": [
+        "the black Mercedes sedan",
+        "the purple pinstripe suit",
+        "the matte black sunglasses",
+        "the orange city tram"
+      ]
+    },
+    "6:5": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "Alpine Village Street"
+      ],
+      "objects": [
+        "the black Mercedes sedan"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Julian",
+        "Morgan"
+      ],
+      "places": [
+        "The Industrial Loft"
+      ],
+      "objects": [
+        "the levitating car"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Alex",
+      "label": "Character 1",
+      "description": "Person of unspecified gender wearing a black suit jacket and matching black trousers."
+    },
+    "Character 2": {
+      "name": "Julian",
+      "label": "Character 2",
+      "description": "Man wearing a black tuxedo with a white formal shirt and a black bow tie."
+    },
+    "Character 3": {
+      "name": "Isabella",
+      "label": "Character 3",
+      "description": "Blonde woman wearing a jeweled tiara and a sleeveless black top."
+    },
+    "Character 4": {
+      "name": "Morgan",
+      "label": "Character 4",
+      "description": "Person of unspecified gender wearing a dark military-style uniform with gold epaulets on the shoulders and a matching dark cap."
+    },
+    "Character 5": {
+      "name": "Silas",
+      "label": "Character 5",
+      "description": "Man with dark hair, wearing a shiny dark purple pinstripe suit, a dark shirt, a silver cravat, and a gold watch."
+    },
+    "Character 6": {
+      "name": "Khalid",
+      "label": "Character 6",
+      "description": "Man wearing a white thobe, a ghutra headscarf secured by a black agal, and dark sunglasses."
+    },
+    "Character 7": {
+      "name": "Casey",
+      "label": "Character 7",
+      "description": "Person with long blondish hair."
+    },
+    "Character 8": {
+      "name": "Arthur",
+      "label": "Character 8",
+      "description": "Man wearing a black tuxedo jacket, matching black trousers, a white formal shirt, a black bow tie, and glasses."
+    },
+    "Location 1": {
+      "name": "The Horizon Center",
+      "label": "Location 1",
+      "description": "Modern, formal multi-area event venue and press conference hall containing a white lectern, a bar counter, and a decorated Christmas tree."
+    },
+    "Location 2": {
+      "name": "The Skyview Lounge",
+      "label": "Location 2",
+      "description": "Luxurious, modern, two-level penthouse lounge interior with large windows and contemporary tables and seating arrangements."
+    },
+    "Location 3": {
+      "name": "Alpine Village Street",
+      "label": "Location 3",
+      "description": "A cobblestone street in a European mountain city, lined with multi-story traditional buildings featuring stone and stucco facades, terracotta tile roofs, and shuttered windows."
+    },
+    "Location 4": {
+      "name": "The Industrial Loft",
+      "label": "Location 4",
+      "description": "Large, open-plan industrial building interior."
+    },
+    "Object 1": {
+      "name": "the Kannada text graphic",
+      "label": "Object 1",
+      "description": "A graphic of text written in the Kannada script."
+    },
+    "Object 2": {
+      "name": "the purple pinstripe suit",
+      "label": "Object 2",
+      "description": "A two-piece suit made of a shiny purple fabric with a subtle pinstripe pattern"
+    },
+    "Object 3": {
+      "name": "the tufted white sofa",
+      "label": "Object 3",
+      "description": "Large, white sofa with tufted upholstery"
+    },
+    "Object 4": {
+      "name": "the light grey blazer",
+      "label": "Object 4",
+      "description": "Light grey blazer"
+    },
+    "Object 5": {
+      "name": "the black Mercedes sedan",
+      "label": "Object 5",
+      "description": "Glossy black Mercedes-Benz sedan with a silver three-pointed star hood ornament and the license plate 'ea 077tx'."
+    },
+    "Object 6": {
+      "name": "the black panel van",
+      "label": "Object 6",
+      "description": "Solid black, full-size European-style panel van."
+    },
+    "Object 7": {
+      "name": "the matte black sunglasses",
+      "label": "Object 7",
+      "description": "Modern rectangular sunglasses made of matte black acetate with dark grey lenses and a small gold insignia on the temple arms."
+    },
+    "Object 8": {
+      "name": "the orange city tram",
+      "label": "Object 8",
+      "description": "Modern, multi-section articulated electric tram with a glossy, vibrant orange exterior, a long series of large dark-tinted windows, and a black pantograph on its roof."
+    },
+    "Object 9": {
+      "name": "the levitating car",
+      "label": "Object 9",
+      "description": "Levitating car with bright headlights"
+    }
+  },
+  "_window_shot_ids": [
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0019",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0020",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0021",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0022",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0023",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0024",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0025",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0026",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0027",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0028",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0029",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0030",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0032",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0033",
+    "0003bef7-1bb2-33ef-8788-20aa349db944__run470__i75_j84__T120__shot0034"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Alex",
+    "Character 2": "Julian",
+    "Character 3": "Isabella",
+    "Character 4": "Morgan",
+    "Character 5": "Silas",
+    "Character 6": "Khalid",
+    "Character 7": "Casey",
+    "Character 8": "Arthur",
+    "Location 1": "The Horizon Center",
+    "Location 2": "The Skyview Lounge",
+    "Location 3": "Alpine Village Street",
+    "Location 4": "The Industrial Loft",
+    "Object 1": "the Kannada text graphic",
+    "Object 2": "the purple pinstripe suit",
+    "Object 3": "the tufted white sofa",
+    "Object 4": "the light grey blazer",
+    "Object 5": "the black Mercedes sedan",
+    "Object 6": "the black panel van",
+    "Object 7": "the matte black sunglasses",
+    "Object 8": "the orange city tram",
+    "Object 9": "the levitating car"
+  }
+}

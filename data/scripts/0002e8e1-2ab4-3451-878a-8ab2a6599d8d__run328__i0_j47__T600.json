@@ -1,0 +1,436 @@
+{
+  "story_name": "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600",
+  "story_overview": "In a grand study, Maya and Quinn investigate a mysterious family portrait featuring Agnes the maid. After the portrait reveals a ghostly image of Echo, Quinn, now wearing a clerical shirt, descends into a sunken crypt. There, Quinn follows the mysterious Fiona through a dark passageway, delving deeper into the family's secrets.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Maya: Young woman wearing a black athletic jacket with bright pink panels on the sleeves, her hair pulled back away from her face.\nRowan: Person of indeterminate gender and age, with features, hair, and clothing that are not specified.\nThe Grand Study: A formal, old-fashioned study or library interior featuring bookshelves, a lamp, and an investigation wall.\n\nMedium shot in The Grand Study at night. Maya's face is filled with concern as she looks off-screen to the right, listening intently to Rowan who is out of frame. Her brow furrows slightly as she listens. In the background, the mustard turtleneck sweater is draped over the back of a chair."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Grand Study at night. Maya's face is filled with concern as she looks off-screen to the right, listening intently to Rowan who is out of frame. Her brow furrows slightly as she listens. In the background, the mustard turtleneck sweater is draped over the back of a chair."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Leo: Man with brown hair and a beard, wearing a blue and green plaid shirt over a t-shirt.\nThe Silent Room: Interior of an unspecified house room containing a mirror and an unlit candle.\nMedium shot of Leo sitting at a desk in The Silent Room at night. The open laptop is on the desk in front of him, and the cardboard packing boxes are in the background. He looks up from the screen with a thoughtful expression before looking back down.",
+        "Clara: Woman with long brown hair wearing a brown turtleneck sweater.\n\nIn the dimly lit The Silent Room at night, Maya is in the foreground wearing the black athletic jacket. She turns to face Clara, who is wearing the brown turtleneck sweater and watches her from a doorway in the background, her expression growing concerned."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot of Leo sitting at a desk in The Silent Room at night. The open laptop is on the desk in front of him, and the cardboard packing boxes are in the background. He looks up from the screen with a thoughtful expression before looking back down.",
+        "In the dimly lit The Silent Room at night, Maya is in the foreground wearing the black athletic jacket. She turns to face Clara, who is wearing the brown turtleneck sweater and watches her from a doorway in the background, her expression growing concerned."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Maya looks around with a concerned expression, then starts walking forward with purpose.",
+        "the bell-shaped table lamp: Table lamp with a dark, polished wood base, a thin brass neck, and a large, bell-shaped fabric shade in a warm cream color.\nthe decorated fireplace mantel: Fireplace with a mantel decorated with red candles, skeletal figurines, an ornate mirror, and a framed, somber family portrait.\n\nMedium shot from behind Maya as she hesitates in a doorway, looking into The Grand Study at night. Inside the dimly lit room, Clara, standing near the decorated fireplace mantel, turns her head slightly. The room is illuminated only by the warm glow from the bell-shaped table lamp on a table and the candles on the fireplace mantel, creating a somber mood."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Maya looks around with a concerned expression, then starts walking forward with purpose.",
+        "Medium shot from behind Maya as she hesitates in a doorway, looking into The Grand Study at night. Inside the dimly lit room, Clara, standing near the decorated fireplace mantel, turns her head slightly. The room is illuminated only by the warm glow from the bell-shaped table lamp on a table and the candles on the fireplace mantel, creating a somber mood."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Quinn: Person with short light-colored hair, wearing dark clothing.\nthe towering bookshelves: Large wooden bookshelves with multiple shelves densely packed with books of various sizes and colors.\nthe vintage fabric lamp: Vintage lamp with a warm-toned fabric lampshade.\n\nClose shot of Quinn in profile in the dimly lit The Grand Study. Quinn wears the clerical collar shirt and looks down with intense concentration. He briefly glances up with a serious expression, then looks down again. In the background, Maya and Clara confer quietly near the towering bookshelves, illuminated by the glow of the vintage fabric lamp.",
+        "Echo: A faint and distorted reflection of a face with no discernible features.\nthe somber family portrait: Large, somber family portrait painting with an ornate, dark wood border, featuring multiple figures with serious expressions rendered in a muted, dark color palette.\n\nMedium shot in the dimly lit The Grand Study. Dark, inky magical energy swirls up from the bottom of the somber family portrait, which hangs on a wall between the towering bookshelves. The energy dissolves the painted image within the frame, and the faint, distorted reflection of Echo flickers into view in its place.",
+        "Close-up on Maya, standing in the dimly lit The Grand Study. She looks down pensively, then slowly raises her head, her expression serious and intense. In the background, the towering bookshelves are illuminated by the warm glow from the vintage fabric lamp.",
+        "Agnes: Woman with a pale face, her hair pulled back, wearing a dark dress with a stark white collar in the style of a maid's uniform.\n\nThe camera slowly pushes in on the somber family portrait hanging on a wall in the dimly lit The Grand Study. Low light catches the ornate frame, revealing the painted figures: one is unmistakably Agnes, standing beside a woman resembling Maya, who is depicted in a somber, dark dress.",
+        "Medium close-up shot of Maya wearing the black athletic jacket, seated in the dimly lit The Grand Study at night. She slowly raises her head, her expression shifting from concentration to seriousness. Behind her, the towering bookshelves are lined with books, and the vintage fabric lamp casts a warm, soft glow.",
+        "Fiona: Young woman with long curly red hair falling past her shoulders, fair skin with light freckles, wearing a fitted sage-green vintage A-line dress with a Peter Pan collar and short puffed sleeves, a thin brown leather belt at the waist, and brown lace-up ankle boots\n\nA close-up shot on the somber family portrait as it hangs on a wall in The Grand Study, with Fiona blurred nearby. The camera slowly pushes in, its focus drifting across the faces in the painting: a stern man in a dark suit at its center, Agnes in her maid's uniform to his right, and a child's face peering from the shadowy background. The portrait is surrounded by the blurred shapes of books on the towering bookshelves.",
+        "the unlit white candle: A cylindrical white wax candle with a smooth surface and a short, unburnt wick.\n\nQuinn glares intently off-screen, their jaw clenched in anger. Maya stands nearby, watching Quinn with concern. After a tense moment, Quinn suddenly moves forward. The towering bookshelves are visible in the background, and the unlit white candle rests on a table."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close shot of Quinn in profile in the dimly lit The Grand Study. Quinn wears the clerical collar shirt and looks down with intense concentration. He briefly glances up with a serious expression, then looks down again. In the background, Maya and Clara confer quietly near the towering bookshelves, illuminated by the glow of the vintage fabric lamp.",
+        "Medium shot in the dimly lit The Grand Study. Dark, inky magical energy swirls up from the bottom of the somber family portrait, which hangs on a wall between the towering bookshelves. The energy dissolves the painted image within the frame, and the faint, distorted reflection of Echo flickers into view in its place.",
+        "Close-up on Maya, standing in the dimly lit The Grand Study. She looks down pensively, then slowly raises her head, her expression serious and intense. In the background, the towering bookshelves are illuminated by the warm glow from the vintage fabric lamp.",
+        "The camera slowly pushes in on the somber family portrait hanging on a wall in the dimly lit The Grand Study. Low light catches the ornate frame, revealing the painted figures: one is unmistakably Agnes, standing beside a woman resembling Maya, who is depicted in a somber, dark dress.",
+        "Medium close-up shot of Maya wearing the black athletic jacket, seated in the dimly lit The Grand Study at night. She slowly raises her head, her expression shifting from concentration to seriousness. Behind her, the towering bookshelves are lined with books, and the vintage fabric lamp casts a warm, soft glow.",
+        "A close-up shot on the somber family portrait as it hangs on a wall in The Grand Study, with Fiona blurred nearby. The camera slowly pushes in, its focus drifting across the faces in the painting: a stern man in a dark suit at its center, Agnes in her maid's uniform to his right, and a child's face peering from the shadowy background. The portrait is surrounded by the blurred shapes of books on the towering bookshelves.",
+        "Quinn glares intently off-screen, their jaw clenched in anger. Maya stands nearby, watching Quinn with concern. After a tense moment, Quinn suddenly moves forward. The towering bookshelves are visible in the background, and the unlit white candle rests on a table."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Sunken Crypt: A subterranean complex of cellars with rough-hewn stone walls and arched ceilings, containing an altar table set with wine glasses and candles.\n\nMaya walks towards the camera through the dark and smoky The Sunken Crypt, holding a white candle, which illuminates the path and casts shifting shadows on the rough stone walls.",
+        "the tarnished silver cross: Large, silver cross pendant with flared ends on a long silver link chain, showing signs of age and wear.\n\nA medium shot of Quinn stepping out from darkness into a narrow, stone-walled passage of The Sunken Crypt, with Maya nearby. Quinn wears the tarnished silver cross and holds the unlit white candle. As they step into the light from an unseen source, Quinn freezes in place, their face showing shock with an open mouth.",
+        "Seen from behind, Fiona walks through a dark, narrow passageway in The Sunken Crypt, her hands occasionally touching the stone walls. Maya follows a few steps behind her. A low-angle light casts their long silhouettes on the wall ahead."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Maya walks towards the camera through the dark and smoky The Sunken Crypt, holding a white candle, which illuminates the path and casts shifting shadows on the rough stone walls.",
+        "A medium shot of Quinn stepping out from darkness into a narrow, stone-walled passage of The Sunken Crypt, with Maya nearby. Quinn wears the tarnished silver cross and holds the unlit white candle. As they step into the light from an unseen source, Quinn freezes in place, their face showing shock with an open mouth.",
+        "Seen from behind, Fiona walks through a dark, narrow passageway in The Sunken Crypt, her hands occasionally touching the stone walls. Maya follows a few steps behind her. A low-angle light casts their long silhouettes on the wall ahead."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Maya",
+        "Rowan"
+      ],
+      "places": [
+        "The Grand Study"
+      ],
+      "objects": [
+        "the mustard turtleneck sweater"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Silent Room"
+      ],
+      "objects": [
+        "the open laptop",
+        "the cardboard packing boxes"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Clara",
+        "Maya"
+      ],
+      "places": [
+        "The Silent Room"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Maya"
+      ],
+      "places": [
+        "The Grand Study"
+      ],
+      "objects": []
+    },
+    "3:2": {
+      "characters": [
+        "Clara",
+        "Maya"
+      ],
+      "places": [
+        "The Grand Study"
+      ],
+      "objects": [
+        "the bell-shaped table lamp",
+        "the decorated fireplace mantel"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Maya",
+        "Clara",
+        "Quinn"
+      ],
+      "places": [
+        "The Grand Study"
+      ],
+      "objects": [
+        "the clerical collar shirt",
+        "the towering bookshelves",
+        "the vintage fabric lamp"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Echo"
+      ],
+      "places": [
+        "The Grand Study"
+      ],
+      "objects": [
+        "the somber family portrait",
+        "the towering bookshelves"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Maya"
+      ],
+      "places": [
+        "The Grand Study"
+      ],
+      "objects": [
+        "the towering bookshelves",
+        "the vintage fabric lamp"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Maya",
+        "Agnes"
+      ],
+      "places": [
+        "The Grand Study"
+      ],
+      "objects": [
+        "the somber family portrait"
+      ]
+    },
+    "4:5": {
+      "characters": [
+        "Maya"
+      ],
+      "places": [
+        "The Grand Study"
+      ],
+      "objects": [
+        "the towering bookshelves",
+        "the vintage fabric lamp"
+      ]
+    },
+    "4:6": {
+      "characters": [
+        "Fiona",
+        "Agnes"
+      ],
+      "places": [
+        "The Grand Study"
+      ],
+      "objects": [
+        "the somber family portrait",
+        "the towering bookshelves"
+      ]
+    },
+    "4:7": {
+      "characters": [
+        "Maya",
+        "Quinn"
+      ],
+      "places": [
+        "The Grand Study"
+      ],
+      "objects": [
+        "the towering bookshelves",
+        "the unlit white candle"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Maya"
+      ],
+      "places": [
+        "The Sunken Crypt"
+      ],
+      "objects": []
+    },
+    "5:2": {
+      "characters": [
+        "Maya",
+        "Quinn"
+      ],
+      "places": [
+        "The Sunken Crypt"
+      ],
+      "objects": [
+        "the unlit white candle",
+        "the tarnished silver cross"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Fiona",
+        "Maya"
+      ],
+      "places": [
+        "The Sunken Crypt"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Quinn",
+      "label": "Character 1",
+      "description": "Person with short light-colored hair, wearing dark clothing."
+    },
+    "Character 2": {
+      "name": "Fiona",
+      "label": "Character 2",
+      "description": "Young woman with long curly red hair falling past her shoulders, fair skin with light freckles, wearing a fitted sage-green vintage A-line dress with a Peter Pan collar and short puffed sleeves, a thin brown leather belt at the waist, and brown lace-up ankle boots"
+    },
+    "Character 3": {
+      "name": "Clara",
+      "label": "Character 3",
+      "description": "Woman with long brown hair wearing a brown turtleneck sweater."
+    },
+    "Character 4": {
+      "name": "Rowan",
+      "label": "Character 4",
+      "description": "Person of indeterminate gender and age, with features, hair, and clothing that are not specified."
+    },
+    "Character 5": {
+      "name": "Maya",
+      "label": "Character 5",
+      "description": "Young woman wearing a black athletic jacket with bright pink panels on the sleeves, her hair pulled back away from her face."
+    },
+    "Character 6": {
+      "name": "Agnes",
+      "label": "Character 6",
+      "description": "Woman with a pale face, her hair pulled back, wearing a dark dress with a stark white collar in the style of a maid's uniform."
+    },
+    "Character 7": {
+      "name": "Leo",
+      "label": "Character 7",
+      "description": "Man with brown hair and a beard, wearing a blue and green plaid shirt over a t-shirt."
+    },
+    "Character 8": {
+      "name": "Echo",
+      "label": "Character 8",
+      "description": "A faint and distorted reflection of a face with no discernible features."
+    },
+    "Location 1": {
+      "name": "The Sunken Crypt",
+      "label": "Location 1",
+      "description": "A subterranean complex of cellars with rough-hewn stone walls and arched ceilings, containing an altar table set with wine glasses and candles."
+    },
+    "Location 2": {
+      "name": "The Grand Study",
+      "label": "Location 2",
+      "description": "A formal, old-fashioned study or library interior featuring bookshelves, a lamp, and an investigation wall."
+    },
+    "Location 3": {
+      "name": "The Silent Room",
+      "label": "Location 3",
+      "description": "Interior of an unspecified house room containing a mirror and an unlit candle."
+    },
+    "Object 1": {
+      "name": "the towering bookshelves",
+      "label": "Object 1",
+      "description": "Large wooden bookshelves with multiple shelves densely packed with books of various sizes and colors."
+    },
+    "Object 2": {
+      "name": "the vintage fabric lamp",
+      "label": "Object 2",
+      "description": "Vintage lamp with a warm-toned fabric lampshade."
+    },
+    "Object 3": {
+      "name": "the somber family portrait",
+      "label": "Object 3",
+      "description": "Large, somber family portrait painting with an ornate, dark wood border, featuring multiple figures with serious expressions rendered in a muted, dark color palette."
+    },
+    "Object 4": {
+      "name": "the decorated fireplace mantel",
+      "label": "Object 4",
+      "description": "Fireplace with a mantel decorated with red candles, skeletal figurines, an ornate mirror, and a framed, somber family portrait."
+    },
+    "Object 5": {
+      "name": "the clerical collar shirt",
+      "label": "Object 5",
+      "description": "White period shirt with a clerical collar, worn under a dark vest and accompanied by a green scarf"
+    },
+    "Object 6": {
+      "name": "the unlit white candle",
+      "label": "Object 6",
+      "description": "A cylindrical white wax candle with a smooth surface and a short, unburnt wick."
+    },
+    "Object 7": {
+      "name": "the mustard turtleneck sweater",
+      "label": "Object 7",
+      "description": "Mustard-colored yellow-tan turtleneck sweater"
+    },
+    "Object 8": {
+      "name": "the bell-shaped table lamp",
+      "label": "Object 8",
+      "description": "Table lamp with a dark, polished wood base, a thin brass neck, and a large, bell-shaped fabric shade in a warm cream color."
+    },
+    "Object 9": {
+      "name": "the red plaid shirt",
+      "label": "Object 9",
+      "description": "Long-sleeved button-up shirt with a red and dark-colored plaid pattern"
+    },
+    "Object 10": {
+      "name": "the open laptop",
+      "label": "Object 10",
+      "description": "Open laptop with an illuminated screen"
+    },
+    "Object 11": {
+      "name": "the cardboard packing boxes",
+      "label": "Object 11",
+      "description": "Brown rectangular cardboard boxes"
+    },
+    "Object 12": {
+      "name": "the tarnished silver cross",
+      "label": "Object 12",
+      "description": "Large, silver cross pendant with flared ends on a long silver link chain, showing signs of age and wear."
+    }
+  },
+  "_window_shot_ids": [
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0048",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0049",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0050",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0051",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0052",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0053",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0054",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0055",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0056",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0057",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0058",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0059",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0060",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0061",
+    "0002e8e1-2ab4-3451-878a-8ab2a6599d8d__run328__i0_j47__T600__shot0062"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Quinn",
+    "Character 2": "Fiona",
+    "Character 3": "Clara",
+    "Character 4": "Rowan",
+    "Character 5": "Maya",
+    "Character 6": "Agnes",
+    "Character 7": "Leo",
+    "Character 8": "Echo",
+    "Location 1": "The Sunken Crypt",
+    "Location 2": "The Grand Study",
+    "Location 3": "The Silent Room",
+    "Object 1": "the towering bookshelves",
+    "Object 10": "the open laptop",
+    "Object 11": "the cardboard packing boxes",
+    "Object 12": "the tarnished silver cross",
+    "Object 2": "the vintage fabric lamp",
+    "Object 3": "the somber family portrait",
+    "Object 4": "the decorated fireplace mantel",
+    "Object 5": "the clerical collar shirt",
+    "Object 6": "the unlit white candle",
+    "Object 7": "the mustard turtleneck sweater",
+    "Object 8": "the bell-shaped table lamp",
+    "Object 9": "the red plaid shirt"
+  }
+}

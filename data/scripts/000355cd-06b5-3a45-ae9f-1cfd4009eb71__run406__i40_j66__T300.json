@@ -1,0 +1,408 @@
+{
+  "story_name": "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300",
+  "story_overview": "Leo researches historical documents, starting on a city bus and continuing in an old stone chapel where he confers with Clara and Daniel. As Leo uncovers a shocking detail, Isabelle and Casey separately examine an antique French letter and a map of Normandy, discovering a key location. The story concludes with Leo recounting these events in an interview.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Leo: Young man with light brown hair, wearing an unbuttoned blue denim shirt over a white t-shirt.\nThe City Bus: The interior of a public transport vehicle.\nthe stack of documents: A stack of rectangular white paper documents with black printed text.\nBrother Anselm: A cleric with a weathered, lined face and a dark tonsure haircut, wearing heavy, dark clerical robes with a simple rope belt\n\nClose-up of Leo, wearing the blue denim jacket and the white t-shirt, sitting in a seat next to Brother Anselm in The City Bus. He holds the stack of documents, his eyes scanning the top page as a content smile slowly forms on his face."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Leo, wearing the blue denim jacket and the white t-shirt, sitting in a seat next to Brother Anselm in The City Bus. He holds the stack of documents, his eyes scanning the top page as a content smile slowly forms on his face."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Clara: Woman with reddish-brown hair.\nDaniel: Man with brown hair.\nThe Old Stone Chapel: Interior of a historic church with stone walls and stone pillars.\nthe wooden church pew: Long wooden church pew with a high, straight backrest and a simple, unadorned design.\n\nOver-the-shoulder medium shot inside The Old Stone Chapel. Clara sits on the wooden church pew with a pensive expression, speaking earnestly to Daniel, whose back is to the camera.",
+        "Close-up of Leo, wearing the blue denim jacket and the white t-shirt, in The Old Stone Chapel. He looks down at something just out of frame, and a warm smile spreads across his face.",
+        "Close-up of Leo's face inside The Old Stone Chapel. Wearing the blue denim jacket and the white t-shirt, he smiles and then looks down at the stack of documents, held in his hands just out of frame.",
+        "Casey: Person with short brown hair wearing a blue shirt.\n\nOver-the-shoulder shot from behind Casey in The Old Stone Chapel. Clara sits in the wooden church pew next to Leo, listening intently as a slight, thoughtful smile forms on her face.",
+        "Isabelle: Woman with her hair pulled back, wearing a simple, dark, long-sleeved top.\nthe antique French letter: Aged historical document on yellowed paper, filled with elegant, old French cursive handwriting in dark ink.\n\nExtreme close-up of Isabelle's finger tracing down a column of handwritten names on the antique French letter. The finger pauses on several entries that share the same surname, finally stopping on the name Casey."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder medium shot inside The Old Stone Chapel. Clara sits on the wooden church pew with a pensive expression, speaking earnestly to Daniel, whose back is to the camera.",
+        "Close-up of Leo, wearing the blue denim jacket and the white t-shirt, in The Old Stone Chapel. He looks down at something just out of frame, and a warm smile spreads across his face.",
+        "Close-up of Leo's face inside The Old Stone Chapel. Wearing the blue denim jacket and the white t-shirt, he smiles and then looks down at the stack of documents, held in his hands just out of frame.",
+        "Over-the-shoulder shot from behind Casey in The Old Stone Chapel. Clara sits in the wooden church pew next to Leo, listening intently as a slight, thoughtful smile forms on her face.",
+        "Extreme close-up of Isabelle's finger tracing down a column of handwritten names on the antique French letter. The finger pauses on several entries that share the same surname, finally stopping on the name Casey."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Close-up of Leo, wearing the blue denim jacket, sitting in The City Bus. He holds the stack of documents, looking down and speaking as he reads from them.",
+        "Extreme close-up on the antique French letter. Isabelle's finger enters the frame and points decisively at one of the names on the list.",
+        "Close-up on Leo, wearing the blue denim jacket, holding a single document from the stack of documents. He looks down at the paper, his eyes widening in shock as he reads. Casey stands beside him, watching his reaction."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up of Leo, wearing the blue denim jacket, sitting in The City Bus. He holds the stack of documents, looking down and speaking as he reads from them.",
+        "Extreme close-up on the antique French letter. Isabelle's finger enters the frame and points decisively at one of the names on the list.",
+        "Close-up on Leo, wearing the blue denim jacket, holding a single document from the stack of documents. He looks down at the paper, his eyes widening in shock as he reads. Casey stands beside him, watching his reaction."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Over-the-shoulder shot from behind Casey, showing Leo and Clara sitting beside them on the wooden church pew in The Old Stone Chapel. Clara, wearing the dark green patterned shirt and the red bead necklace, turns toward Leo and smiles as she talks. Leo and Casey watch her as she speaks.",
+        "Close-up of Leo, wearing the blue denim jacket and the white t-shirt, smiling happily as he talks to Casey just off-screen.",
+        "Over-the-shoulder close-up from behind Daniel, looking at Clara. They are seated together on the wooden church pew inside The Old Stone Chapel. Clara has a sad expression while talking.",
+        "Close-up of Leo, wearing the blue denim jacket. He listens with a thoughtful expression, then his gaze shifts downward. A slight smile appears on his face as he begins to speak."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot from behind Casey, showing Leo and Clara sitting beside them on the wooden church pew in The Old Stone Chapel. Clara, wearing the dark green patterned shirt and the red bead necklace, turns toward Leo and smiles as she talks. Leo and Casey watch her as she speaks.",
+        "Close-up of Leo, wearing the blue denim jacket and the white t-shirt, smiling happily as he talks to Casey just off-screen.",
+        "Over-the-shoulder close-up from behind Daniel, looking at Clara. They are seated together on the wooden church pew inside The Old Stone Chapel. Clara has a sad expression while talking.",
+        "Close-up of Leo, wearing the blue denim jacket. He listens with a thoughtful expression, then his gaze shifts downward. A slight smile appears on his face as he begins to speak."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Normandy Campaign Map: A detailed map of the Normandy region in France, showing topographical features, the coastline, inland towns including Vire and Flers, and the island of Jersey.\n\nClose-up on The Normandy Campaign Map, where Casey and Isabelle are leaning over it. Casey's finger traces a path starting near Vire and Flers, moves up along the coast, and finally points directly at the island of Jersey."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on The Normandy Campaign Map, where Casey and Isabelle are leaning over it. Casey's finger traces a path starting near Vire and Flers, moves up along the coast, and finally points directly at the island of Jersey."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Interview Room: An indoor interview setting with a simple, unadorned wall of a neutral color.\nClose-up of Leo, wearing the blue denim jacket and the white t-shirt, in The Interview Room. He smiles warmly and talks directly to an off-camera interviewer."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up of Leo, wearing the blue denim jacket and the white t-shirt, in The Interview Room. He smiles warmly and talks directly to an off-camera interviewer."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Leo",
+        "Brother Anselm"
+      ],
+      "places": [
+        "The City Bus"
+      ],
+      "objects": [
+        "the stack of documents",
+        "the blue denim jacket",
+        "the white t-shirt"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Clara",
+        "Daniel"
+      ],
+      "places": [
+        "The Old Stone Chapel"
+      ],
+      "objects": [
+        "the wooden church pew"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Old Stone Chapel"
+      ],
+      "objects": [
+        "the blue denim jacket",
+        "the white t-shirt"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Old Stone Chapel"
+      ],
+      "objects": [
+        "the blue denim jacket",
+        "the white t-shirt",
+        "the stack of documents"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Clara",
+        "Casey",
+        "Leo"
+      ],
+      "places": [
+        "The Old Stone Chapel"
+      ],
+      "objects": [
+        "the wooden church pew"
+      ]
+    },
+    "2:5": {
+      "characters": [
+        "Isabelle"
+      ],
+      "places": [],
+      "objects": [
+        "the antique French letter"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The City Bus"
+      ],
+      "objects": [
+        "the blue denim jacket",
+        "the stack of documents"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Isabelle"
+      ],
+      "places": [],
+      "objects": [
+        "the antique French letter"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Leo",
+        "Casey"
+      ],
+      "places": [],
+      "objects": [
+        "the blue denim jacket",
+        "the stack of documents"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Clara",
+        "Leo",
+        "Casey"
+      ],
+      "places": [
+        "The Old Stone Chapel"
+      ],
+      "objects": [
+        "the wooden church pew",
+        "the dark green patterned shirt",
+        "the red bead necklace"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Leo",
+        "Casey"
+      ],
+      "places": [],
+      "objects": [
+        "the blue denim jacket",
+        "the white t-shirt"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Clara",
+        "Daniel"
+      ],
+      "places": [
+        "The Old Stone Chapel"
+      ],
+      "objects": [
+        "the wooden church pew"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [],
+      "objects": [
+        "the blue denim jacket"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Casey",
+        "Isabelle"
+      ],
+      "places": [
+        "The Normandy Campaign Map"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Interview Room"
+      ],
+      "objects": [
+        "the blue denim jacket",
+        "the white t-shirt"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Clara",
+      "label": "Character 1",
+      "description": "Woman with reddish-brown hair."
+    },
+    "Character 2": {
+      "name": "Daniel",
+      "label": "Character 2",
+      "description": "Man with brown hair."
+    },
+    "Character 3": {
+      "name": "Isabelle",
+      "label": "Character 3",
+      "description": "Woman with her hair pulled back, wearing a simple, dark, long-sleeved top."
+    },
+    "Character 4": {
+      "name": "Brother Anselm",
+      "label": "Character 4",
+      "description": "A cleric with a weathered, lined face and a dark tonsure haircut, wearing heavy, dark clerical robes with a simple rope belt"
+    },
+    "Character 6": {
+      "name": "Casey",
+      "label": "Character 6",
+      "description": "Person with short brown hair wearing a blue shirt."
+    },
+    "Character 7": {
+      "name": "Leo",
+      "label": "Character 7",
+      "description": "Young man with light brown hair, wearing an unbuttoned blue denim shirt over a white t-shirt."
+    },
+    "Location 1": {
+      "name": "The Old Stone Chapel",
+      "label": "Location 1",
+      "description": "Interior of a historic church with stone walls and stone pillars."
+    },
+    "Location 2": {
+      "name": "The City Bus",
+      "label": "Location 2",
+      "description": "The interior of a public transport vehicle."
+    },
+    "Location 3": {
+      "name": "The Normandy Campaign Map",
+      "label": "Location 3",
+      "description": "A detailed map of the Normandy region in France, showing topographical features, the coastline, inland towns including Vire and Flers, and the island of Jersey."
+    },
+    "Location 4": {
+      "name": "The Interview Room",
+      "label": "Location 4",
+      "description": "An indoor interview setting with a simple, unadorned wall of a neutral color."
+    },
+    "Object 1": {
+      "name": "the blue denim jacket",
+      "label": "Object 1",
+      "description": "Blue denim shirt jacket with a pointed collar and a button-down front"
+    },
+    "Object 2": {
+      "name": "the wooden church pew",
+      "label": "Object 2",
+      "description": "Long wooden church pew with a high, straight backrest and a simple, unadorned design."
+    },
+    "Object 3": {
+      "name": "the dark green patterned shirt",
+      "label": "Object 3",
+      "description": "A woman's dark green shirt with a dark-colored pattern"
+    },
+    "Object 4": {
+      "name": "the red bead necklace",
+      "label": "Object 4",
+      "description": "A necklace composed of small, round, polished, deep-red beads on a single strand"
+    },
+    "Object 5": {
+      "name": "the antique French letter",
+      "label": "Object 5",
+      "description": "Aged historical document on yellowed paper, filled with elegant, old French cursive handwriting in dark ink."
+    },
+    "Object 6": {
+      "name": "the stack of documents",
+      "label": "Object 6",
+      "description": "A stack of rectangular white paper documents with black printed text."
+    },
+    "Object 7": {
+      "name": "the white t-shirt",
+      "label": "Object 7",
+      "description": "Plain white T-shirt with a round crew neckline"
+    }
+  },
+  "_window_shot_ids": [
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0041",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0042",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0043",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0044",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0045",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0046",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0047",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0048",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0049",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0050",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0051",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0052",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0053",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0054",
+    "000355cd-06b5-3a45-ae9f-1cfd4009eb71__run406__i40_j66__T300__shot0055"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Clara",
+    "Character 2": "Daniel",
+    "Character 3": "Isabelle",
+    "Character 4": "Brother Anselm",
+    "Character 5": "Alex",
+    "Character 6": "Casey",
+    "Character 7": "Leo",
+    "Location 1": "The Old Stone Chapel",
+    "Location 2": "The City Bus",
+    "Location 3": "The Normandy Campaign Map",
+    "Location 4": "The Interview Room",
+    "Object 1": "the blue denim jacket",
+    "Object 2": "the wooden church pew",
+    "Object 3": "the dark green patterned shirt",
+    "Object 4": "the red bead necklace",
+    "Object 5": "the antique French letter",
+    "Object 6": "the stack of documents",
+    "Object 7": "the white t-shirt",
+    "Object 8": "the historical Normandy map"
+  }
+}

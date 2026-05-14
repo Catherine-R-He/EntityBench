@@ -1,0 +1,271 @@
+{
+  "story_name": "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240",
+  "story_overview": "In a dimly lit study, the contemplative Victor considers his next move. A worried Mei shares her concerns, after which Sadie is seen wearing Mei's traditional vest, looking distraught. Throughout, Victor's expression shifts from pensive to serious as he deals with the unfolding situation.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Victor: Middle-aged Asian man with a mustache, wearing round gold-rimmed glasses and a dark, high-collared top.\nThe Scholar's Study: Study/office interior with a wooden desk.\nIn The Scholar's Study, a close-up of Victor in the dimly lit room. He wears the round gold-rimmed glasses and the dark high-collared top. He holds the blue and white teacup, his expression serious and contemplative as he looks down in thought and then looks up slightly.",
+        "Mei: East Asian woman wearing a traditional outfit featuring a high collar and an ornate clasp.\nSadie: Woman with braided hair\nIn The Scholar's Study, a close-up of Mei with a worried expression as she speaks to Sadie in the dimly lit room. Sadie wears the ornate brocade vest.",
+        "In The Scholar's Study, Victor wears the round gold-rimmed glasses and the dark high-collared top as he raises his head to speak to Mei.",
+        "the decorative folding screen: A dark, multi-panel folding screen featuring a repeating decorative pattern on its surface.\n\nIn The Scholar's Study, Sadie adjusts the ornate collar piece of the ornate brocade vest she is wearing. In the background, Victor stands near the decorative folding screen, watching her.",
+        "In The Scholar's Study, a low-angle close-up of Victor and Sadie. Victor, wearing the round gold-rimmed glasses and the dark high-collared top, leans back, talking with a pensive expression as Sadie listens intently.",
+        "A close-up of Sadie wearing the ornate brocade vest. She slowly looks down, her expression filled with sadness."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Scholar's Study, a close-up of Victor in the dimly lit room. He wears the round gold-rimmed glasses and the dark high-collared top. He holds the blue and white teacup, his expression serious and contemplative as he looks down in thought and then looks up slightly.",
+        "In The Scholar's Study, a close-up of Mei with a worried expression as she speaks to Sadie in the dimly lit room. Sadie wears the ornate brocade vest.",
+        "In The Scholar's Study, Victor wears the round gold-rimmed glasses and the dark high-collared top as he raises his head to speak to Mei.",
+        "In The Scholar's Study, Sadie adjusts the ornate collar piece of the ornate brocade vest she is wearing. In the background, Victor stands near the decorative folding screen, watching her.",
+        "In The Scholar's Study, a low-angle close-up of Victor and Sadie. Victor, wearing the round gold-rimmed glasses and the dark high-collared top, leans back, talking with a pensive expression as Sadie listens intently.",
+        "A close-up of Sadie wearing the ornate brocade vest. She slowly looks down, her expression filled with sadness."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Quiet Room: Interior of a room with no distinguishing features visible.\n\nIn The Quiet Room, a close-up of Victor wearing the round gold-rimmed glasses. He is talking, his facial expression transitioning from a slight smile to a serious, concerned look."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Quiet Room, a close-up of Victor wearing the round gold-rimmed glasses. He is talking, his facial expression transitioning from a slight smile to a serious, concerned look."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "In The Scholar's Study, a close-up of Sadie wearing the ornate brocade vest. She has a worried expression on her face as she speaks, looking slightly downwards, with the decorative folding screen in the background.",
+        "In The Scholar's Study at night, a frontal close-up of Victor. Victor, wearing the dark high-collared top and the round gold-rimmed glasses, has a pensive expression as he speaks.",
+        "Victor lowers his head to drink from the blue and white teacup."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Scholar's Study, a close-up of Sadie wearing the ornate brocade vest. She has a worried expression on her face as she speaks, looking slightly downwards, with the decorative folding screen in the background.",
+        "In The Scholar's Study at night, a frontal close-up of Victor. Victor, wearing the dark high-collared top and the round gold-rimmed glasses, has a pensive expression as he speaks.",
+        "Victor lowers his head to drink from the blue and white teacup."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the round gold-rimmed glasses",
+        "the dark high-collared top",
+        "the blue and white teacup"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Sadie",
+        "Mei"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the ornate brocade vest"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Victor",
+        "Mei"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the round gold-rimmed glasses",
+        "the dark high-collared top"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Sadie",
+        "Victor"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the ornate brocade vest",
+        "the decorative folding screen"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Victor",
+        "Sadie"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the round gold-rimmed glasses",
+        "the dark high-collared top"
+      ]
+    },
+    "1:6": {
+      "characters": [
+        "Sadie"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the ornate brocade vest"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "The Quiet Room"
+      ],
+      "objects": [
+        "the round gold-rimmed glasses"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Sadie"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the ornate brocade vest",
+        "the decorative folding screen"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the dark high-collared top",
+        "the round gold-rimmed glasses"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "The Scholar's Study"
+      ],
+      "objects": [
+        "the round gold-rimmed glasses",
+        "the dark high-collared top",
+        "the blue and white teacup"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Sadie",
+      "label": "Character 1",
+      "description": "Woman with braided hair"
+    },
+    "Character 2": {
+      "name": "Victor",
+      "label": "Character 2",
+      "description": "Middle-aged Asian man with a mustache, wearing round gold-rimmed glasses and a dark, high-collared top."
+    },
+    "Character 6": {
+      "name": "Mei",
+      "label": "Character 6",
+      "description": "East Asian woman wearing a traditional outfit featuring a high collar and an ornate clasp."
+    },
+    "Location 1": {
+      "name": "The Scholar's Study",
+      "label": "Location 1",
+      "description": "Study/office interior with a wooden desk."
+    },
+    "Location 2": {
+      "name": "The Quiet Room",
+      "label": "Location 2",
+      "description": "Interior of a room with no distinguishing features visible."
+    },
+    "Object 1": {
+      "name": "the blue and white teacup",
+      "label": "Object 1",
+      "description": "Small white and blue teacup"
+    },
+    "Object 2": {
+      "name": "the dark high-collared top",
+      "label": "Object 2",
+      "description": "Dark brown, high-collared man's top"
+    },
+    "Object 3": {
+      "name": "the round gold-rimmed glasses",
+      "label": "Object 3",
+      "description": "Round spectacles with thin, gold-colored metal rims"
+    },
+    "Object 4": {
+      "name": "the ornate brocade vest",
+      "label": "Object 4",
+      "description": "An ornate, traditional woman's outfit consisting of a dark patterned vest worn over a white shirt"
+    },
+    "Object 5": {
+      "name": "the decorative folding screen",
+      "label": "Object 5",
+      "description": "A dark, multi-panel folding screen featuring a repeating decorative pattern on its surface."
+    }
+  },
+  "_window_shot_ids": [
+    "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240__shot0015",
+    "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240__shot0016",
+    "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240__shot0017",
+    "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240__shot0018",
+    "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240__shot0019",
+    "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240__shot0020",
+    "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240__shot0021",
+    "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240__shot0022",
+    "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240__shot0023",
+    "000020ca-f66b-3542-8ad1-5c3172105f7b__run15__i0_j19__T240__shot0024"
+  ],
+  "_num_scenes": 3,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Sadie",
+    "Character 2": "Victor",
+    "Character 3": "Elias",
+    "Character 4": "Roland",
+    "Character 5": "Kenji",
+    "Character 6": "Mei",
+    "Character 7": "Ivan",
+    "Location 1": "The Scholar's Study",
+    "Location 2": "The Quiet Room",
+    "Object 1": "the blue and white teacup",
+    "Object 2": "the dark high-collared top",
+    "Object 3": "the round gold-rimmed glasses",
+    "Object 4": "the ornate brocade vest",
+    "Object 5": "the decorative folding screen",
+    "Object 6": "the round spectacles"
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "story_name": "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120",
+  "story_overview": "Victor and Liam meet secretly at a gatehouse. Following a distressing phone call taken by Sofia and Claire in a brick loft, the group's concern escalates, leading to a tense confrontation between Victor and Liam. The story culminates in a public standoff where a new figure, Daniel, holds Liam at swordpoint in an arched courtyard.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Victor: Man with long dark hair, wearing a dark suit.\nLiam: Man with long dark hair, wearing a dark blue shirt.\nThe Gatehouse Entrance: Outdoor area with a stone wall that incorporates a large, closed gate bearing the number '26' and a stone pillar with a single lamp fixture.\n\nLong shot at night in The Gatehouse Entrance. Victor walks toward the large gate. Liam stands waiting for him by the stone pillar, watching him approach."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Long shot at night in The Gatehouse Entrance. Victor walks toward the large gate. Liam stands waiting for him by the stone pillar, watching him approach."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Brick Loft: An interior room featuring an exposed brick wall and a dark-colored couch.\n\nIn the dimly lit The Brick Loft, Liam sits alone on the dark couch. Wearing the dark blue shirt, he listens intently to something off-screen, his expression shifting slightly.",
+        "Sofia: Woman with long dark hair, wearing a pink ruffled blouse.\nIn the dimly lit `The Brick Loft`, `Sofia` sits and talks on `the vintage rotary phone`. Her facial expression fluctuates during the call, shifting between deep concern and a brief, wide smile.",
+        "Claire: Woman with short blonde hair in a bob style, high cheekbones, wearing a dark-colored blouse with a simple collar.\n\nClose-up shot in the dimly lit The Brick Loft. Claire holds the vintage rotary phone to her ear, her expression concerned as she speaks into the receiver. In the background, Sofia's expression grows more concerned as she watches.",
+        "Inside The Brick Loft, Claire hangs up the vintage rotary phone with a distressed expression as Liam approaches her. They lock eyes, sharing a serious and worried look.",
+        "Close-up profile shot of Sofia in the dimly lit The Brick Loft. Her expression becomes concerned as she looks to the left, her mouth opening slightly as she begins to speak.",
+        "In the dimly lit The Brick Loft, Liam, wearing the dark blue shirt, sits on the dark couch, his gaze dropping somberly. Victor, wearing the dark suit, leans in slightly over him, his expression concerned. In the background, Claire shifts her grip on the vintage rotary phone she is holding as she watches them.",
+        "Daniel: Man with short, dark hair and a stern expression, wearing a leather jacket\n\nIn a dimly lit room in The Brick Loft, Claire, clutching the vintage rotary phone, sits on the dark couch, looking down somberly. Liam, wearing the dark blue shirt, looks at her with concern and gently places a hand on her shoulder. Daniel stands nearby, watching them and slowly crossing his arms."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In the dimly lit The Brick Loft, Liam sits alone on the dark couch. Wearing the dark blue shirt, he listens intently to something off-screen, his expression shifting slightly.",
+        "In the dimly lit `The Brick Loft`, `Sofia` sits and talks on `the vintage rotary phone`. Her facial expression fluctuates during the call, shifting between deep concern and a brief, wide smile.",
+        "Close-up shot in the dimly lit The Brick Loft. Claire holds the vintage rotary phone to her ear, her expression concerned as she speaks into the receiver. In the background, Sofia's expression grows more concerned as she watches.",
+        "Inside The Brick Loft, Claire hangs up the vintage rotary phone with a distressed expression as Liam approaches her. They lock eyes, sharing a serious and worried look.",
+        "Close-up profile shot of Sofia in the dimly lit The Brick Loft. Her expression becomes concerned as she looks to the left, her mouth opening slightly as she begins to speak.",
+        "In the dimly lit The Brick Loft, Liam, wearing the dark blue shirt, sits on the dark couch, his gaze dropping somberly. Victor, wearing the dark suit, leans in slightly over him, his expression concerned. In the background, Claire shifts her grip on the vintage rotary phone she is holding as she watches them.",
+        "In a dimly lit room in The Brick Loft, Claire, clutching the vintage rotary phone, sits on the dark couch, looking down somberly. Liam, wearing the dark blue shirt, looks at her with concern and gently places a hand on her shoulder. Daniel stands nearby, watching them and slowly crossing his arms."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Steel Kitchen: A kitchen space featuring shiny metal kitchenware.\nthe steel kitchenware: A collection of assorted kitchenware made from a shiny, reflective metal.\n\nClose-up in the dimly lit The Steel Kitchen, with the steel kitchenware in the background. Sofia looks just off-camera, her expression growing serious and concerned. Liam, standing beside her, shifts his gaze to follow hers, his own expression mirroring her concern."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up in the dimly lit The Steel Kitchen, with the steel kitchenware in the background. Sofia looks just off-camera, her expression growing serious and concerned. Liam, standing beside her, shifts his gaze to follow hers, his own expression mirroring her concern."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Ethereal Haze: An expanse of bright, ethereal haze.\nExtreme close-up, low-angle shot of Victor's face coming into focus from a bright, ethereal haze. Victor is wearing the dark headband. He looks up towards The Ethereal Haze with a serene smile."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up, low-angle shot of Victor's face coming into focus from a bright, ethereal haze. Victor is wearing the dark headband. He looks up towards The Ethereal Haze with a serene smile."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Arched Courtyard: A large, open stone courtyard featuring prominent architectural arches.\nthe curved broadsword: Large, single-edged sword with a long, broad, and prominently curved blade.\n\nIn the sunlit The Arched Courtyard, Daniel presses the curved broadsword to the neck of Liam, who trembles slightly while bent over in a submissive posture as a crowd murmurs and watches the tense standoff from the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the sunlit The Arched Courtyard, Daniel presses the curved broadsword to the neck of Liam, who trembles slightly while bent over in a submissive posture as a crowd murmurs and watches the tense standoff from the background."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Victor",
+        "Liam"
+      ],
+      "places": [
+        "The Gatehouse Entrance"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Liam"
+      ],
+      "places": [
+        "The Brick Loft"
+      ],
+      "objects": [
+        "the dark couch",
+        "the dark blue shirt"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Sofia"
+      ],
+      "places": [
+        "The Brick Loft"
+      ],
+      "objects": [
+        "the vintage rotary phone"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Sofia",
+        "Claire"
+      ],
+      "places": [
+        "The Brick Loft"
+      ],
+      "objects": [
+        "the vintage rotary phone"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Liam",
+        "Claire"
+      ],
+      "places": [
+        "The Brick Loft"
+      ],
+      "objects": [
+        "the vintage rotary phone"
+      ]
+    },
+    "2:5": {
+      "characters": [
+        "Sofia"
+      ],
+      "places": [
+        "The Brick Loft"
+      ],
+      "objects": []
+    },
+    "2:6": {
+      "characters": [
+        "Victor",
+        "Liam",
+        "Claire"
+      ],
+      "places": [
+        "The Brick Loft"
+      ],
+      "objects": [
+        "the dark blue shirt",
+        "the vintage rotary phone",
+        "the dark suit"
+      ]
+    },
+    "2:7": {
+      "characters": [
+        "Daniel",
+        "Liam",
+        "Claire"
+      ],
+      "places": [
+        "The Brick Loft"
+      ],
+      "objects": [
+        "the dark blue shirt",
+        "the vintage rotary phone"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Liam",
+        "Sofia"
+      ],
+      "places": [
+        "The Steel Kitchen"
+      ],
+      "objects": [
+        "the steel kitchenware"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "The Ethereal Haze"
+      ],
+      "objects": [
+        "the dark headband"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Liam",
+        "Daniel"
+      ],
+      "places": [
+        "The Arched Courtyard"
+      ],
+      "objects": [
+        "the curved broadsword"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Sofia",
+      "label": "Character 1",
+      "description": "Woman with long dark hair, wearing a pink ruffled blouse."
+    },
+    "Character 2": {
+      "name": "Liam",
+      "label": "Character 2",
+      "description": "Man with long dark hair, wearing a dark blue shirt."
+    },
+    "Character 3": {
+      "name": "Victor",
+      "label": "Character 3",
+      "description": "Man with long dark hair, wearing a dark suit."
+    },
+    "Character 4": {
+      "name": "Claire",
+      "label": "Character 4",
+      "description": "Woman with short blonde hair in a bob style, high cheekbones, wearing a dark-colored blouse with a simple collar."
+    },
+    "Character 5": {
+      "name": "Daniel",
+      "label": "Character 5",
+      "description": "Man with short, dark hair and a stern expression, wearing a leather jacket"
+    },
+    "Location 1": {
+      "name": "The Brick Loft",
+      "label": "Location 1",
+      "description": "An interior room featuring an exposed brick wall and a dark-colored couch."
+    },
+    "Location 2": {
+      "name": "The Gatehouse Entrance",
+      "label": "Location 2",
+      "description": "Outdoor area with a stone wall that incorporates a large, closed gate bearing the number '26' and a stone pillar with a single lamp fixture."
+    },
+    "Location 3": {
+      "name": "The Steel Kitchen",
+      "label": "Location 3",
+      "description": "A kitchen space featuring shiny metal kitchenware."
+    },
+    "Location 4": {
+      "name": "The Ethereal Haze",
+      "label": "Location 4",
+      "description": "An expanse of bright, ethereal haze."
+    },
+    "Location 5": {
+      "name": "The Arched Courtyard",
+      "label": "Location 5",
+      "description": "A large, open stone courtyard featuring prominent architectural arches."
+    },
+    "Object 1": {
+      "name": "the dark blue shirt",
+      "label": "Object 1",
+      "description": "Dark blue men's shirt"
+    },
+    "Object 2": {
+      "name": "the dark couch",
+      "label": "Object 2",
+      "description": "Dark-colored couch"
+    },
+    "Object 3": {
+      "name": "the plain white t-shirt",
+      "label": "Object 3",
+      "description": "A classic short-sleeved crewneck t-shirt in plain white cotton"
+    },
+    "Object 4": {
+      "name": "the vintage rotary phone",
+      "label": "Object 4",
+      "description": "Vintage gray rotary telephone with a glossy plastic body, a front-facing dial with finger holes, a classic handset, and a coiled cord connecting the handset to the base"
+    },
+    "Object 5": {
+      "name": "the dark blue shirt",
+      "label": "Object 5",
+      "description": "Dark blue shirt"
+    },
+    "Object 6": {
+      "name": "the steel kitchenware",
+      "label": "Object 6",
+      "description": "A collection of assorted kitchenware made from a shiny, reflective metal."
+    },
+    "Object 7": {
+      "name": "the dark headband",
+      "label": "Object 7",
+      "description": "Dark-colored headband"
+    },
+    "Object 8": {
+      "name": "the curved broadsword",
+      "label": "Object 8",
+      "description": "Large, single-edged sword with a long, broad, and prominently curved blade."
+    }
+  },
+  "_window_shot_ids": [
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0004",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0005",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0006",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0007",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0008",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0009",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0010",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0011",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0012",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0013",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i15_j24__T120__shot0015"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Sofia",
+    "Character 2": "Liam",
+    "Character 3": "Victor",
+    "Character 4": "Claire",
+    "Character 5": "Daniel",
+    "Location 1": "The Brick Loft",
+    "Location 2": "The Gatehouse Entrance",
+    "Location 3": "The Steel Kitchen",
+    "Location 4": "The Ethereal Haze",
+    "Location 5": "The Arched Courtyard",
+    "Object 1": "the dark blue shirt",
+    "Object 2": "the dark couch",
+    "Object 3": "the plain white t-shirt",
+    "Object 4": "the vintage rotary phone",
+    "Object 5": "the dark blue shirt",
+    "Object 6": "the steel kitchenware",
+    "Object 7": "the dark headband",
+    "Object 8": "the curved broadsword"
+  }
+}

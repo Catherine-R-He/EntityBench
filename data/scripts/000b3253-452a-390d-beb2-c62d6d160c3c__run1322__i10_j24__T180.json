@@ -1,0 +1,361 @@
+{
+  "story_name": "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180",
+  "story_overview": "In a sterile interview room, Arthur listens with concern as Nina and Chloe recount a surreal story. This narrative involves Nina and Leo at a monochrome house, Alex's mysterious work in a cluttered workshop observed by Mara, and Casey uncovering a box of old photos. The story climaxes as the photos are burned, and Arthur and Iris kneel in prayer beside a bed.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Arthur: Man with balding hair and glasses, wearing a dark sweater over a collared shirt.\nThe Interview Room: A sterile, minimal indoor interview space with plain, undecorated walls and a black and white color palette.\nthe black acetate glasses: Men's eyeglasses with thick, rectangular, polished black acetate frames.\n\nBlack-and-white close-up of Arthur, wearing the black acetate glasses, in The Interview Room. Arthur looks forward with a concerned and empathetic expression, then slowly parts his lips as he begins to speak.",
+        "Nina: Woman with short brown hair wearing a brownish cardigan over a blue collared shirt.\nChloe: Woman with short dark hair, wearing a collared shirt.\n\nClose-up on Nina in The Interview Room. She looks slightly to the side, listening intently as a gentle, reflective smile forms on her face. Chloe sits beside her, nodding slightly in understanding."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Black-and-white close-up of Arthur, wearing the black acetate glasses, in The Interview Room. Arthur looks forward with a concerned and empathetic expression, then slowly parts his lips as he begins to speak.",
+        "Close-up on Nina in The Interview Room. She looks slightly to the side, listening intently as a gentle, reflective smile forms on her face. Chloe sits beside her, nodding slightly in understanding."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Leo: Man with wavy brown hair and round wire-rimmed glasses, wearing a heather-grey sweater vest over a cream-colored collared shirt.\nThe Monochrome House: A black-and-white house facade with a window that contains an interior room.\nthe multi-paned window: A multi-paned window with a light-toned casing and clear glass sections.\nthe grayscale bouquet: A bouquet of mixed flowers with blooms and leaves appearing in various shades of gray, white, and black.\n\nBlack-and-white medium shot from outside The Monochrome House at night, looking through the multi-paned window. Inside, Leo walks away. Nina, holding the grayscale bouquet, turns to look out of the multi-paned window.",
+        "Iris: Woman with a short, wavy, light-brown bob, wearing a sage green bomber jacket.\n\nBlack-and-white shot inside The Monochrome House. Iris is illuminated by a single light source coming through the multi-paned window. She turns an object over in her hands, her gaze fixed upon it."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Black-and-white medium shot from outside The Monochrome House at night, looking through the multi-paned window. Inside, Leo walks away. Nina, holding the grayscale bouquet, turns to look out of the multi-paned window.",
+        "Black-and-white shot inside The Monochrome House. Iris is illuminated by a single light source coming through the multi-paned window. She turns an object over in her hands, her gaze fixed upon it."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Alex: Person wearing sturdy dark shoes and white socks.\nThe Dirt Path: An unpaved outdoor path composed of packed, earthy-brown dirt.\nthe dark leather work boots: Sturdy, dark leather work boots with thick, treaded rubber soles and metal lace eyelets.\n\nAlex runs along The Dirt Path, wearing the dark leather work boots and the smudged white socks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Alex runs along The Dirt Path, wearing the dark leather work boots and the smudged white socks."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Maker's Workshop: Cluttered indoor workshop space featuring a doorway and a small, framed diorama-style opening in one wall.\nthe diorama viewing portal: Small, framed viewing portal for a diorama.\n\nStatic long shot through the diorama viewing portal into the dimly lit The Maker's Workshop. Inside, Alex kneels on the floor, working on an object.",
+        "Mara: Woman wearing a dark business suit.\n\nWide shot through the diorama viewing portal into The Maker's Workshop. In the foreground, Alex gets up from the floor. In a back room visible through a doorway, Mara sits on a chair, slowly looking around."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Static long shot through the diorama viewing portal into the dimly lit The Maker's Workshop. Inside, Alex kneels on the floor, working on an object.",
+        "Wide shot through the diorama viewing portal into The Maker's Workshop. In the foreground, Alex gets up from the floor. In a back room visible through a doorway, Mara sits on a chair, slowly looking around."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Casey: Person wearing a muted green and beige sweater.\nThe Quiet Bedroom: Bedroom interior featuring a piece of wooden furniture with drawers.\nthe worn cardboard box: A rectangular brown cardboard box with a lid, featuring a faded surface and softened, worn edges and corners.\nthe dark wooden drawer: Rectangular wooden drawer with a dark, worn finish, visible wood grain, and a simple, tarnished brass pull knob at its center.\n\nClose-up on the hands of Casey in The Quiet Bedroom. Casey pulls the worn cardboard box from the dark wooden drawer, sets it down, and opens it, revealing old photographs and sheet music inside.",
+        "Over-the-shoulder shot of Nina as she steps into the doorway, looking into The Quiet Bedroom. Inside, Leo, crouching on the floor, looks up at Nina, his expression shifting to show worry.",
+        "the simple wooden bed: Queen-size bed with a simple dark wood headboard, made with a plain white duvet and two matching pillows.\n\nClose-up of old photographs from the box of old photographs burning in the sooty fire grate, flames consuming the paper. The scene dissolves to a medium shot of The Quiet Bedroom. Arthur and Iris kneel side-by-side on the floor at the foot of the simple wooden bed, their hands clasped and eyes closed, heads bowed slightly in prayer."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on the hands of Casey in The Quiet Bedroom. Casey pulls the worn cardboard box from the dark wooden drawer, sets it down, and opens it, revealing old photographs and sheet music inside.",
+        "Over-the-shoulder shot of Nina as she steps into the doorway, looking into The Quiet Bedroom. Inside, Leo, crouching on the floor, looks up at Nina, his expression shifting to show worry.",
+        "Close-up of old photographs from the box of old photographs burning in the sooty fire grate, flames consuming the paper. The scene dissolves to a medium shot of The Quiet Bedroom. Arthur and Iris kneel side-by-side on the floor at the foot of the simple wooden bed, their hands clasped and eyes closed, heads bowed slightly in prayer."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Interview Room"
+      ],
+      "objects": [
+        "the black acetate glasses"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Nina",
+        "Chloe"
+      ],
+      "places": [
+        "The Interview Room"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Nina",
+        "Leo"
+      ],
+      "places": [
+        "The Monochrome House"
+      ],
+      "objects": [
+        "the multi-paned window",
+        "the grayscale bouquet"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Iris"
+      ],
+      "places": [
+        "The Monochrome House"
+      ],
+      "objects": [
+        "the multi-paned window"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The Dirt Path"
+      ],
+      "objects": [
+        "the smudged white socks",
+        "the dark leather work boots"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Alex"
+      ],
+      "places": [
+        "The Maker's Workshop"
+      ],
+      "objects": [
+        "the diorama viewing portal"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Alex",
+        "Mara"
+      ],
+      "places": [
+        "The Maker's Workshop"
+      ],
+      "objects": [
+        "the diorama viewing portal"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "The Quiet Bedroom"
+      ],
+      "objects": [
+        "the worn cardboard box",
+        "the dark wooden drawer"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Nina",
+        "Leo"
+      ],
+      "places": [
+        "The Quiet Bedroom"
+      ],
+      "objects": []
+    },
+    "5:3": {
+      "characters": [
+        "Arthur",
+        "Iris"
+      ],
+      "places": [
+        "The Quiet Bedroom"
+      ],
+      "objects": [
+        "the box of old photographs",
+        "the sooty fire grate",
+        "the simple wooden bed"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Arthur",
+      "label": "Character 1",
+      "description": "Man with balding hair and glasses, wearing a dark sweater over a collared shirt."
+    },
+    "Character 2": {
+      "name": "Chloe",
+      "label": "Character 2",
+      "description": "Woman with short dark hair, wearing a collared shirt."
+    },
+    "Character 3": {
+      "name": "Nina",
+      "label": "Character 3",
+      "description": "Woman with short brown hair wearing a brownish cardigan over a blue collared shirt."
+    },
+    "Character 4": {
+      "name": "Leo",
+      "label": "Character 4",
+      "description": "Man with wavy brown hair and round wire-rimmed glasses, wearing a heather-grey sweater vest over a cream-colored collared shirt."
+    },
+    "Character 5": {
+      "name": "Iris",
+      "label": "Character 5",
+      "description": "Woman with a short, wavy, light-brown bob, wearing a sage green bomber jacket."
+    },
+    "Character 6": {
+      "name": "Alex",
+      "label": "Character 6",
+      "description": "Person wearing sturdy dark shoes and white socks."
+    },
+    "Character 7": {
+      "name": "Mara",
+      "label": "Character 7",
+      "description": "Woman wearing a dark business suit."
+    },
+    "Character 8": {
+      "name": "Casey",
+      "label": "Character 8",
+      "description": "Person wearing a muted green and beige sweater."
+    },
+    "Location 1": {
+      "name": "The Interview Room",
+      "label": "Location 1",
+      "description": "A sterile, minimal indoor interview space with plain, undecorated walls and a black and white color palette."
+    },
+    "Location 2": {
+      "name": "The Monochrome House",
+      "label": "Location 2",
+      "description": "A black-and-white house facade with a window that contains an interior room."
+    },
+    "Location 3": {
+      "name": "The Dirt Path",
+      "label": "Location 3",
+      "description": "An unpaved outdoor path composed of packed, earthy-brown dirt."
+    },
+    "Location 4": {
+      "name": "The Maker's Workshop",
+      "label": "Location 4",
+      "description": "Cluttered indoor workshop space featuring a doorway and a small, framed diorama-style opening in one wall."
+    },
+    "Location 5": {
+      "name": "The Quiet Bedroom",
+      "label": "Location 5",
+      "description": "Bedroom interior featuring a piece of wooden furniture with drawers."
+    },
+    "Object 1": {
+      "name": "the black acetate glasses",
+      "label": "Object 1",
+      "description": "Men's eyeglasses with thick, rectangular, polished black acetate frames."
+    },
+    "Object 2": {
+      "name": "the multi-paned window",
+      "label": "Object 2",
+      "description": "A multi-paned window with a light-toned casing and clear glass sections."
+    },
+    "Object 3": {
+      "name": "the grayscale bouquet",
+      "label": "Object 3",
+      "description": "A bouquet of mixed flowers with blooms and leaves appearing in various shades of gray, white, and black."
+    },
+    "Object 4": {
+      "name": "the dark leather work boots",
+      "label": "Object 4",
+      "description": "Sturdy, dark leather work boots with thick, treaded rubber soles and metal lace eyelets."
+    },
+    "Object 5": {
+      "name": "the smudged white socks",
+      "label": "Object 5",
+      "description": "White, ribbed-knit crew socks with some visible smudges of dirt"
+    },
+    "Object 6": {
+      "name": "the diorama viewing portal",
+      "label": "Object 6",
+      "description": "Small, framed viewing portal for a diorama."
+    },
+    "Object 7": {
+      "name": "the box of old photographs",
+      "label": "Object 7",
+      "description": "A cardboard box containing a collection of old, faded black-and-white or sepia-toned photographs and aged, yellowed sheet music with worn edges"
+    },
+    "Object 8": {
+      "name": "the worn cardboard box",
+      "label": "Object 8",
+      "description": "A rectangular brown cardboard box with a lid, featuring a faded surface and softened, worn edges and corners."
+    },
+    "Object 9": {
+      "name": "the dark wooden drawer",
+      "label": "Object 9",
+      "description": "Rectangular wooden drawer with a dark, worn finish, visible wood grain, and a simple, tarnished brass pull knob at its center."
+    },
+    "Object 10": {
+      "name": "the sooty fire grate",
+      "label": "Object 10",
+      "description": "A metal fire grate, blackened with soot"
+    },
+    "Object 11": {
+      "name": "the simple wooden bed",
+      "label": "Object 11",
+      "description": "Queen-size bed with a simple dark wood headboard, made with a plain white duvet and two matching pillows."
+    }
+  },
+  "_window_shot_ids": [
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180__shot0003",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180__shot0004",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180__shot0005",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180__shot0006",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180__shot0007",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180__shot0008",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180__shot0009",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180__shot0010",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180__shot0011",
+    "000b3253-452a-390d-beb2-c62d6d160c3c__run1322__i10_j24__T180__shot0015"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Arthur",
+    "Character 2": "Chloe",
+    "Character 3": "Nina",
+    "Character 4": "Leo",
+    "Character 5": "Iris",
+    "Character 6": "Alex",
+    "Character 7": "Mara",
+    "Character 8": "Casey",
+    "Location 1": "The Interview Room",
+    "Location 2": "The Monochrome House",
+    "Location 3": "The Dirt Path",
+    "Location 4": "The Maker's Workshop",
+    "Location 5": "The Quiet Bedroom",
+    "Object 1": "the black acetate glasses",
+    "Object 10": "the sooty fire grate",
+    "Object 11": "the simple wooden bed",
+    "Object 2": "the multi-paned window",
+    "Object 3": "the grayscale bouquet",
+    "Object 4": "the dark leather work boots",
+    "Object 5": "the smudged white socks",
+    "Object 6": "the diorama viewing portal",
+    "Object 7": "the box of old photographs",
+    "Object 8": "the worn cardboard box",
+    "Object 9": "the dark wooden drawer"
+  }
+}

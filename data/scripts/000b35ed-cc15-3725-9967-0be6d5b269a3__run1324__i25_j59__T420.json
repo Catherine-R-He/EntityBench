@@ -1,0 +1,440 @@
+{
+  "story_name": "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420",
+  "story_overview": "Following a major highway crash, Marco presents a CGI schematic for the complex recovery of an overturned truck. At the crash site, a large crew including Casey, Barry, Gus and Vince works through the night to clear the wreckage. Meanwhile, Chuck, a veteran of the towing company, gives an interview about the challenges of the job.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Marco: Man wearing a yellow high-visibility jacket and a black hard hat adorned with various stickers.\nThe Schematic View: A computer-generated schematic environment composed of a dark grid plane, semi-transparent yellow 3D models of trucks, text labels, and illustrative lines.\nthe Stauffer tow truck: Large tow truck with 'Stauffer' branding on the side and a bar of orange warning lights on the roof.\nMarco stands in front of a holographic projection of The Schematic View, gesturing as if explaining a plan. From a high angle, The Schematic View shows animated wireframe models of the Stauffer tow truck and two other tow trucks moving into position around the overturned truck wreckage. Yellow lines and text labels animate across the dark grid, illustrating the recovery procedure."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Marco stands in front of a holographic projection of The Schematic View, gesturing as if explaining a plan. From a high angle, The Schematic View shows animated wireframe models of the Stauffer tow truck and two other tow trucks moving into position around the overturned truck wreckage. Yellow lines and text labels animate across the dark grid, illustrating the recovery procedure."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Chuck: Man with a long grey beard, wearing a dark work shirt with a 'Chuck' name tag and a black cap.\nVince: Man wearing a yellow high-visibility jacket, with his face and head obscured by a black balaclava.\nThe Towing Garage: Interior of a towing company workshop or garage with concrete floors, tool chests, industrial shelving, and various vehicle parts and equipment.\nthe professional video camera: Professional video camera mounted on a tripod.\n\nMedium close-up of Chuck and Vince in the dimly lit The Towing Garage. Chuck speaks directly to the professional video camera for an interview, with the 'Chuck' name tag visible on his shirt. Vince stands beside him, looking towards the camera."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up of Chuck and Vince in the dimly lit The Towing Garage. Chuck speaks directly to the professional video camera for an interview, with the 'Chuck' name tag visible on his shirt. Vince stands beside him, looking towards the camera."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Alex: Person wearing an orange-and-yellow high-visibility vest over dark clothing and dark pants, with a dark beanie.\nRiley: Person wearing a lime green high-visibility jacket, with their face and head obscured by a black balaclava.\nThe Highway Crash Site: A section of a main highway with wet, dark asphalt, cluttered with the wreckage of an overturned truck, a spilled cargo of tires, roadblock barriers, and numerous emergency vehicles including police cars and tow trucks.\n\nAt night in The Highway Crash Site, Alex listens intently to Riley. With their back to the camera, Riley gestures while speaking, with the overturned truck wreckage looming in the background.",
+        "Casey: Person wearing a dark baseball cap, a bright yellow high-visibility jacket with silver reflective stripes, and dark blue overalls.\nBarry: Man with a long grey beard wearing a red and white high-visibility jacket over unseen clothing, a black beanie, and large over-ear headphones.\n\nAt night at The Highway Crash Site, Casey and Barry stand beside the overturned truck wreckage. Under the harsh glow of work lights, they talk and gesture, coordinating the complex recovery operation unfolding around them.",
+        "At The Highway Crash Site at night, Barry, who wears the black knit beanie, gestures with his hands as he talks to Vince. They stand on the wet pavement next to the overturned truck wreckage, illuminated by work lights.",
+        "Gus: Man with a long grey beard, wearing a yellow high-visibility jacket layered under an orange-and-white safety vest, and a black hat with a lit headlamp.\n\nAerial view at night of The Highway Crash Site, showing a large-scale recovery operation. The overturned truck wreckage lies on the roadside, surrounded by a convoy of Stauffer tow trucks and other emergency vehicles with their red and blue lights flashing, illuminating the area. Small figures, including Gus, move about on the ground.",
+        "Night shot in The Highway Crash Site. Illuminated by bright work lights from the emergency vehicles, Barry stands in front of the Stauffer tow truck, gesturing towards the overturned truck wreckage in the background. Marco stands nearby, observing the scene and nodding in response.",
+        "At The Highway Crash Site at night, a medium tracking shot follows Vince walking alongside the large, illuminated Stauffer tow truck on the wet highway shoulder."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "At night in The Highway Crash Site, Alex listens intently to Riley. With their back to the camera, Riley gestures while speaking, with the overturned truck wreckage looming in the background.",
+        "At night at The Highway Crash Site, Casey and Barry stand beside the overturned truck wreckage. Under the harsh glow of work lights, they talk and gesture, coordinating the complex recovery operation unfolding around them.",
+        "At The Highway Crash Site at night, Barry, who wears the black knit beanie, gestures with his hands as he talks to Vince. They stand on the wet pavement next to the overturned truck wreckage, illuminated by work lights.",
+        "Aerial view at night of The Highway Crash Site, showing a large-scale recovery operation. The overturned truck wreckage lies on the roadside, surrounded by a convoy of Stauffer tow trucks and other emergency vehicles with their red and blue lights flashing, illuminating the area. Small figures, including Gus, move about on the ground.",
+        "Night shot in The Highway Crash Site. Illuminated by bright work lights from the emergency vehicles, Barry stands in front of the Stauffer tow truck, gesturing towards the overturned truck wreckage in the background. Marco stands nearby, observing the scene and nodding in response.",
+        "At The Highway Crash Site at night, a medium tracking shot follows Vince walking alongside the large, illuminated Stauffer tow truck on the wet highway shoulder."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Stan: Older man with a white beard, wearing a red and white reflective safety vest over unseen clothing and a black cap.\nThe Truck Cabin: The interior driver's side of a truck cabin, featuring a steering wheel and a driver's seat, part of a vehicle with a white exterior.\nThe Main Highway: A multi-lane highway with a dark asphalt surface, painted lane dividers, and a shoulder where a police car and a civilian vehicle are positioned amidst other cars on the road.\nthe police patrol car: Police patrol car with a roof-mounted emergency light bar containing red and blue lights.\nthe intact semi-truck: Large semi-truck with a tractor cab and an attached trailer.\nthe orange traffic cone: Bright orange plastic traffic cone with a conical body, a square black weighted base, and two horizontal white reflective stripes.\nShot from inside the police patrol car at The Main Highway at night. A bright spotlight from the police patrol car illuminates Stan walking past the orange traffic cone on the road. In the background, the intact semi-truck is stopped on the highway, with a view into The Truck Cabin."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Shot from inside the police patrol car at The Main Highway at night. A bright spotlight from the police patrol car illuminates Stan walking past the orange traffic cone on the road. In the background, the intact semi-truck is stopped on the highway, with a view into The Truck Cabin."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Oscar: Man with a mustache, wearing an orange beanie and an unbuttoned blue button-up work shirt over a black t-shirt\n\nChuck and Oscar are sitting for an interview. Chuck, wearing his black work shirt with the 'Chuck' name tag and a black backward-facing cap, looks into the professional video camera and begins to speak as Oscar listens intently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Chuck and Oscar are sitting for an interview. Chuck, wearing his black work shirt with the 'Chuck' name tag and a black backward-facing cap, looks into the professional video camera and begins to speak as Oscar listens intently."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "the crashed tractor-trailer: Large tractor-trailer truck with a crushed cab, shattered windows, and a long rectangular cargo container bearing deep scrapes and dents along its side.\nthe heavy-duty wrecker: Large heavy-duty wrecker tow truck with a massive, articulated metal lifting arm structure and amber and red emergency light bars.\n\nIn a high-angle aerial shot of The Highway Crash Site at night, Barry walks along the road's shoulder. The crashed tractor-trailer lies on its side across multiple lanes, surrounded by several heavy-duty wreckers, their emergency lights flashing. Glowing orange traffic cones mark off the accident scene as a dark sedan drives slowly past in the one open lane."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a high-angle aerial shot of The Highway Crash Site at night, Barry walks along the road's shoulder. The crashed tractor-trailer lies on its side across multiple lanes, surrounded by several heavy-duty wreckers, their emergency lights flashing. Glowing orange traffic cones mark off the accident scene as a dark sedan drives slowly past in the one open lane."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "In The Towing Garage, Chuck, wearing the 'Chuck' name tag, and Oscar sit in chairs for an interview. Chuck looks directly at the professional video camera and speaks."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Towing Garage, Chuck, wearing the 'Chuck' name tag, and Oscar sit in chairs for an interview. Chuck looks directly at the professional video camera and speaks."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [
+        "The Schematic View"
+      ],
+      "objects": [
+        "the overturned truck wreckage",
+        "the Stauffer tow truck"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Chuck",
+        "Vince"
+      ],
+      "places": [
+        "The Towing Garage"
+      ],
+      "objects": [
+        "the 'Chuck' name tag",
+        "the professional video camera"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Alex",
+        "Riley"
+      ],
+      "places": [
+        "The Highway Crash Site"
+      ],
+      "objects": [
+        "the overturned truck wreckage"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Casey",
+        "Barry"
+      ],
+      "places": [
+        "The Highway Crash Site"
+      ],
+      "objects": [
+        "the overturned truck wreckage"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Barry",
+        "Vince"
+      ],
+      "places": [
+        "The Highway Crash Site"
+      ],
+      "objects": [
+        "the black knit beanie",
+        "the overturned truck wreckage"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Gus"
+      ],
+      "places": [
+        "The Highway Crash Site"
+      ],
+      "objects": [
+        "the overturned truck wreckage",
+        "the Stauffer tow truck"
+      ]
+    },
+    "3:5": {
+      "characters": [
+        "Barry",
+        "Marco"
+      ],
+      "places": [
+        "The Highway Crash Site"
+      ],
+      "objects": [
+        "the overturned truck wreckage",
+        "the Stauffer tow truck"
+      ]
+    },
+    "3:6": {
+      "characters": [
+        "Vince"
+      ],
+      "places": [
+        "The Highway Crash Site"
+      ],
+      "objects": [
+        "the Stauffer tow truck"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Stan"
+      ],
+      "places": [
+        "The Truck Cabin",
+        "The Main Highway"
+      ],
+      "objects": [
+        "the police patrol car",
+        "the intact semi-truck",
+        "the orange traffic cone"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Oscar",
+        "Chuck"
+      ],
+      "places": [
+        "The Towing Garage"
+      ],
+      "objects": [
+        "the 'Chuck' name tag",
+        "the professional video camera"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Barry"
+      ],
+      "places": [
+        "The Highway Crash Site"
+      ],
+      "objects": [
+        "the crashed tractor-trailer",
+        "the heavy-duty wrecker",
+        "the orange traffic cone"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Chuck",
+        "Oscar"
+      ],
+      "places": [
+        "The Towing Garage"
+      ],
+      "objects": [
+        "the 'Chuck' name tag",
+        "the professional video camera"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Casey",
+      "label": "Character 1",
+      "description": "Person wearing a dark baseball cap, a bright yellow high-visibility jacket with silver reflective stripes, and dark blue overalls."
+    },
+    "Character 2": {
+      "name": "Marco",
+      "label": "Character 2",
+      "description": "Man wearing a yellow high-visibility jacket and a black hard hat adorned with various stickers."
+    },
+    "Character 3": {
+      "name": "Chuck",
+      "label": "Character 3",
+      "description": "Man with a long grey beard, wearing a dark work shirt with a 'Chuck' name tag and a black cap."
+    },
+    "Character 4": {
+      "name": "Gus",
+      "label": "Character 4",
+      "description": "Man with a long grey beard, wearing a yellow high-visibility jacket layered under an orange-and-white safety vest, and a black hat with a lit headlamp."
+    },
+    "Character 5": {
+      "name": "Stan",
+      "label": "Character 5",
+      "description": "Older man with a white beard, wearing a red and white reflective safety vest over unseen clothing and a black cap."
+    },
+    "Character 6": {
+      "name": "Barry",
+      "label": "Character 6",
+      "description": "Man with a long grey beard wearing a red and white high-visibility jacket over unseen clothing, a black beanie, and large over-ear headphones."
+    },
+    "Character 7": {
+      "name": "Alex",
+      "label": "Character 7",
+      "description": "Person wearing an orange-and-yellow high-visibility vest over dark clothing and dark pants, with a dark beanie."
+    },
+    "Character 8": {
+      "name": "Riley",
+      "label": "Character 8",
+      "description": "Person wearing a lime green high-visibility jacket, with their face and head obscured by a black balaclava."
+    },
+    "Character 9": {
+      "name": "Vince",
+      "label": "Character 9",
+      "description": "Man wearing a yellow high-visibility jacket, with his face and head obscured by a black balaclava."
+    },
+    "Character 10": {
+      "name": "Oscar",
+      "label": "Character 10",
+      "description": "Man with a mustache, wearing an orange beanie and an unbuttoned blue button-up work shirt over a black t-shirt"
+    },
+    "Location 1": {
+      "name": "The Highway Crash Site",
+      "label": "Location 1",
+      "description": "A section of a main highway with wet, dark asphalt, cluttered with the wreckage of an overturned truck, a spilled cargo of tires, roadblock barriers, and numerous emergency vehicles including police cars and tow trucks."
+    },
+    "Location 2": {
+      "name": "The Towing Garage",
+      "label": "Location 2",
+      "description": "Interior of a towing company workshop or garage with concrete floors, tool chests, industrial shelving, and various vehicle parts and equipment."
+    },
+    "Location 3": {
+      "name": "The Truck Cabin",
+      "label": "Location 3",
+      "description": "The interior driver's side of a truck cabin, featuring a steering wheel and a driver's seat, part of a vehicle with a white exterior."
+    },
+    "Location 4": {
+      "name": "The Schematic View",
+      "label": "Location 4",
+      "description": "A computer-generated schematic environment composed of a dark grid plane, semi-transparent yellow 3D models of trucks, text labels, and illustrative lines."
+    },
+    "Location 5": {
+      "name": "The Main Highway",
+      "label": "Location 5",
+      "description": "A multi-lane highway with a dark asphalt surface, painted lane dividers, and a shoulder where a police car and a civilian vehicle are positioned amidst other cars on the road."
+    },
+    "Object 1": {
+      "name": "the overturned truck wreckage",
+      "label": "Object 1",
+      "description": "Large, mangled truck wreckage on its side"
+    },
+    "Object 2": {
+      "name": "the Stauffer tow truck",
+      "label": "Object 2",
+      "description": "Large tow truck with 'Stauffer' branding on the side and a bar of orange warning lights on the roof."
+    },
+    "Object 3": {
+      "name": "the orange traffic cone",
+      "label": "Object 3",
+      "description": "Bright orange plastic traffic cone with a conical body, a square black weighted base, and two horizontal white reflective stripes."
+    },
+    "Object 4": {
+      "name": "the intact semi-truck",
+      "label": "Object 4",
+      "description": "Large semi-truck with a tractor cab and an attached trailer."
+    },
+    "Object 5": {
+      "name": "the police patrol car",
+      "label": "Object 5",
+      "description": "Police patrol car with a roof-mounted emergency light bar containing red and blue lights."
+    },
+    "Object 6": {
+      "name": "the 'Chuck' name tag",
+      "label": "Object 6",
+      "description": "Black name tag labeled with the name 'Chuck'"
+    },
+    "Object 7": {
+      "name": "the professional video camera",
+      "label": "Object 7",
+      "description": "Professional video camera mounted on a tripod."
+    },
+    "Object 8": {
+      "name": "the high-visibility jacket",
+      "label": "Object 8",
+      "description": "Bright, fluorescent high-visibility safety gear, likely a vest or jacket, made of yellow, orange, and lime-green synthetic fabric with wide, silver-grey retroreflective stripes"
+    },
+    "Object 9": {
+      "name": "the black knit beanie",
+      "label": "Object 9",
+      "description": "Black knit beanie"
+    },
+    "Object 10": {
+      "name": "the CGI recovery schematic",
+      "label": "Object 10",
+      "description": "On-screen graphic featuring a golden wireframe CGI rendering of a tow truck and an overturned semi-truck"
+    },
+    "Object 11": {
+      "name": "the heavy-duty wrecker",
+      "label": "Object 11",
+      "description": "Large heavy-duty wrecker tow truck with a massive, articulated metal lifting arm structure and amber and red emergency light bars."
+    },
+    "Object 12": {
+      "name": "the crashed tractor-trailer",
+      "label": "Object 12",
+      "description": "Large tractor-trailer truck with a crushed cab, shattered windows, and a long rectangular cargo container bearing deep scrapes and dents along its side."
+    }
+  },
+  "_window_shot_ids": [
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0056",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0058",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0059",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0060",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0061",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0062",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0063",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0064",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0066",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0067",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0068",
+    "000b35ed-cc15-3725-9967-0be6d5b269a3__run1324__i25_j59__T420__shot0069"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Casey",
+    "Character 10": "Oscar",
+    "Character 2": "Marco",
+    "Character 3": "Chuck",
+    "Character 4": "Gus",
+    "Character 5": "Stan",
+    "Character 6": "Barry",
+    "Character 7": "Alex",
+    "Character 8": "Riley",
+    "Character 9": "Vince",
+    "Location 1": "The Highway Crash Site",
+    "Location 2": "The Towing Garage",
+    "Location 3": "The Truck Cabin",
+    "Location 4": "The Schematic View",
+    "Location 5": "The Main Highway",
+    "Object 1": "the overturned truck wreckage",
+    "Object 10": "the CGI recovery schematic",
+    "Object 11": "the heavy-duty wrecker",
+    "Object 12": "the crashed tractor-trailer",
+    "Object 2": "the Stauffer tow truck",
+    "Object 3": "the orange traffic cone",
+    "Object 4": "the intact semi-truck",
+    "Object 5": "the police patrol car",
+    "Object 6": "the 'Chuck' name tag",
+    "Object 7": "the professional video camera",
+    "Object 8": "the high-visibility jacket",
+    "Object 9": "the black knit beanie"
+  }
+}

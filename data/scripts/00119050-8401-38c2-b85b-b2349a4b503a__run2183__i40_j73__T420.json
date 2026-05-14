@@ -1,0 +1,398 @@
+{
+  "story_name": "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420",
+  "story_overview": "In the Verdant Atrium, a tense hostage situation unfolds as Alex, Marcus, and Felix are forced to surrender under the watch of Ronan and a masked Leo. The scheme appears to be orchestrated by a sinister, clown-faced Julian and his masked associates. The conflict escalates, leading to a dramatic standoff between Marcus and Kai that ends in a violent explosion.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Julian: Man with short brown hair, a face covered in stark white paint with a sinister smile, wearing a black tuxedo, a white shirt, and white gloves.\nMarcus: Muscular Black man wearing detailed orange and red armor with a red 'H' emblem on the chest plate.\nAlex: Young person with light-colored hair, wearing a dark helmet and a dark uniform.\nLeo: Man with short, dark curly hair wearing a white mask, a black suit, and a red tie.\nRonan: Man with reddish-brown hair wearing a dark, long-sleeved quarter-zip pullover over a lighter t-shirt.\nFelix: Man with blond hair wearing a dark blue suit and a white mask.\nThe Verdant Atrium: Vast, cavernous, multi-level futuristic atrium or arena with a dark color palette, featuring a grand central staircase, surrounding balconies, green glowing lamps, and a large green energy field.\n\nFrom a high vantage point inside the vast, dimly lit The Verdant Atrium, Ronan and Leo watch from the foreground. In the center, Alex, Julian, Marcus, and Felix slowly raise their hands in surrender."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "From a high vantage point inside the vast, dimly lit The Verdant Atrium, Ronan and Leo watch from the foreground. In the center, Alex, Julian, Marcus, and Felix slowly raise their hands in surrender."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Abandoned Lot: A vast, empty asphalt parking lot with cracked pavement and faded painted lines, part of a damaged industrial area dominated by a large, derelict concrete building with broken window panes and crumbling walls.\nthe transforming limousine: Large, sleek, black transforming limousine with a glossy finish and tinted windows.\nHigh-angle shot at night. the transforming limousine, with Julian inside, drives across the cracked asphalt of The Abandoned Lot, its headlights illuminating the empty lot, and stops."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle shot at night. the transforming limousine, with Julian inside, drives across the cracked asphalt of The Abandoned Lot, its headlights illuminating the empty lot, and stops."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Eleanor: Woman with her hair styled in a bun, wearing glasses or a full-face mask and a dark blue sweater over a collared shirt.\n\nIn The Abandoned Lot, Julian stands in the center between Leo and Eleanor. Julian gestures subtly as he speaks to them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Abandoned Lot, Julian stands in the center between Leo and Eleanor. Julian gestures subtly as he speaks to them."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Isla: Woman with long curly hair, wearing a green jacket and a dark scarf.\nThe Shadow Room: A nondescript indoor space with dark, indistinct walls and floors, lacking any clear architectural style, furniture, or decoration.\nthe tactical gear: Full set of dark tactical protective gear, including a matte black ballistic helmet, a matching plate carrier vest with multiple pouches, a long-sleeved combat shirt, and cargo trousers made of a durable, non-reflective fabric.\n\nAlex, wearing the tactical gear, confronts Leo and Isla. Leo stands with his back to the camera, his shoulders tense. Isla nervously twists the single piece of paper in her hands. Nearby, Julian watches them, his sinister smile widening slightly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Alex, wearing the tactical gear, confronts Leo and Isla. Leo stands with his back to the camera, his shoulders tense. Isla nervously twists the single piece of paper in her hands. Nearby, Julian watches them, his sinister smile widening slightly."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the void-tech suit: Sleek, form-fitting futuristic suit with angular purple armored plates over a black textured underlayer, paired with a matching full-face helmet with a dark visor.\nthe fractured rock slab: Large, irregularly shaped slab of rock with a flat top surface and jagged, fractured edges, featuring visible cracks across its surface.\n\nIn the vast, multi-level The Verdant Atrium, Ronan watches from a shadowy balcony as Alex stands on the central floor below. The floor beneath Alex cracks and shatters, and the fractured rock slab breaks free, levitating. The slab lifts Alex high into the air, ascending past balconies where the void-tech suit is mounted on display.",
+        "Inside the dimly lit The Verdant Atrium, Julian stands on a balcony behind Alex, who wears his dark helmet. Julian places his hands on Alex's shoulders, and they both look out from the balcony.",
+        "On a high balcony in The Verdant Atrium, Julian, wearing the black tuxedo, Isla, Leo, wearing the blank white mask, and Felix stand in a line, leaning forward slightly as they gaze intently at an event unfolding below."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In the vast, multi-level The Verdant Atrium, Ronan watches from a shadowy balcony as Alex stands on the central floor below. The floor beneath Alex cracks and shatters, and the fractured rock slab breaks free, levitating. The slab lifts Alex high into the air, ascending past balconies where the void-tech suit is mounted on display.",
+        "Inside the dimly lit The Verdant Atrium, Julian stands on a balcony behind Alex, who wears his dark helmet. Julian places his hands on Alex's shoulders, and they both look out from the balcony.",
+        "On a high balcony in The Verdant Atrium, Julian, wearing the black tuxedo, Isla, Leo, wearing the blank white mask, and Felix stand in a line, leaning forward slightly as they gaze intently at an event unfolding below."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "the cerebral helmet: A prominent purple helmet shaped like a large, exposed brain with visible convoluted folds and deep grooves.\n\nInside The Shadow Room, Julian, wearing the cerebral helmet, stares directly forward as his expression shifts to anger. In the background, Alex nervously shifts his weight as he watches."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Shadow Room, Julian, wearing the cerebral helmet, stares directly forward as his expression shifts to anger. In the background, Alex nervously shifts his weight as he watches."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "the glowing glass railing: Sleek, futuristic balcony railing composed of a continuous, flat top rail made of polished metal over large, seamless panels of tempered glass with a soft, internal blue glow.\n\nIn The Verdant Atrium, Isla, Julian, wearing the black tuxedo, Eleanor, and Felix, wearing the blank white mask, stand together on an indoor balcony. They lean against the glowing glass railing and peer down intently at something happening off-screen below, shifting their weight and murmuring to one another.",
+        "Kai: Person in a high-tech futuristic suit of segmented purple and black plating, with a matching helmet that covers the entire head.\nthe Havoc armor: Detailed suit of orange, red, and black armor plates fitted for a muscular build, featuring a red 'H' insignia on the chest plate.\n\nIn The Verdant Atrium, a tense standoff unfolds. On the main floor far below, Marcus, clad in the Havoc armor, shifts his weight. High above on a floating fractured rock slab, Kai slowly tilts their helmeted head to look down at him. From a balcony, Eleanor and Isla exchange a worried glance as they watch the scene.",
+        "the swirling fireball: A roiling, roughly spherical mass of luminous, flickering orange and red flame.\n\nIn The Verdant Atrium, Marcus stands firm as the swirling fireball erupts from the floor in a massive explosion of fire and shattered rocks. The force of the blast sends Isla flying violently backward through the air amidst the debris."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In The Verdant Atrium, Isla, Julian, wearing the black tuxedo, Eleanor, and Felix, wearing the blank white mask, stand together on an indoor balcony. They lean against the glowing glass railing and peer down intently at something happening off-screen below, shifting their weight and murmuring to one another.",
+        "In The Verdant Atrium, a tense standoff unfolds. On the main floor far below, Marcus, clad in the Havoc armor, shifts his weight. High above on a floating fractured rock slab, Kai slowly tilts their helmeted head to look down at him. From a balcony, Eleanor and Isla exchange a worried glance as they watch the scene.",
+        "In The Verdant Atrium, Marcus stands firm as the swirling fireball erupts from the floor in a massive explosion of fire and shattered rocks. The force of the blast sends Isla flying violently backward through the air amidst the debris."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Julian",
+        "Marcus",
+        "Alex",
+        "Leo",
+        "Ronan",
+        "Felix"
+      ],
+      "places": [
+        "The Verdant Atrium"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Julian"
+      ],
+      "places": [
+        "The Abandoned Lot"
+      ],
+      "objects": [
+        "the transforming limousine"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leo",
+        "Julian",
+        "Eleanor"
+      ],
+      "places": [
+        "The Abandoned Lot"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Julian",
+        "Isla",
+        "Alex",
+        "Leo"
+      ],
+      "places": [
+        "The Shadow Room"
+      ],
+      "objects": [
+        "the tactical gear"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Alex",
+        "Ronan"
+      ],
+      "places": [
+        "The Verdant Atrium"
+      ],
+      "objects": [
+        "the void-tech suit",
+        "the fractured rock slab"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Julian",
+        "Alex"
+      ],
+      "places": [
+        "The Verdant Atrium"
+      ],
+      "objects": []
+    },
+    "5:3": {
+      "characters": [
+        "Julian",
+        "Isla",
+        "Leo",
+        "Felix"
+      ],
+      "places": [
+        "The Verdant Atrium"
+      ],
+      "objects": [
+        "the blank white mask",
+        "the black tuxedo"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Julian",
+        "Alex"
+      ],
+      "places": [
+        "The Shadow Room"
+      ],
+      "objects": [
+        "the cerebral helmet"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Isla",
+        "Julian",
+        "Eleanor",
+        "Felix"
+      ],
+      "places": [
+        "The Verdant Atrium"
+      ],
+      "objects": [
+        "the black tuxedo",
+        "the blank white mask",
+        "the glowing glass railing"
+      ]
+    },
+    "7:2": {
+      "characters": [
+        "Isla",
+        "Eleanor",
+        "Kai",
+        "Marcus"
+      ],
+      "places": [
+        "The Verdant Atrium"
+      ],
+      "objects": [
+        "the Havoc armor",
+        "the fractured rock slab"
+      ]
+    },
+    "7:3": {
+      "characters": [
+        "Isla",
+        "Marcus"
+      ],
+      "places": [
+        "The Verdant Atrium"
+      ],
+      "objects": [
+        "the swirling fireball"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Alex",
+      "label": "Character 1",
+      "description": "Young person with light-colored hair, wearing a dark helmet and a dark uniform."
+    },
+    "Character 2": {
+      "name": "Julian",
+      "label": "Character 2",
+      "description": "Man with short brown hair, a face covered in stark white paint with a sinister smile, wearing a black tuxedo, a white shirt, and white gloves."
+    },
+    "Character 3": {
+      "name": "Marcus",
+      "label": "Character 3",
+      "description": "Muscular Black man wearing detailed orange and red armor with a red 'H' emblem on the chest plate."
+    },
+    "Character 4": {
+      "name": "Kai",
+      "label": "Character 4",
+      "description": "Person in a high-tech futuristic suit of segmented purple and black plating, with a matching helmet that covers the entire head."
+    },
+    "Character 5": {
+      "name": "Ronan",
+      "label": "Character 5",
+      "description": "Man with reddish-brown hair wearing a dark, long-sleeved quarter-zip pullover over a lighter t-shirt."
+    },
+    "Character 6": {
+      "name": "Leo",
+      "label": "Character 6",
+      "description": "Man with short, dark curly hair wearing a white mask, a black suit, and a red tie."
+    },
+    "Character 7": {
+      "name": "Eleanor",
+      "label": "Character 7",
+      "description": "Woman with her hair styled in a bun, wearing glasses or a full-face mask and a dark blue sweater over a collared shirt."
+    },
+    "Character 8": {
+      "name": "Isla",
+      "label": "Character 8",
+      "description": "Woman with long curly hair, wearing a green jacket and a dark scarf."
+    },
+    "Character 9": {
+      "name": "Felix",
+      "label": "Character 9",
+      "description": "Man with blond hair wearing a dark blue suit and a white mask."
+    },
+    "Location 1": {
+      "name": "The Verdant Atrium",
+      "label": "Location 1",
+      "description": "Vast, cavernous, multi-level futuristic atrium or arena with a dark color palette, featuring a grand central staircase, surrounding balconies, green glowing lamps, and a large green energy field."
+    },
+    "Location 2": {
+      "name": "The Shadow Room",
+      "label": "Location 2",
+      "description": "A nondescript indoor space with dark, indistinct walls and floors, lacking any clear architectural style, furniture, or decoration."
+    },
+    "Location 3": {
+      "name": "The Abandoned Lot",
+      "label": "Location 3",
+      "description": "A vast, empty asphalt parking lot with cracked pavement and faded painted lines, part of a damaged industrial area dominated by a large, derelict concrete building with broken window panes and crumbling walls."
+    },
+    "Object 1": {
+      "name": "the black tuxedo",
+      "label": "Object 1",
+      "description": "Formal black tuxedo consisting of a tailored jacket with satin lapels, matching trousers, a white formal shirt, and a black bow tie"
+    },
+    "Object 2": {
+      "name": "the Havoc armor",
+      "label": "Object 2",
+      "description": "Detailed suit of orange, red, and black armor plates fitted for a muscular build, featuring a red 'H' insignia on the chest plate."
+    },
+    "Object 3": {
+      "name": "the void-tech suit",
+      "label": "Object 3",
+      "description": "Sleek, form-fitting futuristic suit with angular purple armored plates over a black textured underlayer, paired with a matching full-face helmet with a dark visor."
+    },
+    "Object 4": {
+      "name": "the swirling fireball",
+      "label": "Object 4",
+      "description": "A roiling, roughly spherical mass of luminous, flickering orange and red flame."
+    },
+    "Object 5": {
+      "name": "the transforming limousine",
+      "label": "Object 5",
+      "description": "Large, sleek, black transforming limousine with a glossy finish and tinted windows."
+    },
+    "Object 6": {
+      "name": "the blank white mask",
+      "label": "Object 6",
+      "description": "A smooth, white, featureless, and expressionless full-face mask"
+    },
+    "Object 7": {
+      "name": "the tactical gear",
+      "label": "Object 7",
+      "description": "Full set of dark tactical protective gear, including a matte black ballistic helmet, a matching plate carrier vest with multiple pouches, a long-sleeved combat shirt, and cargo trousers made of a durable, non-reflective fabric."
+    },
+    "Object 8": {
+      "name": "the fractured rock slab",
+      "label": "Object 8",
+      "description": "Large, irregularly shaped slab of rock with a flat top surface and jagged, fractured edges, featuring visible cracks across its surface."
+    },
+    "Object 9": {
+      "name": "the cerebral helmet",
+      "label": "Object 9",
+      "description": "A prominent purple helmet shaped like a large, exposed brain with visible convoluted folds and deep grooves."
+    },
+    "Object 10": {
+      "name": "the glowing glass railing",
+      "label": "Object 10",
+      "description": "Sleek, futuristic balcony railing composed of a continuous, flat top rail made of polished metal over large, seamless panels of tempered glass with a soft, internal blue glow."
+    }
+  },
+  "_window_shot_ids": [
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0042",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0043",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0044",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0045",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0046",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0048",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0049",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0050",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0052",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0053",
+    "00119050-8401-38c2-b85b-b2349a4b503a__run2183__i40_j73__T420__shot0054"
+  ],
+  "_num_scenes": 7,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Alex",
+    "Character 2": "Julian",
+    "Character 3": "Marcus",
+    "Character 4": "Kai",
+    "Character 5": "Ronan",
+    "Character 6": "Leo",
+    "Character 7": "Eleanor",
+    "Character 8": "Isla",
+    "Character 9": "Felix",
+    "Location 1": "The Verdant Atrium",
+    "Location 2": "The Shadow Room",
+    "Location 3": "The Abandoned Lot",
+    "Object 1": "the black tuxedo",
+    "Object 10": "the glowing glass railing",
+    "Object 2": "the Havoc armor",
+    "Object 3": "the void-tech suit",
+    "Object 4": "the swirling fireball",
+    "Object 5": "the transforming limousine",
+    "Object 6": "the blank white mask",
+    "Object 7": "the tactical gear",
+    "Object 8": "the fractured rock slab",
+    "Object 9": "the cerebral helmet"
+  }
+}

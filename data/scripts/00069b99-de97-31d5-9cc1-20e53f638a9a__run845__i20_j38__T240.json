@@ -1,0 +1,450 @@
+{
+  "story_name": "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240",
+  "story_overview": "After Bjorn kills a man in The Kill Room, Chloe works to override a security system from her Hacker's Nest. Meanwhile, Dr. Aris investigates a series of mysterious objects, before Bjorn witnesses another murder, recoiling in shock as blood splatters against a glass window in front of him.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Bjorn: Muscular, shirtless man with longish curly red hair, a full beard, glasses, and a black Valknut tattoo on his chest.\nThe Kill Room: An interior room featuring a wall covered in blood splatters.\nthe fresh blood splatter: A fresh splatter of glossy, bright red blood with an irregular shape and radiating droplets and streaks.\nthe victim's body: The body of an older man with a white beard and a gruesome, bloody wound on his neck.\n\nIn The Kill Room, the fresh blood splatter sprays across the wall as the victim's body slides down it, coming to a rest on the floor. Bjorn stands over the victim's body, breathing heavily as he looks down at it."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Kill Room, the fresh blood splatter sprays across the wall as the victim's body slides down it, coming to a rest on the floor. Bjorn stands over the victim's body, breathing heavily as he looks down at it."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Javier: A man with short dark hair and a light beard, wearing a black collared shirt.\nChloe: Woman with long, curly hair, wearing a pale yellow tank top and dark pants.\nThe Hacker's Nest: Dark room containing a desk with a computer monitor displaying a green text-based hacking interface and a keyboard.\n\nOver Javier's shoulder, a medium close-up of Chloe sitting at a desk in The Hacker's Nest, wearing the tactical face mask. The only light comes from the glowing green text of the hacking interface screen, which illuminates her hands. She holds the single sheet of paper in one hand and types on the keyboard with the other."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over Javier's shoulder, a medium close-up of Chloe sitting at a desk in The Hacker's Nest, wearing the tactical face mask. The only light comes from the glowing green text of the hacking interface screen, which illuminates her hands. She holds the single sheet of paper in one hand and types on the keyboard with the other."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Blasted Warehouse: A large, dark-colored building with a ragged hole blown through one of its exterior walls.\nthe locked security door: A door with a cracked glass panel, featuring a mounted high-tech security system that has a screen with the luminous text 'DOOR LOCK ACTIVATED', an illuminated red light, and a blue-lit keypad.\nthe active door lock: High-tech security system featuring a digital screen that displays the text 'DOOR LOCK ACTIVATED' in glowing letters, an illuminated red light, and a blue-lit keypad.\n\nClose-up shot inside The Blasted Warehouse at night. Bjorn leans closer to the locked security door, studying the active door lock. The screen glows with the text 'DOOR LOCK ACTIVATED' and its red light is illuminated."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot inside The Blasted Warehouse at night. Bjorn leans closer to the locked security door, studying the active door lock. The screen glows with the text 'DOOR LOCK ACTIVATED' and its red light is illuminated."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Dr. Aris: Man with a beard and glasses, wearing a light blue lab coat over a white shirt and a dark tie.\nThe Access Point: A brick wall with a mounted, dark-colored, high-tech security keypad featuring an illuminated digital screen and a red backlight integrated into its casing.\n\nClose-up on The Access Point, a security keypad mounted on a brick wall in a dark setting. Its screen displays the text 'DOOR LOCK ACTIVATED' and a red backlight glows from its casing. Dr. Aris leans in to get a better look at the screen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on The Access Point, a security keypad mounted on a brick wall in a dark setting. Its screen displays the text 'DOOR LOCK ACTIVATED' and a red backlight glows from its casing. Dr. Aris leans in to get a better look at the screen."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Chloe leans towards the hacking interface screen. The monitor's screen flashes with a red 'Security override' warning next to a static yellow 'SECURED' message, casting an urgent glow on her face."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Chloe leans towards the hacking interface screen. The monitor's screen flashes with a red 'Security override' warning next to a static yellow 'SECURED' message, casting an urgent glow on her face."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Glass Corridor: An office corridor with a doorway and a large exterior glass window.\n\nMedium shot of Dr. Aris wearing the black-framed glasses, standing inside The Glass Corridor. He glances down at the small handheld device, his fingers tapping on its surface. Behind him, the large interior window looks out into another dimly lit office.",
+        "Kai: Person of unspecified gender wearing a dark hooded jacket and a face mask.\n\nIn the dimly lit Glass Corridor, Bjorn stands up, adjusting the dark necktie where it is draped over his bare shoulder. Kai stands in the doorway watching him, shifting their weight slightly. Outside, rain streaks down the rain-streaked windows."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot of Dr. Aris wearing the black-framed glasses, standing inside The Glass Corridor. He glances down at the small handheld device, his fingers tapping on its surface. Behind him, the large interior window looks out into another dimly lit office.",
+        "In the dimly lit Glass Corridor, Bjorn stands up, adjusting the dark necktie where it is draped over his bare shoulder. Kai stands in the doorway watching him, shifting their weight slightly. Outside, rain streaks down the rain-streaked windows."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Armored SUV: Interior of a vehicle with seats.\nShaky medium shot at night inside The Armored SUV. Dr. Aris, wearing the black-framed glasses, sits in a seat and picks up the mysterious tool from the seat beside him, turning it over to examine it closely. Kai sits silently next to Dr. Aris, watching him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Shaky medium shot at night inside The Armored SUV. Dr. Aris, wearing the black-framed glasses, sits in a seat and picks up the mysterious tool from the seat beside him, turning it over to examine it closely. Kai sits silently next to Dr. Aris, watching him."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Lilith: Woman with a pale complexion, long dark hair that falls across one side of her face, and deep-set eyes, wearing a dark, high-necked blouse and a simple silver ring on one finger.\nthe stainless steel teaspoon: Small, utilitarian stainless steel teaspoon with a slender, undecorated handle and a simple oval bowl.\n\nInside the dimly lit office of The Glass Corridor, Dr. Aris stands at a desk, picks up the stainless steel teaspoon, and examines it with focused intent. Lilith watches him, shifting her weight slightly.",
+        "the leather messenger bag: Dark brown leather messenger bag with a rectangular shape, a worn texture, a front flap with two brass buckles, and a wide adjustable shoulder strap.\n\nMedium close-up in the dimly lit The Glass Corridor at night. Dr. Aris, wearing the black-framed glasses, points toward something out of frame while Bjorn stands beside him, watching. Dr. Aris then turns and fumbles nervously with the leather messenger bag. Rain streaks down the windows behind them."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside the dimly lit office of The Glass Corridor, Dr. Aris stands at a desk, picks up the stainless steel teaspoon, and examines it with focused intent. Lilith watches him, shifting her weight slightly.",
+        "Medium close-up in the dimly lit The Glass Corridor at night. Dr. Aris, wearing the black-framed glasses, points toward something out of frame while Bjorn stands beside him, watching. Dr. Aris then turns and fumbles nervously with the leather messenger bag. Rain streaks down the windows behind them."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Alex: Shirtless person\nMarco: Bald man.\n\nBjorn walks smiling down the dimly lit The Glass Corridor. As he passes the large window, he glances through the glass and sees Marco and Alex standing in the room on the other side. Suddenly, fresh blood violently splatters against the glass, and Bjorn recoils, his expression twisting from a smile to pure shock as he stumbles backward."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Bjorn walks smiling down the dimly lit The Glass Corridor. As he passes the large window, he glances through the glass and sees Marco and Alex standing in the room on the other side. Suddenly, fresh blood violently splatters against the glass, and Bjorn recoils, his expression twisting from a smile to pure shock as he stumbles backward."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Bjorn"
+      ],
+      "places": [
+        "The Kill Room"
+      ],
+      "objects": [
+        "the fresh blood splatter",
+        "the victim's body"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Chloe",
+        "Javier"
+      ],
+      "places": [
+        "The Hacker's Nest"
+      ],
+      "objects": [
+        "the tactical face mask",
+        "the hacking interface screen",
+        "the single sheet of paper"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Bjorn"
+      ],
+      "places": [
+        "The Blasted Warehouse"
+      ],
+      "objects": [
+        "the locked security door",
+        "the active door lock"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Dr. Aris"
+      ],
+      "places": [
+        "The Access Point"
+      ],
+      "objects": []
+    },
+    "5:1": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Hacker's Nest"
+      ],
+      "objects": [
+        "the hacking interface screen"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Dr. Aris"
+      ],
+      "places": [
+        "The Glass Corridor"
+      ],
+      "objects": [
+        "the black-framed glasses",
+        "the small handheld device"
+      ]
+    },
+    "6:2": {
+      "characters": [
+        "Kai",
+        "Bjorn"
+      ],
+      "places": [
+        "The Glass Corridor"
+      ],
+      "objects": [
+        "the dark necktie",
+        "the rain-streaked windows"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Dr. Aris",
+        "Kai"
+      ],
+      "places": [
+        "The Armored SUV"
+      ],
+      "objects": [
+        "the black-framed glasses",
+        "the mysterious tool"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Lilith",
+        "Dr. Aris"
+      ],
+      "places": [
+        "The Glass Corridor"
+      ],
+      "objects": [
+        "the stainless steel teaspoon"
+      ]
+    },
+    "8:2": {
+      "characters": [
+        "Dr. Aris",
+        "Bjorn"
+      ],
+      "places": [
+        "The Glass Corridor"
+      ],
+      "objects": [
+        "the black-framed glasses",
+        "the leather messenger bag",
+        "the rain-streaked windows"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Alex",
+        "Bjorn",
+        "Marco"
+      ],
+      "places": [
+        "The Glass Corridor"
+      ],
+      "objects": [
+        "the large window"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Alex",
+      "label": "Character 1",
+      "description": "Shirtless person"
+    },
+    "Character 2": {
+      "name": "Kai",
+      "label": "Character 2",
+      "description": "Person of unspecified gender wearing a dark hooded jacket and a face mask."
+    },
+    "Character 3": {
+      "name": "Lilith",
+      "label": "Character 3",
+      "description": "Woman with a pale complexion, long dark hair that falls across one side of her face, and deep-set eyes, wearing a dark, high-necked blouse and a simple silver ring on one finger."
+    },
+    "Character 4": {
+      "name": "Marco",
+      "label": "Character 4",
+      "description": "Bald man."
+    },
+    "Character 5": {
+      "name": "Chloe",
+      "label": "Character 5",
+      "description": "Woman with long, curly hair, wearing a pale yellow tank top and dark pants."
+    },
+    "Character 6": {
+      "name": "Dr. Aris",
+      "label": "Character 6",
+      "description": "Man with a beard and glasses, wearing a light blue lab coat over a white shirt and a dark tie."
+    },
+    "Character 7": {
+      "name": "Javier",
+      "label": "Character 7",
+      "description": "A man with short dark hair and a light beard, wearing a black collared shirt."
+    },
+    "Character 8": {
+      "name": "Bjorn",
+      "label": "Character 8",
+      "description": "Muscular, shirtless man with longish curly red hair, a full beard, glasses, and a black Valknut tattoo on his chest."
+    },
+    "Location 1": {
+      "name": "The Blasted Warehouse",
+      "label": "Location 1",
+      "description": "A large, dark-colored building with a ragged hole blown through one of its exterior walls."
+    },
+    "Location 2": {
+      "name": "The Kill Room",
+      "label": "Location 2",
+      "description": "An interior room featuring a wall covered in blood splatters."
+    },
+    "Location 3": {
+      "name": "The Hacker's Nest",
+      "label": "Location 3",
+      "description": "Dark room containing a desk with a computer monitor displaying a green text-based hacking interface and a keyboard."
+    },
+    "Location 4": {
+      "name": "The Access Point",
+      "label": "Location 4",
+      "description": "A brick wall with a mounted, dark-colored, high-tech security keypad featuring an illuminated digital screen and a red backlight integrated into its casing."
+    },
+    "Location 5": {
+      "name": "The Armored SUV",
+      "label": "Location 5",
+      "description": "Interior of a vehicle with seats."
+    },
+    "Location 6": {
+      "name": "The Glass Corridor",
+      "label": "Location 6",
+      "description": "An office corridor with a doorway and a large exterior glass window."
+    },
+    "Object 1": {
+      "name": "the tactical face mask",
+      "label": "Object 1",
+      "description": "Matte black, full-face tactical mask with an angular design, a narrow horizontal eye slit, and small vents over the mouth area"
+    },
+    "Object 2": {
+      "name": "the fresh blood splatter",
+      "label": "Object 2",
+      "description": "A fresh splatter of glossy, bright red blood with an irregular shape and radiating droplets and streaks."
+    },
+    "Object 3": {
+      "name": "the victim's body",
+      "label": "Object 3",
+      "description": "The body of an older man with a white beard and a gruesome, bloody wound on his neck."
+    },
+    "Object 4": {
+      "name": "the hacking interface screen",
+      "label": "Object 4",
+      "description": "A computer monitor displaying a security hacking interface with lines of glowing green text on a black screen"
+    },
+    "Object 5": {
+      "name": "the single sheet of paper",
+      "label": "Object 5",
+      "description": "A single sheet of paper"
+    },
+    "Object 6": {
+      "name": "the active door lock",
+      "label": "Object 6",
+      "description": "High-tech security system featuring a digital screen that displays the text 'DOOR LOCK ACTIVATED' in glowing letters, an illuminated red light, and a blue-lit keypad."
+    },
+    "Object 7": {
+      "name": "the locked security door",
+      "label": "Object 7",
+      "description": "A door with a cracked glass panel, featuring a mounted high-tech security system that has a screen with the luminous text 'DOOR LOCK ACTIVATED', an illuminated red light, and a blue-lit keypad."
+    },
+    "Object 8": {
+      "name": "the small handheld device",
+      "label": "Object 8",
+      "description": "Small handheld device"
+    },
+    "Object 9": {
+      "name": "the black-framed glasses",
+      "label": "Object 9",
+      "description": "Thin, black-framed rectangular glasses with clear lenses"
+    },
+    "Object 10": {
+      "name": "the rain-streaked windows",
+      "label": "Object 10",
+      "description": "Large, dark glass office windows with vertical streaks of rainwater"
+    },
+    "Object 11": {
+      "name": "the dark necktie",
+      "label": "Object 11",
+      "description": "Solid dark-colored necktie"
+    },
+    "Object 12": {
+      "name": "the mysterious tool",
+      "label": "Object 12",
+      "description": "Small, handheld tool of indeterminate type"
+    },
+    "Object 13": {
+      "name": "the stainless steel teaspoon",
+      "label": "Object 13",
+      "description": "Small, utilitarian stainless steel teaspoon with a slender, undecorated handle and a simple oval bowl."
+    },
+    "Object 14": {
+      "name": "the leather messenger bag",
+      "label": "Object 14",
+      "description": "Dark brown leather messenger bag with a rectangular shape, a worn texture, a front flap with two brass buckles, and a wide adjustable shoulder strap."
+    },
+    "Object 15": {
+      "name": "the blood-splattered window",
+      "label": "Object 15",
+      "description": "Large interior window with a clear glass pane marked on one side by a violent blood splatter"
+    }
+  },
+  "_window_shot_ids": [
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0031",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0032",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0033",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0034",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0035",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0036",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0037",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0038",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0039",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0040",
+    "00069b99-de97-31d5-9cc1-20e53f638a9a__run845__i20_j38__T240__shot0041"
+  ],
+  "_num_scenes": 9,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Alex",
+    "Character 2": "Kai",
+    "Character 3": "Lilith",
+    "Character 4": "Marco",
+    "Character 5": "Chloe",
+    "Character 6": "Dr. Aris",
+    "Character 7": "Javier",
+    "Character 8": "Bjorn",
+    "Location 1": "The Blasted Warehouse",
+    "Location 2": "The Kill Room",
+    "Location 3": "The Hacker's Nest",
+    "Location 4": "The Access Point",
+    "Location 5": "The Armored SUV",
+    "Location 6": "The Glass Corridor",
+    "Object 1": "the tactical face mask",
+    "Object 10": "the rain-streaked windows",
+    "Object 11": "the dark necktie",
+    "Object 12": "the mysterious tool",
+    "Object 13": "the stainless steel teaspoon",
+    "Object 14": "the leather messenger bag",
+    "Object 15": "the blood-splattered window",
+    "Object 2": "the fresh blood splatter",
+    "Object 3": "the victim's body",
+    "Object 4": "the hacking interface screen",
+    "Object 5": "the single sheet of paper",
+    "Object 6": "the active door lock",
+    "Object 7": "the locked security door",
+    "Object 8": "the small handheld device",
+    "Object 9": "the black-framed glasses"
+  }
+}

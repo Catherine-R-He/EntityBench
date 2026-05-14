@@ -1,0 +1,327 @@
+{
+  "story_name": "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600",
+  "story_overview": "In the high-stakes world of motorcycle racing, tensions rise between rival racers Alex, known as 'The Jester' (#46), and Casey (#99). Team manager Lukas and crew chief Marcus strategize in the pit garage, overseeing intense track battles and crucial bike inspections at Apex Racetrack. A mysterious third racer, Jordan, adds to the competitive intrigue.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Lukas: Team manager with long blonde hair, wearing a blue and white Fiat polo shirt and a pair of headphones around his neck\nAlex: A racer whose gear consists of a one-piece motorcycle racing suit and matching full-face helmet, both primarily bright neon yellow and featuring a colorful jester graphic and the prominent number '46'\nMarcus: Yamaha crew chief with short, dark, graying hair and light stubble, wearing a white and blue zip-up Yamaha Team Staff Apparel jacket with sponsor logos, and a wedding band on his left ring finger\nthe blue and red race bike: A sleek racing motorcycle with aerodynamic fairings painted in a blue, white, and red livery\n\nInside The Pit Garage, Alex, with his helmet off, is seated on a low stool, leaning over and running a hand along the side of the blue and red race bike. Marcus stands nearby with arms crossed, nodding slowly as he watches. In the foreground, Lukas brings a hand to his chin thoughtfully."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Pit Garage, Alex, with his helmet off, is seated on a low stool, leaning over and running a hand along the side of the blue and red race bike. Marcus stands nearby with arms crossed, nodding slowly as he watches. In the foreground, Lukas brings a hand to his chin thoughtfully."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Casey: Motorcycle racer who wears the white and blue one-piece Number 99 racing suit with Fiat branding and rides the Number 99 Yamaha\nApex Racetrack: Outdoor professional motorsport racetrack with a wide, smooth dark asphalt surface, painted white and yellow track lines, red-and-white painted curbs, and sections of green grass and gravel\nAt Apex Racetrack, a dynamic close-up from the onboard racing cameras tracks Casey riding the Number 99 Yamaha. Casey leans hard into a turn and then accelerates away from the corner.",
+        "Elevated wide shot of Apex Racetrack during the day. Casey, riding the Number 99 Yamaha, leans low into a wide, sweeping turn on the asphalt track alongside the blue and red race bike, while Marcus watches intently from the side of the track near the yellow sponsor banners.",
+        "The camera follows Casey on the Number 99 Yamaha as he rides around a corner at high speed at Apex Racetrack. Wearing the Number 99 racing suit, Casey leans deep into the turn, passing the yellow sponsor banners in the background.",
+        "High-angle view of Apex Racetrack. Casey rides the blue and red race bike at high speed around a corner, leaning sharply into the turn. Alex races closely behind on the Number 46 Yamaha as the yellow sponsor banners line the outer edge of the track.",
+        "At Apex Racetrack, Casey speeds down the racetrack on the Number 99 Yamaha and pulls it up into a dramatic wheelie. From the side of the track, Lukas watches with a focused expression. A close-up shows Casey expertly balancing the motorcycle on its rear wheel."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "At Apex Racetrack, a dynamic close-up from the onboard racing cameras tracks Casey riding the Number 99 Yamaha. Casey leans hard into a turn and then accelerates away from the corner.",
+        "Elevated wide shot of Apex Racetrack during the day. Casey, riding the Number 99 Yamaha, leans low into a wide, sweeping turn on the asphalt track alongside the blue and red race bike, while Marcus watches intently from the side of the track near the yellow sponsor banners.",
+        "The camera follows Casey on the Number 99 Yamaha as he rides around a corner at high speed at Apex Racetrack. Wearing the Number 99 racing suit, Casey leans deep into the turn, passing the yellow sponsor banners in the background.",
+        "High-angle view of Apex Racetrack. Casey rides the blue and red race bike at high speed around a corner, leaning sharply into the turn. Alex races closely behind on the Number 46 Yamaha as the yellow sponsor banners line the outer edge of the track.",
+        "At Apex Racetrack, Casey speeds down the racetrack on the Number 99 Yamaha and pulls it up into a dramatic wheelie. From the side of the track, Lukas watches with a focused expression. A close-up shows Casey expertly balancing the motorcycle on its rear wheel."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Jordan: Person of unspecified gender fully covered in a one-piece white, red, and blue racing suit and a matching full-face helmet that obscures their head and face\n\nClose-up in the dimly lit The Pit Garage. Lukas speaks with a serious and focused expression while Jordan stands beside him, their helmeted head tilting slightly as they listen."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up in the dimly lit The Pit Garage. Lukas speaks with a serious and focused expression while Jordan stands beside him, their helmeted head tilting slightly as they listen."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "the office clutter: Office clutter consisting of shelves piled high with stacks of loose papers and a poster depicting a green rally car\nClose-up on Marcus and Lukas having an intense conversation in The Rally Office, surrounded by the office clutter. Marcus speaks emphatically, gesturing with his hands, while Lukas leans forward, listening intently."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Marcus and Lukas having an intense conversation in The Rally Office, surrounded by the office clutter. Marcus speaks emphatically, gesturing with his hands, while Lukas leans forward, listening intently."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Alex, wearing the Jester's racing gear, lifts their helmet's visor. In the background, Lukas stands watching intently, nodding slightly.",
+        "Low-angle shot from within the brightly lit The Pit Garage. Alex crouches beside the Number 46 Yamaha, inspecting it closely. Lukas leans over Alex to get a better view. Marcus stands near the front of the motorcycle, bringing a hand to his chin as he also focuses on the inspection."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Alex, wearing the Jester's racing gear, lifts their helmet's visor. In the background, Lukas stands watching intently, nodding slightly.",
+        "Low-angle shot from within the brightly lit The Pit Garage. Alex crouches beside the Number 46 Yamaha, inspecting it closely. Lukas leans over Alex to get a better view. Marcus stands near the front of the motorcycle, bringing a hand to his chin as he also focuses on the inspection."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Lukas",
+        "Alex",
+        "Marcus"
+      ],
+      "places": [
+        "The Pit Garage"
+      ],
+      "objects": [
+        "the blue and red race bike"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "Apex Racetrack"
+      ],
+      "objects": [
+        "the onboard racing cameras"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Marcus",
+        "Casey"
+      ],
+      "places": [
+        "Apex Racetrack"
+      ],
+      "objects": [
+        "the blue and red race bike",
+        "the yellow sponsor banners",
+        "the Number 99 Yamaha"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Casey"
+      ],
+      "places": [
+        "Apex Racetrack"
+      ],
+      "objects": [
+        "the Number 99 Yamaha",
+        "the Number 99 racing suit",
+        "the yellow sponsor banners"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Casey",
+        "Alex"
+      ],
+      "places": [
+        "Apex Racetrack"
+      ],
+      "objects": [
+        "the blue and red race bike",
+        "the yellow sponsor banners",
+        "the Number 46 Yamaha"
+      ]
+    },
+    "2:5": {
+      "characters": [
+        "Casey",
+        "Lukas"
+      ],
+      "places": [
+        "Apex Racetrack"
+      ],
+      "objects": [
+        "the Number 99 Yamaha"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Lukas",
+        "Jordan"
+      ],
+      "places": [
+        "The Pit Garage"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Lukas",
+        "Marcus"
+      ],
+      "places": [
+        "The Rally Office"
+      ],
+      "objects": [
+        "the office clutter"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Lukas",
+        "Alex"
+      ],
+      "places": [
+        "The Pit Garage"
+      ],
+      "objects": [
+        "the Jester's racing gear"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Lukas",
+        "Alex",
+        "Marcus"
+      ],
+      "places": [
+        "The Pit Garage"
+      ],
+      "objects": [
+        "the Number 46 Yamaha"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Alex",
+      "label": "Character 1",
+      "description": "A racer whose gear consists of a one-piece motorcycle racing suit and matching full-face helmet, both primarily bright neon yellow and featuring a colorful jester graphic and the prominent number '46'"
+    },
+    "Character 2": {
+      "name": "Marcus",
+      "label": "Character 2",
+      "description": "Yamaha crew chief with short, dark, graying hair and light stubble, wearing a white and blue zip-up Yamaha Team Staff Apparel jacket with sponsor logos, and a wedding band on his left ring finger"
+    },
+    "Character 3": {
+      "name": "Casey",
+      "label": "Character 3",
+      "description": "Motorcycle racer who wears the white and blue one-piece Number 99 racing suit with Fiat branding and rides the Number 99 Yamaha"
+    },
+    "Character 4": {
+      "name": "Jordan",
+      "label": "Character 4",
+      "description": "Person of unspecified gender fully covered in a one-piece white, red, and blue racing suit and a matching full-face helmet that obscures their head and face"
+    },
+    "Character 5": {
+      "name": "Lukas",
+      "label": "Character 5",
+      "description": "Team manager with long blonde hair, wearing a blue and white Fiat polo shirt and a pair of headphones around his neck"
+    },
+    "Location 1": {
+      "name": "Apex Racetrack",
+      "label": "Location 1",
+      "description": "Outdoor professional motorsport racetrack with a wide, smooth dark asphalt surface, painted white and yellow track lines, red-and-white painted curbs, and sections of green grass and gravel"
+    },
+    "Location 2": {
+      "name": "The Pit Garage",
+      "label": "Location 2",
+      "description": "Utilitarian debrief area within a racing pit garage, featuring bare concrete floors and walls, exposed ceiling pipes and framework, surrounded by tool chests, stacked tires, and miscellaneous mechanical equipment"
+    },
+    "Location 3": {
+      "name": "The Rally Office",
+      "label": "Location 3",
+      "description": "A cluttered indoor office with shelves stacked high with papers and a poster of a green rally car on the wall"
+    },
+    "Object 1": {
+      "name": "the blue and red race bike",
+      "label": "Object 1",
+      "description": "A sleek racing motorcycle with aerodynamic fairings painted in a blue, white, and red livery"
+    },
+    "Object 2": {
+      "name": "the Number 99 Yamaha",
+      "label": "Object 2",
+      "description": "Yamaha racing motorcycle with a blue and white fairing, prominent 'FIAT' and 'Petronas' branding, and the number '99'"
+    },
+    "Object 3": {
+      "name": "the Number 99 racing suit",
+      "label": "Object 3",
+      "description": "White and blue one-piece motorcycle racing suit with Fiat branding and the number \"99\" on the front and back"
+    },
+    "Object 4": {
+      "name": "the yellow pit headphones",
+      "label": "Object 4",
+      "description": "Bright yellow, industrial-style over-the-ear headphones with large, hard plastic earmuff cups and a black padded connecting headband"
+    },
+    "Object 5": {
+      "name": "the onboard racing cameras",
+      "label": "Object 5",
+      "description": "A set of small, compact, high-angle on-board surveillance cameras in aerodynamic housings"
+    },
+    "Object 6": {
+      "name": "the yellow sponsor banners",
+      "label": "Object 6",
+      "description": "Long, rectangular yellow sponsor banners featuring 'bwin' and 'tim' logos"
+    },
+    "Object 7": {
+      "name": "the Jester's racing gear",
+      "label": "Object 7",
+      "description": "One-piece motorcycle racing suit and matching full-face helmet, both primarily bright neon yellow, featuring a colorful jester graphic, the prominent number \"46\", and various sponsor logos"
+    },
+    "Object 8": {
+      "name": "the Number 46 Yamaha",
+      "label": "Object 8",
+      "description": "Yamaha racing motorcycle with a sleek, aerodynamic body in blue and white, featuring a large yellow number '46' on the front and prominent 'Fiat' branding"
+    },
+    "Object 9": {
+      "name": "the office clutter",
+      "label": "Object 9",
+      "description": "Office clutter consisting of shelves piled high with stacks of loose papers and a poster depicting a green rally car"
+    }
+  },
+  "_window_shot_ids": [
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600__shot0099",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600__shot0100",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600__shot0101",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600__shot0102",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600__shot0103",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600__shot0104",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600__shot0105",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600__shot0106",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600__shot0107",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i75_j127__T600__shot0108"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Alex",
+    "Character 2": "Marcus",
+    "Character 3": "Casey",
+    "Character 4": "Jordan",
+    "Character 5": "Lukas",
+    "Location 1": "Apex Racetrack",
+    "Location 2": "The Pit Garage",
+    "Location 3": "The Rally Office",
+    "Object 1": "the blue and red race bike",
+    "Object 2": "the Number 99 Yamaha",
+    "Object 3": "the Number 99 racing suit",
+    "Object 4": "the yellow pit headphones",
+    "Object 5": "the onboard racing cameras",
+    "Object 6": "the yellow sponsor banners",
+    "Object 7": "the Jester's racing gear",
+    "Object 8": "the Number 46 Yamaha",
+    "Object 9": "the office clutter"
+  }
+}

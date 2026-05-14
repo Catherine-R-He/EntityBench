@@ -1,0 +1,432 @@
+{
+  "story_name": "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180",
+  "story_overview": "In the futuristic Kaito District, Rico pilots his massive mech suit, clashing with Dante in his advanced winged armor. While the two titans battle, Mika, Zane, and the inflatable robot Pilo navigate the chaos on the streets below, caught in the crossfire of the destructive conflict.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Leo: Young man with long blonde hair wearing a green beanie.\nThe Command Cockpit: Interior of a dark, futuristic mech suit cockpit with a red and black color scheme, featuring a single pilot's seat, metallic surfaces, and a complex array of glowing digital displays, holographic interfaces, and control panels.\nthe large red mech suit: Large red mechanical suit with a dark, digital-style cockpit.\n\nA low-angle close-up of Leo wearing the red and black luchador mask, shouting from inside The Command Cockpit."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A low-angle close-up of Leo wearing the red and black luchador mask, shouting from inside The Command Cockpit."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Mika: Young woman with short black hair featuring prominent purple streaks, wearing an unzipped grey jacket over a plain white T-shirt.\nThe Industrial Rooftop: Flat urban rooftop with a tar-and-gravel surface, low concrete parapet walls, and exposed industrial vents and pipes.\nKaito District: Futuristic, stylized city streetscape blending traditional Japanese architectural elements like pagoda-style roofs with modern American skyscrapers, featuring a dense overlay of vibrant, multi-colored neon signage and digital displays on building facades.\n\nOn The Industrial Rooftop, Mika watches with awe as two large robots fight at night. On the left, the winged crimson armor raises its arms to block a powerful attack from the red and yellow mech suit on the right. The scene is illuminated by the neon glow of Kaito District in the background.",
+        "Dante: Man with dark, shoulder-length dreadlocks and a bright yellow headband, who has a winged black and red armored suit propelled by glowing purple jets.\nthe two-tone compact car: Compact car with a two-tone white and beige body.\n\nIn Kaito District, the two-tone compact car drives recklessly on two wheels down a city street. The car then lands on all four tires and drives normally towards the camera, with Dante and two other people visible inside."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "On The Industrial Rooftop, Mika watches with awe as two large robots fight at night. On the left, the winged crimson armor raises its arms to block a powerful attack from the red and yellow mech suit on the right. The scene is illuminated by the neon glow of Kaito District in the background.",
+        "In Kaito District, the two-tone compact car drives recklessly on two wheels down a city street. The car then lands on all four tires and drives normally towards the camera, with Dante and two other people visible inside."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Compact Car Interior: A crowded car interior with its available space filled by seats and a large, white, inflatable robot.\nthe inflatable medical robot: Large, white, inflatable robot with a pillowy, humanoid shape, two small black circular eyes connected by a thin horizontal line, and a small circular access port on its chest.\n\nMedium shot inside The Compact Car Interior at night. Mika sits in the passenger seat of the two-tone compact car, shifting nervously in her seat while looking forward with a concerned expression. Behind her, the inflatable medical robot sits motionless in the back seat as streetlights flash past the car windows.",
+        "Pilo: Large, white, inflatable robot with a simple black-line face.\n\nInside The Compact Car Interior at night, Mika sits in a seat, her head turning to look out the passenger window as the massive form of Pilo is squeezed into the car. A robotic figure rockets past the window at incredible speed. The futuristic city background blurs into long, horizontal streaks of light.",
+        "Zane: Figure of an athletic build entirely encased in a full suit of articulated, predominantly matte black armor with crimson-red accents on the pauldrons and gauntlets, and a full-face helmet with a narrow, glowing red visor.\nthe bright blue smartphone: Smartphone with a thin, rectangular, bright blue case with rounded corners and a large, black glass touchscreen on the front.\n\nNight. Inside The Compact Car Interior, Dante, in a black and red armored suit with its wings retracted, recoils in shock in the driver's seat of the crowded compact car. In the passenger seat, Zane leans forward, both characters staring intently at the glowing screen of the bright blue smartphone on the dashboard. In the crowded back seat, the inflatable medical robot tilts its head slightly as it watches them."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot inside The Compact Car Interior at night. Mika sits in the passenger seat of the two-tone compact car, shifting nervously in her seat while looking forward with a concerned expression. Behind her, the inflatable medical robot sits motionless in the back seat as streetlights flash past the car windows.",
+        "Inside The Compact Car Interior at night, Mika sits in a seat, her head turning to look out the passenger window as the massive form of Pilo is squeezed into the car. A robotic figure rockets past the window at incredible speed. The futuristic city background blurs into long, horizontal streaks of light.",
+        "Night. Inside The Compact Car Interior, Dante, in a black and red armored suit with its wings retracted, recoils in shock in the driver's seat of the crowded compact car. In the passenger seat, Zane leans forward, both characters staring intently at the glowing screen of the bright blue smartphone on the dashboard. In the crowded back seat, the inflatable medical robot tilts its head slightly as it watches them."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "the small green car: A small, stylized animated car with a compact body and a solid green paint job.\n\nZane crashes hard onto a street in Kaito District, landing on his back while still clutching a large, uprooted tree. The small green car is parked nearby. The impact kicks up a massive cloud of white smoke, which quickly billows out to obscure the chaotic scene.",
+        "Rico: Character with a yellow mohawk, wearing a red, black, and yellow luchador mask.\n\nIn Kaito District at night, the two-tone compact car skids to a hard stop on a street. The front passenger door and rear passenger door open, and Zane, Pilo, and Rico quickly get out of the compact car. The car's trunk opens and a large, weaponized red, black, and yellow mech suit decorated with flame decals unfolds from it, which Rico then gets into.",
+        "the modern compact cars: A variety of modern, compact cars with sleek, rounded, aerodynamic bodies and glossy paint in various colors.\n\nOn a street in Kaito District at night, the red and yellow mech suit extends its long mechanical arms, grabs the fallen two-tone compact car, and lifts it into the air. On the sidewalk, Pilo stands next to the winged crimson armor, its head turning to watch the scene. Several of the modern compact cars are parked along the curb nearby.",
+        "Rico tackles Dante, wearing the winged black and red armored suit, knocking them to the street. Rico then uses his super-strength to lift Dante into the air and carry them off-screen to the right.",
+        "the long metal pole: Long gray metal pole.\n\nIn Kaito District at night, Dante stands up. He picks up the long metal pole from the pavement and aims it forward aggressively.",
+        "Low angle shot in Kaito District at night, where the winged crimson armor glints in the background. A giant yellow hand, part of the red and yellow mech suit, lunges towards Pilo, who stumbles backward in surprise amidst the modern compact cars.",
+        "In the middle of a cracked street in Kaito District, Rico, inside a large mech suit, throws Dante. Dante flips backwards through the air across the street. A discarded metal pole, the long metal pole, clatters on the damaged pavement.",
+        "Medium shot of Rico, wearing the red and yellow luchador mask, piloting the large red and yellow mech suit through Kaito District. On the street below, Mika and Dante look up at the robot in alarm.",
+        "At night over Kaito District, Dante hovers in the air. Zane watches from a nearby rooftop, his head tilted slightly as he observes. A projectile streaks across the sky and strikes Dante, erupting in a massive, bright yellow explosion. The force of the blast throws Dante backward, causing him to vanish into a thick cloud of smoke.",
+        "In Kaito District, Zane crashes down onto a paved street, landing hard on their back as a cloud of smoke erupts from the impact. Zane immediately leaps to their feet and assumes an aggressive crouch. Nearby, Pilo swivels its head towards Zane, its simple face display flickering."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Zane crashes hard onto a street in Kaito District, landing on his back while still clutching a large, uprooted tree. The small green car is parked nearby. The impact kicks up a massive cloud of white smoke, which quickly billows out to obscure the chaotic scene.",
+        "In Kaito District at night, the two-tone compact car skids to a hard stop on a street. The front passenger door and rear passenger door open, and Zane, Pilo, and Rico quickly get out of the compact car. The car's trunk opens and a large, weaponized red, black, and yellow mech suit decorated with flame decals unfolds from it, which Rico then gets into.",
+        "On a street in Kaito District at night, the red and yellow mech suit extends its long mechanical arms, grabs the fallen two-tone compact car, and lifts it into the air. On the sidewalk, Pilo stands next to the winged crimson armor, its head turning to watch the scene. Several of the modern compact cars are parked along the curb nearby.",
+        "Rico tackles Dante, wearing the winged black and red armored suit, knocking them to the street. Rico then uses his super-strength to lift Dante into the air and carry them off-screen to the right.",
+        "In Kaito District at night, Dante stands up. He picks up the long metal pole from the pavement and aims it forward aggressively.",
+        "Low angle shot in Kaito District at night, where the winged crimson armor glints in the background. A giant yellow hand, part of the red and yellow mech suit, lunges towards Pilo, who stumbles backward in surprise amidst the modern compact cars.",
+        "In the middle of a cracked street in Kaito District, Rico, inside a large mech suit, throws Dante. Dante flips backwards through the air across the street. A discarded metal pole, the long metal pole, clatters on the damaged pavement.",
+        "Medium shot of Rico, wearing the red and yellow luchador mask, piloting the large red and yellow mech suit through Kaito District. On the street below, Mika and Dante look up at the robot in alarm.",
+        "At night over Kaito District, Dante hovers in the air. Zane watches from a nearby rooftop, his head tilted slightly as he observes. A projectile streaks across the sky and strikes Dante, erupting in a massive, bright yellow explosion. The force of the blast throws Dante backward, causing him to vanish into a thick cloud of smoke.",
+        "In Kaito District, Zane crashes down onto a paved street, landing hard on their back as a cloud of smoke erupts from the impact. Zane immediately leaps to their feet and assumes an aggressive crouch. Nearby, Pilo swivels its head towards Zane, its simple face display flickering."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Command Cockpit"
+      ],
+      "objects": [
+        "the large red mech suit",
+        "the red and black luchador mask"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Mika"
+      ],
+      "places": [
+        "The Industrial Rooftop",
+        "Kaito District"
+      ],
+      "objects": [
+        "the red and yellow mech suit",
+        "the winged crimson armor"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Dante"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": [
+        "the two-tone compact car"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Mika"
+      ],
+      "places": [
+        "The Compact Car Interior"
+      ],
+      "objects": [
+        "the two-tone compact car",
+        "the inflatable medical robot"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Mika",
+        "Pilo"
+      ],
+      "places": [
+        "The Compact Car Interior"
+      ],
+      "objects": []
+    },
+    "3:3": {
+      "characters": [
+        "Zane",
+        "Dante"
+      ],
+      "places": [
+        "The Compact Car Interior"
+      ],
+      "objects": [
+        "the inflatable medical robot",
+        "the bright blue smartphone"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Zane"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": [
+        "the small green car",
+        "a large, uprooted tree"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Rico",
+        "Zane",
+        "Pilo"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": [
+        "the two-tone compact car",
+        "the mech suit"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Pilo"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": [
+        "the red and yellow mech suit",
+        "the winged crimson armor",
+        "the modern compact cars"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Rico",
+        "Dante"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": []
+    },
+    "4:5": {
+      "characters": [
+        "Dante"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": [
+        "the long metal pole"
+      ]
+    },
+    "4:6": {
+      "characters": [
+        "Pilo"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": [
+        "the winged crimson armor",
+        "the red and yellow mech suit",
+        "the modern compact cars"
+      ]
+    },
+    "4:7": {
+      "characters": [
+        "Rico",
+        "Dante"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": [
+        "the long metal pole"
+      ]
+    },
+    "4:8": {
+      "characters": [
+        "Mika",
+        "Rico",
+        "Dante"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": [
+        "the red and yellow luchador mask",
+        "the red and yellow mech suit"
+      ]
+    },
+    "4:9": {
+      "characters": [
+        "Zane",
+        "Dante"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": []
+    },
+    "4:10": {
+      "characters": [
+        "Zane",
+        "Pilo"
+      ],
+      "places": [
+        "Kaito District"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Rico",
+      "label": "Character 1",
+      "description": "Character with a yellow mohawk, wearing a red, black, and yellow luchador mask."
+    },
+    "Character 2": {
+      "name": "Mika",
+      "label": "Character 2",
+      "description": "Young woman with short black hair featuring prominent purple streaks, wearing an unzipped grey jacket over a plain white T-shirt."
+    },
+    "Character 3": {
+      "name": "Dante",
+      "label": "Character 3",
+      "description": "Man with dark, shoulder-length dreadlocks and a bright yellow headband, who has a winged black and red armored suit propelled by glowing purple jets."
+    },
+    "Character 4": {
+      "name": "Zane",
+      "label": "Character 4",
+      "description": "Figure of an athletic build entirely encased in a full suit of articulated, predominantly matte black armor with crimson-red accents on the pauldrons and gauntlets, and a full-face helmet with a narrow, glowing red visor."
+    },
+    "Character 5": {
+      "name": "Pilo",
+      "label": "Character 5",
+      "description": "Large, white, inflatable robot with a simple black-line face."
+    },
+    "Character 6": {
+      "name": "Leo",
+      "label": "Character 6",
+      "description": "Young man with long blonde hair wearing a green beanie."
+    },
+    "Location 1": {
+      "name": "Kaito District",
+      "label": "Location 1",
+      "description": "Futuristic, stylized city streetscape blending traditional Japanese architectural elements like pagoda-style roofs with modern American skyscrapers, featuring a dense overlay of vibrant, multi-colored neon signage and digital displays on building facades."
+    },
+    "Location 2": {
+      "name": "The Command Cockpit",
+      "label": "Location 2",
+      "description": "Interior of a dark, futuristic mech suit cockpit with a red and black color scheme, featuring a single pilot's seat, metallic surfaces, and a complex array of glowing digital displays, holographic interfaces, and control panels."
+    },
+    "Location 3": {
+      "name": "The Compact Car Interior",
+      "label": "Location 3",
+      "description": "A crowded car interior with its available space filled by seats and a large, white, inflatable robot."
+    },
+    "Location 4": {
+      "name": "The Industrial Rooftop",
+      "label": "Location 4",
+      "description": "Flat urban rooftop with a tar-and-gravel surface, low concrete parapet walls, and exposed industrial vents and pipes."
+    },
+    "Object 1": {
+      "name": "the red and yellow luchador mask",
+      "label": "Object 1",
+      "description": "A fabric luchador mask that is predominantly red, with yellow trim around the eye and mouth openings and black decorative patterns on the forehead and cheeks"
+    },
+    "Object 2": {
+      "name": "the winged crimson armor",
+      "label": "Object 2",
+      "description": "A winged suit of armor with a black and red color scheme"
+    },
+    "Object 3": {
+      "name": "the red and yellow mech suit",
+      "label": "Object 3",
+      "description": "Large, bulky robot with a red and yellow chassis"
+    },
+    "Object 4": {
+      "name": "the inflatable medical robot",
+      "label": "Object 4",
+      "description": "Large, white, inflatable robot with a pillowy, humanoid shape, two small black circular eyes connected by a thin horizontal line, and a small circular access port on its chest."
+    },
+    "Object 5": {
+      "name": "the bright blue smartphone",
+      "label": "Object 5",
+      "description": "Smartphone with a thin, rectangular, bright blue case with rounded corners and a large, black glass touchscreen on the front."
+    },
+    "Object 6": {
+      "name": "the red and black luchador mask",
+      "label": "Object 6",
+      "description": "An animated, full-face luchador mask, primarily red with bold, symmetrical black designs around the eye and mouth openings"
+    },
+    "Object 7": {
+      "name": "the large red mech suit",
+      "label": "Object 7",
+      "description": "Large red mechanical suit with a dark, digital-style cockpit."
+    },
+    "Object 8": {
+      "name": "the two-tone compact car",
+      "label": "Object 8",
+      "description": "Compact car with a two-tone white and beige body."
+    },
+    "Object 9": {
+      "name": "the small green car",
+      "label": "Object 9",
+      "description": "A small, stylized animated car with a compact body and a solid green paint job."
+    },
+    "Object 10": {
+      "name": "the modern compact cars",
+      "label": "Object 10",
+      "description": "A variety of modern, compact cars with sleek, rounded, aerodynamic bodies and glossy paint in various colors."
+    },
+    "Object 11": {
+      "name": "the long metal pole",
+      "label": "Object 11",
+      "description": "Long gray metal pole."
+    }
+  },
+  "_window_shot_ids": [
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0057",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0058",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0059",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0060",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0061",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0062",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0063",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0064",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0065",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0066",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0067",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0068",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0069",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0070",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0071",
+    "00007176-a5da-371b-baef-7a8f690f5a38__run53__i65_j78__T180__shot0072"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 16,
+  "_name_map": {
+    "Character 1": "Rico",
+    "Character 2": "Mika",
+    "Character 3": "Dante",
+    "Character 4": "Zane",
+    "Character 5": "Pilo",
+    "Character 6": "Leo",
+    "Location 1": "Kaito District",
+    "Location 2": "The Command Cockpit",
+    "Location 3": "The Compact Car Interior",
+    "Location 4": "The Industrial Rooftop",
+    "Object 1": "the red and yellow luchador mask",
+    "Object 10": "the modern compact cars",
+    "Object 11": "the long metal pole",
+    "Object 2": "the winged crimson armor",
+    "Object 3": "the red and yellow mech suit",
+    "Object 4": "the inflatable medical robot",
+    "Object 5": "the bright blue smartphone",
+    "Object 6": "the red and black luchador mask",
+    "Object 7": "the large red mech suit",
+    "Object 8": "the two-tone compact car",
+    "Object 9": "the small green car"
+  }
+}

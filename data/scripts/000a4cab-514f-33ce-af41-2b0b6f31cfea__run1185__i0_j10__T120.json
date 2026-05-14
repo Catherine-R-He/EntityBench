@@ -1,0 +1,391 @@
+{
+  "story_name": "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120",
+  "story_overview": "The story follows several characters through interconnected moments. It begins with a romantic scene between Annelise and Isabelle at a garden terrace, shifts to Kaito's exhaustion, and then to a Christmas-decorated bakery where Annelise and Ren interact. The story culminates in a series of somber encounters involving Annelise, Sena, Liam, and an unknown man, hinting at underlying drama.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Annelise: Blonde anime woman wearing a beige double-breasted coat over a white turtleneck, with a cravat and a glove.\nIsabelle: Woman with blonde hair tied back.\nThe Garden Terrace: Outdoor park patio area with green foliage and a patio umbrella.\nthe dark anime jacket: Dark-colored jacket.\n\nAnnelise, and Isabelle wearing the brown suit jacket, stand close together on the park patio, holding hands. They smile warmly at each other, with green foliage visible behind them under a patio umbrella.",
+        "Kaito: Young man with dark, spiky hair.\n\nAnime style, close-up on the face of Kaito. He has noticeable dark circles under his eyes. He stares forward, his expression of extreme exhaustion and annoyance deepening as his eyes narrow slightly."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Annelise, and Isabelle wearing the brown suit jacket, stand close together on the park patio, holding hands. They smile warmly at each other, with green foliage visible behind them under a patio umbrella.",
+        "Anime style, close-up on the face of Kaito. He has noticeable dark circles under his eyes. He stares forward, his expression of extreme exhaustion and annoyance deepening as his eyes narrow slightly."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Ren: Character wearing a long-sleeved garment, a watch on one wrist, and a dark glove on one hand.\nSweet Whimsy Bakery: Interior of a Christmas-decorated bakery featuring a glass display case with a colorful, neat arrangement of square strawberry shortcakes, round fruit tarts, and rectangular chocolate cakes.\nHigh-angle close-up on the assortment of cakes, neatly arranged inside a glass display case in Sweet Whimsy Bakery. Ren's gloved hand enters the frame and rests on the glass, pointing towards one of the cakes.",
+        "Annelise smiles and points at the assortment of cakes inside the refrigerated display case. Behind the decorated bakery counter, Ren looks over and smiles warmly back at her."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "High-angle close-up on the assortment of cakes, neatly arranged inside a glass display case in Sweet Whimsy Bakery. Ren's gloved hand enters the frame and rests on the glass, pointing towards one of the cakes.",
+        "Annelise smiles and points at the assortment of cakes inside the refrigerated display case. Behind the decorated bakery counter, Ren looks over and smiles warmly back at her."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "the snowflake-decorated window: Large pane of clear glass decorated with multiple white, festive snowflake decals of varying sizes and designs.\nthe snowflake window decals: White window decals in various sizes, each shaped like a flat, symmetrical snowflake with clean lines and intricate crystalline patterns.\nthe lighted holiday garlands: Green festive garlands intertwined with strings of warm-toned lights that appear as soft, out-of-focus glowing orbs.\n\nMedium shot of Annelise and Ren standing inside Sweet Whimsy Bakery at night, with the lighted holiday garlands and the window decorated with the snowflake window decals visible in the background. Annelise, with her arms crossed, lets out a soft sigh as she looks around with a gentle, contented expression. Ren glances over at her and offers a small, warm smile."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Annelise and Ren standing inside Sweet Whimsy Bakery at night, with the lighted holiday garlands and the window decorated with the snowflake window decals visible in the background. Annelise, with her arms crossed, lets out a soft sigh as she looks around with a gentle, contented expression. Ren glances over at her and offers a small, warm smile."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Elara: Figure in a white pleated skirt or dress with brown straps or trim.\nThe Building Exterior: Exterior of a building with a window showing a view of an interior room.\nThe Sunlit Room: Indoor room with a window.\nthe multi-pane window: Rectangular window with multiple glass panes set within a simple, light-colored casing.\nthe cream cable-knit sweater: Cream-colored cable-knit pullover sweater with a crew neck and long sleeves.\n\nLow-angle shot from outside The Building Exterior at night, looking up through the brightly lit multi-pane window. Inside The Sunlit Room, Kaito, wearing the dark collared shirt, raises a hand to his face as he talks to Ren, who wears the cream cable-knit sweater, and Elara.",
+        "Liam: Man with short dark hair, wearing a dark green jacket.\n\nAnime-style close-up on Liam inside The Sunlit Room. Liam slowly closes his eyes as a contented smile spreads across his face, which is illuminated by a warm light from the side. In the background, the blurred lights of a city skyline are visible through the multi-pane window."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Low-angle shot from outside The Building Exterior at night, looking up through the brightly lit multi-pane window. Inside The Sunlit Room, Kaito, wearing the dark collared shirt, raises a hand to his face as he talks to Ren, who wears the cream cable-knit sweater, and Elara.",
+        "Anime-style close-up on Liam inside The Sunlit Room. Liam slowly closes his eyes as a contented smile spreads across his face, which is illuminated by a warm light from the side. In the background, the blurred lights of a city skyline are visible through the multi-pane window."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "The Cozy Nook: Indoor setting with a warm color palette.\n\nClose-up in The Cozy Nook. A man's hand, the sleeve of the dark men's suit visible, gently comes to rest on the shoulder of Annelise. Annelise, wearing the beige double-breasted coat over the white turtleneck, looks down slightly, her expression somber.",
+        "Sena: Character with strands of light-colored hair around the face, a vibrant green eye with a pupil, wearing a green boot.\n\nAnime style medium shot in The Cozy Nook. Sena stands with a sad expression, looking away from the camera. Liam stands closely behind Sena and speaks to her."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up in The Cozy Nook. A man's hand, the sleeve of the dark men's suit visible, gently comes to rest on the shoulder of Annelise. Annelise, wearing the beige double-breasted coat over the white turtleneck, looks down slightly, her expression somber.",
+        "Anime style medium shot in The Cozy Nook. Sena stands with a sad expression, looking away from the camera. Liam stands closely behind Sena and speaks to her."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "the pair of eyeglasses: A pair of men's eyeglasses.\n\nOutdoors at night at The Building Exterior, Annelise and Ren, who wears the pair of eyeglasses, peer out from behind a tree, observing two figures across the water in front of a brightly lit building. Annelise wears the beige trench coat."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Outdoors at night at The Building Exterior, Annelise and Ren, who wears the pair of eyeglasses, peer out from behind a tree, observing two figures across the water in front of a brightly lit building. Annelise wears the beige trench coat."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Annelise",
+        "Isabelle"
+      ],
+      "places": [
+        "The Garden Terrace"
+      ],
+      "objects": [
+        "the brown suit jacket"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Kaito"
+      ],
+      "places": [],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Ren"
+      ],
+      "places": [
+        "Sweet Whimsy Bakery"
+      ],
+      "objects": [
+        "the assortment of cakes"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Ren",
+        "Annelise"
+      ],
+      "places": [
+        "Sweet Whimsy Bakery"
+      ],
+      "objects": [
+        "the assortment of cakes",
+        "the refrigerated display case",
+        "the decorated bakery counter"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Ren",
+        "Annelise"
+      ],
+      "places": [
+        "Sweet Whimsy Bakery"
+      ],
+      "objects": [
+        "the snowflake window decals",
+        "the lighted holiday garlands"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Ren",
+        "Elara",
+        "Kaito"
+      ],
+      "places": [
+        "The Building Exterior",
+        "The Sunlit Room"
+      ],
+      "objects": [
+        "the multi-pane window",
+        "the dark collared shirt",
+        "the cream cable-knit sweater"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Liam"
+      ],
+      "places": [
+        "The Sunlit Room"
+      ],
+      "objects": [
+        "the multi-pane window"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Annelise"
+      ],
+      "places": [
+        "The Cozy Nook"
+      ],
+      "objects": [
+        "the dark men's suit"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Liam",
+        "Sena"
+      ],
+      "places": [
+        "The Cozy Nook"
+      ],
+      "objects": []
+    },
+    "6:1": {
+      "characters": [
+        "Annelise",
+        "Ren"
+      ],
+      "places": [
+        "The Building Exterior"
+      ],
+      "objects": [
+        "the beige trench coat",
+        "the pair of eyeglasses"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Kaito",
+      "label": "Character 1",
+      "description": "Young man with dark, spiky hair."
+    },
+    "Character 2": {
+      "name": "Elara",
+      "label": "Character 2",
+      "description": "Figure in a white pleated skirt or dress with brown straps or trim."
+    },
+    "Character 3": {
+      "name": "Isabelle",
+      "label": "Character 3",
+      "description": "Woman with blonde hair tied back."
+    },
+    "Character 4": {
+      "name": "Sena",
+      "label": "Character 4",
+      "description": "Character with strands of light-colored hair around the face, a vibrant green eye with a pupil, wearing a green boot."
+    },
+    "Character 5": {
+      "name": "Annelise",
+      "label": "Character 5",
+      "description": "Blonde anime woman wearing a beige double-breasted coat over a white turtleneck, with a cravat and a glove."
+    },
+    "Character 6": {
+      "name": "Liam",
+      "label": "Character 6",
+      "description": "Man with short dark hair, wearing a dark green jacket."
+    },
+    "Character 7": {
+      "name": "Ren",
+      "label": "Character 7",
+      "description": "Character wearing a long-sleeved garment, a watch on one wrist, and a dark glove on one hand."
+    },
+    "Location 1": {
+      "name": "The Garden Terrace",
+      "label": "Location 1",
+      "description": "Outdoor park patio area with green foliage and a patio umbrella."
+    },
+    "Location 2": {
+      "name": "Sweet Whimsy Bakery",
+      "label": "Location 2",
+      "description": "Interior of a Christmas-decorated bakery featuring a glass display case with a colorful, neat arrangement of square strawberry shortcakes, round fruit tarts, and rectangular chocolate cakes."
+    },
+    "Location 3": {
+      "name": "The Building Exterior",
+      "label": "Location 3",
+      "description": "Exterior of a building with a window showing a view of an interior room."
+    },
+    "Location 4": {
+      "name": "The Sunlit Room",
+      "label": "Location 4",
+      "description": "Indoor room with a window."
+    },
+    "Location 5": {
+      "name": "The Cozy Nook",
+      "label": "Location 5",
+      "description": "Indoor setting with a warm color palette."
+    },
+    "Object 1": {
+      "name": "the brown suit jacket",
+      "label": "Object 1",
+      "description": "Brown women's suit jacket"
+    },
+    "Object 2": {
+      "name": "the dark anime jacket",
+      "label": "Object 2",
+      "description": "Dark-colored jacket"
+    },
+    "Object 3": {
+      "name": "the assortment of cakes",
+      "label": "Object 3",
+      "description": "An animated, colorful assortment of neatly arranged cakes, including square strawberry shortcakes, round fruit tarts, and rectangular chocolate cakes"
+    },
+    "Object 4": {
+      "name": "the decorated bakery counter",
+      "label": "Object 4",
+      "description": "Bakery counter with a glass display-case front containing an assortment of colorful cakes, adorned with Christmas decorations"
+    },
+    "Object 5": {
+      "name": "the refrigerated display case",
+      "label": "Object 5",
+      "description": "Glass-fronted refrigerated bakery display case with a slanted front, multiple internal shelves filled with an assortment of cakes, and decorated with green tinsel garland, small red bows, and white snowflake decals"
+    },
+    "Object 6": {
+      "name": "the snowflake-decorated window",
+      "label": "Object 6",
+      "description": "Large pane of clear glass decorated with multiple white, festive snowflake decals of varying sizes and designs"
+    },
+    "Object 7": {
+      "name": "the lighted holiday garlands",
+      "label": "Object 7",
+      "description": "Green festive garlands intertwined with strings of warm-toned lights that appear as soft, out-of-focus glowing orbs."
+    },
+    "Object 8": {
+      "name": "the snowflake window decals",
+      "label": "Object 8",
+      "description": "White window decals in various sizes, each shaped like a flat, symmetrical snowflake with clean lines and intricate crystalline patterns."
+    },
+    "Object 9": {
+      "name": "the multi-pane window",
+      "label": "Object 9",
+      "description": "Rectangular window with multiple glass panes set within a simple, light-colored casing."
+    },
+    "Object 10": {
+      "name": "the dark collared shirt",
+      "label": "Object 10",
+      "description": "Dark-colored shirt"
+    },
+    "Object 11": {
+      "name": "the cream cable-knit sweater",
+      "label": "Object 11",
+      "description": "Cream-colored cable-knit pullover sweater with a crew neck and long sleeves."
+    },
+    "Object 12": {
+      "name": "the dark men's suit",
+      "label": "Object 12",
+      "description": "A men's suit made of a very dark, solid-colored suiting fabric with a fine weave"
+    },
+    "Object 13": {
+      "name": "the pink turtleneck",
+      "label": "Object 13",
+      "description": "Pink turtleneck sweater"
+    },
+    "Object 14": {
+      "name": "the beige trench coat",
+      "label": "Object 14",
+      "description": "Beige trench coat"
+    },
+    "Object 15": {
+      "name": "the pair of eyeglasses",
+      "label": "Object 15",
+      "description": "A pair of men's eyeglasses."
+    }
+  },
+  "_window_shot_ids": [
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120__shot0046",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120__shot0047",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120__shot0048",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120__shot0049",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120__shot0050",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120__shot0051",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120__shot0052",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120__shot0053",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120__shot0054",
+    "000a4cab-514f-33ce-af41-2b0b6f31cfea__run1185__i0_j10__T120__shot0055"
+  ],
+  "_num_scenes": 6,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Kaito",
+    "Character 2": "Elara",
+    "Character 3": "Isabelle",
+    "Character 4": "Sena",
+    "Character 5": "Annelise",
+    "Character 6": "Liam",
+    "Character 7": "Ren",
+    "Character 8": "Alex",
+    "Location 1": "The Garden Terrace",
+    "Location 2": "Sweet Whimsy Bakery",
+    "Location 3": "The Building Exterior",
+    "Location 4": "The Sunlit Room",
+    "Location 5": "The Cozy Nook",
+    "Object 1": "the brown suit jacket",
+    "Object 2": "the dark anime jacket",
+    "Object 3": "the assortment of cakes",
+    "Object 4": "the decorated bakery counter",
+    "Object 5": "the refrigerated display case",
+    "Object 6": "the snowflake-decorated window",
+    "Object 7": "the lighted holiday garlands",
+    "Object 8": "the snowflake window decals",
+    "Object 9": "the multi-pane window",
+    "Object 10": "the dark collared shirt",
+    "Object 11": "the cream cable-knit sweater",
+    "Object 12": "the dark men's suit",
+    "Object 13": "the pink turtleneck",
+    "Object 14": "the beige trench coat",
+    "Object 15": "the pair of eyeglasses"
+  }
+}

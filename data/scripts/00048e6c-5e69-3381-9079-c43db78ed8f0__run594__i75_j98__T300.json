@@ -1,0 +1,338 @@
+{
+  "story_name": "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300",
+  "story_overview": "Marcus's team conducts a clandestine operation, holding tense meetings in cars with Leo, Ethan, Casey, and Jordan at various locations like Oakshott Cafe. At the cafe, Erik is spotted wearing a distinctive blue tartan scarf, which later appears on a distressed Leo. Meanwhile, Lena, Jordan, and Erik monitor the situation from a high-tech command center.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Leo: Young man with short dark hair.\nMarcus: Black man with a beard, wearing a light-colored collared shirt.\nJordan: Person wearing a black baseball cap, a dark jacket or hoodie, a black long-sleeved shirt, and dark pants.\nOakshott Cafe and Yard: A roadside commercial property named Oakshott Cafe and Yard, featuring a large gravel parking lot area adjacent to a road.\n\nMedium shot in Oakshott Cafe and Yard during the day. Inside a parked car, Marcus sits in the driver's seat and Leo sits in the front passenger seat. They have serious expressions as they talk to each other. Jordan stands outside the passenger-side window, looking in at them.",
+        "Casey: Person in dark clothing.\nEthan: Young man wearing a dark hoodie.\nSycamore Lane: Outdoor suburban street with single-family homes of varied design, featuring manicured green lawns, leafy trees, concrete sidewalks, and an asphalt road.\n\nMedium shot from outside the passenger window of a car parked in the parking lot of Oakshott Cafe and Yard, with Casey nearby. Inside the car, Marcus sits in the driver's seat, gesturing with one hand as he speaks seriously to Ethan in the passenger seat, who listens intently."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot in Oakshott Cafe and Yard during the day. Inside a parked car, Marcus sits in the driver's seat and Leo sits in the front passenger seat. They have serious expressions as they talk to each other. Jordan stands outside the passenger-side window, looking in at them.",
+        "Medium shot from outside the passenger window of a car parked in the parking lot of Oakshott Cafe and Yard, with Casey nearby. Inside the car, Marcus sits in the driver's seat, gesturing with one hand as he speaks seriously to Ethan in the passenger seat, who listens intently."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Erik: Man with long blonde hair, a camo jacket, and a patterned scarf.\nthe red letter board: Red rectangular letter board with a textured surface of dense, parallel horizontal grooves.\n\nInside the brightly lit Oakshott Cafe and Yard, Erik stands with his back to the camera at a counter featuring the stack of mugs, shifting his weight slightly. On a wall in the background hangs the red letter board.",
+        "the blue tartan scarf: Long, thick-knit wool scarf featuring a dark blue and grey tartan pattern with frayed tassel ends.\nthe oak cafe table: Small square cafe table with a dark-stained, polished oak top and a single black cast-iron pedestal base, the tabletop surface showing minor wear and faint water rings.\n\nInside the brightly lit Oakshott Cafe and Yard, Erik stands in profile wearing a camo jacket and the blue tartan scarf. He shifts his weight slightly as he looks intently off-screen to the right, while other people sit at the oak cafe tables in the blurred background."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Inside the brightly lit Oakshott Cafe and Yard, Erik stands with his back to the camera at a counter featuring the stack of mugs, shifting his weight slightly. On a wall in the background hangs the red letter board.",
+        "Inside the brightly lit Oakshott Cafe and Yard, Erik stands in profile wearing a camo jacket and the blue tartan scarf. He shifts his weight slightly as he looks intently off-screen to the right, while other people sit at the oak cafe tables in the blurred background."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Exterior shot looking through the front windshield of a dark grey car parked in Oakshott Cafe and Yard during the day. Inside, Leo sits in the driver's seat and talks with animated hand gestures. In the passenger seat, Marcus listens intently, his expression changing to one of surprise.",
+        "Alex: Person in a bright high-visibility jacket.\nMedium shot in Oakshott Cafe and Yard, looking through the driver's side window of a car during the day. Leo sits in the driver's seat, wearing a dark hoodie. He talks with an agitated expression towards Alex, who is seated in the passenger seat but remains out of the frame.",
+        "Medium close-up from outside a car in Oakshott Cafe and Yard, looking in through the side window. Marcus sits in the driver's seat and speaks intently. In the passenger seat, Leo listens, occasionally nodding. Ethan leans forward slightly from the back seat to watch them.",
+        "the grey t-shirt: Grey crew-neck t-shirt.\n\nMedium close-up from outside, looking through the passenger side window of a car at Oakshott Cafe and Yard during the day. Inside, Leo sits in the passenger seat wearing the dark hoodie over the grey t-shirt, with the blue tartan scarf wrapped around his neck. His expression turns distressed as he lowers his gaze to something unseen in his lap.",
+        "View from outside a parked car, looking through the passenger-side window during the day at Oakshott Cafe and Yard. Leo sits in the passenger seat, wearing a dark hoodie, talking and gesturing animatedly toward the partially-visible Marcus in the driver's seat."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Exterior shot looking through the front windshield of a dark grey car parked in Oakshott Cafe and Yard during the day. Inside, Leo sits in the driver's seat and talks with animated hand gestures. In the passenger seat, Marcus listens intently, his expression changing to one of surprise.",
+        "Medium shot in Oakshott Cafe and Yard, looking through the driver's side window of a car during the day. Leo sits in the driver's seat, wearing a dark hoodie. He talks with an agitated expression towards Alex, who is seated in the passenger seat but remains out of the frame.",
+        "Medium close-up from outside a car in Oakshott Cafe and Yard, looking in through the side window. Marcus sits in the driver's seat and speaks intently. In the passenger seat, Leo listens, occasionally nodding. Ethan leans forward slightly from the back seat to watch them.",
+        "Medium close-up from outside, looking through the passenger side window of a car at Oakshott Cafe and Yard during the day. Inside, Leo sits in the passenger seat wearing the dark hoodie over the grey t-shirt, with the blue tartan scarf wrapped around his neck. His expression turns distressed as he lowers his gaze to something unseen in his lap.",
+        "View from outside a parked car, looking through the passenger-side window during the day at Oakshott Cafe and Yard. Leo sits in the passenger seat, wearing a dark hoodie, talking and gesturing animatedly toward the partially-visible Marcus in the driver's seat."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Lena: Woman with long dark hair and a black top.\nThe Command Center: Dark Command Center / Operations Room with a grey brick wall, a desk with multiple computers displaying glowing code and graphics, and a large interior glass wall that separates the space from an adjacent, dimly lit room.\nthe black-rimmed glasses: Simple rectangular eyeglasses with thin black metal frames.\nthe operations console: Large, dark console desk with multiple computer monitors on its surface displaying glowing code and graphics.\nthe monitor bank: A bank of large, professional-grade computer monitors with thin black bezels, their screens filled with a mix of colorful satellite imagery, lines of glowing green computer code, and complex data graphics.\n\nInside The Command Center at night, Jordan sits at the operations console next to Erik, who wears the black-rimmed glasses. Both men focus on the monitor bank, their eyes scanning the data as their fingers move across their keyboards, their faces illuminated by the screens' glow."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Command Center at night, Jordan sits at the operations console next to Erik, who wears the black-rimmed glasses. Both men focus on the monitor bank, their eyes scanning the data as their fingers move across their keyboards, their faces illuminated by the screens' glow."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Leo",
+        "Marcus",
+        "Jordan"
+      ],
+      "places": [
+        "Oakshott Cafe and Yard"
+      ],
+      "objects": []
+    },
+    "1:2": {
+      "characters": [
+        "Casey",
+        "Ethan",
+        "Marcus"
+      ],
+      "places": [
+        "Oakshott Cafe and Yard"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Erik"
+      ],
+      "places": [
+        "Oakshott Cafe and Yard"
+      ],
+      "objects": [
+        "the stack of mugs",
+        "the red letter board"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Erik"
+      ],
+      "places": [
+        "Oakshott Cafe and Yard"
+      ],
+      "objects": [
+        "the blue tartan scarf",
+        "the oak cafe table"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leo",
+        "Marcus"
+      ],
+      "places": [
+        "Oakshott Cafe and Yard"
+      ],
+      "objects": []
+    },
+    "3:2": {
+      "characters": [
+        "Leo",
+        "Alex"
+      ],
+      "places": [
+        "Oakshott Cafe and Yard"
+      ],
+      "objects": [
+        "the dark hoodie"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Leo",
+        "Ethan",
+        "Marcus"
+      ],
+      "places": [
+        "Oakshott Cafe and Yard"
+      ],
+      "objects": [
+        "a car"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "Oakshott Cafe and Yard"
+      ],
+      "objects": [
+        "the dark hoodie",
+        "the grey t-shirt",
+        "the blue tartan scarf"
+      ]
+    },
+    "3:5": {
+      "characters": [
+        "Leo",
+        "Marcus"
+      ],
+      "places": [
+        "Oakshott Cafe and Yard"
+      ],
+      "objects": [
+        "the dark hoodie"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Jordan",
+        "Erik"
+      ],
+      "places": [
+        "The Command Center"
+      ],
+      "objects": [
+        "the black-rimmed glasses",
+        "the operations console",
+        "the monitor bank"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Lena",
+      "label": "Character 1",
+      "description": "Woman with long dark hair and a black top"
+    },
+    "Character 2": {
+      "name": "Marcus",
+      "label": "Character 2",
+      "description": "Black man with a beard, wearing a light-colored collared shirt."
+    },
+    "Character 3": {
+      "name": "Alex",
+      "label": "Character 3",
+      "description": "Person in a bright high-visibility jacket."
+    },
+    "Character 4": {
+      "name": "Casey",
+      "label": "Character 4",
+      "description": "Person in dark clothing."
+    },
+    "Character 5": {
+      "name": "Leo",
+      "label": "Character 5",
+      "description": "Young man with short dark hair."
+    },
+    "Character 6": {
+      "name": "Ethan",
+      "label": "Character 6",
+      "description": "Young man wearing a dark hoodie."
+    },
+    "Character 7": {
+      "name": "Jordan",
+      "label": "Character 7",
+      "description": "Person wearing a black baseball cap, a dark jacket or hoodie, a black long-sleeved shirt, and dark pants."
+    },
+    "Character 8": {
+      "name": "Erik",
+      "label": "Character 8",
+      "description": "Man with long blonde hair, a camo jacket, and a patterned scarf."
+    },
+    "Location 1": {
+      "name": "Oakshott Cafe and Yard",
+      "label": "Location 1",
+      "description": "A roadside commercial property named Oakshott Cafe and Yard, featuring a large gravel parking lot area adjacent to a road."
+    },
+    "Location 2": {
+      "name": "Sycamore Lane",
+      "label": "Location 2",
+      "description": "Outdoor suburban street with single-family homes of varied design, featuring manicured green lawns, leafy trees, concrete sidewalks, and an asphalt road"
+    },
+    "Location 3": {
+      "name": "The Command Center",
+      "label": "Location 3",
+      "description": "Dark Command Center / Operations Room with a grey brick wall, a desk with multiple computers displaying glowing code and graphics, and a large interior glass wall that separates the space from an adjacent, dimly lit room."
+    },
+    "Object 1": {
+      "name": "the blue tartan scarf",
+      "label": "Object 1",
+      "description": "Long, thick-knit wool scarf featuring a dark blue and grey tartan pattern with frayed tassel ends."
+    },
+    "Object 2": {
+      "name": "the oak cafe table",
+      "label": "Object 2",
+      "description": "Small square cafe table with a dark-stained, polished oak top and a single black cast-iron pedestal base, the tabletop surface showing minor wear and faint water rings."
+    },
+    "Object 3": {
+      "name": "the red letter board",
+      "label": "Object 3",
+      "description": "Red rectangular letter board with a textured surface of dense, parallel horizontal grooves."
+    },
+    "Object 4": {
+      "name": "the dark hoodie",
+      "label": "Object 4",
+      "description": "Dark-colored hooded sweatshirt"
+    },
+    "Object 5": {
+      "name": "the monitor bank",
+      "label": "Object 5",
+      "description": "A bank of large, professional-grade computer monitors with thin black bezels, their screens filled with a mix of colorful satellite imagery, lines of glowing green computer code, and complex data graphics."
+    },
+    "Object 6": {
+      "name": "the operations console",
+      "label": "Object 6",
+      "description": "Large, dark console desk with multiple computer monitors on its surface displaying glowing code and graphics."
+    },
+    "Object 7": {
+      "name": "the black-rimmed glasses",
+      "label": "Object 7",
+      "description": "Simple rectangular eyeglasses with thin black metal frames."
+    },
+    "Object 8": {
+      "name": "the dark green jacket",
+      "label": "Object 8",
+      "description": "Dark green jacket"
+    },
+    "Object 9": {
+      "name": "the stack of mugs",
+      "label": "Object 9",
+      "description": "A stack of coffee mugs"
+    },
+    "Object 10": {
+      "name": "the grey t-shirt",
+      "label": "Object 10",
+      "description": "Grey crew-neck t-shirt."
+    }
+  },
+  "_window_shot_ids": [
+    "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300__shot0051",
+    "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300__shot0052",
+    "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300__shot0053",
+    "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300__shot0054",
+    "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300__shot0055",
+    "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300__shot0056",
+    "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300__shot0057",
+    "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300__shot0058",
+    "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300__shot0059",
+    "00048e6c-5e69-3381-9079-c43db78ed8f0__run594__i75_j98__T300__shot0060"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 10,
+  "_name_map": {
+    "Character 1": "Lena",
+    "Character 2": "Marcus",
+    "Character 3": "Alex",
+    "Character 4": "Casey",
+    "Character 5": "Leo",
+    "Character 6": "Ethan",
+    "Character 7": "Jordan",
+    "Character 8": "Erik",
+    "Location 1": "Oakshott Cafe and Yard",
+    "Location 2": "Sycamore Lane",
+    "Location 3": "The Command Center",
+    "Object 1": "the blue tartan scarf",
+    "Object 10": "the grey t-shirt",
+    "Object 2": "the oak cafe table",
+    "Object 3": "the red letter board",
+    "Object 4": "the dark hoodie",
+    "Object 5": "the monitor bank",
+    "Object 6": "the operations console",
+    "Object 7": "the black-rimmed glasses",
+    "Object 8": "the dark green jacket",
+    "Object 9": "the stack of mugs"
+  }
+}

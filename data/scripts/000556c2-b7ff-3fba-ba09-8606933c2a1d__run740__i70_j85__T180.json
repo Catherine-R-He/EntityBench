@@ -1,0 +1,391 @@
+{
+  "story_name": "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180",
+  "story_overview": "In a cluttered hospital corridor, Arthur and Omar stand over a man who lies tied and gagged on the floor, suggesting an intense interrogation. The story later shifts to a study where characters including Arthur, Eleanor, and Martin view images and video calls on a laptop, showing loved ones like Lila at a Thai temple.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "the captive man: A pale, unshaven man with hollow eyes wears a flimsy, open-backed hospital gown.\nArthur: Middle-aged man with short light-brown hair, wearing a brown polo shirt.\nOmar: Man with short, dark, styled hair, wearing a light blue medical uniform with a white-trimmed collar.\nThe Hospital Corridor: A cluttered hospital storage room with metal shelving and cardboard boxes, opening into a bright, sterile institutional hallway with vinyl flooring and overhead fluorescent light fixtures, adjacent to a public waiting area with rows of chairs.\nthe metal basin with water: A round, silver-colored metal basin filled with clear water, containing a damp, white cloth.\n\nIn the middle of The Hospital Corridor, a man wearing the dark jacket lies tied and gagged on the floor. Arthur and Omar stand over the captive man. Omar, wearing the light blue scrubs, kneels and dips a cloth into the metal basin with water which rests on the captive's chest, while Arthur adjusts his firm grip on the man's foot."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the middle of The Hospital Corridor, a man wearing the dark jacket lies tied and gagged on the floor. Arthur and Omar stand over the captive man. Omar, wearing the light blue scrubs, kneels and dips a cloth into the metal basin with water which rests on the captive's chest, while Arthur adjusts his firm grip on the man's foot."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Martin: Man with reddish, thinning hair wearing a brown jacket.\nThe Unfurnished Room: A generic and unspecified indoor location.\n\nClose-up shot in the dimly lit The Unfurnished Room. Arthur speaks with a distressed expression while Martin listens, his face showing anger and pain.",
+        "Leo: Man wearing a white graphic t-shirt with visible tattoos on his arm.\nthe red plaid shirt: Long-sleeved, collared, button-front shirt with a red and black plaid pattern.\n\nInside The Unfurnished Room, a blurry close-up captures Leo, wearing the red plaid shirt open over his white graphic t-shirt, as he is violently pushed or falls backwards.",
+        "the brown collared jacket: Brown jacket with a dark, textured collar.\n\nIn The Unfurnished Room, Arthur, wearing the brown collared jacket, gets a pained expression and looks down."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up shot in the dimly lit The Unfurnished Room. Arthur speaks with a distressed expression while Martin listens, his face showing anger and pain.",
+        "Inside The Unfurnished Room, a blurry close-up captures Leo, wearing the red plaid shirt open over his white graphic t-shirt, as he is violently pushed or falls backwards.",
+        "In The Unfurnished Room, Arthur, wearing the brown collared jacket, gets a pained expression and looks down."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Wood-Paneled Study: A room with wood-paneled walls and an open laptop.\nthe small glass bottle: Small, clear glass bottle.\nthe rocks glass: Short, wide, cylindrical rocks glass made of clear glass with a thick, heavy base.\nClose-up in The Wood-Paneled Study, Arthur sits in front of the open laptop, with the small glass bottle visible. He holds the empty small glass bottle upside down over the rocks glass, trying in vain to pour out the last drops.",
+        "the worn leather sofa: A low-profile, rectangular-bodied three-seater sofa upholstered in worn, dark brown leather with a cracked texture, featuring blocky armrests and two flat seat cushions.\n\nArthur sits on the worn leather sofa and pours the clear liquid from the small glass bottle into the rocks glass. His gaze is fixed on the open laptop, which rests on a table in front of him. Omar stands nearby, watching Arthur as his jaw tightens.",
+        "Eleanor: Older woman with short white hair, wearing a blue floral top and a beige cardigan.\nSophie: Woman.\nThe Golden Pagoda: A complex of ornate Thai temples featuring multi-tiered, steeply-pitched roofs with gilded spires, white stucco walls, intricate carvings, and decorative, colorful mirrored tiles.\n\nOver-the-shoulder view of Arthur in The Wood-Paneled Study. He lifts the rocks glass to take a drink while looking at the open laptop. On the laptop screen, Eleanor and Sophie are on a video call, smiling and talking, with the temples of The Golden Pagoda visible behind them.",
+        "Arthur stares intently at the screen of the open laptop, his eyes scanning the content as he holds the rocks glass.",
+        "Lila: Woman with a flower in her hair.\n\nEleanor sits in the dimly lit The Wood-Paneled Study, looking at a photo on the laptop with temple photo. A faint smile touches her lips as she gazes at the image of Lila smiling warmly with the temples of The Golden Pagoda in the background.",
+        "the damask wallpaper: Cream-colored, matte-finish wallpaper with a subtle, repeating damask pattern in a slightly darker tan hue.\nthe vintage brass lamp: Vintage table lamp with a tarnished, golden-brass finish, featuring a round, tiered base, a slender curved neck, and a pleated, bell-shaped cream fabric lampshade.\n\nA medium close-up of Martin sitting in The Study at night. A pained, emotional smile forms on his face as he looks at the screen of the open laptop, which is just out of frame. The background features the vintage brass lamp.",
+        "the piece of black tape: Small, rectangular piece of black electrical tape.\nthe temple video footage: Video footage showing a woman with a flower in her hair at a Thai temple.\n\nOver-the-shoulder shot in The Wood-Paneled Study. Omar places the piece of black tape over the webcam of the open laptop. The screen of the open laptop brightly illuminates the dim room, displaying the temple video footage of Lila. Eleanor stands behind Omar, leaning in slightly to get a better look at the laptop screen."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up in The Wood-Paneled Study, Arthur sits in front of the open laptop, with the small glass bottle visible. He holds the empty small glass bottle upside down over the rocks glass, trying in vain to pour out the last drops.",
+        "Arthur sits on the worn leather sofa and pours the clear liquid from the small glass bottle into the rocks glass. His gaze is fixed on the open laptop, which rests on a table in front of him. Omar stands nearby, watching Arthur as his jaw tightens.",
+        "Over-the-shoulder view of Arthur in The Wood-Paneled Study. He lifts the rocks glass to take a drink while looking at the open laptop. On the laptop screen, Eleanor and Sophie are on a video call, smiling and talking, with the temples of The Golden Pagoda visible behind them.",
+        "Arthur stares intently at the screen of the open laptop, his eyes scanning the content as he holds the rocks glass.",
+        "Eleanor sits in the dimly lit The Wood-Paneled Study, looking at a photo on the laptop with temple photo. A faint smile touches her lips as she gazes at the image of Lila smiling warmly with the temples of The Golden Pagoda in the background.",
+        "A medium close-up of Martin sitting in The Study at night. A pained, emotional smile forms on his face as he looks at the screen of the open laptop, which is just out of frame. The background features the vintage brass lamp.",
+        "Over-the-shoulder shot in The Wood-Paneled Study. Omar places the piece of black tape over the webcam of the open laptop. The screen of the open laptop brightly illuminates the dim room, displaying the temple video footage of Lila. Eleanor stands behind Omar, leaning in slightly to get a better look at the laptop screen."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Arthur",
+        "Omar",
+        "the captive man"
+      ],
+      "places": [
+        "The Hospital Corridor"
+      ],
+      "objects": [
+        "the light blue scrubs",
+        "the metal basin with water",
+        "the dark jacket"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Arthur",
+        "Martin"
+      ],
+      "places": [
+        "The Unfurnished Room"
+      ],
+      "objects": []
+    },
+    "2:2": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Unfurnished Room"
+      ],
+      "objects": [
+        "the red plaid shirt"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Unfurnished Room"
+      ],
+      "objects": [
+        "the brown collared jacket"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Wood-Paneled Study"
+      ],
+      "objects": [
+        "the open laptop",
+        "the small glass bottle",
+        "the rocks glass"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Arthur",
+        "Omar"
+      ],
+      "places": [
+        "The Wood-Paneled Study"
+      ],
+      "objects": [
+        "the open laptop",
+        "the small glass bottle",
+        "the rocks glass",
+        "the worn leather sofa",
+        "the clear liquid"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Arthur",
+        "Eleanor",
+        "Sophie"
+      ],
+      "places": [
+        "The Wood-Paneled Study",
+        "The Golden Pagoda"
+      ],
+      "objects": [
+        "the open laptop",
+        "the rocks glass"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Arthur"
+      ],
+      "places": [
+        "The Wood-Paneled Study"
+      ],
+      "objects": [
+        "the open laptop",
+        "the rocks glass"
+      ]
+    },
+    "3:5": {
+      "characters": [
+        "Eleanor",
+        "Lila"
+      ],
+      "places": [
+        "The Wood-Paneled Study",
+        "The Golden Pagoda"
+      ],
+      "objects": [
+        "the laptop with temple photo"
+      ]
+    },
+    "3:6": {
+      "characters": [
+        "Martin"
+      ],
+      "places": [
+        "The Study"
+      ],
+      "objects": [
+        "the open laptop",
+        "the vintage brass lamp"
+      ]
+    },
+    "3:7": {
+      "characters": [
+        "Eleanor",
+        "Omar",
+        "Lila"
+      ],
+      "places": [
+        "The Wood-Paneled Study"
+      ],
+      "objects": [
+        "the piece of black tape",
+        "the open laptop",
+        "the temple video footage"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Arthur",
+      "label": "Character 1",
+      "description": "Middle-aged man with short light-brown hair, wearing a brown polo shirt."
+    },
+    "Character 2": {
+      "name": "Leo",
+      "label": "Character 2",
+      "description": "Man wearing a white graphic t-shirt with visible tattoos on his arm."
+    },
+    "Character 3": {
+      "name": "Eleanor",
+      "label": "Character 3",
+      "description": "Older woman with short white hair, wearing a blue floral top and a beige cardigan."
+    },
+    "Character 4": {
+      "name": "Omar",
+      "label": "Character 4",
+      "description": "Man with short, dark, styled hair, wearing a light blue medical uniform with a white-trimmed collar."
+    },
+    "Character 5": {
+      "name": "Sophie",
+      "label": "Character 5",
+      "description": "Woman."
+    },
+    "Character 6": {
+      "name": "Martin",
+      "label": "Character 6",
+      "description": "Man with reddish, thinning hair wearing a brown jacket."
+    },
+    "Character 7": {
+      "name": "Lila",
+      "label": "Character 7",
+      "description": "Woman with a flower in her hair."
+    },
+    "Location 1": {
+      "name": "The Hospital Corridor",
+      "label": "Location 1",
+      "description": "A cluttered hospital storage room with metal shelving and cardboard boxes, opening into a bright, sterile institutional hallway with vinyl flooring and overhead fluorescent light fixtures, adjacent to a public waiting area with rows of chairs."
+    },
+    "Location 2": {
+      "name": "The Unfurnished Room",
+      "label": "Location 2",
+      "description": "A generic and unspecified indoor location."
+    },
+    "Location 3": {
+      "name": "The Wood-Paneled Study",
+      "label": "Location 3",
+      "description": "A room with wood-paneled walls and an open laptop."
+    },
+    "Location 4": {
+      "name": "The Golden Pagoda",
+      "label": "Location 4",
+      "description": "A complex of ornate Thai temples featuring multi-tiered, steeply-pitched roofs with gilded spires, white stucco walls, intricate carvings, and decorative, colorful mirrored tiles."
+    },
+    "Object 1": {
+      "name": "the light blue scrubs",
+      "label": "Object 1",
+      "description": "A two-piece medical uniform in a solid light blue color, consisting of a simple, loose-fitting top and matching trousers"
+    },
+    "Object 2": {
+      "name": "the metal basin with water",
+      "label": "Object 2",
+      "description": "A round, silver-colored metal basin filled with clear water, containing a damp, white cloth."
+    },
+    "Object 3": {
+      "name": "the dark jacket",
+      "label": "Object 3",
+      "description": "Dark-colored jacket"
+    },
+    "Object 4": {
+      "name": "the red plaid shirt",
+      "label": "Object 4",
+      "description": "Long-sleeved, collared, button-front shirt with a red and black plaid pattern."
+    },
+    "Object 5": {
+      "name": "the brown collared jacket",
+      "label": "Object 5",
+      "description": "Brown jacket with a dark, textured collar."
+    },
+    "Object 6": {
+      "name": "the open laptop",
+      "label": "Object 6",
+      "description": "A standard laptop computer."
+    },
+    "Object 7": {
+      "name": "the rocks glass",
+      "label": "Object 7",
+      "description": "Short, wide, cylindrical rocks glass made of clear glass with a thick, heavy base."
+    },
+    "Object 8": {
+      "name": "the small glass bottle",
+      "label": "Object 8",
+      "description": "Small, clear glass bottle."
+    },
+    "Object 9": {
+      "name": "the worn leather sofa",
+      "label": "Object 9",
+      "description": "A low-profile, rectangular-bodied three-seater sofa upholstered in worn, dark brown leather with a cracked texture, featuring blocky armrests and two flat seat cushions."
+    },
+    "Object 10": {
+      "name": "the clear liquid",
+      "label": "Object 10",
+      "description": "Clear, colorless liquid"
+    },
+    "Object 11": {
+      "name": "the laptop with temple photo",
+      "label": "Object 11",
+      "description": "A laptop computer with a photo of a person and Thai temples on the screen."
+    },
+    "Object 12": {
+      "name": "the damask wallpaper",
+      "label": "Object 12",
+      "description": "Cream-colored, matte-finish wallpaper with a subtle, repeating damask pattern in a slightly darker tan hue"
+    },
+    "Object 13": {
+      "name": "the vintage brass lamp",
+      "label": "Object 13",
+      "description": "Vintage table lamp with a tarnished, golden-brass finish, featuring a round, tiered base, a slender curved neck, and a pleated, bell-shaped cream fabric lampshade."
+    },
+    "Object 14": {
+      "name": "the piece of black tape",
+      "label": "Object 14",
+      "description": "Small, rectangular piece of black electrical tape."
+    },
+    "Object 15": {
+      "name": "the temple video footage",
+      "label": "Object 15",
+      "description": "Video footage showing a woman with a flower in her hair at a Thai temple."
+    },
+    "Gen_the captive man": {
+      "name": "the captive man",
+      "label": "Gen_the captive man",
+      "description": "A pale, unshaven man with hollow eyes wears a flimsy, open-backed hospital gown."
+    }
+  },
+  "_window_shot_ids": [
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0009",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0010",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0011",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0012",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0013",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0014",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0015",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0016",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0017",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0018",
+    "000556c2-b7ff-3fba-ba09-8606933c2a1d__run740__i70_j85__T180__shot0019"
+  ],
+  "_num_scenes": 3,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Arthur",
+    "Character 2": "Leo",
+    "Character 3": "Eleanor",
+    "Character 4": "Omar",
+    "Character 5": "Sophie",
+    "Character 6": "Martin",
+    "Character 7": "Lila",
+    "Location 1": "The Hospital Corridor",
+    "Location 2": "The Unfurnished Room",
+    "Location 3": "The Wood-Paneled Study",
+    "Location 4": "The Golden Pagoda",
+    "Object 1": "the light blue scrubs",
+    "Object 10": "the clear liquid",
+    "Object 11": "the laptop with temple photo",
+    "Object 12": "the damask wallpaper",
+    "Object 13": "the vintage brass lamp",
+    "Object 14": "the piece of black tape",
+    "Object 15": "the temple video footage",
+    "Object 2": "the metal basin with water",
+    "Object 3": "the dark jacket",
+    "Object 4": "the red plaid shirt",
+    "Object 5": "the brown collared jacket",
+    "Object 6": "the open laptop",
+    "Object 7": "the rocks glass",
+    "Object 8": "the small glass bottle",
+    "Object 9": "the worn leather sofa"
+  }
+}

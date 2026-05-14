@@ -1,0 +1,336 @@
+{
+  "story_name": "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600",
+  "story_overview": "Chloe, a young girl, has a fun-filled day with four colorful creatures: Tingo, Poppy, Zippy, and Gigi. They play together in a large indoor playroom with a ball pit and slides. The creatures also dance and play outside their dome home in the magical Sun Meadow, watched over by the smiling, baby-faced sun, Sunny.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Tingo: A large, rounded character in a plush, full-body purple suit. It has a silver rectangular screen on its abdomen and a single antenna on its head shaped like an inverted triangle.\nThe Playroom: A colorful indoor playroom featuring a bright red floor, a red door, and a large blue slide.\nThe Hillside Dome: A surreal, dome-shaped house covered in green grass, built into the side of a vibrant green rolling hill dotted with colorful flowers\n\nMedium shot of Tingo happily dancing and singing in The Playroom.",
+        "Poppy: A small, stout character in a plush, full-body red suit with a round face and large dark eyes. It has a silver rectangular screen on its belly and a single thin antenna on its head that terminates in a circle.\nChloe: Young girl with curly hair and a pink bow, wearing a pink short-sleeved t-shirt.\nthe soft play equipment: A collection of brightly colored soft play equipment in various shapes, including foam blocks, wedges, and tunnels, all covered in smooth vinyl.\nthe pastel wall decor: Large wall decorations with a colorful pastel pattern dominated by shades of green.\n\nInside The Playroom, Chloe jumps up and down excitedly beside Poppy. The room is filled with the soft play equipment and the walls are covered with the pastel wall decor.",
+        "Gigi: A large, plump character in a plush, full-body bright yellow suit with a simple child-like face. It has a silver rectangular television screen on its abdomen and a single curly, spiral-shaped antenna on its head.\n\nInside The Playroom, decorated with the pastel wall decor, Chloe leaps into the colorful ball pit where Tingo and Gigi are already playing and tossing colorful balls.",
+        "Zippy: A large, rounded character in a plush, full-body bright green suit. It has a silver rectangular screen on its stomach and a straight, stick-like antenna protruding from its head.\n\nIn The Playroom of The Hillside Dome, Zippy and Poppy dance in front of the colorful ball pit. Inside the pit, Chloe and Gigi toss balls around and laugh.",
+        "Sunny: A stylized sun with the smiling face of a baby\nEye-level medium shot in The Playroom. Chloe smiles in the foreground, sitting amidst the balls in the colorful ball pit. In the background, Tingo, Poppy, Zippy, and Gigi jump energetically with their arms raised in the air, and Sunny bobs energetically in the air."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Medium shot of Tingo happily dancing and singing in The Playroom.",
+        "Inside The Playroom, Chloe jumps up and down excitedly beside Poppy. The room is filled with the soft play equipment and the walls are covered with the pastel wall decor.",
+        "Inside The Playroom, decorated with the pastel wall decor, Chloe leaps into the colorful ball pit where Tingo and Gigi are already playing and tossing colorful balls.",
+        "In The Playroom of The Hillside Dome, Zippy and Poppy dance in front of the colorful ball pit. Inside the pit, Chloe and Gigi toss balls around and laugh.",
+        "Eye-level medium shot in The Playroom. Chloe smiles in the foreground, sitting amidst the balls in the colorful ball pit. In the background, Tingo, Poppy, Zippy, and Gigi jump energetically with their arms raised in the air, and Sunny bobs energetically in the air."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Sunny Sky: Bright blue sky with fluffy white clouds and a stylized, glowing sun with radiating light beams.\n\nExtreme close-up of Sunny in The Sunny Sky. Sunny smiles and giggles as bright light beams radiate outwards against the blue sky and fluffy clouds."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up of Sunny in The Sunny Sky. Sunny smiles and giggles as bright light beams radiate outwards against the blue sky and fluffy clouds."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Sun Meadow: A surreal outdoor landscape of rolling, bright green hills under a sky that features a stylized sun with a smiling baby's face.\n\nIn the vibrant, green landscape of The Sun Meadow, the doors of The Hillside Dome open. Tingo emerges, runs forward, and begins to dance under the sky with its smiling baby-faced sun.",
+        "Sunny shines brightly in the sky above The Sun Meadow. In a medium long shot, Tingo dances in a circle in the field, joyfully raising its arms as it moves, with The Hillside Dome nestled into a hill in the background.",
+        "Tingo and Poppy dance joyfully in The Sun Meadow, waving their arms. They gather for a hug, then break apart and walk in a single file line towards The Hillside Dome.",
+        "the intricate blue door: Large, round, arched blue door with an intricate, repeating raised pattern of concentric circles and geometric shapes across its surface.\nWide shot of The Hillside Dome set into a rolling green hill in The Sun Meadow. Tingo, Zippy, Poppy, and Chloe run towards the house and enter through the intricate blue door. The door closes, then reopens, and the four characters run back out into the sunny landscape one by one.",
+        "In the vibrant landscape of The Sun Meadow, Tingo stands on a grassy hill with The Hillside Dome visible in the background. Tingo turns to face the camera, displaying a smiling face on its abdominal screen and raising both arms cheerfully.",
+        "A medium shot of Tingo standing on a lush, rolling green hill in The Sun Meadow. Tingo turns its head and waves gently. In the background, The Hillside Dome is built into the hillside beneath a sky that features a stylized sun with a smiling baby's face."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In the vibrant, green landscape of The Sun Meadow, the doors of The Hillside Dome open. Tingo emerges, runs forward, and begins to dance under the sky with its smiling baby-faced sun.",
+        "Sunny shines brightly in the sky above The Sun Meadow. In a medium long shot, Tingo dances in a circle in the field, joyfully raising its arms as it moves, with The Hillside Dome nestled into a hill in the background.",
+        "Tingo and Poppy dance joyfully in The Sun Meadow, waving their arms. They gather for a hug, then break apart and walk in a single file line towards The Hillside Dome.",
+        "Wide shot of The Hillside Dome set into a rolling green hill in The Sun Meadow. Tingo, Zippy, Poppy, and Chloe run towards the house and enter through the intricate blue door. The door closes, then reopens, and the four characters run back out into the sunny landscape one by one.",
+        "In the vibrant landscape of The Sun Meadow, Tingo stands on a grassy hill with The Hillside Dome visible in the background. Tingo turns to face the camera, displaying a smiling face on its abdominal screen and raising both arms cheerfully.",
+        "A medium shot of Tingo standing on a lush, rolling green hill in The Sun Meadow. Tingo turns its head and waves gently. In the background, The Hillside Dome is built into the hillside beneath a sky that features a stylized sun with a smiling baby's face."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Tingo"
+      ],
+      "places": [
+        "The Playroom",
+        "The Hillside Dome"
+      ],
+      "objects": []
+    },
+    "1:2": {
+      "characters": [
+        "Poppy",
+        "Chloe"
+      ],
+      "places": [
+        "The Playroom"
+      ],
+      "objects": [
+        "the soft play equipment",
+        "the pastel wall decor"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Chloe",
+        "Tingo",
+        "Gigi"
+      ],
+      "places": [
+        "The Playroom"
+      ],
+      "objects": [
+        "the pastel wall decor",
+        "the colorful ball pit",
+        "the soft play equipment"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Chloe",
+        "Zippy",
+        "Poppy",
+        "Gigi"
+      ],
+      "places": [
+        "The Playroom",
+        "The Hillside Dome"
+      ],
+      "objects": [
+        "the colorful ball pit"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Tingo",
+        "Chloe",
+        "Sunny",
+        "Zippy",
+        "Poppy",
+        "Gigi"
+      ],
+      "places": [
+        "The Playroom"
+      ],
+      "objects": [
+        "the colorful ball pit"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Sunny"
+      ],
+      "places": [
+        "The Sunny Sky"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Tingo"
+      ],
+      "places": [
+        "The Sun Meadow",
+        "The Hillside Dome"
+      ],
+      "objects": []
+    },
+    "3:2": {
+      "characters": [
+        "Sunny",
+        "Tingo"
+      ],
+      "places": [
+        "The Sun Meadow",
+        "The Hillside Dome"
+      ],
+      "objects": []
+    },
+    "3:3": {
+      "characters": [
+        "Poppy",
+        "Tingo"
+      ],
+      "places": [
+        "The Sun Meadow",
+        "The Hillside Dome"
+      ],
+      "objects": []
+    },
+    "3:4": {
+      "characters": [
+        "Tingo",
+        "Chloe",
+        "Zippy",
+        "Poppy"
+      ],
+      "places": [
+        "The Hillside Dome",
+        "The Sun Meadow"
+      ],
+      "objects": [
+        "the intricate blue door"
+      ]
+    },
+    "3:5": {
+      "characters": [
+        "Tingo"
+      ],
+      "places": [
+        "The Sun Meadow",
+        "The Hillside Dome"
+      ],
+      "objects": []
+    },
+    "3:6": {
+      "characters": [
+        "Tingo"
+      ],
+      "places": [
+        "The Sun Meadow",
+        "The Hillside Dome"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Chloe",
+      "label": "Character 1",
+      "description": "Young girl with curly hair and a pink bow, wearing a pink short-sleeved t-shirt."
+    },
+    "Character 2": {
+      "name": "Sunny",
+      "label": "Character 2",
+      "description": "A stylized sun with the smiling face of a baby"
+    },
+    "Character 3": {
+      "name": "Tingo",
+      "label": "Character 3",
+      "description": "A large, rounded character in a plush, full-body purple suit. It has a silver rectangular screen on its abdomen and a single antenna on its head shaped like an inverted triangle."
+    },
+    "Character 4": {
+      "name": "Poppy",
+      "label": "Character 4",
+      "description": "A small, stout character in a plush, full-body red suit with a round face and large dark eyes. It has a silver rectangular screen on its belly and a single thin antenna on its head that terminates in a circle."
+    },
+    "Character 5": {
+      "name": "Zippy",
+      "label": "Character 5",
+      "description": "A large, rounded character in a plush, full-body bright green suit. It has a silver rectangular screen on its stomach and a straight, stick-like antenna protruding from its head."
+    },
+    "Character 6": {
+      "name": "Gigi",
+      "label": "Character 6",
+      "description": "A large, plump character in a plush, full-body bright yellow suit with a simple child-like face. It has a silver rectangular television screen on its abdomen and a single curly, spiral-shaped antenna on its head."
+    },
+    "Location 1": {
+      "name": "The Sun Meadow",
+      "label": "Location 1",
+      "description": "A surreal outdoor landscape of rolling, bright green hills under a sky that features a stylized sun with a smiling baby's face."
+    },
+    "Location 2": {
+      "name": "The Hillside Dome",
+      "label": "Location 2",
+      "description": "A surreal, dome-shaped house covered in green grass, built into the side of a vibrant green rolling hill dotted with colorful flowers"
+    },
+    "Location 3": {
+      "name": "The Playroom",
+      "label": "Location 3",
+      "description": "A colorful indoor playroom featuring a bright red floor, a red door, and a large blue slide."
+    },
+    "Location 4": {
+      "name": "The Sunny Sky",
+      "label": "Location 4",
+      "description": "Bright blue sky with fluffy white clouds and a stylized, glowing sun with radiating light beams."
+    },
+    "Object 3": {
+      "name": "the intricate blue door",
+      "label": "Object 3",
+      "description": "Large, round, arched blue door with an intricate, repeating raised pattern of concentric circles and geometric shapes across its surface."
+    },
+    "Object 5": {
+      "name": "the purple creature suit",
+      "label": "Object 5",
+      "description": "Adult-sized, one-piece purple jumpsuit"
+    },
+    "Object 6": {
+      "name": "the pink t-shirt",
+      "label": "Object 6",
+      "description": "Child's short-sleeved pink T-shirt"
+    },
+    "Object 7": {
+      "name": "the colorful ball pit",
+      "label": "Object 7",
+      "description": "Large ball pit structure with soft, red padded walls, filled with a large quantity of small, brightly colored plastic balls"
+    },
+    "Object 8": {
+      "name": "the soft play equipment",
+      "label": "Object 8",
+      "description": "A collection of brightly colored soft play equipment in various shapes, including foam blocks, wedges, and tunnels, all covered in smooth vinyl."
+    },
+    "Object 9": {
+      "name": "the pastel wall decor",
+      "label": "Object 9",
+      "description": "Large wall decorations with a colorful pastel pattern dominated by shades of green."
+    }
+  },
+  "_window_shot_ids": [
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0084",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0085",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0086",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0087",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0088",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0089",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0090",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0091",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0092",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0093",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0094",
+    "00045fec-573d-3dec-8d53-e2c18aa4e9fa__run582__i0_j47__T600__shot0095"
+  ],
+  "_num_scenes": 3,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Chloe",
+    "Character 2": "Sunny",
+    "Character 3": "Tingo",
+    "Character 4": "Poppy",
+    "Character 5": "Zippy",
+    "Character 6": "Gigi",
+    "Location 1": "The Sun Meadow",
+    "Location 2": "The Hillside Dome",
+    "Location 3": "The Playroom",
+    "Location 4": "The Sunny Sky",
+    "Object 1": "the smiling baby sun",
+    "Object 10": "the dome-shaped structure",
+    "Object 2": "the grassy dome home",
+    "Object 3": "the intricate blue door",
+    "Object 4": "the four colorful creatures",
+    "Object 5": "the purple creature suit",
+    "Object 6": "the pink t-shirt",
+    "Object 7": "the colorful ball pit",
+    "Object 8": "the soft play equipment",
+    "Object 9": "the pastel wall decor"
+  }
+}

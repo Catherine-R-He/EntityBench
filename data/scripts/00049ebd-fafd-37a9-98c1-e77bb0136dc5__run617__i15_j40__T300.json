@@ -1,0 +1,437 @@
+{
+  "story_name": "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300",
+  "story_overview": "Legendary motorcycle racer Luca, known as 'The Doctor', navigates a chaotic race season fraught with peril. He endures multiple high-speed crashes, some involving his rival Javier, leading to dramatic tumbles and wrecked machinery. The story culminates with Luca in the pit box, revealing a personal token hidden beneath his racing suit.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Luca: A male motorcycle racer with a full-body yellow and blue racing suit featuring prominent 'Yamaha' branding and the number '46', and a matching helmet.\nThe Grandstand Circuit: Outdoor racetrack with a winding asphalt course bordered by a large, spectator-filled grandstand.\nthe race intro graphic: A visual perspective showing the clear windscreen, handlebars, and front fairing of a racing motorcycle, with a text graphic overlay reading 'Valencia, Spain. Race 17 of 17'.\nAn onboard, rear-facing close-up on a speeding motorcycle focuses on the back of `Luca`. At `The Grandstand Circuit`, `Luca` leans dramatically into a curve, with 'THE DOCTOR' written across the shoulders of the yellow and blue racing suit."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "An onboard, rear-facing close-up on a speeding motorcycle focuses on the back of `Luca`. At `The Grandstand Circuit`, `Luca` leans dramatically into a curve, with 'THE DOCTOR' written across the shoulders of the yellow and blue racing suit."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Javier: A male motorcycle racer of athletic build with a full-body professional racing suit, primarily red and white with the number '24', and a matching helmet with a dark visor.\nKen: A track marshal with an orange and white uniform.\nVictory Straight: Outdoor professional racetrack with a long asphalt straightaway, a prominent finish line painted on the track surface, and large yellow Bwin advertising banners lining the sidelines.\n\nA dejected `Luca`, wearing the yellow and blue racing suit, is bent over on the racetrack, slowly shaking his head. In the background, `Javier` watches with arms crossed, shifting his weight, while `Ken`, wearing his orange and white marshal's uniform, stands by, slowly scanning the area."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A dejected `Luca`, wearing the yellow and blue racing suit, is bent over on the racetrack, slowly shaking his head. In the background, `Javier` watches with arms crossed, shifting his weight, while `Ken`, wearing his orange and white marshal's uniform, stands by, slowly scanning the area."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "the damaged red motorcycle: Heavily damaged sport motorcycle with a bent front wheel, scuffed and cracked red plastic body fairings, a dented metal fuel tank, and twisted handlebars.\nthe crash debris: A collection of twisted metal fragments, shattered pieces of plastic fairing, and other broken motorcycle components.\n\nThe camera pans slowly across the bent front wheel of `the damaged red motorcycle`, which lies on the paved surface of the racetrack in `The Grandstand Circuit`. The camera movement reveals fragments of `the crash debris` scattered on the ground around Javier's feet. In the background, `the white panel van` is parked on the trackside.",
+        "the red formula race car: Sleek, low-profile open-wheel race car with a bright red aerodynamic body, large front and rear wings, and numerous white and black sponsor decals across its surface.\n\nAt The Grandstand Circuit, Luca stands beside the track, turning his head to follow the red formula race car as it speeds down the asphalt, creating heavy motion blur and kicking up a cloud of dust as it races past the green tire wall in the background.",
+        "the wrecked racing motorcycle: A wrecked racing motorcycle with twisted wheels, a bent metal chassis, and scuffed, broken bodywork covered in sponsor decals.\n\nAt `The Grandstand Circuit`, `Luca` slides across a large gravel trap alongside `the wrecked racing motorcycle`, kicking up a spray of gravel. As `Luca` comes to a stop on his knees, `Javier` speeds past on his motorcycle in the foreground.",
+        "At `The Grandstand Circuit`, `Luca` sits on the ground in a gravel trap next to the track. `Luca` hangs his head in disappointment as a medic in a high-visibility vest approaches from behind."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "The camera pans slowly across the bent front wheel of `the damaged red motorcycle`, which lies on the paved surface of the racetrack in `The Grandstand Circuit`. The camera movement reveals fragments of `the crash debris` scattered on the ground around Javier's feet. In the background, `the white panel van` is parked on the trackside.",
+        "At The Grandstand Circuit, Luca stands beside the track, turning his head to follow the red formula race car as it speeds down the asphalt, creating heavy motion blur and kicking up a cloud of dust as it races past the green tire wall in the background.",
+        "At `The Grandstand Circuit`, `Luca` slides across a large gravel trap alongside `the wrecked racing motorcycle`, kicking up a spray of gravel. As `Luca` comes to a stop on his knees, `Javier` speeds past on his motorcycle in the foreground.",
+        "At `The Grandstand Circuit`, `Luca` sits on the ground in a gravel trap next to the track. `Luca` hangs his head in disappointment as a medic in a high-visibility vest approaches from behind."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Winner's Circle: An outdoor trackside interview area with a backdrop of large sponsor banners prominently featuring Monster Energy and MotoGP branding.\nthe purple sponsor polo: Short-sleeved purple polo shirt with a collar and Monster Energy and MotoGP logos printed on it.\nthe green sponsor banners: Green sponsor banners with 'Tissot', 'Freixenet', and 'Bridgestone' logos.\n\nIn The Winner's Circle, Javier speaks during an interview. He is standing in front of the Monster Energy and MotoGP banners."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Winner's Circle, Javier speaks during an interview. He is standing in front of the Monster Energy and MotoGP banners."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the motorcycle pile-up: A tangled pile of modern racing motorcycles in various states of damage, with scraped and shattered multi-colored fairings, twisted metal frames, broken components, and prominent sponsor decals visible on the bodywork.\n\nOn the winding course of `The Grandstand Circuit`, `Javier` and `Luca` collide while rounding a corner at high speed, their bikes skidding across the asphalt. Another racer, unable to avoid the collision, crashes directly into the fallen riders, creating `the motorcycle pile-up`.",
+        "the scuffed sport motorcycle: A white and black sport motorcycle with significant scrapes and scuff marks along its fairings and chassis.\nHigh-angle shot at `The Grandstand Circuit` during a motorcycle race. On a turn, `Javier`, wearing the red and white racing suit, loses control and crashes. His motorcycle, `the scuffed sport motorcycle`, slides across the asphalt creating sparks while `Javier` slides into a gravel trap. `Luca`, racing close behind, skillfully swerves to avoid the collision."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "On the winding course of `The Grandstand Circuit`, `Javier` and `Luca` collide while rounding a corner at high speed, their bikes skidding across the asphalt. Another racer, unable to avoid the collision, crashes directly into the fallen riders, creating `the motorcycle pile-up`.",
+        "High-angle shot at `The Grandstand Circuit` during a motorcycle race. On a turn, `Javier`, wearing the red and white racing suit, loses control and crashes. His motorcycle, `the scuffed sport motorcycle`, slides across the asphalt creating sparks while `Javier` slides into a gravel trap. `Luca`, racing close behind, skillfully swerves to avoid the collision."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Qatar Speed Ring: Modern professional racetrack featuring a paved course, an adjacent gravel trap, and large, prominent Qatar bid banners.\nthe crashed sport motorcycle: Racing-style motorcycle with severe crash damage, characterized by deep scuffs, scrapes, and gouges along its plastic fairings and metal chassis.\n\nHigh angle on `Qatar Speed Ring` at night. `Luca` and his motorcycle, `the crashed sport motorcycle`, slide together across the gravel trap. Nearby, `Javier` also slides across the gravel. As `the crashed sport motorcycle` grinds against the surface, it throws a brilliant shower of sparks into the darkness."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High angle on `Qatar Speed Ring` at night. `Luca` and his motorcycle, `the crashed sport motorcycle`, slide together across the gravel trap. Nearby, `Javier` also slides across the gravel. As `the crashed sport motorcycle` grinds against the surface, it throws a brilliant shower of sparks into the darkness."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "the tangled wreckage: A tangled pile of several wrecked racing motorcycles with brightly colored, shattered plastic fairings, bent metal frames, twisted handlebars, and scuffed paint revealing scraped sponsor decals.\n\nWide shot at `The Grandstand Circuit` of a multi-rider crash. `Luca` and `Javier` tumble across a gravel trap, surrounded by `the tangled wreckage`. `Luca` scrambles to his feet and runs away from the crash site."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wide shot at `The Grandstand Circuit` of a multi-rider crash. `Luca` and `Javier` tumble across a gravel trap, surrounded by `the tangled wreckage`. `Luca` scrambles to his feet and runs away from the crash site."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "The Yamaha Pit Box: Interior of a professional racing pit garage with polished concrete floors, featuring prominent Yamaha and Fiat logos and branding, equipped with overhead heat lamps, workbenches, and organized tool stations.\nthe heart sticker chest protector: Bright yellow chest protector with a single red heart sticker.\n\nInside The Yamaha Pit Box, Luca pulls down the zipper of his racing suit, revealing the heart sticker chest protector underneath. In the background of the busy garage, Javier speaks to Ken."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Yamaha Pit Box, Luca pulls down the zipper of his racing suit, revealing the heart sticker chest protector underneath. In the background of the busy garage, Javier speaks to Ken."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Luca"
+      ],
+      "places": [
+        "The Grandstand Circuit"
+      ],
+      "objects": [
+        "the yellow and blue racing suit"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Luca",
+        "Javier",
+        "Ken"
+      ],
+      "places": [
+        "Victory Straight"
+      ],
+      "objects": [
+        "the yellow and blue racing suit"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Javier"
+      ],
+      "places": [
+        "The Grandstand Circuit"
+      ],
+      "objects": [
+        "the damaged red motorcycle",
+        "the crash debris",
+        "the white panel van"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Luca"
+      ],
+      "places": [
+        "The Grandstand Circuit"
+      ],
+      "objects": [
+        "the red formula race car",
+        "the green tire wall"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Luca",
+        "Javier"
+      ],
+      "places": [
+        "The Grandstand Circuit"
+      ],
+      "objects": [
+        "the wrecked racing motorcycle"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Luca"
+      ],
+      "places": [
+        "The Grandstand Circuit"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Javier"
+      ],
+      "places": [
+        "The Winner's Circle"
+      ],
+      "objects": []
+    },
+    "5:1": {
+      "characters": [
+        "Luca",
+        "Javier"
+      ],
+      "places": [
+        "The Grandstand Circuit"
+      ],
+      "objects": [
+        "the motorcycle pile-up"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Luca",
+        "Javier"
+      ],
+      "places": [
+        "The Grandstand Circuit"
+      ],
+      "objects": [
+        "the scuffed sport motorcycle",
+        "the red and white racing suit"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Luca",
+        "Javier"
+      ],
+      "places": [
+        "Qatar Speed Ring"
+      ],
+      "objects": [
+        "the crashed sport motorcycle"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Luca",
+        "Javier"
+      ],
+      "places": [
+        "The Grandstand Circuit"
+      ],
+      "objects": [
+        "the tangled wreckage"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Javier",
+        "Ken",
+        "Luca"
+      ],
+      "places": [
+        "The Yamaha Pit Box"
+      ],
+      "objects": [
+        "the heart sticker chest protector"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 2": {
+      "name": "Javier",
+      "label": "Character 2",
+      "description": "A male motorcycle racer of athletic build with a full-body professional racing suit, primarily red and white with the number '24', and a matching helmet with a dark visor."
+    },
+    "Character 3": {
+      "name": "Ken",
+      "label": "Character 3",
+      "description": "A track marshal with an orange and white uniform."
+    },
+    "Character 6": {
+      "name": "Luca",
+      "label": "Character 6",
+      "description": "A male motorcycle racer with a full-body yellow and blue racing suit featuring prominent 'Yamaha' branding and the number '46', and a matching helmet."
+    },
+    "Location 1": {
+      "name": "Victory Straight",
+      "label": "Location 1",
+      "description": "Outdoor professional racetrack with a long asphalt straightaway, a prominent finish line painted on the track surface, and large yellow Bwin advertising banners lining the sidelines."
+    },
+    "Location 2": {
+      "name": "The Grandstand Circuit",
+      "label": "Location 2",
+      "description": "Outdoor racetrack with a winding asphalt course bordered by a large, spectator-filled grandstand."
+    },
+    "Location 3": {
+      "name": "The Yamaha Pit Box",
+      "label": "Location 3",
+      "description": "Interior of a professional racing pit garage with polished concrete floors, featuring prominent Yamaha and Fiat logos and branding, equipped with overhead heat lamps, workbenches, and organized tool stations."
+    },
+    "Location 4": {
+      "name": "The Winner's Circle",
+      "label": "Location 4",
+      "description": "An outdoor trackside interview area with a backdrop of large sponsor banners prominently featuring Monster Energy and MotoGP branding."
+    },
+    "Location 5": {
+      "name": "Qatar Speed Ring",
+      "label": "Location 5",
+      "description": "Modern professional racetrack featuring a paved course, an adjacent gravel trap, and large, prominent Qatar bid banners."
+    },
+    "Object 1": {
+      "name": "the race intro graphic",
+      "label": "Object 1",
+      "description": "A visual perspective showing the clear windscreen, handlebars, and front fairing of a racing motorcycle, with a text graphic overlay reading 'Valencia, Spain. Race 17 of 17'"
+    },
+    "Object 2": {
+      "name": "the green sponsor banners",
+      "label": "Object 2",
+      "description": "Green sponsor banners with 'Tissot', 'Freixenet', and 'Bridgestone' logos"
+    },
+    "Object 3": {
+      "name": "the orange team uniform",
+      "label": "Object 3",
+      "description": "Orange motorcycle racing team uniform"
+    },
+    "Object 4": {
+      "name": "the yellow and blue racing suit",
+      "label": "Object 4",
+      "description": "Full-body motorcycle racing suit, primarily yellow and blue, with prominent \"Yamaha\" branding and the number \"46"
+    },
+    "Object 5": {
+      "name": "the wrecked racing motorcycle",
+      "label": "Object 5",
+      "description": "A wrecked racing motorcycle with twisted wheels, a bent metal chassis, and scuffed, broken bodywork covered in sponsor decals."
+    },
+    "Object 6": {
+      "name": "the crash debris",
+      "label": "Object 6",
+      "description": "A collection of twisted metal fragments, shattered pieces of plastic fairing, and other broken motorcycle components."
+    },
+    "Object 7": {
+      "name": "the white panel van",
+      "label": "Object 7",
+      "description": "A plain white commercial panel van with black tires"
+    },
+    "Object 8": {
+      "name": "the damaged red motorcycle",
+      "label": "Object 8",
+      "description": "Heavily damaged sport motorcycle with a bent front wheel, scuffed and cracked red plastic body fairings, a dented metal fuel tank, and twisted handlebars."
+    },
+    "Object 9": {
+      "name": "the red formula race car",
+      "label": "Object 9",
+      "description": "Sleek, low-profile open-wheel race car with a bright red aerodynamic body, large front and rear wings, and numerous white and black sponsor decals across its surface."
+    },
+    "Object 10": {
+      "name": "the green tire wall",
+      "label": "Object 10",
+      "description": "A long barrier constructed from stacks of rubber car tires, all painted a uniform green color"
+    },
+    "Object 11": {
+      "name": "the purple sponsor polo",
+      "label": "Object 11",
+      "description": "Short-sleeved purple polo shirt with a collar and Monster Energy and MotoGP logos printed on it"
+    },
+    "Object 12": {
+      "name": "the motorcycle pile-up",
+      "label": "Object 12",
+      "description": "A tangled pile of modern racing motorcycles in various states of damage, with scraped and shattered multi-colored fairings, twisted metal frames, broken components, and prominent sponsor decals visible on the bodywork."
+    },
+    "Object 13": {
+      "name": "the red and white racing suit",
+      "label": "Object 13",
+      "description": "Red and white motorcycle racing suit"
+    },
+    "Object 14": {
+      "name": "the scuffed sport motorcycle",
+      "label": "Object 14",
+      "description": "A white and black sport motorcycle with significant scrapes and scuff marks along its fairings and chassis."
+    },
+    "Object 15": {
+      "name": "the crashed sport motorcycle",
+      "label": "Object 15",
+      "description": "Racing-style motorcycle with severe crash damage, characterized by deep scuffs, scrapes, and gouges along its plastic fairings and metal chassis."
+    },
+    "Object 16": {
+      "name": "the tangled wreckage",
+      "label": "Object 16",
+      "description": "A tangled pile of several wrecked racing motorcycles with brightly colored, shattered plastic fairings, bent metal frames, twisted handlebars, and scuffed paint revealing scraped sponsor decals."
+    },
+    "Object 17": {
+      "name": "the unzipped racing suit",
+      "label": "Object 17",
+      "description": "Blue and white Yamaha racing suit with 'YAMAHA' and 'FIAT' sponsor logos, worn partially unzipped to reveal a bright yellow chest protector with a single red heart sticker on it"
+    },
+    "Object 18": {
+      "name": "the heart sticker chest protector",
+      "label": "Object 18",
+      "description": "Bright yellow chest protector with a single red heart sticker."
+    }
+  },
+  "_window_shot_ids": [
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0035",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0036",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0037",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0038",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0039",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0040",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0041",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0042",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0043",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0044",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0046",
+    "00049ebd-fafd-37a9-98c1-e77bb0136dc5__run617__i15_j40__T300__shot0047"
+  ],
+  "_num_scenes": 8,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Marco",
+    "Character 2": "Javier",
+    "Character 3": "Ken",
+    "Character 4": "Alex",
+    "Character 5": "Riley",
+    "Character 6": "Luca",
+    "Character 7": "Dani",
+    "Location 1": "Victory Straight",
+    "Location 2": "The Grandstand Circuit",
+    "Location 3": "The Yamaha Pit Box",
+    "Location 4": "The Winner's Circle",
+    "Location 5": "Qatar Speed Ring",
+    "Object 1": "the race intro graphic",
+    "Object 10": "the green tire wall",
+    "Object 11": "the purple sponsor polo",
+    "Object 12": "the motorcycle pile-up",
+    "Object 13": "the red and white racing suit",
+    "Object 14": "the scuffed sport motorcycle",
+    "Object 15": "the crashed sport motorcycle",
+    "Object 16": "the tangled wreckage",
+    "Object 17": "the unzipped racing suit",
+    "Object 18": "the heart sticker chest protector",
+    "Object 2": "the green sponsor banners",
+    "Object 3": "the orange team uniform",
+    "Object 4": "the yellow and blue racing suit",
+    "Object 5": "the wrecked racing motorcycle",
+    "Object 6": "the crash debris",
+    "Object 7": "the white panel van",
+    "Object 8": "the damaged red motorcycle",
+    "Object 9": "the red formula race car"
+  }
+}

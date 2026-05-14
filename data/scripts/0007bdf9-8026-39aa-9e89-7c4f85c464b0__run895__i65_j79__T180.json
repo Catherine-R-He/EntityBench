@@ -1,0 +1,391 @@
+{
+  "story_name": "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180",
+  "story_overview": "Distressed, Clara finds an ally in Jax. They head to The Corner Bakery, where workers Nico and Henri, along with Maya and Arthur, become embroiled in their urgent situation. The group later flees in a delivery van, their journey marked by tension and concern as they drive towards an unknown destination.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Clara: Woman with her hair in a bun, wearing a beige jacket over a reddish-brown shirt with a white bow at the collar.\nThe Quiet Room: Indoor home setting featuring a curtain with a teddy bear pattern, a framed photograph of a woman, and a white flower arrangement.\nthe framed photograph: Framed photograph of a woman.\nthe white lily arrangement: An arrangement of white lilies and baby's breath with green fern leaves in a clear glass cylindrical vase.\nMedium shot of Clara standing in The Quiet Room with a distressed expression on her face, the framed photograph and the white lily arrangement on a nearby surface. She closes her eyes and clutches the collar of the beige jacket."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Clara standing in The Quiet Room with a distressed expression on her face, the framed photograph and the white lily arrangement on a nearby surface. She closes her eyes and clutches the collar of the beige jacket."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Jax: Man with spiky blonde hair wearing a black jacket and a chain necklace.\nThe Sunlit Office: Indoor setting defined by a window with horizontal blinds.\n\nClose-up shot of Jax in The Sunlit Office, speaking with an urgent expression on his face."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot of Jax in The Sunlit Office, speaking with an urgent expression on his face."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Nico: Young man with dark hair styled up, wearing a black shirt over a white t-shirt and a silver chain necklace.\nHenri: Older man with a receding hairline wearing a blue and white striped apron over his clothes.\nThe Corner Bakery: Bakery and cafe interior featuring a service counter, a glass-fronted display case, and a commercial refrigerator.\nthe white cello case: Large white hard-shell cello case with a contoured, cello-like shape.\nthe bakery counter: Large bakery counter with a built-in glass display case containing various cakes.\nthe pastry display case: Large, rectangular glass display case with metal edging and multiple internal shelves, laden with an assortment of decorated cakes, pastries, and tarts.\n\nInside The Corner Bakery, Clara and Jax enter from a side room. Jax carries the white cello case as they approach the bakery counter. Behind the counter, Nico and Henri are busy working, arranging items near the pastry display case.",
+        "Maya: Woman wearing a beige top.\nthe commercial refrigerator: Large, upright, stainless steel commercial refrigerator.\n\nMedium shot in The Corner Bakery. Maya, wearing the beige top, speaks while looking to the right. Beside her, Nico turns to look back over his shoulder with a concerned expression. Clara stands near them, next to the commercial refrigerator, her gaze shifting between them as she observes the conversation.",
+        "Nico, wearing an open black button-up shirt over a white t-shirt, Clara, wearing the beige jacket, and Jax, standing side-by-side, all turn their heads to look off-screen to the right with worried expressions. Nico stands in front of an arched doorway, and the commercial refrigerator is behind Jax.",
+        "Arthur: Older man wearing a light-colored vest over a white shirt.\n\nMedium shot in The Corner Bakery. Jax stands next to Arthur and Clara. All three turn to look off-screen, their expressions becoming serious. the pastry display case is in the foreground."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Inside The Corner Bakery, Clara and Jax enter from a side room. Jax carries the white cello case as they approach the bakery counter. Behind the counter, Nico and Henri are busy working, arranging items near the pastry display case.",
+        "Medium shot in The Corner Bakery. Maya, wearing the beige top, speaks while looking to the right. Beside her, Nico turns to look back over his shoulder with a concerned expression. Clara stands near them, next to the commercial refrigerator, her gaze shifting between them as she observes the conversation.",
+        "Nico, wearing an open black button-up shirt over a white t-shirt, Clara, wearing the beige jacket, and Jax, standing side-by-side, all turn their heads to look off-screen to the right with worried expressions. Nico stands in front of an arched doorway, and the commercial refrigerator is behind Jax.",
+        "Medium shot in The Corner Bakery. Jax stands next to Arthur and Clara. All three turn to look off-screen, their expressions becoming serious. the pastry display case is in the foreground."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Delivery Van: Interior of a van with a cluttered dashboard featuring stuffed animals and a rear cargo area filled with stacked cardboard boxes.\nthe cluttered dashboard: A van's cluttered dashboard made of molded dark plastic, with built-in air vents and instrument panel housing.\n\nInside the moving The Delivery Van, Nico is in the driver's seat behind the cluttered dashboard, talking as he drives. Clara sits in the passenger seat, listening to Nico with a concerned expression. In the back of the van, Henri sits amongst the cargo, occasionally glancing towards the front.",
+        "the seatbelt: Standard automotive seatbelt with a strap of dark gray woven nylon webbing, a silver-tone metal tongue plate, and a buckle with a red press-release button.\nClose-up of Nico, wearing the open black button-up shirt and the white t-shirt, sitting in the driver's seat inside The Delivery Van with the seatbelt fastened across his chest. He briefly looks over his shoulder, then turns to face forward over the cluttered dashboard and speaks.",
+        "Close-up shot of Nico driving inside The Delivery Van. He grips the steering wheel over the cluttered dashboard, his eyes suddenly widening in surprise as he stares straight ahead.",
+        "Medium shot from inside The Delivery Van during the day. Clara drives the van and talks with energy, seen over the cluttered dashboard. Nico, with cardboard boxes on his lap, sits in the passenger seat beside her, listening. Behind them, the van's cargo area is filled with stacked cardboard boxes.",
+        "Inside The Delivery Van, Nico drives with an annoyed expression behind the cluttered dashboard. In the passenger seat, Clara looks at him with concern as she speaks. Maya sits in the back of the van, shifting slightly as it moves.",
+        "Close-up on Henri behind the cluttered dashboard as he drives the van. He has a distressed expression and squints his eyes as he talks. Nico sits beside him in the passenger seat, looking over at him."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Inside the moving The Delivery Van, Nico is in the driver's seat behind the cluttered dashboard, talking as he drives. Clara sits in the passenger seat, listening to Nico with a concerned expression. In the back of the van, Henri sits amongst the cargo, occasionally glancing towards the front.",
+        "Close-up of Nico, wearing the open black button-up shirt and the white t-shirt, sitting in the driver's seat inside The Delivery Van with the seatbelt fastened across his chest. He briefly looks over his shoulder, then turns to face forward over the cluttered dashboard and speaks.",
+        "Close-up shot of Nico driving inside The Delivery Van. He grips the steering wheel over the cluttered dashboard, his eyes suddenly widening in surprise as he stares straight ahead.",
+        "Medium shot from inside The Delivery Van during the day. Clara drives the van and talks with energy, seen over the cluttered dashboard. Nico, with cardboard boxes on his lap, sits in the passenger seat beside her, listening. Behind them, the van's cargo area is filled with stacked cardboard boxes.",
+        "Inside The Delivery Van, Nico drives with an annoyed expression behind the cluttered dashboard. In the passenger seat, Clara looks at him with concern as she speaks. Maya sits in the back of the van, shifting slightly as it moves.",
+        "Close-up on Henri behind the cluttered dashboard as he drives the van. He has a distressed expression and squints his eyes as he talks. Nico sits beside him in the passenger seat, looking over at him."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Clara"
+      ],
+      "places": [
+        "The Quiet Room"
+      ],
+      "objects": [
+        "the beige jacket",
+        "the framed photograph",
+        "the white lily arrangement"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Jax"
+      ],
+      "places": [
+        "The Sunlit Office"
+      ],
+      "objects": []
+    },
+    "3:1": {
+      "characters": [
+        "Nico",
+        "Clara",
+        "Jax",
+        "Henri"
+      ],
+      "places": [
+        "The Corner Bakery"
+      ],
+      "objects": [
+        "the white cello case",
+        "the bakery counter",
+        "the pastry display case"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Nico",
+        "Clara",
+        "Maya"
+      ],
+      "places": [
+        "The Corner Bakery"
+      ],
+      "objects": [
+        "the beige top",
+        "the commercial refrigerator"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Nico",
+        "Clara",
+        "Jax"
+      ],
+      "places": [
+        "The Corner Bakery"
+      ],
+      "objects": [
+        "the beige jacket",
+        "the commercial refrigerator"
+      ]
+    },
+    "3:4": {
+      "characters": [
+        "Clara",
+        "Jax",
+        "Arthur"
+      ],
+      "places": [
+        "The Corner Bakery"
+      ],
+      "objects": [
+        "the pastry display case"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Nico",
+        "Clara",
+        "Henri"
+      ],
+      "places": [
+        "The Delivery Van"
+      ],
+      "objects": [
+        "the cluttered dashboard"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Nico"
+      ],
+      "places": [
+        "The Delivery Van"
+      ],
+      "objects": [
+        "the cluttered dashboard",
+        "the white t-shirt",
+        "the seatbelt"
+      ]
+    },
+    "4:3": {
+      "characters": [
+        "Nico"
+      ],
+      "places": [
+        "The Delivery Van"
+      ],
+      "objects": [
+        "the cluttered dashboard"
+      ]
+    },
+    "4:4": {
+      "characters": [
+        "Nico",
+        "Clara"
+      ],
+      "places": [
+        "The Delivery Van"
+      ],
+      "objects": [
+        "the cluttered dashboard"
+      ]
+    },
+    "4:5": {
+      "characters": [
+        "Nico",
+        "Clara",
+        "Maya"
+      ],
+      "places": [
+        "The Delivery Van"
+      ],
+      "objects": [
+        "the cluttered dashboard"
+      ]
+    },
+    "4:6": {
+      "characters": [
+        "Nico",
+        "Henri"
+      ],
+      "places": [
+        "The Delivery Van"
+      ],
+      "objects": [
+        "the cluttered dashboard"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Nico",
+      "label": "Character 1",
+      "description": "Young man with dark hair styled up, wearing a black shirt over a white t-shirt and a silver chain necklace."
+    },
+    "Character 2": {
+      "name": "Arthur",
+      "label": "Character 2",
+      "description": "Older man wearing a light-colored vest over a white shirt."
+    },
+    "Character 3": {
+      "name": "Henri",
+      "label": "Character 3",
+      "description": "Older man with a receding hairline wearing a blue and white striped apron over his clothes."
+    },
+    "Character 4": {
+      "name": "Clara",
+      "label": "Character 4",
+      "description": "Woman with her hair in a bun, wearing a beige jacket over a reddish-brown shirt with a white bow at the collar."
+    },
+    "Character 5": {
+      "name": "Jax",
+      "label": "Character 5",
+      "description": "Man with spiky blonde hair wearing a black jacket and a chain necklace."
+    },
+    "Character 6": {
+      "name": "Maya",
+      "label": "Character 6",
+      "description": "Woman wearing a beige top."
+    },
+    "Location 1": {
+      "name": "The Corner Bakery",
+      "label": "Location 1",
+      "description": "Bakery and cafe interior featuring a service counter, a glass-fronted display case, and a commercial refrigerator."
+    },
+    "Location 2": {
+      "name": "The Quiet Room",
+      "label": "Location 2",
+      "description": "Indoor home setting featuring a curtain with a teddy bear pattern, a framed photograph of a woman, and a white flower arrangement."
+    },
+    "Location 3": {
+      "name": "The Sunlit Office",
+      "label": "Location 3",
+      "description": "Indoor setting defined by a window with horizontal blinds."
+    },
+    "Location 4": {
+      "name": "The Delivery Van",
+      "label": "Location 4",
+      "description": "Interior of a van with a cluttered dashboard featuring stuffed animals and a rear cargo area filled with stacked cardboard boxes."
+    },
+    "Object 1": {
+      "name": "the beige jacket",
+      "label": "Object 1",
+      "description": "Beige, single-breasted, unstructured jacket made of a lightweight material, with a simple lapel collar and long sleeves"
+    },
+    "Object 2": {
+      "name": "the framed photograph",
+      "label": "Object 2",
+      "description": "Framed photograph of a woman."
+    },
+    "Object 3": {
+      "name": "the white lily arrangement",
+      "label": "Object 3",
+      "description": "An arrangement of white lilies and baby's breath with green fern leaves in a clear glass cylindrical vase."
+    },
+    "Object 4": {
+      "name": "the pastry display case",
+      "label": "Object 4",
+      "description": "Large, rectangular glass display case with metal edging and multiple internal shelves, laden with an assortment of decorated cakes, pastries, and tarts."
+    },
+    "Object 5": {
+      "name": "the bakery counter",
+      "label": "Object 5",
+      "description": "Large bakery counter with a built-in glass display case containing various cakes."
+    },
+    "Object 6": {
+      "name": "the white cello case",
+      "label": "Object 6",
+      "description": "Large white hard-shell cello case with a contoured, cello-like shape."
+    },
+    "Object 7": {
+      "name": "the dark blue shirt",
+      "label": "Object 7",
+      "description": "Man's dark blue collared shirt"
+    },
+    "Object 8": {
+      "name": "the commercial refrigerator",
+      "label": "Object 8",
+      "description": "Large, upright, stainless steel commercial refrigerator."
+    },
+    "Object 9": {
+      "name": "the beige top",
+      "label": "Object 9",
+      "description": "Solid beige short-sleeved top with a simple round neckline, made of a soft, casual fabric"
+    },
+    "Object 10": {
+      "name": "the cluttered dashboard",
+      "label": "Object 10",
+      "description": "A van's cluttered dashboard made of molded dark plastic, with built-in air vents and instrument panel housing."
+    },
+    "Object 11": {
+      "name": "the cardboard boxes",
+      "label": "Object 11",
+      "description": "A collection of rectangular brown cardboard packing boxes of various sizes with visible seams and folded top flaps"
+    },
+    "Object 12": {
+      "name": "the seatbelt",
+      "label": "Object 12",
+      "description": "Standard automotive seatbelt with a strap of dark gray woven nylon webbing, a silver-tone metal tongue plate, and a buckle with a red press-release button."
+    },
+    "Object 13": {
+      "name": "the white t-shirt",
+      "label": "Object 13",
+      "description": "Plain white T-shirt"
+    }
+  },
+  "_window_shot_ids": [
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0004",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0005",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0006",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0007",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0009",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0012",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0013",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0016",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0017",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0018",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0019",
+    "0007bdf9-8026-39aa-9e89-7c4f85c464b0__run895__i65_j79__T180__shot0020"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 12,
+  "_name_map": {
+    "Character 1": "Nico",
+    "Character 2": "Arthur",
+    "Character 3": "Henri",
+    "Character 4": "Clara",
+    "Character 5": "Jax",
+    "Character 6": "Maya",
+    "Location 1": "The Corner Bakery",
+    "Location 2": "The Quiet Room",
+    "Location 3": "The Sunlit Office",
+    "Location 4": "The Delivery Van",
+    "Object 1": "the beige jacket",
+    "Object 10": "the cluttered dashboard",
+    "Object 11": "the cardboard boxes",
+    "Object 12": "the seatbelt",
+    "Object 13": "the white t-shirt",
+    "Object 2": "the framed photograph",
+    "Object 3": "the white lily arrangement",
+    "Object 4": "the pastry display case",
+    "Object 5": "the bakery counter",
+    "Object 6": "the white cello case",
+    "Object 7": "the dark blue shirt",
+    "Object 8": "the commercial refrigerator",
+    "Object 9": "the beige top"
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "story_name": "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180",
+  "story_overview": "The story follows Andre as he examines a mysterious folded note. He shares the note with Caleb, sparking various reactions, and later encounters Caleb, Sofia, and Maya in a tense nighttime scene in a city alley.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Andre: Man with short twisted hair and a goatee, wearing a black jacket over a black shirt and earrings.\nThe Common Room: Generic indoor location.\nMedium shot of Andre, wearing the black shirt and the black jacket, standing in The Common Room. He holds the folded note in his hands and reads from it, his face showing serious concentration."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot of Andre, wearing the black shirt and the black jacket, standing in The Common Room. He holds the folded note in his hands and reads from it, his face showing serious concentration."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Caleb: Man wearing a blue jersey with the white number 72 on the chest and shoulders.\nThe Downtown Post Office: Post Office Lobby interior with a red service counter, a wall-mounted mailbox, and a small figurine of the Statue of Liberty.\nthe red service counter: Long, rectangular service counter with a smooth, glossy red top and a light gray base.\nthe liberty statue figurine: Small, verdigris-green figurine of the Statue of Liberty, featuring a spiked crown, a raised torch, and a tablet.\n\nIn The Downtown Post Office, Caleb, wearing the blue number 72 jersey, leans over the red service counter as he talks. Andre, wearing the black jacket, stands opposite him, listening intently and nodding slightly while holding the folded note, with the liberty statue figurine on the counter between them."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In The Downtown Post Office, Caleb, wearing the blue number 72 jersey, leans over the red service counter as he talks. Andre, wearing the black jacket, stands opposite him, listening intently and nodding slightly while holding the folded note, with the liberty statue figurine on the counter between them."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "The Stone Hallway: Interior with a stone wall featuring a gold wall sconce.\nthe All Blacks rugby jersey: Black short-sleeved athletic jersey, part of the All Blacks rugby uniform, with a silver fern emblem on the chest.\nthe gold wall sconce: Ornate gold wall sconce with a decorative backplate and a single curved arm ending in a white faux-candle light bulb.\n\nA medium close-up of Andre wearing the All Blacks rugby jersey. He has a serious expression as he speaks, briefly glancing down. The background is The Stone Hallway, featuring the gold wall sconce over his shoulder."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "A medium close-up of Andre wearing the All Blacks rugby jersey. He has a serious expression as he speaks, briefly glancing down. The background is The Stone Hallway, featuring the gold wall sconce over his shoulder."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Sun Room: Indoor space with a potted plant.\nthe potted fern: An indoor plant in a pot.\nMedium close-up of Caleb, wearing the blue number 72 jersey, and Andre standing in The Sun Room. Caleb speaks directly to Andre, who listens intently. the potted fern stands in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up of Caleb, wearing the blue number 72 jersey, and Andre standing in The Sun Room. Caleb speaks directly to Andre, who listens intently. the potted fern stands in the background."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Andre and Caleb, who is wearing the blue number 72 jersey, stand side-by-side at the red service counter. They lean in close to read the folded note together."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Andre and Caleb, who is wearing the blue number 72 jersey, stand side-by-side at the red service counter. They lean in close to read the folded note together."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Maya: Person wearing a colorful floral-print peasant blouse and a large necklace made of chunky, multi-colored wooden beads.\nThe Reading Nook: Indoor reading location.\n\nMedium shot in The Reading Nook. Andre holds up the folded note, showing it to Caleb, who breaks into a wide, happy smile. Maya stands beside them, smiling with pleasure as she watches the interaction."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Reading Nook. Andre holds up the folded note, showing it to Caleb, who breaks into a wide, happy smile. Maya stands beside them, smiling with pleasure as she watches the interaction."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "The Twin Towers Skyline: A New York City skyline featuring the Brooklyn Bridge, a stone and steel suspension bridge with structural lights, and the two tall, rectangular skyscrapers of the World Trade Center's Twin Towers.\nthe skyline with moon: Nighttime city skyline featuring the illuminated Twin Towers and the dark structure of the Brooklyn Bridge with visible lights, set against a dark purple sky with a crescent moon.\nthe Brooklyn Bridge at night: A large, dark suspension bridge with two stone towers featuring Gothic arches, a complex web of steel cables, and a string of visible lights along its span.\nthe illuminated Twin Towers: Two tall, identical rectangular skyscrapers with a grid of brightly illuminated windows.\nthe Twin Towers at night: A skyline of Manhattan skyscrapers, prominently featuring the two tall, rectangular Twin Towers with grids of illuminated windows against their dark facades.\n\nWide shot. In the foreground, Maya stands on the Brooklyn Bridge at night, looking out at the skyline with moon in the background. The bridge's structural lights glow softly."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Wide shot. In the foreground, Maya stands on the Brooklyn Bridge at night, looking out at the skyline with moon in the background. The bridge's structural lights glow softly."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Laundry Alley: A narrow city alley flanked by brick buildings, with clotheslines and laundry strung between the structures, and street lighting fixtures.\nthe laundry on the line: An assortment of worn clothing and linens in various faded colors, including shirts, trousers, and sheets, fastened by wooden clothespins to several sagging rope clotheslines.\nthe vintage streetlight: Industrial-style streetlight with a weathered, dark metal housing and a round glass cover over a glowing, orange-yellow bulb.\n\nWide static shot of Laundry Alley at night. The laundry on the line sways gently, strung between the brick buildings. In the background, the vintage streetlight illuminates the alley as Caleb walks through.",
+        "Medium shot of Caleb and Andre standing in Laundry Alley at night. Caleb suddenly looks up with a shocked expression, then quickly and nervously glances from side to side. Andre stands slightly behind him, watching his reaction.",
+        "Sofia: Woman with dark curly hair, wearing a purple dress.\nthe black fire escape: A weathered, black-painted metal fire escape structure with multiple grated platforms connected by narrow, zigzagging stairs and enclosed by simple railings.\nthe all-black outfit: A matching set of utilitarian, modern, all-black clothing with no visible logos or markings.\n\nWide shot at night in Laundry Alley. Andre and Sofia stand together in the narrow alley, tilting their heads to look up at the surrounding brick buildings. the black fire escape clings to a wall, and above them, clotheslines are hung with the laundry on the line and the all-black outfit.",
+        "the leafy houseplant: A leafy green plant in a simple plant pot.\nLow-angle medium shot of Andre standing on the black fire escape in Laundry Alley at night. He talks animatedly, gesturing as he speaks. the leafy houseplant sits on the fire escape, and the floral peasant blouse is draped over the railing, while the laundry on the line hangs on clotheslines in the background."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Wide static shot of Laundry Alley at night. The laundry on the line sways gently, strung between the brick buildings. In the background, the vintage streetlight illuminates the alley as Caleb walks through.",
+        "Medium shot of Caleb and Andre standing in Laundry Alley at night. Caleb suddenly looks up with a shocked expression, then quickly and nervously glances from side to side. Andre stands slightly behind him, watching his reaction.",
+        "Wide shot at night in Laundry Alley. Andre and Sofia stand together in the narrow alley, tilting their heads to look up at the surrounding brick buildings. the black fire escape clings to a wall, and above them, clotheslines are hung with the laundry on the line and the all-black outfit.",
+        "Low-angle medium shot of Andre standing on the black fire escape in Laundry Alley at night. He talks animatedly, gesturing as he speaks. the leafy houseplant sits on the fire escape, and the floral peasant blouse is draped over the railing, while the laundry on the line hangs on clotheslines in the background."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "The Midnight Street: A dark street.\n\nAndre, wearing the black jacket, stands on The Midnight Street at night. He is looking up and talking, his face tilted towards an unseen point above him as though speaking to someone just out of frame."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Andre, wearing the black jacket, stands on The Midnight Street at night. He is looking up and talking, his face tilted towards an unseen point above him as though speaking to someone just out of frame."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Low-angle medium shot at night in Laundry Alley. Maya, wearing the floral peasant blouse, with a distressed, emotional expression, stands on the landing of the black fire escape. She leans on the metal railing as she yells down at Andre and Caleb in the alley.",
+        "Low-angle medium shot of Maya on the black fire escape within Laundry Alley at night. Maya, wearing the floral peasant blouse, has a concerned expression as she leans on the railing, talking and gesturing downwards.",
+        "Andre, wearing the black shirt and the black jacket, looks up and to the side with a surprised expression, while Caleb, standing beside him, begins to speak while looking forward."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Low-angle medium shot at night in Laundry Alley. Maya, wearing the floral peasant blouse, with a distressed, emotional expression, stands on the landing of the black fire escape. She leans on the metal railing as she yells down at Andre and Caleb in the alley.",
+        "Low-angle medium shot of Maya on the black fire escape within Laundry Alley at night. Maya, wearing the floral peasant blouse, has a concerned expression as she leans on the railing, talking and gesturing downwards.",
+        "Andre, wearing the black shirt and the black jacket, looks up and to the side with a surprised expression, while Caleb, standing beside him, begins to speak while looking forward."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Andre"
+      ],
+      "places": [
+        "The Common Room"
+      ],
+      "objects": [
+        "the black jacket",
+        "the black shirt",
+        "the folded note"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Andre",
+        "Caleb"
+      ],
+      "places": [
+        "The Downtown Post Office"
+      ],
+      "objects": [
+        "the blue number 72 jersey",
+        "the red service counter",
+        "the black jacket",
+        "the folded note",
+        "the liberty statue figurine"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Andre"
+      ],
+      "places": [
+        "The Stone Hallway"
+      ],
+      "objects": [
+        "the gold wall sconce"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Caleb",
+        "Andre"
+      ],
+      "places": [
+        "The Sun Room"
+      ],
+      "objects": [
+        "the potted fern",
+        "the blue number 72 jersey"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Andre",
+        "Caleb"
+      ],
+      "places": [
+        "The Downtown Post Office"
+      ],
+      "objects": [
+        "the red service counter",
+        "the blue number 72 jersey",
+        "the folded note"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Andre",
+        "Caleb",
+        "Maya"
+      ],
+      "places": [
+        "The Reading Nook"
+      ],
+      "objects": [
+        "the folded note"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Maya"
+      ],
+      "places": [],
+      "objects": [
+        "the skyline with moon",
+        "the Brooklyn Bridge at night"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Caleb"
+      ],
+      "places": [
+        "Laundry Alley"
+      ],
+      "objects": [
+        "the laundry on the line",
+        "the vintage streetlight"
+      ]
+    },
+    "8:2": {
+      "characters": [
+        "Caleb",
+        "Andre"
+      ],
+      "places": [
+        "Laundry Alley"
+      ],
+      "objects": []
+    },
+    "8:3": {
+      "characters": [
+        "Andre",
+        "Sofia"
+      ],
+      "places": [
+        "Laundry Alley"
+      ],
+      "objects": [
+        "the black fire escape",
+        "the laundry on the line",
+        "the all-black outfit"
+      ]
+    },
+    "8:4": {
+      "characters": [
+        "Andre"
+      ],
+      "places": [
+        "Laundry Alley"
+      ],
+      "objects": [
+        "the black fire escape",
+        "the floral peasant blouse",
+        "the laundry on the line",
+        "the leafy houseplant"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Andre"
+      ],
+      "places": [
+        "The Midnight Street"
+      ],
+      "objects": [
+        "the black jacket"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Andre",
+        "Caleb",
+        "Maya"
+      ],
+      "places": [
+        "Laundry Alley"
+      ],
+      "objects": [
+        "the black fire escape",
+        "the floral peasant blouse"
+      ]
+    },
+    "10:2": {
+      "characters": [
+        "Maya"
+      ],
+      "places": [
+        "Laundry Alley"
+      ],
+      "objects": [
+        "the black fire escape",
+        "the floral peasant blouse"
+      ]
+    },
+    "10:3": {
+      "characters": [
+        "Andre",
+        "Caleb"
+      ],
+      "places": [
+        "Laundry Alley"
+      ],
+      "objects": [
+        "the black jacket",
+        "the black shirt"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Andre",
+      "label": "Character 1",
+      "description": "Man with short twisted hair and a goatee, wearing a black jacket over a black shirt and earrings."
+    },
+    "Character 2": {
+      "name": "Caleb",
+      "label": "Character 2",
+      "description": "Man wearing a blue jersey with the white number 72 on the chest and shoulders."
+    },
+    "Character 4": {
+      "name": "Maya",
+      "label": "Character 4",
+      "description": "Person wearing a colorful floral-print peasant blouse and a large necklace made of chunky, multi-colored wooden beads."
+    },
+    "Character 5": {
+      "name": "Sofia",
+      "label": "Character 5",
+      "description": "Woman with dark curly hair, wearing a purple dress."
+    },
+    "Location 1": {
+      "name": "The Common Room",
+      "label": "Location 1",
+      "description": "Generic indoor location."
+    },
+    "Location 2": {
+      "name": "The Downtown Post Office",
+      "label": "Location 2",
+      "description": "Post Office Lobby interior with a red service counter, a wall-mounted mailbox, and a small figurine of the Statue of Liberty."
+    },
+    "Location 3": {
+      "name": "The Stone Hallway",
+      "label": "Location 3",
+      "description": "Interior with a stone wall featuring a gold wall sconce."
+    },
+    "Location 4": {
+      "name": "The Sun Room",
+      "label": "Location 4",
+      "description": "Indoor space with a potted plant."
+    },
+    "Location 5": {
+      "name": "The Reading Nook",
+      "label": "Location 5",
+      "description": "Indoor reading location."
+    },
+    "Location 6": {
+      "name": "The Twin Towers Skyline",
+      "label": "Location 6",
+      "description": "A New York City skyline featuring the Brooklyn Bridge, a stone and steel suspension bridge with structural lights, and the two tall, rectangular skyscrapers of the World Trade Center's Twin Towers"
+    },
+    "Location 7": {
+      "name": "Laundry Alley",
+      "label": "Location 7",
+      "description": "A narrow city alley flanked by brick buildings, with clotheslines and laundry strung between the structures, and street lighting fixtures."
+    },
+    "Location 8": {
+      "name": "The Midnight Street",
+      "label": "Location 8",
+      "description": "A dark street."
+    },
+    "Object 1": {
+      "name": "the black jacket",
+      "label": "Object 1",
+      "description": "Man's dark black jacket"
+    },
+    "Object 2": {
+      "name": "the folded note",
+      "label": "Object 2",
+      "description": "Small, nondescript piece of paper"
+    },
+    "Object 3": {
+      "name": "the black shirt",
+      "label": "Object 3",
+      "description": "Dark black man's shirt"
+    },
+    "Object 4": {
+      "name": "the blue number 72 jersey",
+      "label": "Object 4",
+      "description": "Blue athletic jersey with the number 72"
+    },
+    "Object 5": {
+      "name": "the red service counter",
+      "label": "Object 5",
+      "description": "Long, rectangular service counter with a smooth, glossy red top and a light gray base."
+    },
+    "Object 6": {
+      "name": "the liberty statue figurine",
+      "label": "Object 6",
+      "description": "Small, verdigris-green figurine of the Statue of Liberty, featuring a spiked crown, a raised torch, and a tablet."
+    },
+    "Object 7": {
+      "name": "the gold wall sconce",
+      "label": "Object 7",
+      "description": "Ornate gold wall sconce with a decorative backplate and a single curved arm ending in a white faux-candle light bulb."
+    },
+    "Object 8": {
+      "name": "the All Blacks rugby jersey",
+      "label": "Object 8",
+      "description": "Black short-sleeved athletic jersey, part of the All Blacks rugby uniform, with a silver fern emblem on the chest"
+    },
+    "Object 9": {
+      "name": "the potted fern",
+      "label": "Object 9",
+      "description": "An indoor plant in a pot."
+    },
+    "Object 10": {
+      "name": "the Brooklyn Bridge at night",
+      "label": "Object 10",
+      "description": "A large, dark suspension bridge with two stone towers featuring Gothic arches, a complex web of steel cables, and a string of visible lights along its span."
+    },
+    "Object 11": {
+      "name": "the Twin Towers at night",
+      "label": "Object 11",
+      "description": "A skyline of Manhattan skyscrapers, prominently featuring the two tall, rectangular Twin Towers with grids of illuminated windows against their dark facades"
+    },
+    "Object 12": {
+      "name": "the skyline with moon",
+      "label": "Object 12",
+      "description": "Nighttime city skyline featuring the illuminated Twin Towers and the dark structure of the Brooklyn Bridge with visible lights, set against a dark purple sky with a crescent moon."
+    },
+    "Object 13": {
+      "name": "the illuminated Twin Towers",
+      "label": "Object 13",
+      "description": "Two tall, identical rectangular skyscrapers with a grid of brightly illuminated windows"
+    },
+    "Object 14": {
+      "name": "the laundry on the line",
+      "label": "Object 14",
+      "description": "An assortment of worn clothing and linens in various faded colors, including shirts, trousers, and sheets, fastened by wooden clothespins to several sagging rope clotheslines."
+    },
+    "Object 15": {
+      "name": "the vintage streetlight",
+      "label": "Object 15",
+      "description": "Industrial-style streetlight with a weathered, dark metal housing and a round glass cover over a glowing, orange-yellow bulb."
+    },
+    "Object 16": {
+      "name": "the black fire escape",
+      "label": "Object 16",
+      "description": "A weathered, black-painted metal fire escape structure with multiple grated platforms connected by narrow, zigzagging stairs and enclosed by simple railings."
+    },
+    "Object 17": {
+      "name": "the all-black outfit",
+      "label": "Object 17",
+      "description": "A matching set of utilitarian, modern, all-black clothing with no visible logos or markings."
+    },
+    "Object 18": {
+      "name": "the floral peasant blouse",
+      "label": "Object 18",
+      "description": "A vibrant, colorful top with a floral pattern"
+    },
+    "Object 19": {
+      "name": "the leafy houseplant",
+      "label": "Object 19",
+      "description": "A leafy green plant in a simple plant pot."
+    }
+  },
+  "_window_shot_ids": [
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0001",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0002",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0003",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0004",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0005",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0006",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0007",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0008",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0009",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0010",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0011",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0012",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0013",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0015",
+    "0001dcfe-1460-30db-949f-f76d907479fb__run184__i10_j24__T180__shot0016"
+  ],
+  "_num_scenes": 10,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Andre",
+    "Character 2": "Caleb",
+    "Character 3": "Leo",
+    "Character 4": "Maya",
+    "Character 5": "Sofia",
+    "Location 1": "The Common Room",
+    "Location 2": "The Downtown Post Office",
+    "Location 3": "The Stone Hallway",
+    "Location 4": "The Sun Room",
+    "Location 5": "The Reading Nook",
+    "Location 6": "The Twin Towers Skyline",
+    "Location 7": "Laundry Alley",
+    "Location 8": "The Midnight Street",
+    "Object 1": "the black jacket",
+    "Object 10": "the Brooklyn Bridge at night",
+    "Object 11": "the Twin Towers at night",
+    "Object 12": "the skyline with moon",
+    "Object 13": "the illuminated Twin Towers",
+    "Object 14": "the laundry on the line",
+    "Object 15": "the vintage streetlight",
+    "Object 16": "the black fire escape",
+    "Object 17": "the all-black outfit",
+    "Object 18": "the floral peasant blouse",
+    "Object 19": "the leafy houseplant",
+    "Object 2": "the folded note",
+    "Object 3": "the black shirt",
+    "Object 4": "the blue number 72 jersey",
+    "Object 5": "the red service counter",
+    "Object 6": "the liberty statue figurine",
+    "Object 7": "the gold wall sconce",
+    "Object 8": "the All Blacks rugby jersey",
+    "Object 9": "the potted fern"
+  }
+}

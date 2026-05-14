@@ -1,0 +1,544 @@
+{
+  "story_name": "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120",
+  "story_overview": "A team of storm chasers, including Kira, Sadie, Walter, and Beau, track a dangerous storm from their mobile command center. While Beau drives them closer to the massive weather system, Kira and Chloe monitor the increasingly alarming data on their equipment. The team experiences a mix of excitement and fear as the situation intensifies.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Kira: Woman with blonde dreadlocks, wearing futuristic goggles, a colorful tie-dye top, and a tan jacket.\nSadie: Blonde woman wearing a white hat and a denim jacket over a white t-shirt.\nThe Mobile Command Center: The utilitarian interior of a storm-chasing vehicle containing passenger seats, an array of technical equipment, and a mounted red fire extinguisher.\nthe weather monitoring console: A collection of specialized electronic storm-chasing equipment, featuring multiple small monitors, control panels with arrays of knobs and switches, and dense clusters of multi-colored wiring, all mounted in black and grey metal and plastic consoles dotted with small, glowing LED lights.\nthe red fire extinguisher: Small, cylindrical red fire extinguisher with a black handle and lever assembly, a white instruction label, a small pressure gauge, and a short black nozzle.\n\nClose-up on Sadie in The Mobile Command Center, sitting in the passenger seat, her expression shifting with concern. In the background, Kira, wearing the tan utility jacket, adjusts a knob on the weather monitoring console, her eyes locked on its glowing monitors, with the red fire extinguisher mounted on the wall nearby.",
+        "Walter: Man with thinning hair and glasses, wearing a dark blue jacket over a white collared shirt.\nBeau: Man with long dark hair, a mustache, and a goatee, wearing a brown and beige trucker hat, a brown sleeveless shirt, and a yellow bandana worn around his neck.\nClose shot inside The Mobile Command Center, the storm research vehicle. Beau leans forward in his seat and speaks with a serious expression. In the background, Walter, wearing the wire-frame glasses, listens with a concerned look while Sadie sits beside him, watching the exchange."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up on Sadie in The Mobile Command Center, sitting in the passenger seat, her expression shifting with concern. In the background, Kira, wearing the tan utility jacket, adjusts a knob on the weather monitoring console, her eyes locked on its glowing monitors, with the red fire extinguisher mounted on the wall nearby.",
+        "Close shot inside The Mobile Command Center, the storm research vehicle. Beau leans forward in his seat and speaks with a serious expression. In the background, Walter, wearing the wire-frame glasses, listens with a concerned look while Sadie sits beside him, watching the exchange."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Leo: Man.\nThe Red Truck Cabin: Driver's cabin of a red truck with a dashboard, steering wheel, and front windshield.\nThe Open Plains: A road passing through an open, undeveloped rural landscape.\nthe damaged red truck: Red truck with visible damage and modifications.\n\nSide-view close-up shot from inside The Red Truck Cabin. Leo grips the steering wheel of the damaged red truck, his expression focused as he drives. Through the windshield, the road of The Open Plains stretches out under a gray, overcast sky. Daytime.",
+        "Chloe: Woman.\nthe weather radar laptop: Laptop with a colorful weather radar map of a large storm on its screen.\nthe weather radar display: Digital weather radar map with a dark display area and a swirling, colorful mass of green, yellow, orange, and red patches.\n\nA close view of `the weather radar laptop`'s screen shows `the weather radar display`. The scene widens to show `Chloe` in the passenger seat inside `The Mobile Command Center`. `Chloe` monitors the screen, then looks out the window at `The Open Plains` as the vehicle travels along the road."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Side-view close-up shot from inside The Red Truck Cabin. Leo grips the steering wheel of the damaged red truck, his expression focused as he drives. Through the windshield, the road of The Open Plains stretches out under a gray, overcast sky. Daytime.",
+        "A close view of `the weather radar laptop`'s screen shows `the weather radar display`. The scene widens to show `Chloe` in the passenger seat inside `The Mobile Command Center`. `Chloe` monitors the screen, then looks out the window at `The Open Plains` as the vehicle travels along the road."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Close-up shot inside The Mobile Command Center, the storm research vehicle, during the day. Kira, wearing the tan utility jacket, with her seatbelt fastened, speaks with a concerned expression. Walter sits beside her, listening intently. In the background, the lights on the weather monitoring console blink.",
+        "Close-up shot inside The Mobile Command Center. Beau is in the driver's seat, talking while steering the vehicle. In the passenger seat, Walter listens with a visibly concerned expression on his face."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Close-up shot inside The Mobile Command Center, the storm research vehicle, during the day. Kira, wearing the tan utility jacket, with her seatbelt fastened, speaks with a concerned expression. Walter sits beside her, listening intently. In the background, the lights on the weather monitoring console blink.",
+        "Close-up shot inside The Mobile Command Center. Beau is in the driver's seat, talking while steering the vehicle. In the passenger seat, Walter listens with a visibly concerned expression on his face."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "the dashcam: Compact black plastic dashcam with a rectangular body, a prominent circular lens, and an attached suction cup mount connected to a thin black power cord.\n\nOver-the-shoulder shot from inside The Red Truck Cabin, looking past Leo at the road ahead. Leo drives the damaged red truck along The Open Plains, heading toward a massive, dark storm cloud formation. In the foreground, the dashcam is mounted on the windshield next to the rearview mirror."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot from inside The Red Truck Cabin, looking past Leo at the road ahead. Leo drives the damaged red truck along The Open Plains, heading toward a massive, dark storm cloud formation. In the foreground, the dashcam is mounted on the windshield next to the rearview mirror."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Casey: Person wearing large, dark sunglasses.\nThe White Truck Cabin: Interior of a white truck.\nthe LED grid panel: Small rectangular panel with a grid of light-emitting diodes.\n\nInside The White Truck Cabin, an illuminated LED grid panel is mounted on the dashboard. Beau, wearing the trucker hat and the yellow bandana, looks forward and gestures emphatically as he speaks. Walter sits beside him, watching intently and nodding slowly. Casey, wearing the large dark sunglasses, sits in the passenger seat, turning their head slightly to watch Beau."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The White Truck Cabin, an illuminated LED grid panel is mounted on the dashboard. Beau, wearing the trucker hat and the yellow bandana, looks forward and gestures emphatically as he speaks. Walter sits beside him, watching intently and nodding slowly. Casey, wearing the large dark sunglasses, sits in the passenger seat, turning their head slightly to watch Beau."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "In a close-up shot inside The Mobile Command Center, Beau is talking with a concerned expression. In the background, an out-of-focus Walter is wearing the wire-frame glasses and is also part of the conversation."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In a close-up shot inside The Mobile Command Center, Beau is talking with a concerned expression. In the background, an out-of-focus Walter is wearing the wire-frame glasses and is also part of the conversation."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "the condenser microphone: Compact black condenser microphone with a cylindrical body and a round black foam windscreen.\nClose-up shot inside The White Truck Cabin of Beau, wearing the trucker hat and the yellow bandana, in the driver's seat of the white storm truck. He looks forward and speaks. The LED grid panel and the condenser microphone are mounted on the dashboard in the foreground."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot inside The White Truck Cabin of Beau, wearing the trucker hat and the yellow bandana, in the driver's seat of the white storm truck. He looks forward and speaks. The LED grid panel and the condenser microphone are mounted on the dashboard in the foreground."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Kira sits in the passenger seat, her thoughtful expression shifting as she looks from the road ahead to the laptop. In the driver's seat, Chloe is in profile, steering the moving vehicle. The weather radar laptop is open on a console between them, its screen illuminated.",
+        "Close-up inside the moving vehicle in The Mobile Command Center. Kira, wearing the tan utility jacket, leans towards the weather radar laptop, her expression growing concerned as she studies the storm map on its screen. Chloe sits beside her, looking on anxiously. Through the window, the rural landscape of The Open Plains passes by."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Kira sits in the passenger seat, her thoughtful expression shifting as she looks from the road ahead to the laptop. In the driver's seat, Chloe is in profile, steering the moving vehicle. The weather radar laptop is open on a console between them, its screen illuminated.",
+        "Close-up inside the moving vehicle in The Mobile Command Center. Kira, wearing the tan utility jacket, leans towards the weather radar laptop, her expression growing concerned as she studies the storm map on its screen. Chloe sits beside her, looking on anxiously. Through the window, the rural landscape of The Open Plains passes by."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "A close-up shows Kira in the passenger seat inside the storm research vehicle, wearing an open tan utility jacket over her colorful tie-dye top. She listens intently and then speaks, as if in a conversation. In the background, the weather monitoring console and the red fire extinguisher are visible.",
+        "Shaky close-up shot inside The Mobile Command Center, the storm research vehicle, during the day. Beau sits in the driver's seat, laughing excitedly. In the passenger seats behind him, Walter, wearing the wire-frame glasses, reacts with a shocked and fearful expression as Sadie looks on with alarm.",
+        "the action camera: Small, rectangular action camera with a durable matte black plastic casing, a prominent wide-angle lens on the front, and a small integrated display screen on the back.\n\nInside The Mobile Command Center as the storm research vehicle bounces along a rough road. Kira, wearing the futuristic goggles, holds up the action camera, filming the ride. Seated next to her, Beau laughs and grimaces as he is jostled in his seat."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "A close-up shows Kira in the passenger seat inside the storm research vehicle, wearing an open tan utility jacket over her colorful tie-dye top. She listens intently and then speaks, as if in a conversation. In the background, the weather monitoring console and the red fire extinguisher are visible.",
+        "Shaky close-up shot inside The Mobile Command Center, the storm research vehicle, during the day. Beau sits in the driver's seat, laughing excitedly. In the passenger seats behind him, Walter, wearing the wire-frame glasses, reacts with a shocked and fearful expression as Sadie looks on with alarm.",
+        "Inside The Mobile Command Center as the storm research vehicle bounces along a rough road. Kira, wearing the futuristic goggles, holds up the action camera, filming the ride. Seated next to her, Beau laughs and grimaces as he is jostled in his seat."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Kira",
+        "Sadie"
+      ],
+      "places": [
+        "The Mobile Command Center"
+      ],
+      "objects": [
+        "the tan utility jacket",
+        "the weather monitoring console",
+        "the red fire extinguisher"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Walter",
+        "Sadie",
+        "Beau"
+      ],
+      "places": [
+        "The Mobile Command Center"
+      ],
+      "objects": [
+        "the storm research vehicle",
+        "the wire-frame glasses"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Red Truck Cabin",
+        "The Open Plains"
+      ],
+      "objects": [
+        "the damaged red truck"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Mobile Command Center",
+        "The Open Plains"
+      ],
+      "objects": [
+        "the weather radar display",
+        "the weather radar laptop"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Kira",
+        "Walter"
+      ],
+      "places": [
+        "The Mobile Command Center"
+      ],
+      "objects": [
+        "the storm research vehicle",
+        "the tan utility jacket",
+        "the weather monitoring console"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Walter",
+        "Beau"
+      ],
+      "places": [
+        "The Mobile Command Center"
+      ],
+      "objects": []
+    },
+    "4:1": {
+      "characters": [
+        "Leo"
+      ],
+      "places": [
+        "The Red Truck Cabin",
+        "The Open Plains"
+      ],
+      "objects": [
+        "the damaged red truck",
+        "the dashcam"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Walter",
+        "Beau",
+        "Casey"
+      ],
+      "places": [
+        "The White Truck Cabin"
+      ],
+      "objects": [
+        "the trucker hat",
+        "the yellow bandana",
+        "the large dark sunglasses",
+        "the LED grid panel"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Walter",
+        "Beau"
+      ],
+      "places": [
+        "The Mobile Command Center"
+      ],
+      "objects": [
+        "the wire-frame glasses"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Beau"
+      ],
+      "places": [
+        "The White Truck Cabin"
+      ],
+      "objects": [
+        "the white storm truck",
+        "the trucker hat",
+        "the yellow bandana",
+        "the LED grid panel",
+        "the condenser microphone"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Kira",
+        "Chloe"
+      ],
+      "places": [
+        "The Mobile Command Center"
+      ],
+      "objects": [
+        "the weather radar laptop"
+      ]
+    },
+    "8:2": {
+      "characters": [
+        "Kira",
+        "Chloe"
+      ],
+      "places": [
+        "The Mobile Command Center",
+        "The Open Plains"
+      ],
+      "objects": [
+        "the weather radar laptop",
+        "the tan utility jacket"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Kira"
+      ],
+      "places": [
+        "The Mobile Command Center"
+      ],
+      "objects": [
+        "the storm research vehicle",
+        "the tan utility jacket",
+        "the weather monitoring console",
+        "the red fire extinguisher"
+      ]
+    },
+    "9:2": {
+      "characters": [
+        "Walter",
+        "Sadie",
+        "Beau"
+      ],
+      "places": [
+        "The Mobile Command Center"
+      ],
+      "objects": [
+        "the storm research vehicle",
+        "the wire-frame glasses"
+      ]
+    },
+    "9:3": {
+      "characters": [
+        "Kira",
+        "Beau"
+      ],
+      "places": [
+        "The Mobile Command Center"
+      ],
+      "objects": [
+        "the storm research vehicle",
+        "the action camera",
+        "the futuristic goggles"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Kira",
+      "label": "Character 1",
+      "description": "Woman with blonde dreadlocks, wearing futuristic goggles, a colorful tie-dye top, and a tan jacket."
+    },
+    "Character 2": {
+      "name": "Sadie",
+      "label": "Character 2",
+      "description": "Blonde woman wearing a white hat and a denim jacket over a white t-shirt."
+    },
+    "Character 3": {
+      "name": "Walter",
+      "label": "Character 3",
+      "description": "Man with thinning hair and glasses, wearing a dark blue jacket over a white collared shirt."
+    },
+    "Character 4": {
+      "name": "Beau",
+      "label": "Character 4",
+      "description": "Man with long dark hair, a mustache, and a goatee, wearing a brown and beige trucker hat, a brown sleeveless shirt, and a yellow bandana worn around his neck."
+    },
+    "Character 5": {
+      "name": "Leo",
+      "label": "Character 5",
+      "description": "Man."
+    },
+    "Character 6": {
+      "name": "Chloe",
+      "label": "Character 6",
+      "description": "Woman."
+    },
+    "Character 7": {
+      "name": "Casey",
+      "label": "Character 7",
+      "description": "Person wearing large, dark sunglasses."
+    },
+    "Location 1": {
+      "name": "The Mobile Command Center",
+      "label": "Location 1",
+      "description": "The utilitarian interior of a storm-chasing vehicle containing passenger seats, an array of technical equipment, and a mounted red fire extinguisher."
+    },
+    "Location 2": {
+      "name": "The Open Plains",
+      "label": "Location 2",
+      "description": "A road passing through an open, undeveloped rural landscape."
+    },
+    "Location 3": {
+      "name": "The Red Truck Cabin",
+      "label": "Location 3",
+      "description": "Driver's cabin of a red truck with a dashboard, steering wheel, and front windshield."
+    },
+    "Location 4": {
+      "name": "The White Truck Cabin",
+      "label": "Location 4",
+      "description": "Interior of a white truck."
+    },
+    "Object 1": {
+      "name": "the storm research vehicle",
+      "label": "Object 1",
+      "description": "White and brown storm-chasing vehicle, an RV/SUV hybrid, with an interior outfitted with technical equipment and a red fire extinguisher"
+    },
+    "Object 2": {
+      "name": "the weather monitoring console",
+      "label": "Object 2",
+      "description": "A collection of specialized electronic storm-chasing equipment, featuring multiple small monitors, control panels with arrays of knobs and switches, and dense clusters of multi-colored wiring, all mounted in black and grey metal and plastic consoles dotted with small, glowing LED lights."
+    },
+    "Object 3": {
+      "name": "the red fire extinguisher",
+      "label": "Object 3",
+      "description": "Small, cylindrical red fire extinguisher with a black handle and lever assembly, a white instruction label, a small pressure gauge, and a short black nozzle."
+    },
+    "Object 4": {
+      "name": "the tan utility jacket",
+      "label": "Object 4",
+      "description": "Woman's tan canvas utility jacket with a zip-front, high collar, and multiple large flap pockets on the chest and waist"
+    },
+    "Object 5": {
+      "name": "the wire-frame glasses",
+      "label": "Object 5",
+      "description": "Men's eyeglasses with thin, dark metal wire frames and rectangular clear lenses"
+    },
+    "Object 6": {
+      "name": "the damaged red truck",
+      "label": "Object 6",
+      "description": "Red truck with visible damage and modifications."
+    },
+    "Object 7": {
+      "name": "the weather radar laptop",
+      "label": "Object 7",
+      "description": "Laptop with a colorful weather radar map of a large storm on its screen"
+    },
+    "Object 8": {
+      "name": "the weather radar display",
+      "label": "Object 8",
+      "description": "Digital weather radar map with a dark display area and a swirling, colorful mass of green, yellow, orange, and red patches."
+    },
+    "Object 9": {
+      "name": "the weather radar laptop",
+      "label": "Object 9",
+      "description": "Laptop with a colorful weather radar map of a large storm on its screen."
+    },
+    "Object 10": {
+      "name": "the plain white t-shirt",
+      "label": "Object 10",
+      "description": "Woman's plain white T-shirt"
+    },
+    "Object 11": {
+      "name": "the dashcam",
+      "label": "Object 11",
+      "description": "Compact black plastic dashcam with a rectangular body, a prominent circular lens, and an attached suction cup mount connected to a thin black power cord."
+    },
+    "Object 12": {
+      "name": "the white storm truck",
+      "label": "Object 12",
+      "description": "Modified white truck with an enclosed cab and an open rear cargo bed, featuring the word 'storm' printed on its exterior"
+    },
+    "Object 13": {
+      "name": "the yellow bandana",
+      "label": "Object 13",
+      "description": "Yellow, patterned fabric bandana"
+    },
+    "Object 14": {
+      "name": "the LED grid panel",
+      "label": "Object 14",
+      "description": "Small rectangular panel with a grid of light-emitting diodes."
+    },
+    "Object 15": {
+      "name": "the trucker hat",
+      "label": "Object 15",
+      "description": "A baseball cap with a rounded crown and a stiff bill"
+    },
+    "Object 16": {
+      "name": "the large dark sunglasses",
+      "label": "Object 16",
+      "description": "Large sunglasses with dark frames and dark lenses"
+    },
+    "Object 17": {
+      "name": "the condenser microphone",
+      "label": "Object 17",
+      "description": "Compact black condenser microphone with a cylindrical body and a round black foam windscreen."
+    },
+    "Object 18": {
+      "name": "the dark blue jacket",
+      "label": "Object 18",
+      "description": "Man's dark blue jacket"
+    },
+    "Object 19": {
+      "name": "the futuristic goggles",
+      "label": "Object 19",
+      "description": "Futuristic head-mounted display/goggles"
+    },
+    "Object 20": {
+      "name": "the action camera",
+      "label": "Object 20",
+      "description": "Small, rectangular action camera with a durable matte black plastic casing, a prominent wide-angle lens on the front, and a small integrated display screen on the back."
+    }
+  },
+  "_window_shot_ids": [
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0001",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0002",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0003",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0004",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0005",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0006",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0007",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0008",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0010",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0011",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0012",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0014",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0015",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0016",
+    "0003b7ec-c07f-3c4d-a9a4-abf8ce4f1809__run453__i45_j54__T120__shot0017"
+  ],
+  "_num_scenes": 9,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Kira",
+    "Character 2": "Sadie",
+    "Character 3": "Walter",
+    "Character 4": "Beau",
+    "Character 5": "Leo",
+    "Character 6": "Chloe",
+    "Character 7": "Casey",
+    "Location 1": "The Mobile Command Center",
+    "Location 2": "The Open Plains",
+    "Location 3": "The Red Truck Cabin",
+    "Location 4": "The White Truck Cabin",
+    "Object 1": "the storm research vehicle",
+    "Object 10": "the plain white t-shirt",
+    "Object 11": "the dashcam",
+    "Object 12": "the white storm truck",
+    "Object 13": "the yellow bandana",
+    "Object 14": "the LED grid panel",
+    "Object 15": "the trucker hat",
+    "Object 16": "the large dark sunglasses",
+    "Object 17": "the condenser microphone",
+    "Object 18": "the dark blue jacket",
+    "Object 19": "the futuristic goggles",
+    "Object 2": "the weather monitoring console",
+    "Object 20": "the action camera",
+    "Object 3": "the red fire extinguisher",
+    "Object 4": "the tan utility jacket",
+    "Object 5": "the wire-frame glasses",
+    "Object 6": "the damaged red truck",
+    "Object 7": "the weather radar laptop",
+    "Object 8": "the weather radar display",
+    "Object 9": "the weather radar laptop"
+  }
+}

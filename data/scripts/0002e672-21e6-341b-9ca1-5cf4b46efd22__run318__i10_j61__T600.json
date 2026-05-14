@@ -1,0 +1,471 @@
+{
+  "story_name": "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600",
+  "story_overview": "After landing at a jungle outpost secured by soldiers Ryker and Javier, civilian Marco watches as Donovan and Karim arrive by helicopter. Karim leads a group including Ryker, Mateo, and Donovan on a patrol through the burning jungle, where they discover a gruesome pile of fallen soldiers. Back at the camp, tensions rise as Corbin confronts Marco.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Marco: Man with a mustache and a white collared shirt.\nRyker: Soldier with a full jungle camouflage uniform, a green tactical vest, a green cap, and aviator sunglasses.\nThe Jungle Outpost: A jungle camp in a grassy clearing with various wooden structures, surrounded by dense green foliage.\n\nWide shot of The Jungle Outpost, where the green military helicopter is landed in the grassy clearing with its rotors actively spinning. In the foreground, Ryker kneels, aiming the matte black assault rifle outward to provide security. Marco stands nearby, watching the helicopter.",
+        "Medium shot in The Jungle Outpost. Ryker, wearing the jungle camouflage uniform, walks across the grassy clearing toward the green military helicopter, which is landed with its rotors spinning. Carrying the matte black assault rifle, Ryker reaches the side of the helicopter and places a hand on the door.",
+        "Donovan: Older man with white hair\nCorbin: Man in a black military-style uniform and a black beret\n\nIn the grassy clearing of The Jungle Outpost, Marco stands watching them, his expression tense. In the foreground, Ryker, wearing the jungle camouflage uniform, kneels on the grass, slowly sweeping the matte black assault rifle across the area. In the background, Donovan and Corbin speak quietly to each other beside the green military helicopter.",
+        "Karim: Man with a balding head and a full beard, wearing sunglasses, a light green button-down shirt, and a patterned scarf or keffiyeh.\nJavier: Man with short-cropped dark hair, a solid green military-style uniform, a green tactical vest, and a black webbing harness\nIn The Jungle Outpost, Karim, Donovan, and Javier disembark from the green military helicopter, which has landed in the grassy clearing. Karim, wearing the patterned keffiyeh scarf, steps out first with a smile. Donovan follows him, also smiling, as Javier, wearing the empty tactical vest, exits the helicopter behind them."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Wide shot of The Jungle Outpost, where the green military helicopter is landed in the grassy clearing with its rotors actively spinning. In the foreground, Ryker kneels, aiming the matte black assault rifle outward to provide security. Marco stands nearby, watching the helicopter.",
+        "Medium shot in The Jungle Outpost. Ryker, wearing the jungle camouflage uniform, walks across the grassy clearing toward the green military helicopter, which is landed with its rotors spinning. Carrying the matte black assault rifle, Ryker reaches the side of the helicopter and places a hand on the door.",
+        "In the grassy clearing of The Jungle Outpost, Marco stands watching them, his expression tense. In the foreground, Ryker, wearing the jungle camouflage uniform, kneels on the grass, slowly sweeping the matte black assault rifle across the area. In the background, Donovan and Corbin speak quietly to each other beside the green military helicopter.",
+        "In The Jungle Outpost, Karim, Donovan, and Javier disembark from the green military helicopter, which has landed in the grassy clearing. Karim, wearing the patterned keffiyeh scarf, steps out first with a smile. Donovan follows him, also smiling, as Javier, wearing the empty tactical vest, exits the helicopter behind them."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "The Burning Jungle: Dense jungle with a thick, overgrown undergrowth of large-leafed green plants and tangled vines, a heavy tree canopy, and small fires burning on the forest floor.\n\nShot from behind Karim as he walks through the dense jungle of The Burning Jungle. He follows Ryker, who wears the empty tactical vest and the green tactical cap, pushing through the thick green vegetation ahead of him.",
+        "Mateo: Man with dark curly hair, wearing a yellow shirt with red and white vertical stripes.\n\nIn The Burning Jungle, Karim, wearing the patterned keffiyeh scarf, pushes through the thick jungle foliage, leading a single-file line. Ryker, wearing the green tactical vest, Mateo, and Donovan follow closely behind him, carefully stepping over tangled vines on the forest floor.",
+        "Medium close-up in The Burning Jungle as Donovan, wearing the patterned keffiyeh scarf and the aviator sunglasses, pushes through the dense jungle foliage, leading the way. Javier, wearing the empty tactical vest, follows closely behind him, scanning the overgrown surroundings.",
+        "The view moves through the dense jungle of The Burning Jungle towards The Jungle Outpost, briefly revealing Ryker, wearing the jungle camouflage uniform, who peers out from his hiding spot in the overgrown foliage as the view passes him."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Shot from behind Karim as he walks through the dense jungle of The Burning Jungle. He follows Ryker, who wears the empty tactical vest and the green tactical cap, pushing through the thick green vegetation ahead of him.",
+        "In The Burning Jungle, Karim, wearing the patterned keffiyeh scarf, pushes through the thick jungle foliage, leading a single-file line. Ryker, wearing the green tactical vest, Mateo, and Donovan follow closely behind him, carefully stepping over tangled vines on the forest floor.",
+        "Medium close-up in The Burning Jungle as Donovan, wearing the patterned keffiyeh scarf and the aviator sunglasses, pushes through the dense jungle foliage, leading the way. Javier, wearing the empty tactical vest, follows closely behind him, scanning the overgrown surroundings.",
+        "The view moves through the dense jungle of The Burning Jungle towards The Jungle Outpost, briefly revealing Ryker, wearing the jungle camouflage uniform, who peers out from his hiding spot in the overgrown foliage as the view passes him."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Rico: Man with a mustache, a light blue button-down shirt, and a green tactical vest.\n\nMedium shot in The Jungle Outpost. Ryker leads a single file line of men walking through the grassy camp, followed by Karim, wearing the patterned keffiyeh scarf, and Rico, wearing the empty tactical vest."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium shot in The Jungle Outpost. Ryker leads a single file line of men walking through the grassy camp, followed by Karim, wearing the patterned keffiyeh scarf, and Rico, wearing the empty tactical vest."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "the pile of fallen soldiers: Pile of male bodies dressed in military gear with bandoliers and bloody faces.\nthe leather bandoliers: Worn, dark brown leather bandoliers with individual loops for ammunition cartridges and tarnished brass buckles.\n\nIn the dense jungle of The Burning Jungle, Ryker, Donovan, and Mateo stand together, slowly looking over the pile of fallen soldiers, with the leather bandoliers visible. Small fires smolder around them, sending smoke drifting through the thick undergrowth."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "In the dense jungle of The Burning Jungle, Ryker, Donovan, and Mateo stand together, slowly looking over the pile of fallen soldiers, with the leather bandoliers visible. Small fires smolder around them, sending smoke drifting through the thick undergrowth."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "During the daytime in The Jungle Outpost, Karim, wearing the patterned keffiyeh scarf and the aviator sunglasses, walks through the grassy clearing of the jungle camp. In the background, Donovan and Rico, who is wearing the empty tactical vest, walk together past a wooden shelter.",
+        "the lit cigarette: White paper cigarette with an orange filter, a glowing orange ember at the tip, and a column of gray ash.\n\nIn The Jungle Outpost, Corbin, wearing the black beret, stands smoking the lit cigarette while Donovan looks on. Karim, wearing the aviator sunglasses and the patterned keffiyeh scarf, walks up to Corbin, and the two men begin to converse.",
+        "Kai: Person of indeterminate gender and age, with no visible features, hair, or clothing details\n\nMarco walks through The Jungle Outpost with a concerned expression. Ryker, wearing the green tactical vest, walks beside him as an escort, while Kai follows closely. In the background, another soldier stands guard near a wooden structure.",
+        "Close-up on Corbin, wearing the black beret, in The Jungle Outpost. He takes a slow drag from the lit cigarette held between his lips, his eyes fixed intently off-screen with a serious expression. In the soft-focus background, Marco, wearing the empty tactical vest, stands with his back to the camera, shifting his weight slightly.",
+        "Corbin, wearing the black beret and smoking the lit cigarette, leads Marco, who has a concerned expression. In the background, Ryker, wearing the jungle camouflage uniform, slowly scans the perimeter as he stands watch."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "During the daytime in The Jungle Outpost, Karim, wearing the patterned keffiyeh scarf and the aviator sunglasses, walks through the grassy clearing of the jungle camp. In the background, Donovan and Rico, who is wearing the empty tactical vest, walk together past a wooden shelter.",
+        "In The Jungle Outpost, Corbin, wearing the black beret, stands smoking the lit cigarette while Donovan looks on. Karim, wearing the aviator sunglasses and the patterned keffiyeh scarf, walks up to Corbin, and the two men begin to converse.",
+        "Marco walks through The Jungle Outpost with a concerned expression. Ryker, wearing the green tactical vest, walks beside him as an escort, while Kai follows closely. In the background, another soldier stands guard near a wooden structure.",
+        "Close-up on Corbin, wearing the black beret, in The Jungle Outpost. He takes a slow drag from the lit cigarette held between his lips, his eyes fixed intently off-screen with a serious expression. In the soft-focus background, Marco, wearing the empty tactical vest, stands with his back to the camera, shifting his weight slightly.",
+        "Corbin, wearing the black beret and smoking the lit cigarette, leads Marco, who has a concerned expression. In the background, Ryker, wearing the jungle camouflage uniform, slowly scans the perimeter as he stands watch."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Marco",
+        "Ryker"
+      ],
+      "places": [
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the green military helicopter",
+        "the matte black assault rifle",
+        "the jungle camouflage uniform"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Ryker"
+      ],
+      "places": [
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the green military helicopter",
+        "the matte black assault rifle",
+        "the jungle camouflage uniform"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Marco",
+        "Donovan",
+        "Corbin",
+        "Ryker"
+      ],
+      "places": [
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the green military helicopter",
+        "the jungle camouflage uniform",
+        "the matte black assault rifle"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Karim",
+        "Donovan",
+        "Javier"
+      ],
+      "places": [
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the green military helicopter",
+        "the patterned keffiyeh scarf",
+        "the empty tactical vest"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Ryker",
+        "Karim"
+      ],
+      "places": [
+        "The Burning Jungle"
+      ],
+      "objects": [
+        "the empty tactical vest",
+        "the green tactical cap"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Ryker",
+        "Donovan",
+        "Karim",
+        "Mateo"
+      ],
+      "places": [
+        "The Burning Jungle"
+      ],
+      "objects": [
+        "the patterned keffiyeh scarf"
+      ]
+    },
+    "2:3": {
+      "characters": [
+        "Donovan",
+        "Javier"
+      ],
+      "places": [
+        "The Burning Jungle"
+      ],
+      "objects": [
+        "the aviator sunglasses",
+        "the patterned keffiyeh scarf",
+        "the empty tactical vest"
+      ]
+    },
+    "2:4": {
+      "characters": [
+        "Ryker"
+      ],
+      "places": [
+        "The Burning Jungle",
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the jungle camouflage uniform"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Ryker",
+        "Karim",
+        "Rico"
+      ],
+      "places": [
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the patterned keffiyeh scarf",
+        "the empty tactical vest"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Ryker",
+        "Donovan",
+        "Mateo"
+      ],
+      "places": [
+        "The Burning Jungle"
+      ],
+      "objects": [
+        "the pile of fallen soldiers",
+        "the leather bandoliers"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Karim",
+        "Donovan",
+        "Rico"
+      ],
+      "places": [
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the aviator sunglasses",
+        "the patterned keffiyeh scarf",
+        "the empty tactical vest"
+      ]
+    },
+    "5:2": {
+      "characters": [
+        "Karim",
+        "Donovan",
+        "Corbin"
+      ],
+      "places": [
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the black beret",
+        "the lit cigarette",
+        "the aviator sunglasses",
+        "the patterned keffiyeh scarf"
+      ]
+    },
+    "5:3": {
+      "characters": [
+        "Marco",
+        "Ryker",
+        "Kai"
+      ],
+      "places": [
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the green tactical vest"
+      ]
+    },
+    "5:4": {
+      "characters": [
+        "Marco",
+        "Corbin"
+      ],
+      "places": [
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the black beret",
+        "the lit cigarette",
+        "the empty tactical vest"
+      ]
+    },
+    "5:5": {
+      "characters": [
+        "Marco",
+        "Corbin",
+        "Ryker"
+      ],
+      "places": [
+        "The Jungle Outpost"
+      ],
+      "objects": [
+        "the black beret",
+        "the jungle camouflage uniform",
+        "the lit cigarette"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Marco",
+      "label": "Character 1",
+      "description": "Man with a mustache and a white collared shirt."
+    },
+    "Character 2": {
+      "name": "Ryker",
+      "label": "Character 2",
+      "description": "Soldier with a full jungle camouflage uniform, a green tactical vest, a green cap, and aviator sunglasses."
+    },
+    "Character 3": {
+      "name": "Donovan",
+      "label": "Character 3",
+      "description": "Older man with white hair"
+    },
+    "Character 4": {
+      "name": "Corbin",
+      "label": "Character 4",
+      "description": "Man in a black military-style uniform and a black beret"
+    },
+    "Character 5": {
+      "name": "Karim",
+      "label": "Character 5",
+      "description": "Man with a balding head and a full beard, wearing sunglasses, a light green button-down shirt, and a patterned scarf or keffiyeh."
+    },
+    "Character 6": {
+      "name": "Javier",
+      "label": "Character 6",
+      "description": "Man with short-cropped dark hair, a solid green military-style uniform, a green tactical vest, and a black webbing harness"
+    },
+    "Character 7": {
+      "name": "Mateo",
+      "label": "Character 7",
+      "description": "Man with dark curly hair, wearing a yellow shirt with red and white vertical stripes."
+    },
+    "Character 8": {
+      "name": "Rico",
+      "label": "Character 8",
+      "description": "Man with a mustache, a light blue button-down shirt, and a green tactical vest."
+    },
+    "Character 9": {
+      "name": "Kai",
+      "label": "Character 9",
+      "description": "Person of indeterminate gender and age, with no visible features, hair, or clothing details"
+    },
+    "Location 1": {
+      "name": "The Jungle Outpost",
+      "label": "Location 1",
+      "description": "A jungle camp in a grassy clearing with various wooden structures, surrounded by dense green foliage."
+    },
+    "Location 2": {
+      "name": "The Burning Jungle",
+      "label": "Location 2",
+      "description": "Dense jungle with a thick, overgrown undergrowth of large-leafed green plants and tangled vines, a heavy tree canopy, and small fires burning on the forest floor."
+    },
+    "Object 1": {
+      "name": "the green military helicopter",
+      "label": "Object 1",
+      "description": "Military green helicopter with top and tail rotors and the text 'ejc ✈ 356' on its body"
+    },
+    "Object 2": {
+      "name": "the jungle camouflage uniform",
+      "label": "Object 2",
+      "description": "Full military combat uniform consisting of a long-sleeved jacket and matching trousers, both made of a durable fabric with a jungle camouflage pattern of overlapping green, brown, and black organic shapes"
+    },
+    "Object 3": {
+      "name": "the matte black assault rifle",
+      "label": "Object 3",
+      "description": "Modern military-style assault rifle with a matte black finish, stock, barrel, pistol grip, and magazine"
+    },
+    "Object 4": {
+      "name": "the patterned keffiyeh scarf",
+      "label": "Object 4",
+      "description": "Black-and-white patterned keffiyeh scarf with a woven texture and knotted fringe"
+    },
+    "Object 5": {
+      "name": "the empty tactical vest",
+      "label": "Object 5",
+      "description": "Green tactical vest made of durable fabric with MOLLE webbing, multiple empty pouches, and adjustable straps at the shoulders and waist"
+    },
+    "Object 6": {
+      "name": "the green tactical cap",
+      "label": "Object 6",
+      "description": "Dark green tactical baseball-style cap made of ripstop canvas, with a curved brim and a rectangular loop-fastener panel on the front"
+    },
+    "Object 7": {
+      "name": "the aviator sunglasses",
+      "label": "Object 7",
+      "description": "Aviator-style sunglasses with thin, dark metal frames, a double brow bar, and dark, non-reflective lenses"
+    },
+    "Object 8": {
+      "name": "the pile of fallen soldiers",
+      "label": "Object 8",
+      "description": "Pile of male bodies dressed in military gear with bandoliers and bloody faces."
+    },
+    "Object 9": {
+      "name": "the leather bandoliers",
+      "label": "Object 9",
+      "description": "Worn, dark brown leather bandoliers with individual loops for ammunition cartridges and tarnished brass buckles."
+    },
+    "Object 10": {
+      "name": "the black beret",
+      "label": "Object 10",
+      "description": "Soft, flat-crowned black military-style beret"
+    },
+    "Object 11": {
+      "name": "the lit cigarette",
+      "label": "Object 11",
+      "description": "White paper cigarette with an orange filter, a glowing orange ember at the tip, and a column of gray ash."
+    },
+    "Object 12": {
+      "name": "the green tactical vest",
+      "label": "Object 12",
+      "description": "Green tactical vest made of a durable fabric, featuring multiple storage pouches, MOLLE webbing, and adjustable straps with black buckles"
+    }
+  },
+  "_window_shot_ids": [
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0001",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0002",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0003",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0004",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0005",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0006",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0007",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0008",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0009",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0010",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0011",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0012",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0014",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0015",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run318__i10_j61__T600__shot0016"
+  ],
+  "_num_scenes": 5,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Marco",
+    "Character 2": "Ryker",
+    "Character 3": "Donovan",
+    "Character 4": "Corbin",
+    "Character 5": "Karim",
+    "Character 6": "Javier",
+    "Character 7": "Mateo",
+    "Character 8": "Rico",
+    "Character 9": "Kai",
+    "Location 1": "The Jungle Outpost",
+    "Location 2": "The Burning Jungle",
+    "Object 1": "the green military helicopter",
+    "Object 10": "the black beret",
+    "Object 11": "the lit cigarette",
+    "Object 12": "the green tactical vest",
+    "Object 2": "the jungle camouflage uniform",
+    "Object 3": "the matte black assault rifle",
+    "Object 4": "the patterned keffiyeh scarf",
+    "Object 5": "the empty tactical vest",
+    "Object 6": "the green tactical cap",
+    "Object 7": "the aviator sunglasses",
+    "Object 8": "the pile of fallen soldiers",
+    "Object 9": "the leather bandoliers"
+  }
+}

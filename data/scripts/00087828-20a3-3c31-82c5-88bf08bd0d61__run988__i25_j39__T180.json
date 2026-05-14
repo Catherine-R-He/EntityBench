@@ -1,0 +1,376 @@
+{
+  "story_name": "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180",
+  "story_overview": "In a shadowed Gothic hall, Marek and Kai violently tumble down a staircase while Viktor smirks from above and Annelise confronts the fallen. The conflict expands as Elias, Sonia, and Annelise flee through a tunnel, and Lucian is found in agony. The narrative culminates in a ruined chamber where survivors look down upon the defeated Kai and Viktor.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Marek: Man with long dark hair, a prominent cheek scar, wearing a dark long coat and a tooth necklace.\nViktor: Man wearing a dark, fur-collared coat.\nAnnelise: Woman with blonde hair wearing a dark top and a light-colored fur stole.\nThe Shadowed Hall: Dark, cavernous, and dusty Gothic castle hall with stone construction and a high interior stone balcony.\n\nInside The Shadowed Hall, Marek descends a large stone staircase, glaring down at Viktor who stands at the bottom. From the high interior stone balcony above, Annelise watches them both, a faint smirk on her face."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Shadowed Hall, Marek descends a large stone staircase, glaring down at Viktor who stands at the bottom. From the high interior stone balcony above, Annelise watches them both, a faint smirk on her face."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Lucian: Man with sharp vampire fangs.\nThe Spotlight Chamber: A nondescript, dark interior space containing a single spotlight fixture.\nHigh-angle close-up in The Spotlight Chamber. Lucian lies on his back on the floor, his face contorted in agony as he screams, baring the vampire fangs at an unseen figure looming over him."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "High-angle close-up in The Spotlight Chamber. Lucian lies on his back on the floor, his face contorted in agony as he screams, baring the vampire fangs at an unseen figure looming over him."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Elias: Man with long white hair, wearing a white hooded outfit.\nthe black katana: Japanese katana with a black cord-wrapped hilt over white rayskin, a solid circular black iron handguard, and a matching pommel cap, housed within a matte black lacquered sheath.\n\nMedium close-up in The Shadowed Hall. Elias watches a chaotic battle intently, his head turning slightly to track the blurry figures fighting in the background. The black katana is sheathed on his back."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Medium close-up in The Shadowed Hall. Elias watches a chaotic battle intently, his head turning slightly to track the blurry figures fighting in the background. The black katana is sheathed on his back."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "The Hazy Void: A dark, undefined room with a thick, hazy, smoke-filled atmosphere.\nthe arched window: Tall arched window.\nKai: Figure of indeterminate gender and age with short, spiky hair, wearing a long, tattered dark coat\nInside The Hazy Void, Kai walks into a beam of light from the arched window, their body cast in silhouette."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Hazy Void, Kai walks into a beam of light from the arched window, their body cast in silhouette."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "Sonia: Woman wearing a dark shirt.\nThe Ironstone Tunnel: A narrow, arched underground tunnel constructed from rough, damp-streaked stone blocks, with an uneven packed earth floor and rusted metal conduits affixed to the walls.\n\nLow-angle medium close-up in The Ironstone Tunnel. Elias runs, the black katana sheathed on his back, followed closely by Sonia and Annelise. Elias abruptly stops and looks upward with a startled, alert expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle medium close-up in The Ironstone Tunnel. Elias runs, the black katana sheathed on his back, followed closely by Sonia and Annelise. Elias abruptly stops and looks upward with a startled, alert expression."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "Rowan: Person with long dark hair and a gash on their forehead.\n\nLow-angle shot in The Hazy Void. Dramatically backlit by bright light from the arched window, Annelise walks slowly forward from silhouette into the light, her serious facial expression becoming clear through the smoke. Rowan stands in the hazy background, subtly shifting their weight."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Low-angle shot in The Hazy Void. Dramatically backlit by bright light from the arched window, Annelise walks slowly forward from silhouette into the light, her serious facial expression becoming clear through the smoke. Rowan stands in the hazy background, subtly shifting their weight."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Elias looks upward toward Rowan, his eyes widening in shock as his mouth falls slightly open. His striking, glowing light blue eyes intensify, illuminating his face from the shadows."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Elias looks upward toward Rowan, his eyes widening in shock as his mouth falls slightly open. His striking, glowing light blue eyes intensify, illuminating his face from the shadows."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Close-up on Annelise in The Hazy Void. She stares directly forward with an intensely serious expression as haze swirls slowly around her face, which is strongly backlit."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up on Annelise in The Hazy Void. She stares directly forward with an intensely serious expression as haze swirls slowly around her face, which is strongly backlit."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "The Ruined Chamber: A dark, cluttered indoor room with rubble and debris strewn across the floor.\n\nLucian, Sonia, and Marek stand together, looking down at the floor, their gazes shifting between the figures below. On the floor, Kai lies motionless on their back with eyes closed, and Viktor lies face-down amidst the rubble and debris."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Lucian, Sonia, and Marek stand together, looking down at the floor, their gazes shifting between the figures below. On the floor, Kai lies motionless on their back with eyes closed, and Viktor lies face-down amidst the rubble and debris."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Staring intensely forward, a bright light flares up behind Annelise, creating a strong lens flare that casts her face into silhouette."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Staring intensely forward, a bright light flares up behind Annelise, creating a strong lens flare that casts her face into silhouette."
+      ]
+    },
+    {
+      "scene_num": 11,
+      "video_prompts": [
+        "Rowan looks over their shoulder with an alarmed expression as Viktor moves into the foreground, partially obscuring them. Marek stands watching in the background."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Rowan looks over their shoulder with an alarmed expression as Viktor moves into the foreground, partially obscuring them. Marek stands watching in the background."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Marek",
+        "Viktor",
+        "Annelise"
+      ],
+      "places": [
+        "The Shadowed Hall"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Lucian"
+      ],
+      "places": [
+        "The Spotlight Chamber"
+      ],
+      "objects": [
+        "the vampire fangs"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Elias"
+      ],
+      "places": [
+        "The Shadowed Hall"
+      ],
+      "objects": [
+        "the black katana"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Kai"
+      ],
+      "places": [
+        "The Hazy Void"
+      ],
+      "objects": [
+        "the arched window"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Elias",
+        "Annelise",
+        "Sonia"
+      ],
+      "places": [
+        "The Ironstone Tunnel"
+      ],
+      "objects": [
+        "the black katana"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Annelise",
+        "Rowan"
+      ],
+      "places": [
+        "The Hazy Void"
+      ],
+      "objects": [
+        "the arched window"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Elias",
+        "Rowan"
+      ],
+      "places": [
+        "The Shadowed Hall"
+      ],
+      "objects": []
+    },
+    "8:1": {
+      "characters": [
+        "Annelise"
+      ],
+      "places": [
+        "The Hazy Void"
+      ],
+      "objects": []
+    },
+    "9:1": {
+      "characters": [
+        "Lucian",
+        "Sonia",
+        "Marek",
+        "Kai",
+        "Viktor"
+      ],
+      "places": [
+        "The Ruined Chamber"
+      ],
+      "objects": []
+    },
+    "10:1": {
+      "characters": [
+        "Annelise"
+      ],
+      "places": [
+        "The Hazy Void"
+      ],
+      "objects": []
+    },
+    "11:1": {
+      "characters": [
+        "Marek",
+        "Viktor",
+        "Rowan"
+      ],
+      "places": [
+        "The Ruined Chamber"
+      ],
+      "objects": []
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Kai",
+      "label": "Character 1",
+      "description": "Figure of indeterminate gender and age with short, spiky hair, wearing a long, tattered dark coat"
+    },
+    "Character 2": {
+      "name": "Marek",
+      "label": "Character 2",
+      "description": "Man with long dark hair, a prominent cheek scar, wearing a dark long coat and a tooth necklace."
+    },
+    "Character 3": {
+      "name": "Sonia",
+      "label": "Character 3",
+      "description": "Woman wearing a dark shirt."
+    },
+    "Character 4": {
+      "name": "Viktor",
+      "label": "Character 4",
+      "description": "Man wearing a dark, fur-collared coat."
+    },
+    "Character 5": {
+      "name": "Annelise",
+      "label": "Character 5",
+      "description": "Woman with blonde hair wearing a dark top and a light-colored fur stole."
+    },
+    "Character 6": {
+      "name": "Rowan",
+      "label": "Character 6",
+      "description": "Person with long dark hair and a gash on their forehead."
+    },
+    "Character 7": {
+      "name": "Elias",
+      "label": "Character 7",
+      "description": "Man with long white hair, wearing a white hooded outfit."
+    },
+    "Character 8": {
+      "name": "Lucian",
+      "label": "Character 8",
+      "description": "Man with sharp vampire fangs."
+    },
+    "Location 1": {
+      "name": "The Hazy Void",
+      "label": "Location 1",
+      "description": "A dark, undefined room with a thick, hazy, smoke-filled atmosphere."
+    },
+    "Location 2": {
+      "name": "The Shadowed Hall",
+      "label": "Location 2",
+      "description": "Dark, cavernous, and dusty Gothic castle hall with stone construction and a high interior stone balcony."
+    },
+    "Location 3": {
+      "name": "The Spotlight Chamber",
+      "label": "Location 3",
+      "description": "A nondescript, dark interior space containing a single spotlight fixture."
+    },
+    "Location 4": {
+      "name": "The Ruined Chamber",
+      "label": "Location 4",
+      "description": "A dark, cluttered indoor room with rubble and debris strewn across the floor."
+    },
+    "Location 5": {
+      "name": "The Ironstone Tunnel",
+      "label": "Location 5",
+      "description": "A narrow, arched underground tunnel constructed from rough, damp-streaked stone blocks, with an uneven packed earth floor and rusted metal conduits affixed to the walls."
+    },
+    "Object 1": {
+      "name": "the black katana",
+      "label": "Object 1",
+      "description": "Japanese katana with a black cord-wrapped hilt over white rayskin, a solid circular black iron handguard, and a matching pommel cap, housed within a matte black lacquered sheath."
+    },
+    "Object 2": {
+      "name": "the vampire fangs",
+      "label": "Object 2",
+      "description": "A set of elongated, pointed, and sharp fangs"
+    },
+    "Object 3": {
+      "name": "the arched window",
+      "label": "Object 3",
+      "description": "Tall arched window."
+    }
+  },
+  "_window_shot_ids": [
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0017",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0018",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0019",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0020",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0021",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0022",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0023",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0024",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0025",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0026",
+    "00087828-20a3-3c31-82c5-88bf08bd0d61__run988__i25_j39__T180__shot0027"
+  ],
+  "_num_scenes": 11,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Kai",
+    "Character 2": "Marek",
+    "Character 3": "Sonia",
+    "Character 4": "Viktor",
+    "Character 5": "Annelise",
+    "Character 6": "Rowan",
+    "Character 7": "Elias",
+    "Character 8": "Lucian",
+    "Location 1": "The Hazy Void",
+    "Location 2": "The Shadowed Hall",
+    "Location 3": "The Spotlight Chamber",
+    "Location 4": "The Ruined Chamber",
+    "Location 5": "The Ironstone Tunnel",
+    "Object 1": "the black katana",
+    "Object 2": "the vampire fangs",
+    "Object 3": "the arched window"
+  }
+}

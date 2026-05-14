@@ -1,0 +1,429 @@
+{
+  "story_name": "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240",
+  "story_overview": "At Trattoria Milano, Victor and Nico finish a meal as their waitress, Isla, clears the table. Victor and his associate Leo then make a tense phone call. Elsewhere, Marco talks with Silas on a terrace, and strange objects like a cracked doll's head and an old photograph hint at a deeper mystery.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Nico: Woman with long dark hair, wearing a tan shirt.\nVictor: Bald man with a dark mustache, wearing a white button-up shirt and a diagonally striped tie.\nTrattoria Milano: Restaurant interior with a dining table\n\nIn Trattoria Milano, Victor and Nico sit at the polished wood table. Victor puts on the black sunglasses, then wipes his mouth with the creased paper napkin. A waitress approaches their table and begins clearing away the stack of dirty plates. The pint of beer and the pack of Astor cigarettes sit on the table.",
+        "the unlit cigarette: Slender, white paper-wrapped cylinder of tobacco with a tan-colored, cork-patterned filter tip.\nthe wall-mounted rotary phone: Glossy black Bakelite wall-mounted rotary phone with a circular dial, metal finger stop, and a classic handset attached by a coiled cord.\nthe vintage Fernet-Branca poster: Large, vintage-style Italian advertising poster with a dark green design, an illustration of a brown eagle with spread wings and talons on a globe, stylized white and red text for FERNET-BRANCA, and the text Fratelli Branca - Milano.\nMedium shot in Trattoria Milano. Victor, wearing the black sunglasses, stands up from the polished wood table with the unlit cigarette in his mouth. He walks across the room toward the wall-mounted rotary phone, which hangs next to the vintage Fernet-Branca poster.",
+        "Leo: An unlit cigarette hangs from his mouth.\n\nLeo stands next to the wall-mounted rotary phone and dials a number. The unlit cigarette hangs from his mouth as he dials. Victor, wearing the black sunglasses, stands close by, watching him. The vintage Fernet-Branca poster is on the wall beside them.",
+        "Medium close-up of Victor inside Trattoria Milano. He is talking on the wall-mounted rotary phone, with the unlit cigarette dangling from his mouth. He is wearing the white collared shirt and the black sunglasses.",
+        "Victor, wearing the black sunglasses, holds the handset of the wall-mounted rotary phone to his ear and speaks into it."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "In Trattoria Milano, Victor and Nico sit at the polished wood table. Victor puts on the black sunglasses, then wipes his mouth with the creased paper napkin. A waitress approaches their table and begins clearing away the stack of dirty plates. The pint of beer and the pack of Astor cigarettes sit on the table.",
+        "Medium shot in Trattoria Milano. Victor, wearing the black sunglasses, stands up from the polished wood table with the unlit cigarette in his mouth. He walks across the room toward the wall-mounted rotary phone, which hangs next to the vintage Fernet-Branca poster.",
+        "Leo stands next to the wall-mounted rotary phone and dials a number. The unlit cigarette hangs from his mouth as he dials. Victor, wearing the black sunglasses, stands close by, watching him. The vintage Fernet-Branca poster is on the wall beside them.",
+        "Medium close-up of Victor inside Trattoria Milano. He is talking on the wall-mounted rotary phone, with the unlit cigarette dangling from his mouth. He is wearing the white collared shirt and the black sunglasses.",
+        "Victor, wearing the black sunglasses, holds the handset of the wall-mounted rotary phone to his ear and speaks into it."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Chloe: Woman with short blonde hair, wearing a white open-front cardigan over a simple top.\nThe Scarlet Lounge: Dark living room in a modern residence with a staircase and a red sofa.\nthe black rotary desk phone: Black vintage rotary desk phone with a glossy finish, a circular dial with finger holes, a classic handset resting in a cradle, and a coiled cord.\nthe overflowing glass ashtray: Clear glass ashtray filled to overflowing with grey ash and numerous extinguished cigarette butts with yellow-stained filters.\nTop-down close-up in The Scarlet Lounge of a dark wooden desk. The shot moves slowly from the black rotary desk phone, passing over Chloe's hand, to settle on the overflowing glass ashtray.",
+        "the cracked porcelain doll's head: Porcelain doll's head with a cracked surface, wide, unblinking glass eyes, thinly painted eyebrows, and a small, fixed red smile on its lips.\n\nA single light source flickers, casting moving shadows across the cracked porcelain doll's head resting in The Scarlet Lounge. The unsteady light glints in its wide glass eyes, which reflect Victor, and plays across its fixed smile."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Top-down close-up in The Scarlet Lounge of a dark wooden desk. The shot moves slowly from the black rotary desk phone, passing over Chloe's hand, to settle on the overflowing glass ashtray.",
+        "A single light source flickers, casting moving shadows across the cracked porcelain doll's head resting in The Scarlet Lounge. The unsteady light glints in its wide glass eyes, which reflect Victor, and plays across its fixed smile."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "Whispering Pines: A wooded area with trees and foliage, as depicted within a faded, old black-and-white photograph.\nthe faded paper photograph: Old, faded, rectangular black-and-white paper photograph depicting a man and a dog in a wooded area\n\nA slow push-in on the faded paper photograph. The image shows Victor in Whispering Pines, standing with one hand on his hip while a dog sits at his feet.",
+        "Marco: Man with curly dark hair and a beard, wearing glasses.\nthe upholstered headboard: Off-white padded and upholstered headboard or wall panel composed of soft, horizontal rolls.\n\nClose-up shot. Marco leans back and rests his head against the upholstered headboard."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "A slow push-in on the faded paper photograph. The image shows Victor in Whispering Pines, standing with one hand on his hip while a dog sits at his feet.",
+        "Close-up shot. Marco leans back and rests his head against the upholstered headboard."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Silas: Man with shoulder-length brown hair, shirtless.\nThe Stone Terrace: An outdoor terrace with a stone wall and green bushes.\nthe thick-framed eyeglasses: Eyeglasses with dark, thick frames.\nthe lit cigarette: Slender white paper cigarette with a tan filter, a glowing orange ember, and a tip of gray ash.\nMedium over-the-shoulder shot from behind Silas, looking at Marco at The Stone Terrace. Marco, wearing the white fedora and the thick-framed eyeglasses, smokes the lit cigarette while talking. Behind him are the dense green bushes.",
+        "Leo, wearing the bright yellow jacket, stands with his arms crossed and a serious expression, nodding slightly as he listens intently. With their backs to the camera, Nico and Victor stand with Marco, who is wearing the white fedora and gestures subtly as he speaks."
+      ],
+      "cut": [
+        true,
+        false
+      ],
+      "action_descriptions": [
+        "Medium over-the-shoulder shot from behind Silas, looking at Marco at The Stone Terrace. Marco, wearing the white fedora and the thick-framed eyeglasses, smokes the lit cigarette while talking. Behind him are the dense green bushes.",
+        "Leo, wearing the bright yellow jacket, stands with his arms crossed and a serious expression, nodding slightly as he listens intently. With their backs to the camera, Nico and Victor stand with Marco, who is wearing the white fedora and gestures subtly as he speaks."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Nico",
+        "Victor"
+      ],
+      "places": [
+        "Trattoria Milano"
+      ],
+      "objects": [
+        "the polished wood table",
+        "the black sunglasses",
+        "the creased paper napkin",
+        "the stack of dirty plates",
+        "the pint of beer",
+        "the pack of Astor cigarettes"
+      ]
+    },
+    "1:2": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "Trattoria Milano"
+      ],
+      "objects": [
+        "the black sunglasses",
+        "the polished wood table",
+        "the unlit cigarette",
+        "the wall-mounted rotary phone",
+        "the vintage Fernet-Branca poster"
+      ]
+    },
+    "1:3": {
+      "characters": [
+        "Victor",
+        "Leo"
+      ],
+      "places": [
+        "Trattoria Milano"
+      ],
+      "objects": [
+        "the black sunglasses",
+        "the wall-mounted rotary phone",
+        "the unlit cigarette",
+        "the vintage Fernet-Branca poster"
+      ]
+    },
+    "1:4": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "Trattoria Milano"
+      ],
+      "objects": [
+        "the black sunglasses",
+        "the wall-mounted rotary phone",
+        "the unlit cigarette",
+        "the white collared shirt"
+      ]
+    },
+    "1:5": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "Trattoria Milano"
+      ],
+      "objects": [
+        "the black sunglasses",
+        "the wall-mounted rotary phone"
+      ]
+    },
+    "2:1": {
+      "characters": [
+        "Chloe"
+      ],
+      "places": [
+        "The Scarlet Lounge"
+      ],
+      "objects": [
+        "the black rotary desk phone",
+        "the overflowing glass ashtray"
+      ]
+    },
+    "2:2": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "The Scarlet Lounge"
+      ],
+      "objects": [
+        "the cracked porcelain doll's head"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Victor"
+      ],
+      "places": [
+        "Whispering Pines"
+      ],
+      "objects": [
+        "the faded paper photograph"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Marco"
+      ],
+      "places": [],
+      "objects": [
+        "the upholstered headboard"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Silas",
+        "Marco"
+      ],
+      "places": [
+        "The Stone Terrace"
+      ],
+      "objects": [
+        "the white fedora",
+        "the thick-framed eyeglasses",
+        "the lit cigarette",
+        "the dense green bushes"
+      ]
+    },
+    "4:2": {
+      "characters": [
+        "Nico",
+        "Victor",
+        "Leo",
+        "Marco"
+      ],
+      "places": [
+        "The Stone Terrace"
+      ],
+      "objects": [
+        "the white fedora",
+        "the bright yellow jacket"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Nico",
+      "label": "Character 1",
+      "description": "Woman with long dark hair, wearing a tan shirt."
+    },
+    "Character 2": {
+      "name": "Silas",
+      "label": "Character 2",
+      "description": "Man with shoulder-length brown hair, shirtless."
+    },
+    "Character 3": {
+      "name": "Chloe",
+      "label": "Character 3",
+      "description": "Woman with short blonde hair, wearing a white open-front cardigan over a simple top."
+    },
+    "Character 4": {
+      "name": "Marco",
+      "label": "Character 4",
+      "description": "Man with curly dark hair and a beard, wearing glasses."
+    },
+    "Character 6": {
+      "name": "Victor",
+      "label": "Character 6",
+      "description": "Bald man with a dark mustache, wearing a white button-up shirt and a diagonally striped tie."
+    },
+    "Location 1": {
+      "name": "The Scarlet Lounge",
+      "label": "Location 1",
+      "description": "Dark living room in a modern residence with a staircase and a red sofa."
+    },
+    "Location 2": {
+      "name": "Trattoria Milano",
+      "label": "Location 2",
+      "description": "Restaurant interior with a dining table"
+    },
+    "Location 3": {
+      "name": "Whispering Pines",
+      "label": "Location 3",
+      "description": "A wooded area with trees and foliage, as depicted within a faded, old black-and-white photograph."
+    },
+    "Location 4": {
+      "name": "The Stone Terrace",
+      "label": "Location 4",
+      "description": "An outdoor terrace with a stone wall and green bushes."
+    },
+    "Object 1": {
+      "name": "the overflowing glass ashtray",
+      "label": "Object 1",
+      "description": "Clear glass ashtray filled to overflowing with grey ash and numerous extinguished cigarette butts with yellow-stained filters."
+    },
+    "Object 2": {
+      "name": "the black sunglasses",
+      "label": "Object 2",
+      "description": "A pair of black sunglasses"
+    },
+    "Object 3": {
+      "name": "the polished wood table",
+      "label": "Object 3",
+      "description": "Square restaurant table with a dark, polished wood top showing some minor surface scratches and a slight sheen"
+    },
+    "Object 4": {
+      "name": "the stack of dirty plates",
+      "label": "Object 4",
+      "description": "Stack of round, white ceramic dinner plates, empty except for leftover smears of sauce and scattered crumbs"
+    },
+    "Object 5": {
+      "name": "the pint of beer",
+      "label": "Object 5",
+      "description": "Clear pint glass filled with golden-amber beer, topped with a thick head of white foam and covered in condensation"
+    },
+    "Object 6": {
+      "name": "the creased paper napkin",
+      "label": "Object 6",
+      "description": "Thin, white, square paper napkin with an embossed texture, creased from being folded"
+    },
+    "Object 7": {
+      "name": "the pack of Astor cigarettes",
+      "label": "Object 7",
+      "description": "Rectangular white soft pack of Astor cigarettes featuring the brand name in red script, a small gold crest emblem, and a solid red band along the bottom edge"
+    },
+    "Object 8": {
+      "name": "the wall-mounted rotary phone",
+      "label": "Object 8",
+      "description": "Glossy black Bakelite wall-mounted rotary phone with a circular dial, metal finger stop, and a classic handset attached by a coiled cord."
+    },
+    "Object 9": {
+      "name": "the unlit cigarette",
+      "label": "Object 9",
+      "description": "Slender, white paper-wrapped cylinder of tobacco with a tan-colored, cork-patterned filter tip."
+    },
+    "Object 10": {
+      "name": "the vintage Fernet-Branca poster",
+      "label": "Object 10",
+      "description": "Large, vintage-style Italian advertising poster with a dark green design, an illustration of a brown eagle with spread wings and talons on a globe, stylized white and red text for FERNET-BRANCA, and the text Fratelli Branca - Milano."
+    },
+    "Object 11": {
+      "name": "the white collared shirt",
+      "label": "Object 11",
+      "description": "White collared shirt"
+    },
+    "Object 12": {
+      "name": "the black rotary desk phone",
+      "label": "Object 12",
+      "description": "Black vintage rotary desk phone with a glossy finish, a circular dial with finger holes, a classic handset resting in a cradle, and a coiled cord."
+    },
+    "Object 13": {
+      "name": "the cracked porcelain doll's head",
+      "label": "Object 13",
+      "description": "Porcelain doll's head with a cracked surface, wide, unblinking glass eyes, thinly painted eyebrows, and a small, fixed red smile on its lips."
+    },
+    "Object 14": {
+      "name": "the old black-and-white photograph",
+      "label": "Object 14",
+      "description": "Old, faded black-and-white photograph depicting a man and a dog in a wooded area"
+    },
+    "Object 15": {
+      "name": "the faded paper photograph",
+      "label": "Object 15",
+      "description": "Old, faded, rectangular black-and-white paper photograph depicting a man and a dog in a wooded area"
+    },
+    "Object 16": {
+      "name": "the upholstered headboard",
+      "label": "Object 16",
+      "description": "Off-white padded and upholstered headboard or wall panel composed of soft, horizontal rolls."
+    },
+    "Object 17": {
+      "name": "the lit cigarette",
+      "label": "Object 17",
+      "description": "Slender white paper cigarette with a tan filter, a glowing orange ember, and a tip of gray ash."
+    },
+    "Object 18": {
+      "name": "the thick-framed eyeglasses",
+      "label": "Object 18",
+      "description": "Eyeglasses with dark, thick frames."
+    },
+    "Object 19": {
+      "name": "the white fedora",
+      "label": "Object 19",
+      "description": "White fedora-style hat with a creased crown and a solid black band"
+    },
+    "Object 20": {
+      "name": "the dense green bushes",
+      "label": "Object 20",
+      "description": "Large, dense bushes with vibrant green foliage"
+    },
+    "Object 21": {
+      "name": "the bright yellow jacket",
+      "label": "Object 21",
+      "description": "A bright yellow jacket"
+    },
+    "Gen_Leo": {
+      "name": "Leo",
+      "label": "Gen_Leo",
+      "description": "An unlit cigarette hangs from his mouth."
+    }
+  },
+  "_window_shot_ids": [
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0020",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0021",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0022",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0023",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0024",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0025",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0026",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0027",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0029",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0030",
+    "0005819d-a9b7-3736-b6a5-da82cf28e848__run771__i25_j42__T240__shot0031"
+  ],
+  "_num_scenes": 4,
+  "_num_shots": 11,
+  "_name_map": {
+    "Character 1": "Nico",
+    "Character 2": "Silas",
+    "Character 3": "Chloe",
+    "Character 4": "Marco",
+    "Character 5": "Isla",
+    "Character 6": "Victor",
+    "Character 7": "Leo",
+    "Location 1": "The Scarlet Lounge",
+    "Location 2": "Trattoria Milano",
+    "Location 3": "Whispering Pines",
+    "Location 4": "The Stone Terrace",
+    "Object 1": "the overflowing glass ashtray",
+    "Object 10": "the vintage Fernet-Branca poster",
+    "Object 11": "the white collared shirt",
+    "Object 12": "the black rotary desk phone",
+    "Object 13": "the cracked porcelain doll's head",
+    "Object 14": "the old black-and-white photograph",
+    "Object 15": "the faded paper photograph",
+    "Object 16": "the upholstered headboard",
+    "Object 17": "the lit cigarette",
+    "Object 18": "the thick-framed eyeglasses",
+    "Object 19": "the white fedora",
+    "Object 2": "the black sunglasses",
+    "Object 20": "the dense green bushes",
+    "Object 21": "the bright yellow jacket",
+    "Object 3": "the polished wood table",
+    "Object 4": "the stack of dirty plates",
+    "Object 5": "the pint of beer",
+    "Object 6": "the creased paper napkin",
+    "Object 7": "the pack of Astor cigarettes",
+    "Object 8": "the wall-mounted rotary phone",
+    "Object 9": "the unlit cigarette"
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "story_name": "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300",
+  "story_overview": "At a lush garden terrace, Leo and Javier hold a tense meeting with Carlos. Later, various members of the group, including Rico and Mateo, engage in a series of clandestine operations, communicating via walkie-talkies from a dark green sedan and observing targets on a city street.",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "Leo: Man with short brown hair and light stubble, wearing a short-sleeved collared shirt with blue and white vertical stripes.\nJavier: Man in his 40s with a weathered face, a neatly trimmed black goatee and mustache, and short salt-and-pepper hair, wearing a light blue, short-sleeved linen shirt unbuttoned at the collar.\nThe Garden Terrace: Outdoor patio with a thatched roof, situated in a green, grassy tropical garden with trees.\n\nClose-up profile shot of Javier and Leo sitting side-by-side at The Garden Terrace. Javier is speaking while Leo listens. The focus smoothly shifts from Javier to Leo. The background shows a green, grassy area with trees that are slightly out of focus."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up profile shot of Javier and Leo sitting side-by-side at The Garden Terrace. Javier is speaking while Leo listens. The focus smoothly shifts from Javier to Leo. The background shows a green, grassy area with trees that are slightly out of focus."
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "Carlos: Man with a dark beard wearing a maroon patterned shirt.\nThe Vehicle Interior: Indistinct interior of an unspecified vehicle\n\nExtreme close-up on the side profile of Carlos, wearing the maroon patterned shirt, as he sits next to Javier inside The Vehicle Interior. He looks forward with a pensive expression, shifting slightly in his seat."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Extreme close-up on the side profile of Carlos, wearing the maroon patterned shirt, as he sits next to Javier inside The Vehicle Interior. He looks forward with a pensive expression, shifting slightly in his seat."
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "the lit cigar: Thick, brown cigar made of rolled tobacco leaves, with a glowing orange ember at one end and a tip of flaky gray ash.\n\nCarlos holds the lit cigar to his lips, exhaling a small puff of smoke as he stares intently at Leo. Leo listens, his jaw tightening slightly as his serious expression deepens.",
+        "Medium close-up over-the-shoulder shot of Carlos, wearing the maroon patterned shirt, in The Garden Terrace during the daytime. He gestures with the lit cigar in his hand as he talks.",
+        "Mateo: Man in a green uniform and a matching green hat.\n\nLeo sits at a table on the patio, turning to speak with a serious expression to Javier, who sits across from him. Mateo stands attentively in the background, shifting his weight slightly.",
+        "Over-the-shoulder close-up shot from behind Leo in The Garden Terrace. Across a table, Javier listens intently with a serious expression, nodding slowly. Carlos shifts his gaze between them.",
+        "Medium shot of Carlos and Javier on the patio in The Garden Terrace. Carlos, wearing the maroon patterned shirt, smiles and speaks, holding a glass of wine. Javier, wearing the light blue linen shirt, stands in profile, listening intently and nodding slightly.",
+        "Medium shot from behind Leo and Mateo, who are in The Garden Terrace. They sit in wooden lounge chairs, looking out at the lush tropical garden. Mateo holds a wine glass and gestures as he speaks to Leo, who listens intently."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "action_descriptions": [
+        "Carlos holds the lit cigar to his lips, exhaling a small puff of smoke as he stares intently at Leo. Leo listens, his jaw tightening slightly as his serious expression deepens.",
+        "Medium close-up over-the-shoulder shot of Carlos, wearing the maroon patterned shirt, in The Garden Terrace during the daytime. He gestures with the lit cigar in his hand as he talks.",
+        "Leo sits at a table on the patio, turning to speak with a serious expression to Javier, who sits across from him. Mateo stands attentively in the background, shifting his weight slightly.",
+        "Over-the-shoulder close-up shot from behind Leo in The Garden Terrace. Across a table, Javier listens intently with a serious expression, nodding slowly. Carlos shifts his gaze between them.",
+        "Medium shot of Carlos and Javier on the patio in The Garden Terrace. Carlos, wearing the maroon patterned shirt, smiles and speaks, holding a glass of wine. Javier, wearing the light blue linen shirt, stands in profile, listening intently and nodding slightly.",
+        "Medium shot from behind Leo and Mateo, who are in The Garden Terrace. They sit in wooden lounge chairs, looking out at the lush tropical garden. Mateo holds a wine glass and gestures as he speaks to Leo, who listens intently."
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "Rico: Man with a thick black beard and intense eyes.\nThe Downtown Street: Urban city street with a parked dark green Mazda sedan.\nthe dark green sedan: Dark green Mazda sedan.\n\nAt The Downtown Street, Rico sits in the driver's seat of the parked dark green sedan and drinks from a bottle. In the foreground, Carlos walks past, momentarily obscuring the view."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "At The Downtown Street, Rico sits in the driver's seat of the parked dark green sedan and drinks from a bottle. In the foreground, Carlos walks past, momentarily obscuring the view."
+      ]
+    },
+    {
+      "scene_num": 5,
+      "video_prompts": [
+        "the handheld walkie-talkie: Black plastic handheld walkie-talkie with a rectangular body, a short flexible black antenna, a perforated speaker grille on the front, and a large push-to-talk button on the side.\nThe Sedan Interior: Interior of a dark green sedan with front seats, a rear passenger bench, a dashboard with a steering wheel, a center console, and glass windows\n\nClose-up shot in The Sedan Interior from outside the driver's window of the dark green sedan during the daytime. Rico sits in the driver's seat, holding the handheld walkie-talkie to his mouth and speaking into it with a serious expression. In the passenger seat, Mateo turns his head slightly to glance at Rico before looking forward again."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot in The Sedan Interior from outside the driver's window of the dark green sedan during the daytime. Rico sits in the driver's seat, holding the handheld walkie-talkie to his mouth and speaking into it with a serious expression. In the passenger seat, Mateo turns his head slightly to glance at Rico before looking forward again."
+      ]
+    },
+    {
+      "scene_num": 6,
+      "video_prompts": [
+        "The Concrete Garage: Cavernous, multi-level indoor parking garage with raw concrete pillars, walls, and a low ceiling with exposed pipes and simple strip light fixtures, with white and yellow painted lines marking parking spaces on the concrete floor.\n\nOver-the-shoulder shot from inside the dark green sedan parked in The Concrete Garage. Carlos sits in the driver's seat, holding the black cell phone to his ear and talking. Mateo sits silently in the passenger seat, his gaze scanning the dimly lit concrete pillars of the garage through the front windshield."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Over-the-shoulder shot from inside the dark green sedan parked in The Concrete Garage. Carlos sits in the driver's seat, holding the black cell phone to his ear and talking. Mateo sits silently in the passenger seat, his gaze scanning the dimly lit concrete pillars of the garage through the front windshield."
+      ]
+    },
+    {
+      "scene_num": 7,
+      "video_prompts": [
+        "Luis: Balding man with a goatee and glasses, wearing a green uniform and a green baseball cap.\nthe 'El Caleño' newsstand: Green rectangular newsstand kiosk with large glass display windows, an awning, and the name 'EL CALENO' written in large letters on a sign.\nthe traffic light: Vertical traffic signal with a black rectangular housing, containing three round lenses (red, amber, green), each with a projecting black hood.\n\nOn a busy street corner in The Downtown Street, Mateo and Luis stand next to the 'El Caleño' newsstand and have an animated conversation. Across the street, Leo and Carlos lean against a brick wall; Leo turns his head to murmur something to Carlos as they watch. Cars wait at the intersection as the red light on the traffic light is illuminated."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "On a busy street corner in The Downtown Street, Mateo and Luis stand next to the 'El Caleño' newsstand and have an animated conversation. Across the street, Leo and Carlos lean against a brick wall; Leo turns his head to murmur something to Carlos as they watch. Cars wait at the intersection as the red light on the traffic light is illuminated."
+      ]
+    },
+    {
+      "scene_num": 8,
+      "video_prompts": [
+        "Carlos sits in the driver's seat with a serious expression, raising the handheld walkie-talkie to his mouth to speak. Rico sits silently in the passenger seat, his intense eyes fixed on the road ahead."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Carlos sits in the driver's seat with a serious expression, raising the handheld walkie-talkie to his mouth to speak. Rico sits silently in the passenger seat, his intense eyes fixed on the road ahead."
+      ]
+    },
+    {
+      "scene_num": 9,
+      "video_prompts": [
+        "Inside The Vehicle Interior, a close-up side view shows Carlos, wearing the maroon patterned shirt, speaking into the handheld walkie-talkie with a focused expression."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Inside The Vehicle Interior, a close-up side view shows Carlos, wearing the maroon patterned shirt, speaking into the handheld walkie-talkie with a focused expression."
+      ]
+    },
+    {
+      "scene_num": 10,
+      "video_prompts": [
+        "Close-up shot inside The Sedan Interior. Rico sits in the driver's seat of the dark green sedan, speaking intently into the handheld walkie-talkie held in one hand, and gesturing emphatically with his other hand."
+      ],
+      "cut": [
+        true
+      ],
+      "action_descriptions": [
+        "Close-up shot inside The Sedan Interior. Rico sits in the driver's seat of the dark green sedan, speaking intently into the handheld walkie-talkie held in one hand, and gesturing emphatically with his other hand."
+      ]
+    }
+  ],
+  "entity_schedule": {
+    "1:1": {
+      "characters": [
+        "Leo",
+        "Javier"
+      ],
+      "places": [
+        "The Garden Terrace"
+      ],
+      "objects": []
+    },
+    "2:1": {
+      "characters": [
+        "Carlos",
+        "Javier"
+      ],
+      "places": [
+        "The Vehicle Interior"
+      ],
+      "objects": [
+        "the maroon patterned shirt"
+      ]
+    },
+    "3:1": {
+      "characters": [
+        "Leo",
+        "Carlos"
+      ],
+      "places": [
+        "The Garden Terrace"
+      ],
+      "objects": [
+        "the lit cigar"
+      ]
+    },
+    "3:2": {
+      "characters": [
+        "Carlos"
+      ],
+      "places": [
+        "The Garden Terrace"
+      ],
+      "objects": [
+        "the maroon patterned shirt",
+        "the lit cigar"
+      ]
+    },
+    "3:3": {
+      "characters": [
+        "Leo",
+        "Javier",
+        "Mateo"
+      ],
+      "places": [
+        "The Garden Terrace"
+      ],
+      "objects": []
+    },
+    "3:4": {
+      "characters": [
+        "Leo",
+        "Javier",
+        "Carlos"
+      ],
+      "places": [
+        "The Garden Terrace"
+      ],
+      "objects": []
+    },
+    "3:5": {
+      "characters": [
+        "Carlos",
+        "Javier"
+      ],
+      "places": [
+        "The Garden Terrace"
+      ],
+      "objects": [
+        "the maroon patterned shirt",
+        "the light blue linen shirt"
+      ]
+    },
+    "3:6": {
+      "characters": [
+        "Leo",
+        "Mateo"
+      ],
+      "places": [
+        "The Garden Terrace"
+      ],
+      "objects": [
+        "wine glass"
+      ]
+    },
+    "4:1": {
+      "characters": [
+        "Carlos",
+        "Rico"
+      ],
+      "places": [
+        "The Downtown Street"
+      ],
+      "objects": [
+        "the dark green sedan"
+      ]
+    },
+    "5:1": {
+      "characters": [
+        "Rico",
+        "Mateo"
+      ],
+      "places": [
+        "The Sedan Interior"
+      ],
+      "objects": [
+        "the dark green sedan",
+        "the handheld walkie-talkie"
+      ]
+    },
+    "6:1": {
+      "characters": [
+        "Carlos",
+        "Mateo"
+      ],
+      "places": [
+        "The Concrete Garage"
+      ],
+      "objects": [
+        "the black cell phone",
+        "the dark green sedan"
+      ]
+    },
+    "7:1": {
+      "characters": [
+        "Leo",
+        "Carlos",
+        "Mateo",
+        "Luis"
+      ],
+      "places": [
+        "The Downtown Street"
+      ],
+      "objects": [
+        "the traffic light",
+        "the 'El Caleño' newsstand"
+      ]
+    },
+    "8:1": {
+      "characters": [
+        "Carlos",
+        "Rico"
+      ],
+      "places": [
+        "The Sedan Interior"
+      ],
+      "objects": [
+        "the dark green sedan",
+        "the handheld walkie-talkie"
+      ]
+    },
+    "9:1": {
+      "characters": [
+        "Carlos"
+      ],
+      "places": [
+        "The Vehicle Interior"
+      ],
+      "objects": [
+        "the handheld walkie-talkie"
+      ]
+    },
+    "10:1": {
+      "characters": [
+        "Rico"
+      ],
+      "places": [
+        "The Sedan Interior"
+      ],
+      "objects": [
+        "the dark green sedan",
+        "the handheld walkie-talkie"
+      ]
+    }
+  },
+  "entity_descriptions": {
+    "Character 1": {
+      "name": "Leo",
+      "label": "Character 1",
+      "description": "Man with short brown hair and light stubble, wearing a short-sleeved collared shirt with blue and white vertical stripes."
+    },
+    "Character 2": {
+      "name": "Javier",
+      "label": "Character 2",
+      "description": "Man in his 40s with a weathered face, a neatly trimmed black goatee and mustache, and short salt-and-pepper hair, wearing a light blue, short-sleeved linen shirt unbuttoned at the collar."
+    },
+    "Character 3": {
+      "name": "Carlos",
+      "label": "Character 3",
+      "description": "Man with a dark beard wearing a maroon patterned shirt."
+    },
+    "Character 4": {
+      "name": "Rico",
+      "label": "Character 4",
+      "description": "Man with a thick black beard and intense eyes."
+    },
+    "Character 5": {
+      "name": "Mateo",
+      "label": "Character 5",
+      "description": "Man in a green uniform and a matching green hat."
+    },
+    "Character 6": {
+      "name": "Luis",
+      "label": "Character 6",
+      "description": "Balding man with a goatee and glasses, wearing a green uniform and a green baseball cap."
+    },
+    "Location 1": {
+      "name": "The Garden Terrace",
+      "label": "Location 1",
+      "description": "Outdoor patio with a thatched roof, situated in a green, grassy tropical garden with trees."
+    },
+    "Location 2": {
+      "name": "The Vehicle Interior",
+      "label": "Location 2",
+      "description": "Indistinct interior of an unspecified vehicle"
+    },
+    "Location 3": {
+      "name": "The Downtown Street",
+      "label": "Location 3",
+      "description": "Urban city street with a parked dark green Mazda sedan."
+    },
+    "Location 4": {
+      "name": "The Sedan Interior",
+      "label": "Location 4",
+      "description": "Interior of a dark green sedan with front seats, a rear passenger bench, a dashboard with a steering wheel, a center console, and glass windows"
+    },
+    "Location 5": {
+      "name": "The Concrete Garage",
+      "label": "Location 5",
+      "description": "Cavernous, multi-level indoor parking garage with raw concrete pillars, walls, and a low ceiling with exposed pipes and simple strip light fixtures, with white and yellow painted lines marking parking spaces on the concrete floor."
+    },
+    "Object 1": {
+      "name": "the maroon patterned shirt",
+      "label": "Object 1",
+      "description": "A patterned shirt in shades of maroon and dark red"
+    },
+    "Object 2": {
+      "name": "the lit cigar",
+      "label": "Object 2",
+      "description": "Thick, brown cigar made of rolled tobacco leaves, with a glowing orange ember at one end and a tip of flaky gray ash."
+    },
+    "Object 3": {
+      "name": "the light blue linen shirt",
+      "label": "Object 3",
+      "description": "Light blue, short-sleeved linen shirt"
+    },
+    "Object 4": {
+      "name": "the dark green sedan",
+      "label": "Object 4",
+      "description": "Dark green Mazda sedan."
+    },
+    "Object 5": {
+      "name": "the handheld walkie-talkie",
+      "label": "Object 5",
+      "description": "Black plastic handheld walkie-talkie with a rectangular body, a short flexible black antenna, a perforated speaker grille on the front, and a large push-to-talk button on the side."
+    },
+    "Object 6": {
+      "name": "the black cell phone",
+      "label": "Object 6",
+      "description": "Small black handheld phone"
+    },
+    "Object 7": {
+      "name": "the 'El Caleño' newsstand",
+      "label": "Object 7",
+      "description": "Green rectangular newsstand kiosk with large glass display windows, an awning, and the name 'EL CALENO' written in large letters on a sign."
+    },
+    "Object 8": {
+      "name": "the traffic light",
+      "label": "Object 8",
+      "description": "Vertical traffic signal with a black rectangular housing, containing three round lenses (red, amber, green), each with a projecting black hood."
+    }
+  },
+  "_window_shot_ids": [
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0001",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0002",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0003",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0004",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0005",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0006",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0007",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0008",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0009",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0011",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0012",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0013",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0014",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0015",
+    "0002e672-21e6-341b-9ca1-5cf4b46efd22__run317__i55_j79__T300__shot0016"
+  ],
+  "_num_scenes": 10,
+  "_num_shots": 15,
+  "_name_map": {
+    "Character 1": "Leo",
+    "Character 2": "Javier",
+    "Character 3": "Carlos",
+    "Character 4": "Rico",
+    "Character 5": "Mateo",
+    "Character 6": "Luis",
+    "Location 1": "The Garden Terrace",
+    "Location 2": "The Vehicle Interior",
+    "Location 3": "The Downtown Street",
+    "Location 4": "The Sedan Interior",
+    "Location 5": "The Concrete Garage",
+    "Object 1": "the maroon patterned shirt",
+    "Object 2": "the lit cigar",
+    "Object 3": "the light blue linen shirt",
+    "Object 4": "the dark green sedan",
+    "Object 5": "the handheld walkie-talkie",
+    "Object 6": "the black cell phone",
+    "Object 7": "the 'El Caleño' newsstand",
+    "Object 8": "the traffic light"
+  }
+}
