@@ -5,7 +5,7 @@
 
   <p align="center">
     <span class="author-block">Ruozhen He<sup>1,3</sup>,</span>
-    <span class="author-block">Wei Meng<sup>1</sup>,</span>
+    <span class="author-block">Meng Wei<sup>1</sup>,</span>
     <span class="author-block">Ziyan Yang<sup>2</sup>,</span>
     <span class="author-block">Vicente Ordonez<sup>3</sup></span>
   </p>
