@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center"><br>[NeurIPS 2026] EntityBench</br>: Towards Entity-Consistent Long-Range 
+  <h2 align="center"><b>[NeurIPS 2026] EntityBench</b>: Towards Entity-Consistent Long-Range 
   
   Multi-Shot Video Generation</h2>
 
